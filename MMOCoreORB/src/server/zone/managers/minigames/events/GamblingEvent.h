@@ -10,6 +10,7 @@
 #include "server/zone/ZoneServer.h"
 #include "server/zone/managers/minigames/GamblingManager.h"
 #include "server/zone/objects/tangible/terminal/gambling/GamblingTerminal.h"
+#include "server/zone/ZoneProcessServer.h"
 
 namespace server {
 namespace zone {

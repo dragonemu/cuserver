@@ -17,20 +17,7 @@ class ForceOfWillCommand : public QueueCommand {
 			String buffname = "skill.buff.forceofwill";
 			uint32 buffcrc = buffname.hashCode();
 
-			Reference<Buff*> buff = new Buff(player, buffname.hashCode(), duration, BuffType::SKILL);
-
-			Locker locker(buff);
-
-			buff->setAttributeModifier(CreatureAttribute::HEALTH, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::STRENGTH, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::CONSTITUTION, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::ACTION, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::QUICKNESS, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::STAMINA, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::MIND, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::FOCUS, -buffDownerValue);
-			buff->setAttributeModifier(CreatureAttribute::WILLPOWER, -buffDownerValue);
-			player->addBuff(buff);
+			player->addBuff(buffname.hashCode());
 		}
 
 public:

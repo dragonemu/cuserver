@@ -5,51 +5,29 @@
 #ifndef BUFFDURATIONEVENT_H_
 #define BUFFDURATIONEVENT_H_
 
-#include "server/zone/objects/creature/CreatureObject.h"
-#include "server/zone/objects/creature/buffs/Buff.h"
+class BuffDurationEvent : public Task {
+	ManagedReference<CreatureObject*> creatureObject;
+	uint32 crc;
 
-namespace server {
- namespace zone {
-  namespace objects {
-   namespace creature {
-    namespace buffs {
+public:
+	BuffDurationEvent(CreatureObject* creature, uint32 CRC) : Task() {
+		creatureObject = creature;
+		crc = CRC;
+	}
 
-		class BuffDurationEvent : public Task {
-			ManagedWeakReference<CreatureObject*> creatureObject;
-			ManagedWeakReference<Buff*> buffObject;
+	void run() {
+		try {
 
-		public:
-			BuffDurationEvent(CreatureObject* creature, Buff* buff) : Task((int) buff->getBuffDuration() * 1000) {
-				creatureObject = creature;
-				buffObject = buff;
-			}
+			if (creatureObject == NULL)
+				return;
 
-			void run() {
-				ManagedReference<CreatureObject*> creature = creatureObject.get();
-				ManagedReference<Buff*> buff = buffObject.get();
+			if (creatureObject->isOnline())
+				creatureObject->removeBuff(crc);
+		} catch (Exception& e) {
+			Logger::console.error("unreported exception caught in BuffDurationEvent::activate");
+		}
+	}
 
-				if (creature == NULL || buff == NULL)
-					return;
-
-				Locker locker(creature);
-				Locker clocker(buff, creature);
-
-				creature->removeBuff(buff);
-
-			}
-
-			void setBuffObject(Buff* buff) {
-				buffObject = buff;
-			}
-
-		};
-
-    }
-   }
-  }
- }
-}
-
-using namespace server::zone::objects::creature::buffs;
+};
 
 #endif /* BUFFDURATIONEVENT_H_ */

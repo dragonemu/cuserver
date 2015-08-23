@@ -13,12 +13,6 @@ public:
 	AvoidIncapacitationCommand(const String& name, ZoneProcessServer* server)
 : JediQueueCommand(name, server) {
 		// since this is a special case buff, these CRC's aren't exclusive. Instead we will use this list to select whichever one is not active
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION);
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION_1);
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION_2);
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION_3);
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION_4);
-		buffCRCs.add(BuffCRC::AVOIDINCAPACITATION_5);
 	}
 
 	int doQueueCommand(CreatureObject* creature, const uint64& target, const UnicodeString& arguments) const {
@@ -42,13 +36,6 @@ public:
 
 		if (res != SUCCESS)
 			return res;
-
-		ManagedReference<Buff*> buff = new Buff(creature, buffCRCUsed, duration, BuffType::JEDI);
-
-		Locker locker(buff);
-
-		buff->setSkillModifier("avoid_incapacitation", 1);
-		creature->addBuff(buff);
 
 		ManagedReference<PlayerObject*> playerObject = creature->getPlayerObject();
 		playerObject->setForcePower(playerObject->getForcePower() - forceCost);

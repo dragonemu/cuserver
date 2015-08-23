@@ -13,6 +13,7 @@
 #include "server/zone/managers/objectcontroller/ObjectController.h"
 #include "server/zone/managers/minigames/ForageManager.h"
 #include "server/zone/managers/creature/LairObserver.h"
+#include "server/zone/ZoneProcessServer.h"
 
 void LairMenuComponent::fillObjectMenuResponse(SceneObject* sceneObject, ObjectMenuResponse* menuResponse, CreatureObject* player) {
 

@@ -132,14 +132,8 @@ int SharedLabratory::calculateAssemblySuccess(CreatureObject* player,DraftSchema
 	//Pyollian Cake
 
 	float craftbonus = 0;
-	if (player->hasBuff(BuffCRC::FOOD_CRAFT_BONUS)) {
-		Buff* buff = player->getBuff(BuffCRC::FOOD_CRAFT_BONUS);
-
-		if (buff != NULL) {
-			craftbonus = buff->getSkillModifierValue("craft_bonus");
-			toolModifier *= 1.0f + (craftbonus / 100.0f);
-		}
-	}
+	craftbonus = player->getSkillMod("craft_bonus");
+	toolModifier *= 1.0f + (craftbonus / 100.0f);
 
 	int luckRoll = System::random(100) + cityBonus;
 

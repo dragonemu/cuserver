@@ -13,7 +13,6 @@
 #include "server/chat/room/ChatRoom.h"
 #include "server/chat/ChatManager.h"
 #include "server/zone/managers/group/GroupManager.h"
-#include "server/zone/objects/creature/buffs/SquadLeaderBuff.h"
 #include "server/zone/objects/creature/CreatureObject.h"
 #include "server/zone/ZoneProcessServer.h"
 #include "server/zone/ZoneServer.h"
@@ -338,15 +337,7 @@ void GroupObjectImplementation::addGroupModifiers(CreatureObject* player) {
 	if (player->hasBuff(action.hashCode()))
 		player->removeBuff(action.hashCode());
 
-	ManagedReference<SquadLeaderBuff*> buff = new SquadLeaderBuff(player, leader, action.hashCode(), duration);
-
-	Locker locker(buff);
-
-	buff->setSkillModifier("slope_move", leader->getSkillMod("group_slope_move"));
-	buff->setSkillModifier("private_group_ranged_defense", leader->getSkillMod("group_ranged_defense"));
-	buff->setSkillModifier("private_group_melee_defense", leader->getSkillMod("group_melee_defense"));
-	buff->setSkillModifier("burst_run", leader->getSkillMod("group_burst_run"));
-	player->addBuff(buff);
+	player->addBuff(action.hashCode());
 }
 
 void GroupObjectImplementation::removeGroupModifiers(CreatureObject* player) {

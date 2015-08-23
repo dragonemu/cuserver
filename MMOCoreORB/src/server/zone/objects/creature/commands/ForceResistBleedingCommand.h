@@ -54,16 +54,7 @@ public:
 
 		int duration = 900;
 
-		ManagedReference<Buff*> buff = new Buff(creature, buffcrc, duration, BuffType::JEDI);
-
-		Locker locker(buff);
-
-		buff->setStartMessage(startStringId);
-		buff->setEndMessage(endStringId);
-		buff->setSkillModifier("resistance_bleeding", 25);
-		buff->setSkillModifier("absorption_bleeding", 25);
-
-		creature->addBuff(buff);
+		creature->addBuff(buffcrc);
 		creature->playEffect("clienteffect/pl_force_resist_bleeding_self.cef", "");
 
 		return SUCCESS;

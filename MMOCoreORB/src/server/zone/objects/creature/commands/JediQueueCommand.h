@@ -48,16 +48,15 @@ public:
 		if (res != SUCCESS)
 			return res;
 
-		ManagedReference<Buff*> buff = createJediSelfBuff(creature);
-
-		// Return if buff is NOT valid.
-		if (buff == NULL)
-			return GENERALERROR;
-
-		Locker locker(buff);
+		// Check for current buff and other buffs supplied in the vector. If they have any, return error.
+		for (int i=0; i < buffCRCs.size(); ++i) {
+			if (creature->hasBuff(buffCRCs.get(i))) {
+				return GENERALERROR;
+			}
+		}
 
 		// Add buff.
-		creature->addBuff(buff);
+		creature->addBuff(buffCRCs.get(0));
 
 		// Force Cost.
 		ManagedReference<PlayerObject*> playerObject = creature->getPlayerObject();
@@ -93,38 +92,6 @@ public:
 		}
 
 		return SUCCESS;
-	}
-
-	ManagedReference<Buff*> createJediSelfBuff(CreatureObject* creature) const {
-
-		// Check for current buff and other buffs supplied in the vector. If they have any, return error.
-		for (int i=0; i < buffCRCs.size(); ++i) {
-			if (creature->hasBuff(buffCRCs.get(i))) {
-				return NULL;
-			}
-		}
-
-		// Create buff object.
-		ManagedReference<Buff*> buff = new Buff(creature, buffCRCs.get(0), duration, BuffType::JEDI);
-
-		Locker locker(buff);
-
-		if (speedMod > 0) {
-			buff->setSpeedMultiplierMod(speedMod);
-			buff->setAccelerationMultiplierMod(speedMod);
-		}
-
-		StringIdChatParameter start("jedi_spam", "apply_" + name);
-		StringIdChatParameter end("jedi_spam", "remove_" + name);
-
-		buff->setStartMessage(start);
-		buff->setEndMessage(end);
-
-		for (int i=0; i < skillMods.size(); ++i) {
-			buff->setSkillModifier(skillMods.elementAt(i).getKey(), skillMods.elementAt(i).getValue());
-		}
-
-		return buff;
 	}
 
 	void setForceCost(int fc) {

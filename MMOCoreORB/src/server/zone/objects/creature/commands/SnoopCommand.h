@@ -415,42 +415,6 @@ public:
 			return GENERALERROR;
 		}
 
-		BuffList* bList = target->getBuffList();
-		if (bList == NULL || bList->getBuffListSize() == 0) {
-			creature->sendSystemMessage("No Buffs to Display.");
-			return SUCCESS;
-		}
-
-		StringBuffer buffText;
-
-		for (int i = 0; i < bList->getBuffListSize(); i++) {
-			Buff* buff = bList->getBuffByIndex(i);
-			buffText << buff->getBuffName() << ":" <<endl;
-			buffText << "\tCRC: 0x" << hex << buff->getBuffCRC() << endl;
-
-			Vector<uint64>* secondaryCRCs = buff->getSecondaryBuffCRCs();
-			if (secondaryCRCs != NULL && secondaryCRCs->size() > 0) {
-				buffText << "\tSecondary CRCs: "<< endl;
-				for (int j = 0; j < secondaryCRCs->size(); j++) {
-					buffText << "\t\t 0x" << hex << buff->getSecondaryBuffCRCs() << endl;
-				}
-			}
-
-			buffText << "\tDuration (" << buff->getBuffDuration() << ") Time Left (" << buff->getTimeLeft() << ")" << endl;
-
-			buffText << "\tAttribute Mods: " << buff->getAttributeModifierString() << endl;
-			buffText << "\tSkill Mods: " << buff->getSkillModifierString() << endl;
-		}
-
-		ManagedReference<SuiMessageBox*> box = new SuiMessageBox(creature, 0);
-		box->setPromptTitle("Player HAM");
-		box->setPromptText(buffText.toString());
-		box->setUsingObject(target);
-		box->setForceCloseDisabled();
-
-		ghost->addSuiBox(box);
-		creature->sendMessage(box->generateMessage());
-
 		return SUCCESS;
 	}
 };

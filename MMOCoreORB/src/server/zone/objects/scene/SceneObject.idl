@@ -29,7 +29,7 @@ import engine.util.Observable;
 include server.zone.objects.scene.ObserverEventType;
 include server.zone.ZoneReference;
 include server.zone.objects.scene.SceneObjectType;
-import server.zone.ZoneProcessServer;
+include server.zone.ZoneProcessServer;
 import server.zone.ZoneClientSession;
 import server.zone.Zone;
 import server.zone.ZoneServer;

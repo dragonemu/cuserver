@@ -42,16 +42,6 @@ public:
 		int cdReduction = ((float)(maskScentMod / 100.0f)) * 45;
 		int duration = 60 + (((float)(maskScentMod / 100.0f)) * 200);
 
-		ManagedReference<Buff*> buff = new Buff(creature, crc, duration, BuffType::SKILL);
-
-		Locker locker(buff);
-
-		buff->addState(CreatureState::MASKSCENT);
-		buff->setStartMessage(startStringId);
-		buff->setEndMessage(endStringId);
-
-		creature->addBuff(buff);
-
 		int timer = (60 - cdReduction) * 1000;
 		if (timer > 0) {
 			creature->updateCooldownTimer("skill_buff_mask_scent_self", timer);

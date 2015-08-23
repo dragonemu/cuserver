@@ -82,16 +82,9 @@ int CraftingManagerImplementation::calculateExperimentationSuccess(CreatureObjec
 	float toolModifier = 1.0f + (effectiveness / 100.0f);
 
 	//Bespin Port
-
 	float expbonus = 0;
-	if (player->hasBuff(BuffCRC::FOOD_EXPERIMENT_BONUS)) {
-		Buff* buff = player->getBuff(BuffCRC::FOOD_EXPERIMENT_BONUS);
-
-		if (buff != NULL) {
-			expbonus = buff->getSkillModifierValue("experiment_bonus");
-			toolModifier *= 1.0f + (expbonus / 100.0f);
-		}
-	}
+	expbonus = player->getSkillMod("experiment_bonus");
+	toolModifier *= 1.0f + (expbonus / 100.0f);
 
 	/// Range 0-100
 	int luckRoll = System::random(100) + cityBonus;

@@ -59,12 +59,6 @@ public:
 
 		if(hit) {
 
-			if(buff != NULL) {
-				Locker buffLocker(buff);
-
-				target->addBuff(buff);
-			}
-
 			target->inflictDamage(player, pool, damage, true);
 
 			//Not sure on exact xp value, estimate now and update later

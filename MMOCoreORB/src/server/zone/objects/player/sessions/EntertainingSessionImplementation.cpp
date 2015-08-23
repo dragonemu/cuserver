@@ -22,8 +22,6 @@
 #include "server/zone/packets/creature/CreatureObjectDeltaMessage6.h"
 #include "server/zone/objects/mission/MissionObject.h"
 #include "server/zone/objects/mission/EntertainerMissionObjective.h"
-#include "server/zone/objects/creature/buffs/PerformanceBuff.h"
-#include "server/zone/objects/creature/buffs/PerformanceBuffType.h"
 
 void EntertainingSessionImplementation::doEntertainerPatronEffects() {
 	ManagedReference<CreatureObject*> creo = entertainer.get();
@@ -868,40 +866,6 @@ void EntertainingSessionImplementation::activateEntertainerBuff(CreatureObject* 
 
 		if(buffStrength == 0)
 			return;
-
-		ManagedReference<PerformanceBuff*> oldBuff = NULL;
-		switch (performanceType){
-		case PerformanceType::MUSIC:
-		{
-			uint32 focusBuffCRC = STRING_HASHCODE("performance_enhance_music_focus");
-			uint32 willBuffCRC = STRING_HASHCODE("performance_enhance_music_willpower");
-			oldBuff = cast<PerformanceBuff*>(creature->getBuff(focusBuffCRC));
-			if (oldBuff != NULL && oldBuff->getBuffStrength() > buffStrength)
-				return;
-			ManagedReference<PerformanceBuff*> focusBuff = new PerformanceBuff(creature, focusBuffCRC, buffStrength, buffDuration * 60, PerformanceBuffType::MUSIC_FOCUS);
-			ManagedReference<PerformanceBuff*> willBuff = new PerformanceBuff(creature, willBuffCRC, buffStrength, buffDuration * 60, PerformanceBuffType::MUSIC_WILLPOWER);
-
-			Locker locker(focusBuff);
-			creature->addBuff(focusBuff);
-			locker.release();
-
-			Locker locker2(willBuff);
-			creature->addBuff(willBuff);
-			break;
-		}
-		case PerformanceType::DANCE:
-		{
-			uint32 mindBuffCRC = STRING_HASHCODE("performance_enhance_dance_mind");
-			oldBuff = cast<PerformanceBuff*>(creature->getBuff(mindBuffCRC));
-			if (oldBuff != NULL && oldBuff->getBuffStrength() > buffStrength)
-				return;
-			ManagedReference<PerformanceBuff*> mindBuff = new PerformanceBuff(creature, mindBuffCRC, buffStrength, buffDuration * 60, PerformanceBuffType::DANCE_MIND);
-
-			Locker locker(mindBuff);
-			creature->addBuff(mindBuff);
-			break;
-		}
-		}
 
 
 	} catch(Exception& e) {

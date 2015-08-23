@@ -16,8 +16,6 @@
 #include "server/zone/managers/collision/CollisionManager.h"
 #include "server/zone/objects/creature/events/InjuryTreatmentTask.h"
 #include "server/zone/objects/creature/buffs/Buff.h"
-#include "server/zone/objects/creature/BuffAttribute.h"
-#include "server/zone/objects/creature/buffs/DelayedBuff.h"
 #include "server/zone/packets/object/CombatAction.h"
 #include "QueueCommand.h"
 #include "server/zone/managers/combat/CombatManager.h"
@@ -272,16 +270,6 @@ public:
 		} else {
 			float modSkill = (float)creature->getSkillMod("healing_range_speed");
 			int delay = (int)round(12.0f - (6.0f * modSkill / 100 ));
-
-			if (creature->hasBuff(BuffCRC::FOOD_HEAL_RECOVERY)) {
-				DelayedBuff* buff = cast<DelayedBuff*>( creature->getBuff(BuffCRC::FOOD_HEAL_RECOVERY));
-
-				if (buff != NULL) {
-					float percent = buff->getSkillModifierValue("heal_recovery");
-
-					delay = round(delay * (100.0f - percent) / 100.0f);
-				}
-			}
 
 			//Force the delay to be at least 4 seconds.
 			delay = (delay < 4) ? 4 : delay;

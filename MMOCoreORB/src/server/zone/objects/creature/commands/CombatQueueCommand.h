@@ -540,24 +540,6 @@ public:
 		case CommandEffect::NEXTATTACKDELAY:
 			creature->setNextAttackDelay(mod, duration);
 			break;
-		case CommandEffect::HEALTHDEGRADE:
-			buff = new Buff(creature, STRING_HASHCODE("healthdegrade"), duration, BuffType::STATE);
-			buff->setAttributeModifier(CreatureAttribute::CONSTITUTION, -1*effect.getStateStrength());
-			buff->setAttributeModifier(CreatureAttribute::STRENGTH, -1*effect.getStateStrength());
-			creature->addBuff(buff);
-			break;
-		case CommandEffect::ACTIONDEGRADE:
-			buff = new Buff(creature, STRING_HASHCODE("actiondegrade"), duration, BuffType::STATE);
-			buff->setAttributeModifier(CreatureAttribute::QUICKNESS, -1*effect.getStateStrength());
-			buff->setAttributeModifier(CreatureAttribute::STAMINA, -1*effect.getStateStrength());
-			creature->addBuff(buff);
-			break;
-		case CommandEffect::MINDDEGRADE:
-			buff = new Buff(creature, STRING_HASHCODE("minddegrade"), duration, BuffType::STATE);
-			buff->setAttributeModifier(CreatureAttribute::FOCUS, -1*effect.getStateStrength());
-			buff->setAttributeModifier(CreatureAttribute::WILLPOWER, -1*effect.getStateStrength());
-			creature->addBuff(buff);
-			break;
 		case CommandEffect::REMOVECOVER:
 			if (creature->hasState(CreatureState::COVER)) {
 				creature->clearState(CreatureState::COVER);

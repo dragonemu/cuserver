@@ -62,9 +62,6 @@
 #include "server/zone/objects/guild/GuildObject.h"
 #include "server/zone/objects/creature/events/DizzyFallDownEvent.h"
 #include "server/zone/packets/ui/ExecuteConsoleCommand.h"
-#include "server/zone/objects/creature/buffs/StateBuff.h"
-#include "server/zone/objects/creature/buffs/PrivateBuff.h"
-#include "server/zone/objects/creature/buffs/PrivateSkillMultiplierBuff.h"
 #include "server/zone/objects/building/hospital/HospitalBuildingObject.h"
 
 #include "server/zone/packets/object/SitOnObject.h"
@@ -706,47 +703,8 @@ void CreatureObjectImplementation::addMountedCombatSlow() {
 			StringIdChatParameter startStringId("combat_effects", "mount_slow_for_combat"); // Your mount slows down to prepare for combat.
 			StringIdChatParameter endStringId("combat_effects", "mount_speed_after_combat"); // Your mount speeds up.
 
-
-
-			ManagedReference<Buff*> buff = new Buff(creo_p, crc, 604800, BuffType::OTHER);
-
-
-
-
-
-			Locker blocker(buff);
-
-
-
-			buff->setSpeedMultiplierMod(magnitude);
-			buff->setAccelerationMultiplierMod(magnitude);
-			buff->setStartMessage(startStringId);
-			buff->setEndMessage(endStringId);
-
-
-
-
-			creo_p->addBuff(buff);
-
-
-			blocker.release();
-
-
-
-			ManagedReference<Buff*> buff2 = new Buff(parent_p, crc, 604800, BuffType::OTHER);
-
-
-
-
-
-			Locker blocker2(buff2);
-
-
-
-			buff2->setSpeedMultiplierMod(magnitude);
-			buff2->setAccelerationMultiplierMod(magnitude);
-
-			parent_p->addBuff(buff2);
+			creo_p->addBuff(crc);
+			parent_p->addBuff(crc);
 	});
 }
 
@@ -2125,12 +2083,6 @@ void CreatureObjectImplementation::notifyLoadFromDatabase() {
 	getZoneServer()->getPlayerManager()->fixHAM(asCreatureObject());
 	getZoneServer()->getPlayerManager()->fixBuffSkillMods(asCreatureObject());
 
-	for (int i = 0; i < creatureBuffs.getBuffListSize(); ++i) {
-		ManagedReference<Buff*> buff = creatureBuffs.getBuffByIndex(i);
-
-		buff->loadBuffDurationEvent(asCreatureObject());
-	}
-
 	ZoneServer* zoneServer = server->getZoneServer();
 	SkillManager* skillManager = SkillManager::instance();
 
@@ -2243,46 +2195,19 @@ float CreatureObjectImplementation::calculateBFRatio() {
 
 void CreatureObjectImplementation::setDizziedState(int durationSeconds) {
 	if (!hasState(CreatureState::DIZZY)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::DIZZY, durationSeconds);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_dizzy", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_dizzy", 0xFF, 0, 0);
-
-		addBuff(state);
+		addBuff(STRING_HASHCODE("dizzy"));
 	}
 }
 
 void CreatureObjectImplementation::setAimingState(int durationSeconds) {
 	if (!hasState(CreatureState::AIMING)) {
-		StateBuff* aiming = new StateBuff(asCreatureObject(), CreatureState::AIMING, durationSeconds);
-
-		int aimMods = 0;
-		Vector<String>* creatureAimMods = weapon->getCreatureAimModifiers();
-
-		for (int i = 0; i < creatureAimMods->size(); ++i) {
-			aimMods += getSkillMod(creatureAimMods->get(i));
-		}
-
-		Locker locker(aiming);
-
-		aiming->setSkillModifier("private_aim", aimMods);
-
-		addBuff(aiming);
+		addBuff(STRING_HASHCODE("aim"));
 	}
 }
 
 void CreatureObjectImplementation::setRalliedState(int durationSeconds) {
 	if (!hasState(CreatureState::RALLIED)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::RALLIED, durationSeconds);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_rally", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_rally", 0xFF, 0, 0);
-
-		addBuff(state);
+		addBuff(STRING_HASHCODE("rally"));
 	}
 }
 
@@ -2290,193 +2215,38 @@ void CreatureObjectImplementation::setCoverState(int durationSeconds) {
 	setPosture(CreaturePosture::PRONE);
 
 	if (!hasState(CreatureState::COVER)) {
-		Reference<StateBuff*> buff = new StateBuff(asCreatureObject(), CreatureState::COVER, durationSeconds);
-
-		Locker locker(buff);
-
-		buff->setStartFlyText("combat_effects", "go_cover", 0, 0xFF, 0);
-		buff->setEndFlyText("combat_effects", "no_cover", 0xFF, 0, 0);
-
-		buff->setSkillModifier("private_defense", 10);
-		buff->setSkillModifier("ranged_defense", 25);
-
-		addBuff(buff);
+		addBuff(STRING_HASHCODE("cover"));
 	}
 }
 
 void CreatureObjectImplementation::setBerserkedState(uint32 duration) {
 	if (!hasState(CreatureState::BERSERK)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::BERSERK, duration);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_berserk", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_berserk", 0xFF, 0, 0);
-
-		int mod = getSkillMod("berserk");
-
-		state->setSkillModifier("private_melee_accuracy_bonus", 20 + mod);
-		state->setSkillModifier("private_melee_damage_bonus", 75 + mod);
-		state->setSkillModifier("private_melee_defense", -60);
-		state->setSkillModifier("private_ranged_defense", -60);
-
-		addBuff(state);
+		addBuff(CreatureState::BERSERK);
 	}
 }
 void CreatureObjectImplementation::setStunnedState(int durationSeconds) {
 	if (!hasState(CreatureState::STUNNED)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::STUNNED, durationSeconds, STRING_HASHCODE("stunstate"));
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_stunned", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_stunned", 0xFF, 0, 0);
-		state->setSkillModifier("private_melee_defense", -50);
-		state->setSkillModifier("private_ranged_defense", -50);
-
-		addBuff(state);
-
-		locker.release();
-
-
-
-
-		Reference<PrivateSkillMultiplierBuff*> multBuff = new PrivateSkillMultiplierBuff(asCreatureObject(), STRING_HASHCODE("stunstate"), durationSeconds, BuffType::STATE);
-
-
-		Locker blocker(multBuff);
-
-
-
-		multBuff->setSkillModifier("private_damage_divisor", 5);
-		multBuff->setSkillModifier("private_damage_multiplier", 4);
-
-		addBuff(multBuff);
+		addBuff(STRING_HASHCODE("beserk"));
 	}
 }
 
 void CreatureObjectImplementation::setBlindedState(int durationSeconds) {
 	if (!hasState(CreatureState::BLINDED)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::BLINDED, durationSeconds);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_blind", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_blind", 0xFF, 0, 0);
-
-		state->setSkillModifier("private_attack_accuracy", -60);
-		state->setSkillModifier("private_dodge_attack", -60);
-
-		addBuff(state);
+		addBuff(STRING_HASHCODE("blind"));
 	}
 }
 
 void CreatureObjectImplementation::setIntimidatedState(uint32 mod, uint32 crc, int durationSeconds) {
-	// put the skillmods into a crc buff so we can stack all forms of intim
-	if (!hasBuff(crc)) {
-		Reference<PrivateSkillMultiplierBuff*> buff = new PrivateSkillMultiplierBuff(asCreatureObject(), crc, durationSeconds, BuffType::STATE);
-
-		Locker locker(buff);
-
-		buff->setSkillModifier("private_damage_divisor", 2);
-
-		addBuff(buff);
-
-	} else { // already have this intimidation buff, don't keep stacking the multiplier, but do extend the duration
-		Reference<Buff*> buff = getBuff(crc);
-
-		if (buff != NULL && buff->getTimeLeft() < durationSeconds) {
-			Locker locker(buff);
-
-			buff->renew(durationSeconds);
-		}
-	}
-
-
-	if (!hasState(CreatureState::INTIMIDATED)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::INTIMIDATED, durationSeconds, crc);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_intimidated", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_intimidated", 0xFF, 0, 0);
-
-		state->setSkillModifier("private_melee_defense", -20);
-		state->setSkillModifier("private_ranged_defense", -20);
-
-		addBuff(state);
-	} else { // already have the intimidated state, so extend it. This is the buff that gets sent to the client
-		Reference<Buff*> state = getBuff(Long::hashCode(CreatureState::INTIMIDATED));
-
-		if (state == NULL) { // this shouldn't happen, but if it does, we want to make sure intim gets set
-			//removeStateBuff(CreatureState::INTIMIDATED);
-			//setIntimidatedState(mod, crc, durationSeconds);
-			error("no intimidate state buff in setIntimidatedState");
-			clearState(CreatureState::INTIMIDATED);
-			removeBuff(crc);
-			setIntimidatedState(mod, crc, durationSeconds);
-			return;
-		}
-		// the intimidate flytext should show up everytime it succeeds
-		showFlyText("combat_effects", "go_intimidated", 0, 0xFF, 0);
-
-
-
-		Locker locker(state);
-
-
-		state->addSecondaryBuffCRC(crc);
-
-
-		if (state->getTimeLeft() < durationSeconds)
-			state->renew(durationSeconds);
-
-	}
+	addBuff(STRING_HASHCODE("stun"));
 }
 
 void CreatureObjectImplementation::setSnaredState(int durationSeconds) {
-	if (!hasState(CreatureState::IMMOBILIZED)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::IMMOBILIZED, durationSeconds);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_snare", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_snare", 0xFF, 0, 0);
-
-		addBuff(state);
-	}
 }
 
 void CreatureObjectImplementation::setRootedState(int durationSeconds) {
-	if (!hasState(CreatureState::FROZEN)) {
-		Reference<StateBuff*> state = new StateBuff(asCreatureObject(), CreatureState::FROZEN, durationSeconds);
-
-		Locker locker(state);
-
-		state->setStartFlyText("combat_effects", "go_rooted", 0, 0xFF, 0);
-		state->setEndFlyText("combat_effects", "no_rooted", 0xFF, 0, 0);
-
-		addBuff(state);
-	}
 }
 
 bool CreatureObjectImplementation::setNextAttackDelay(uint32 mod, int del) {
-	if (cooldownTimerMap->isPast("nextAttackDelayRecovery")) {
-		//del += mod;
-		cooldownTimerMap->updateToCurrentAndAddMili("nextAttackDelay", del * 1000);
-		cooldownTimerMap->updateToCurrentAndAddMili("nextAttackDelayRecovery", 30000 + (del * 1000));
-
-		showFlyText("combat_effects", "warcry_hit", 0x00, 0xFF, 0x00);
-
-		if (isPlayerCreature()) {
-			StringIdChatParameter stringId("combat_effects", "delay_applied_self");
-			stringId.setDI(del);
-			sendSystemMessage(stringId);
-		}
-
-		return true;
-	}
-
 	return false;
 }
 
@@ -2511,57 +2281,25 @@ void CreatureObjectImplementation::updateToDatabaseAllObjects(bool startTask) {
 	if (!isPersistent())
 		return;
 
-	creatureBuffs.updateBuffsToDatabase();
+	//creatureBuffs.updateBuffsToDatabase();
 
 	TangibleObjectImplementation::updateToDatabaseAllObjects(startTask);
 }
 
-void CreatureObjectImplementation::addBuff(Buff* buff) {
-	if (buff == NULL)
-		return;
-
-	uint32 buffcrc = buff->getBuffCRC();
-
-	creatureBuffs.addBuff(buff);
-}
-
-bool CreatureObjectImplementation::removeBuff(uint32 buffcrc) {
-	Reference<Buff*> buff = getBuff(buffcrc);
-
-	//BuffList::removeBuff checks to see if the buffcrc exists in the map.
-	bool ret = creatureBuffs.removeBuff(buffcrc);
-
-	if (buff != NULL) {
-		Vector<unsigned long long>* secondaryCRCs = buff->getSecondaryBuffCRCs();
-
-		for (int i = 0; i < secondaryCRCs->size(); i++) {
-			removeBuff(secondaryCRCs->get(i));
-		}
-	}
-
-	return ret;
+void CreatureObjectImplementation::addBuff(uint32 crc) {
+	creatureBuffs.addBuff(crc, asCreatureObject(), 0);
 }
 
 bool CreatureObjectImplementation::removeStateBuff(uint64 state) {
-	bool ret = removeBuff(Long::hashCode(state));
-
-	assert(!hasState(state));
-
-	return ret;
+	return true;
 }
 
-void CreatureObjectImplementation::removeBuff(Buff* buff) {
-	if (buff == NULL)
-		return;
-
-	uint32 buffcrc = buff->getBuffCRC();
-
-	//BuffList::removeBuff checks to see if the buffcrc exists in the map.
-	creatureBuffs.removeBuff(buff);
+void CreatureObjectImplementation::removeBuff(uint32 crc) {
+	creatureBuffs.removeBuff(crc, asCreatureObject());
 }
 
 void CreatureObjectImplementation::clearBuffs(bool updateclient) {
-	creatureBuffs.clearBuffs(updateclient);
+	creatureBuffs.clearBuffs(asCreatureObject());
 }
 
 void CreatureObjectImplementation::notifyPostureChange(int newPosture) {

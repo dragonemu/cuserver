@@ -85,29 +85,6 @@ public:
 		}
 
 		unsigned int crc = STRING_HASHCODE("gallop");
-		if (creature->hasBuff(crc)) {
-			ManagedReference<Buff*> buff = creature->getBuff(crc);
-
-			if (buff != NULL) {
-				//Negate effect of the active gallop buff. The negation will be cleared automatically when the buff is deactivated.
-				creature->setSpeedMultiplierMod(1.f / buff->getSpeedMultiplierMod());
-				creature->setAccelerationMultiplierMod(1.f / buff->getAccelerationMultiplierMod());
-			}
-		}
-
-		Locker vehicleLocker(vehicle, creature);
-
-		if (vehicle->hasBuff(crc)) {
-			ManagedReference<Buff*> buff = creature->getBuff(crc);
-
-			if (buff != NULL) {
-				//Negate effect of the active gallop buff. The negation will be cleared automatically when the buff is deactivated.
-				vehicle->setSpeedMultiplierMod(1.f / buff->getSpeedMultiplierMod());
-				vehicle->setAccelerationMultiplierMod(1.f / buff->getAccelerationMultiplierMod());
-			}
-		}
-
-		vehicleLocker.release();
 
 		creature->clearState(CreatureState::RIDINGMOUNT);
 

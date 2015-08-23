@@ -80,24 +80,13 @@ public:
 			if (memberPlayer != leader)
 				memberPlayer->sendSystemMessage("@cbt_spam:rally_success_group_msg"); //"Your group rallies to the attack!"
 
-			ManagedReference<Buff*> buff = new Buff(memberPlayer, actionCRC, duration, BuffType::SKILL);
-
-			Locker locker(buff);
-
 			ManagedReference<WeaponObject*> weapon = memberPlayer->getWeapon();
 
 			if (weapon != NULL) {
 				if (!weapon->getCreatureAccuracyModifiers()->isEmpty()) {
 					String skillCRC = weapon->getCreatureAccuracyModifiers()->get(0);
-
-					buff->setSkillModifier(skillCRC, 50);
 				}
 			}
-
-			buff->setSkillModifier("private_group_ranged_defense", 30);
-			buff->setSkillModifier("private_group_melee_defense", 30);
-
-			memberPlayer->addBuff(buff);
 
 			memberPlayer->setRalliedState(duration);
 

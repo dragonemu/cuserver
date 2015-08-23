@@ -20,7 +20,6 @@
 #include "server/zone/packets/tangible/UpdatePVPStatusMessage.h"
 #include "server/zone/Zone.h"
 #include "server/zone/managers/collision/CollisionManager.h"
-#include "server/zone/objects/creature/buffs/StateBuff.h"
 #include "server/zone/managers/visibility/VisibilityManager.h"
 #include "server/zone/managers/creature/CreatureManager.h"
 #include "server/zone/managers/creature/LairObserver.h"

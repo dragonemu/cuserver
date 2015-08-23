@@ -6,7 +6,6 @@
 #define GALLOPCOMMAND_H_
 
 #include "server/zone/objects/scene/SceneObject.h"
-#include "server/zone/objects/creature/buffs/GallopBuff.h"
 #include "server/zone/objects/creature/events/GallopNotifyAvailableEvent.h"
 
 class GallopCommand : public QueueCommand {
@@ -77,27 +76,9 @@ public:
 		StringIdChatParameter startStringId("combat_effects", "gallop_start"); // Your mount runs as fast as it can.
 		StringIdChatParameter endStringId("combat_effects", "gallop_stop"); // Your mount is winded and slows down.
 
-		ManagedReference<GallopBuff*> buff = new GallopBuff(mount, crc, duration);
+		mount->addBuff(crc);
 
-		Locker locker(buff);
-
-		buff->setSpeedMultiplierMod(magnitude);
-		buff->setAccelerationMultiplierMod(magnitude);
-
-		mount->addBuff(buff);
-
-		locker.release();
-
-		ManagedReference<GallopBuff*> buff2 = new GallopBuff(creature, crc, duration);
-
-		Locker locker2(buff2);
-
-		buff2->setSpeedMultiplierMod(magnitude);
-		buff2->setAccelerationMultiplierMod(magnitude);
-		buff2->setStartMessage(startStringId);
-		buff2->setEndMessage(endStringId);
-
-		creature->addBuff(buff2);
+		creature->addBuff(crc);
 
 		creature->updateCooldownTimer("gallop", (cooldown + duration) * 1000);
 

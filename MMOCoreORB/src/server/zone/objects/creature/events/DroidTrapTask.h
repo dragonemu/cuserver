@@ -20,7 +20,6 @@ class DroidTrapTask : public Task {
 	ManagedReference<CreatureObject* > droid;
 	ManagedReference<CreatureObject* > player;
 	ManagedReference<CreatureObject* > target;
-	ManagedReference<Buff*> buff;
 	StringIdChatParameter message;
 	int damage;
 	short pool;
@@ -31,7 +30,6 @@ public:
 		player = p;
 		target = t;
 		droid = dr;
-		buff = b;
 		message = m;
 		damage = d;
 		pool = po;
@@ -52,9 +50,7 @@ public:
 		if(hit) {
 			Locker locker(target, droid);
 
-			if(buff != NULL) {
-				target->addBuff(buff);
-			}
+			// Buff ??
 
 			target->inflictDamage(droid, pool, damage, true);
 

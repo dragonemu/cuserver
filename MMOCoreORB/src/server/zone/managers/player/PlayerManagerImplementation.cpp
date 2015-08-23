@@ -107,8 +107,6 @@
 
 #include "server/zone/managers/stringid/StringIdManager.h"
 
-#include "server/zone/objects/creature/buffs/PowerBoostBuff.h"
-
 #include "server/zone/objects/creature/Creature.h"
 #include "server/zone/objects/creature/events/DespawnCreatureTask.h"
 #include "server/zone/objects/creature/AiAgent.h"
@@ -573,23 +571,6 @@ uint8 PlayerManagerImplementation::calculateIncapacitationTimer(CreatureObject* 
 	recoveryTime = MIN(MAX(recoveryTime, 10), 60);
 
 	//Check for incap recovery food buff - overrides recovery time gate.
-	/*if (hasBuff(BuffCRC::FOOD_INCAP_RECOVERY)) {
-		Buff* buff = getBuff(BuffCRC::FOOD_INCAP_RECOVERY);
-
-		if (buff != NULL) {
-			float percent = buff->getSkillModifierValue("incap_recovery");
-
-			recoveryTime = round(recoveryTime * ((100.0f - percent) / 100.0f));
-
-			StfParameter* params = new StfParameter();
-			params->addDI(percent);
-
-			sendSystemMessage("combat_effects", "incap_recovery", params); //Incapacitation recovery time reduced by %DI%.
-			delete params;
-
-			removeBuff(buff);
-		}
-	}*/
 
 	return recoveryTime;
 }
@@ -1919,39 +1900,11 @@ void PlayerManagerImplementation::sendBattleFatigueMessage(CreatureObject* playe
 }
 
 int PlayerManagerImplementation::healEnhance(CreatureObject* enhancer, CreatureObject* patient, byte attribute, int buffvalue, float duration) {
-	String buffname = "medical_enhance_" + BuffAttribute::getName(attribute);
+	String buffname = "";
 	uint32 buffcrc = buffname.hashCode();
 	uint32 buffdiff = buffvalue;
 
-	//If a stronger buff already exists, then we don't buff the patient.
-	if (patient->hasBuff(buffcrc)) {
-		Buff* buff = patient->getBuff(buffcrc);
-
-		if (buff != NULL) {
-			int value = buff->getAttributeModifierValue(attribute);
-
-			if(BuffAttribute::isProtection(attribute))
-				value = buff->getSkillModifierValue(BuffAttribute::getProtectionString(attribute));
-
-			if (value > buffvalue)
-				return 0;
-
-			buffdiff -= value;
-		}
-	}
-
-	Reference<Buff*> buff = new Buff(patient, buffcrc, duration, BuffType::MEDICAL);
-
-	Locker locker(buff);
-
-	if(BuffAttribute::isProtection(attribute)) {
-		buff->setSkillModifier(BuffAttribute::getProtectionString(attribute), buffvalue);
-	} else {
-		buff->setAttributeModifier(attribute, buffvalue);
-		buff->setFillAttributesOnBuff(true);
-	}
-
-	patient->addBuff(buff);
+	patient->addBuff(buffcrc);
 
 	enhancer->notifyObservers(ObserverEventType::ENHANCINGPERFORMED, patient, buffdiff);
 
@@ -3358,29 +3311,11 @@ void PlayerManagerImplementation::fixBuffSkillMods(CreatureObject* player) {
 		if (grp != NULL)
 			GroupManager::instance()->leaveGroup(grp, player);
 
-		Reference<Buff*> buff = player->getBuff(STRING_HASHCODE("squadleader"));
-		if (buff != NULL) {
-			Locker locker(buff);
-			player->removeBuff(buff);
-		}
-
 		if (player->getSkillModList() == NULL)
 			return;
 
 		SkillModGroup* smodGroup = player->getSkillModList()->getSkillModGroup(SkillModManager::BUFF);
 		smodGroup->removeAll();
-
-		BuffList* buffs = player->getBuffList();
-
-		for (int i = 0; i < buffs->getBuffListSize(); i++) {
-			ManagedReference<Buff*> buff = buffs->getBuffByIndex(i);
-
-			Locker clocker(buff, player);
-
-			buff->setModsApplied(true);
-
-			buff->applySkillModifiers();
-		}
 
 		if (grp != NULL && grp->getLeader() != NULL) {
 			player->updateGroupInviterID(grp->getLeader()->getObjectID());
@@ -4590,9 +4525,9 @@ bool PlayerManagerImplementation::doBurstRun(CreatureObject* player, float hamMo
 		return false;
 	}
 
-	uint32 forceRun1CRC = BuffCRC::FORCERUN;
-	uint32 forceRun2CRC = BuffCRC::FORCERUN_1;
-	uint32 forceRun3CRC = BuffCRC::FORCERUN_2;
+	uint32 forceRun1CRC = STRING_HASHCODE("forcerun");
+	uint32 forceRun2CRC = STRING_HASHCODE("forcerun_1");
+	uint32 forceRun3CRC = STRING_HASHCODE("forcerun_2");
 
 	if(player->hasBuff(forceRun1CRC) || player->hasBuff(forceRun2CRC) || player->hasBuff(forceRun3CRC)) {
 		player->sendSystemMessage("@combat_effects:burst_run_no"); // You cannot burst run right now.
@@ -4644,35 +4579,7 @@ bool PlayerManagerImplementation::doBurstRun(CreatureObject* player, float hamMo
 		return false;
 	}
 
-	player->inflictDamage(player, CreatureAttribute::HEALTH, newHamCost, true);
-	player->inflictDamage(player, CreatureAttribute::ACTION, newHamCost, true);
-	player->inflictDamage(player, CreatureAttribute::MIND, newHamCost, true);
-
-	StringIdChatParameter startStringId("cbt_spam", "burstrun_start_single");
-	StringIdChatParameter modifiedStartStringId("combat_effects", "instant_burst_run");
-	StringIdChatParameter endStringId("cbt_spam", "burstrun_stop_single");
-
-	ManagedReference<Buff*> buff = new Buff(player, crc, duration, BuffType::SKILL);
-
-	Locker locker(buff);
-
-	buff->setSpeedMultiplierMod(1.822f);
-	buff->setAccelerationMultiplierMod(1.822f);
-
-	if (cooldownModifier == 0.f)
-		buff->setStartMessage(startStringId);
-	else
-		buff->setStartMessage(modifiedStartStringId);
-
-	buff->setEndMessage(endStringId);
-
-	StringIdChatParameter startSpam("cbt_spam", "burstrun_start");
-	StringIdChatParameter endSpam("cbt_spam", "burstrun_stop");
-	buff->setStartSpam(startSpam);
-	buff->setEndSpam(endSpam);
-	buff->setBroadcastSpam(true);
-
-	player->addBuff(buff);
+	player->addBuff(crc);
 
 	player->updateCooldownTimer("burstrun", (newCooldown + duration) * 1000);
 
@@ -4689,33 +4596,12 @@ bool PlayerManagerImplementation::doEnhanceCharacter(uint32 crc, CreatureObject*
 	if (player->hasBuff(crc))
 		return false;
 
-	ManagedReference<Buff*> buff = new Buff(player, crc, duration, buffType);
-
-	Locker locker(buff);
-
-	buff->setAttributeModifier(attribute, amount);
-	player->addBuff(buff);
-
 	return true;
 }
 
 void PlayerManagerImplementation::enhanceCharacter(CreatureObject* player) {
-	if (player == NULL)
-		return;
 
-	bool message = true;
+	player->addBuff(STRING_HASHCODE("frogbuff"));
 
-	message = message && doEnhanceCharacter(0x98321369, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 0); // medical_enhance_health
-	message = message && doEnhanceCharacter(0x815D85C5, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 1); // medical_enhance_strength
-	message = message && doEnhanceCharacter(0x7F86D2C6, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 2); // medical_enhance_constitution
-	message = message && doEnhanceCharacter(0x4BF616E2, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 3); // medical_enhance_action
-	message = message && doEnhanceCharacter(0x71B5C842, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 4); // medical_enhance_quickness
-	message = message && doEnhanceCharacter(0xED0040D9, player, medicalBuff, medicalDuration, BuffType::MEDICAL, 5); // medical_enhance_stamina
-
-	message = message && doEnhanceCharacter(0x11C1772E, player, performanceBuff, performanceDuration, BuffType::PERFORMANCE, 6); // performance_enhance_dance_mind
-	message = message && doEnhanceCharacter(0x2E77F586, player, performanceBuff, performanceDuration, BuffType::PERFORMANCE, 7); // performance_enhance_music_focus
-	message = message && doEnhanceCharacter(0x3EC6FCB6, player, performanceBuff, performanceDuration, BuffType::PERFORMANCE, 8); // performance_enhance_music_willpower
-
-	if (message && player->isPlayerCreature())
-		player->sendSystemMessage("An unknown force strengthens you for battles yet to come.");
+	player->sendSystemMessage("The Force gives you strength.");
 }

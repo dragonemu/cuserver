@@ -273,6 +273,8 @@ void ZoneServerImplementation::startManagers() {
 	DirectorManager::instance()->startGlobalScreenPlays();
 
 	auctionManager->initialize();
+
+	BuffList::instance()->loadClientData();
 }
 
 void ZoneServerImplementation::start(int p, int mconn) {

@@ -60,21 +60,7 @@ public:
 		if (duration == 0 || efficacy == 0)
 			return GENERALERROR;
 
-		Buff* centered = new Buff(creature, STRING_HASHCODE("centerofbeing"), duration, BuffType::SKILL);
-
-		Locker locker(centered);
-
-		centered->setSkillModifier("private_center_of_being", efficacy);
-
-		StringIdChatParameter startMsg("combat_effects", "center_start");
-		StringIdChatParameter endMsg("combat_effects", "center_stop");
-		centered->setStartMessage(startMsg);
-		centered->setEndMessage(endMsg);
-
-		centered->setStartFlyText("combat_effects", "center_start_fly", 0, 255, 0);
-		centered->setEndFlyText("combat_effects", "center_stop_fly", 255, 0, 0);
-
-		creature->addBuff(centered);
+		creature->addBuff(STRING_HASHCODE("centerofbeing"));
 
 		return SUCCESS;
 	}

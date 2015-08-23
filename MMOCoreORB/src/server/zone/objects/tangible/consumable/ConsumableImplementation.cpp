@@ -9,13 +9,9 @@
 #include "server/zone/objects/creature/CreatureObject.h"
 #include "server/zone/objects/player/PlayerObject.h"
 #include "server/zone/objects/player/Races.h"
-#include "server/zone/objects/creature/buffs/DurationBuff.h"
-#include "server/zone/objects/creature/buffs/SpiceBuff.h"
-#include "server/zone/objects/creature/buffs/DelayedBuff.h"
 #include "server/zone/objects/creature/CreatureAttribute.h"
 #include "server/zone/packets/scene/AttributeListMessage.h"
 #include "server/zone/templates/tangible/ConsumableTemplate.h"
-#include "server/zone/objects/tangible/consumable/DelayedBuffObserver.h"
 #include "server/zone/managers/player/PlayerManager.h"
 
 
@@ -173,107 +169,7 @@ int ConsumableImplementation::handleObjectMenuSelect(CreatureObject* player, byt
 
 	ManagedReference<Buff*> buff = NULL;
 
-	switch (effectType) {
-	case EFFECT_ATTRIBUTE: {
-		buff = new Buff(player, buffName.hashCode(), duration, BuffType::FOOD);
-
-		Locker locker(buff);
-
-		setModifiers(buff, false);
-		break;
-	}
-
-	case EFFECT_SKILL: {
-		buff = new Buff(player, buffName.hashCode(), duration, BuffType::FOOD);
-
-		Locker locker(buff);
-
-		setModifiers(buff, true);
-		break;
-	}
-
-	case EFFECT_SPICE: {
-		buff = new SpiceBuff(player, buffName, String::hashCode("spice." + buffName + ".up"), duration);
-
-		Locker locker(buff);
-
-		setModifiers(buff, false);
-
-		player->addBuff(buff);
-
-		decreaseUseCount();
-		return 1;
-	}
-
-	case EFFECT_HEALING: {
-		int dmghealed = player->healDamage(player, 6, nutrition);
-
-		if (dmghealed <= 0) {
-			player->sendSystemMessage("@healing:no_mind_to_heal_self"); //You have no mind to heal.
-			return 0;
-		}
-
-		StringIdChatParameter stringId("combat_effects", "food_mind_heal");
-		stringId.setDI(dmghealed);
-
-		player->sendSystemMessage(stringId);
-
-		break;
-	}
-
-	case EFFECT_DURATION: {
-		buff = new DurationBuff(player, buffName.hashCode(), duration);
-
-		Locker locker(buff);
-
-		setModifiers(buff, true);
-		//buff->parseSkillModifierString(generateModifierString());
-		break;
-	}
-
-	case EFFECT_DELAYED: {
-		buff = new DelayedBuff(player, buffName.hashCode(), duration);
-
-		Locker locker(buff);
-
-		setModifiers(buff, true);
-
-		DelayedBuff* delayedBuff = cast<DelayedBuff*>(buff.get());
-
-		delayedBuff->init(&eventTypes);
-
-		break;
-	}
-
-	case EFFECT_INSTANT: {
-		if (modifiers.isEmpty())
-			return 0;
-
-		//TODO: Handle each instant effect on its own...
-		String effect = modifiers.elementAt(0).getKey();
-
-		if (effect == "burst_run") {
-			float cooldownModifier = (float) duration / 100.f;
-			float hamModifier = (float) nutrition / 100.f;
-
-			PlayerManager* playerManager = server->getZoneServer()->getPlayerManager();
-
-			if (!playerManager->doBurstRun(player, hamModifier, cooldownModifier))
-				return 0;
-
-		} else if (effect == "food_reduce") {
-			//Tilla till reduces food stomach filling by a percentage
-			int currentfilling = ghost->getFoodFilling();
-			ghost->setFoodFilling(round(currentfilling * (100 - nutrition) / 100.0f), true);
-		}
-	}
-	}
-
-	if (buff != NULL) {
-		Locker locker(buff);
-
-		player->addBuff(buff);
-	}
+	player->addBuff(buffName.hashCode());
 
 	if (isFood())
 		ghost->setFoodFilling(ghost->getFoodFilling() + filling, true);
@@ -322,22 +218,7 @@ int ConsumableImplementation::handleObjectMenuSelect(CreatureObject* player, byt
 	return 0;
 }
 
-void ConsumableImplementation::setModifiers(Buff* buff, bool skillModifiers) {
-	for (int i = 0; i < modifiers.size(); ++i) {
-		String attribute = modifiers.elementAt(i).getKey();
-		float value = modifiers.elementAt(i).getValue();
-
-		uint8 hamAttribute = CreatureAttribute::getAttribute(attribute);
-
-		if (!isSpice() && !isForagedFood())
-			value = nutrition;
-
-		if (!skillModifiers)
-			buff->setAttributeModifier(hamAttribute, (int)value);
-
-		else
-			buff->setSkillModifier(attribute, (int)value);
-	}
+void ConsumableImplementation::setModifiers(bool skillModifiers) {
 }
 
 void ConsumableImplementation::fillAttributeList(AttributeListMessage* alm, CreatureObject* player) {

@@ -56,16 +56,7 @@ public:
 
 		int duration = 900;
 
-		ManagedReference<Buff*> buff = new Buff(creature, buffcrc, duration, BuffType::JEDI);
-
-		Locker locker(buff);
-
-		buff->setStartMessage(startStringId);
-		buff->setEndMessage(endStringId);
-		buff->setSkillModifier("resistance_poison", 25);
-		buff->setSkillModifier("absorption_poison", 25);
-
-		creature->addBuff(buff);
+		creature->addBuff(buffcrc);
 		creature->playEffect("clienteffect/pl_force_resist_poison_self.cef", "");
 
 		return SUCCESS;

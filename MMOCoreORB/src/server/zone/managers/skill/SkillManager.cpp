@@ -7,6 +7,7 @@
 #include "SkillModManager.h"
 #include "PerformanceManager.h"
 #include "imagedesign/ImageDesignManager.h"
+#include "server/chat/StringIdChatParameter.h"
 #include "server/zone/objects/creature/variables/Skill.h"
 #include "server/zone/objects/creature/CreatureObject.h"
 #include "server/zone/objects/player/PlayerObject.h"

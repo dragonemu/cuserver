@@ -9,6 +9,7 @@
 #define SUICALLBACK_H_
 
 #include "server/zone/ZoneServer.h"
+#include "server/zone/ZoneProcessServer.h"
 
 namespace server {
 namespace zone {

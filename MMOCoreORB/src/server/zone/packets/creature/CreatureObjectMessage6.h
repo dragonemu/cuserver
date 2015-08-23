@@ -85,10 +85,8 @@ public:
 		insertByte(creo->getVisible()); // 0 - invisible, 1 - visible
 
 		// Buff list.
-		//BuffList* buffList = creo->getBuffList();
-		//buffList->insertToMessage(this);
-		insertInt(0);
-		insertInt(0);
+		BuffList* buffList = creo->getBuffList();
+		buffList->insertToMessage(this);
 
 		// Performing.
 		insertByte(0);

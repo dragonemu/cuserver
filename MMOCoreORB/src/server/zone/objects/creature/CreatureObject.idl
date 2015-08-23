@@ -5,7 +5,7 @@
 package server.zone.objects.creature;
 
 import server.zone.objects.tangible.TangibleObject;
-import server.chat.StringIdChatParameter;
+include server.chat.StringIdChatParameter;
 import server.zone.objects.group.GroupObject;
 import server.zone.objects.guild.GuildObject;
 import server.zone.objects.tangible.weapon.WeaponObject;
@@ -24,7 +24,7 @@ import server.zone.Zone;
 import system.util.SortedVector;
 import server.zone.objects.creature.events.DizzyFallDownEvent;
 import server.zone.templates.SharedObjectTemplate;
-import server.zone.objects.creature.buffs.Buff;
+include server.zone.objects.creature.buffs.Buff;
 import server.zone.objects.tangible.weapon.WeaponObject;
 import server.zone.ZoneClientSession;
 include server.zone.objects.creature.variables.CooldownTimerMap;
@@ -661,25 +661,14 @@ class CreatureObject extends TangibleObject {
 	 * @param buff The Buff object to add the creature.
 	 */
 	@preLocked
-	@arg1preLocked
-	public native void addBuff(Buff buff);
-
-	/**
-	 * Removes the buff from the creature, activating it and sending packets if it is a player.
-	 * Buffs should never be removed from the list without sending of packets.
-	 * @param buffcrc The buff crc to remove from the buff list.
-	 */
-	@preLocked
-	public native boolean removeBuff(unsigned int buffcrc);
-
+	public native void addBuff(unsigned int crc);
 	/**
 	 * Removes the buff from the creature, activating it and sending packets if it is a player.
 	 * Buffs should never be removed from the list without sending of packets.
 	 * @param buffcrc The buff object to remove from the list.
 	 */
 	@preLocked
-	@arg1preLocked
-	public native void removeBuff(Buff buff);
+	public native void removeBuff(unsigned int crc);
 
 	@preLocked
 	public native boolean removeStateBuff(unsigned long state);
@@ -707,7 +696,6 @@ class CreatureObject extends TangibleObject {
 
 	@dirty
 	public void sendBuffsTo(CreatureObject creature) {
-		creatureBuffs.sendTo(creature);
 	}
 
 	@local
@@ -717,16 +705,8 @@ class CreatureObject extends TangibleObject {
 	}
 
 	@dirty
-	public Buff getBuff(unsigned int buffcrc) {
-		if (creatureBuffs.hasBuff(buffcrc))
-			return creatureBuffs.getBuffByCRC(buffcrc);
-
-		return null;
-	}
-
-	@dirty
 	public long getSkillModFromBuffs(final string skillMod) {
-		return creatureBuffs.getModifierByName(skillMod);
+		return 0;
 	}
 
 	@preLocked

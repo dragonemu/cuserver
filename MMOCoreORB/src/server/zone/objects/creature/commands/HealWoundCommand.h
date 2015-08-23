@@ -12,7 +12,6 @@
 #include "server/zone/managers/player/PlayerManager.h"
 #include "server/zone/objects/creature/events/InjuryTreatmentTask.h"
 #include "server/zone/objects/creature/buffs/Buff.h"
-#include "server/zone/objects/creature/buffs/DelayedBuff.h"
 #include "server/zone/packets/object/CombatAction.h"
 #include "server/zone/managers/collision/CollisionManager.h"
 
@@ -22,8 +21,8 @@ class HealWoundCommand : public QueueCommand {
 public:
 
 	HealWoundCommand(const String& name, ZoneProcessServer* server)
-		: QueueCommand(name, server) {
-		
+: QueueCommand(name, server) {
+
 		mindCost = 50;
 		range = 6;
 	}
@@ -33,22 +32,7 @@ public:
 
 		int delay = (int)round((modSkill * -(2.0f / 25.0f)) + 20.0f);
 
-		if (creature->hasBuff(BuffCRC::FOOD_HEAL_RECOVERY)) {
-			DelayedBuff* buff = cast<DelayedBuff*>( creature->getBuff(BuffCRC::FOOD_HEAL_RECOVERY));
-
-			if (buff != NULL) {
-				float percent = buff->getSkillModifierValue("heal_recovery");
-
-				delay = round(delay * (100.0f - percent) / 100.0f);
-			}
-		}
-
 		//Force the delay to be at least 3 seconds.
-		delay = (delay < 3) ? 3 : delay;
-
-		StringIdChatParameter message("healing_response", "healing_response_59");
-		Reference<InjuryTreatmentTask*> task = new InjuryTreatmentTask(creature, message, "woundTreatment");
-		creature->addPendingTask("woundTreatment", task, delay * 1000);
 	}
 
 	void doAnimations(CreatureObject* creature, CreatureObject* creatureTarget) const {
@@ -124,11 +108,11 @@ public:
 			if (root != NULL && root->isStaticObject()) {
 				uint32 gameObjectType = root->getGameObjectType();
 				switch (gameObjectType) {
-						case SceneObjectType::RECREATIONBUILDING:
-						case SceneObjectType::HOTELBUILDING:
-						case SceneObjectType::THEATERBUILDING:
-							creature->sendSystemMessage("@healing_response:must_be_in_hospital"); // You must be in a hospital or at a campsite to do that.
-							return false;
+				case SceneObjectType::RECREATIONBUILDING:
+				case SceneObjectType::HOTELBUILDING:
+				case SceneObjectType::THEATERBUILDING:
+					creature->sendSystemMessage("@healing_response:must_be_in_hospital"); // You must be in a hospital or at a campsite to do that.
+					return false;
 				}
 			}
 		}

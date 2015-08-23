@@ -85,16 +85,7 @@ public:
 				int damageSusceptibility = damageBonus / 2;
 
 				// Build buff
-				ManagedReference<Buff*> buff = new Buff(pet, buffCRC, durationSec, BuffType::OTHER);
-
-				Locker locker(buff);
-
-				buff->setStartFlyText("combat_effects", "go_berserk", 0, 0xFF, 0);
-				buff->setEndFlyText("combat_effects", "no_berserk", 0xFF, 0, 0);
-				buff->setSkillModifier("private_damage_bonus", damageBonus);
-				buff->setSkillModifier("private_damage_susceptibility", damageSusceptibility);
-
-				pet->addBuff(buff);
+				pet->addBuff(buffCRC);
 				pet->getCooldownTimerMap()->updateToCurrentAndAddMili("enragePetsCooldown", cooldownMilli);
 				petEnraged = true;
 
