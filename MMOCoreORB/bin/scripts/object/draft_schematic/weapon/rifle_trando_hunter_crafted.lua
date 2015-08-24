@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted = object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted:new {
+object_draft_schematic_weapon_rifle_trando_hunter_crafted = object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_deed_shared_generic_deed = object_tangible_loot_generic_deed_shared_generic_deed:new {
+object_tangible_loot_generic_deed_generic_deed = object_tangible_loot_generic_deed_shared_generic_deed:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_deed_shared_generic_deed, "object/tangible/loot/generic_deed/shared_generic_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_deed_generic_deed, "object/tangible/loot/generic_deed/shared_generic_deed.iff")

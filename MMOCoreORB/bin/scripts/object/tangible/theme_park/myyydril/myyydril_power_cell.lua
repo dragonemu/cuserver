@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_theme_park_myyydril_shared_myyydril_power_cell = object_tangible_theme_park_myyydril_shared_myyydril_power_cell:new {
+object_tangible_theme_park_myyydril_myyydril_power_cell = object_tangible_theme_park_myyydril_shared_myyydril_power_cell:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_shared_myyydril_power_cell, "object/tangible/theme_park/myyydril/shared_myyydril_power_cell.iff")
+ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_myyydril_power_cell, "object/tangible/theme_park/myyydril/shared_myyydril_power_cell.iff")

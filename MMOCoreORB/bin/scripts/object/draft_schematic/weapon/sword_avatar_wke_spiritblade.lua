@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_sword_avatar_wke_spiritblade = object_draft_schematic_weapon_shared_sword_avatar_wke_spiritblade:new {
+object_draft_schematic_weapon_sword_avatar_wke_spiritblade = object_draft_schematic_weapon_shared_sword_avatar_wke_spiritblade:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_sword_avatar_wke_spiritblade, "object/draft_schematic/weapon/shared_sword_avatar_wke_spiritblade.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_avatar_wke_spiritblade, "object/draft_schematic/weapon/shared_sword_avatar_wke_spiritblade.iff")

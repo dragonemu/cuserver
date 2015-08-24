@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_scout_shared_item_camokit_kashyyyk = object_draft_schematic_scout_shared_item_camokit_kashyyyk:new {
+object_draft_schematic_scout_item_camokit_kashyyyk = object_draft_schematic_scout_shared_item_camokit_kashyyyk:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_scout_shared_item_camokit_kashyyyk, "object/draft_schematic/scout/shared_item_camokit_kashyyyk.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_scout_item_camokit_kashyyyk, "object/draft_schematic/scout/shared_item_camokit_kashyyyk.iff")

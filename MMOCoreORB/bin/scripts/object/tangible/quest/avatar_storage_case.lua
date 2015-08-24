@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_avatar_storage_case = object_tangible_quest_shared_avatar_storage_case:new {
+object_tangible_quest_avatar_storage_case = object_tangible_quest_shared_avatar_storage_case:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_avatar_storage_case, "object/tangible/quest/shared_avatar_storage_case.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_avatar_storage_case, "object/tangible/quest/shared_avatar_storage_case.iff")

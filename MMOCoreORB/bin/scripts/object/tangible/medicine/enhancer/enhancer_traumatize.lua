@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_shared_enhancer_traumatize = object_tangible_medicine_enhancer_shared_enhancer_traumatize:new {
+object_tangible_medicine_enhancer_enhancer_traumatize = object_tangible_medicine_enhancer_shared_enhancer_traumatize:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_traumatize, "object/tangible/medicine/enhancer/shared_enhancer_traumatize.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_traumatize, "object/tangible/medicine/enhancer/shared_enhancer_traumatize.iff")

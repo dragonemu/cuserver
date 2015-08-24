@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_kash_arch_wood_s02 = object_building_kashyyyk_shared_thm_kash_arch_wood_s02:new {
+object_building_kashyyyk_thm_kash_arch_wood_s02 = object_building_kashyyyk_shared_thm_kash_arch_wood_s02:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_arch_wood_s02, "object/building/kashyyyk/shared_thm_kash_arch_wood_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_arch_wood_s02, "object/building/kashyyyk/shared_thm_kash_arch_wood_s02.iff")

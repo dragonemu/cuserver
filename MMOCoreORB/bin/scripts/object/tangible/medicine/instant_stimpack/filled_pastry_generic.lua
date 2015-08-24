@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_instant_stimpack_shared_filled_pastry_generic = object_tangible_medicine_instant_stimpack_shared_filled_pastry_generic:new {
+object_tangible_medicine_instant_stimpack_filled_pastry_generic = object_tangible_medicine_instant_stimpack_shared_filled_pastry_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_shared_filled_pastry_generic, "object/tangible/medicine/instant_stimpack/shared_filled_pastry_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_filled_pastry_generic, "object/tangible/medicine/instant_stimpack/shared_filled_pastry_generic.iff")

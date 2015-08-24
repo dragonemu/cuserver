@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_shared_tracking_computer = object_tangible_item_som_shared_tracking_computer:new {
+object_tangible_item_som_tracking_computer = object_tangible_item_som_shared_tracking_computer:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_shared_tracking_computer, "object/tangible/item/som/shared_tracking_computer.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_tracking_computer, "object/tangible/item/som/shared_tracking_computer.iff")

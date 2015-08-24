@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_terminal_shared_floor_imperial_03 = object_static_worldbuilding_terminal_shared_floor_imperial_03:new {
+object_static_worldbuilding_terminal_floor_imperial_03 = object_static_worldbuilding_terminal_shared_floor_imperial_03:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_shared_floor_imperial_03, "object/static/worldbuilding/terminal/shared_floor_imperial_03.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_imperial_03, "object/static/worldbuilding/terminal/shared_floor_imperial_03.iff")

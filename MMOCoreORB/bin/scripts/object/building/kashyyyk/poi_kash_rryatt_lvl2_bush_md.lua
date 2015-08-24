@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_poi_kash_rryatt_lvl2_bush_md = object_building_kashyyyk_shared_poi_kash_rryatt_lvl2_bush_md:new {
+object_building_kashyyyk_poi_kash_rryatt_lvl2_bush_md = object_building_kashyyyk_shared_poi_kash_rryatt_lvl2_bush_md:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_lvl2_bush_md, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl2_bush_md.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl2_bush_md, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl2_bush_md.iff")

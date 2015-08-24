@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_tatooine_shared_cave_tatooine_legacy_darklighter = object_building_tatooine_shared_cave_tatooine_legacy_darklighter:new {
+object_building_tatooine_cave_tatooine_legacy_darklighter = object_building_tatooine_shared_cave_tatooine_legacy_darklighter:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_tatooine_shared_cave_tatooine_legacy_darklighter, "object/building/tatooine/shared_cave_tatooine_legacy_darklighter.iff")
+ObjectTemplates:addTemplate(object_building_tatooine_cave_tatooine_legacy_darklighter, "object/building/tatooine/shared_cave_tatooine_legacy_darklighter.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_structure_general_shared_waypoint_pulseline_red = object_static_structure_general_shared_waypoint_pulseline_red:new {
+object_static_structure_general_waypoint_pulseline_red = object_static_structure_general_shared_waypoint_pulseline_red:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_shared_waypoint_pulseline_red, "object/static/structure/general/shared_waypoint_pulseline_red.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_waypoint_pulseline_red, "object/static/structure/general/shared_waypoint_pulseline_red.iff")

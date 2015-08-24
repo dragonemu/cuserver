@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_frequency_jammer_wire_generic = object_tangible_loot_npc_loot_shared_frequency_jammer_wire_generic:new {
+object_tangible_loot_npc_loot_frequency_jammer_wire_generic = object_tangible_loot_npc_loot_shared_frequency_jammer_wire_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_frequency_jammer_wire_generic, "object/tangible/loot/npc_loot/shared_frequency_jammer_wire_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_frequency_jammer_wire_generic, "object/tangible/loot/npc_loot/shared_frequency_jammer_wire_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_axe_shared_axe_heavy_duty_npe = object_weapon_melee_axe_shared_axe_heavy_duty_npe:new {
+object_weapon_melee_axe_axe_heavy_duty_npe = object_weapon_melee_axe_shared_axe_heavy_duty_npe:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_axe_shared_axe_heavy_duty_npe, "object/weapon/melee/axe/shared_axe_heavy_duty_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_axe_axe_heavy_duty_npe, "object/weapon/melee/axe/shared_axe_heavy_duty_npe.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_webweaver = object_mobile_shared_webweaver:new {
+object_mobile_webweaver = object_mobile_shared_webweaver:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_webweaver, "object/mobile/shared_webweaver.iff")
+ObjectTemplates:addTemplate(object_mobile_webweaver, "object/mobile/shared_webweaver.iff")

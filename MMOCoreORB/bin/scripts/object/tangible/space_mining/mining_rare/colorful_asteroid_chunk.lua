@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk = object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk:new {
+object_tangible_space_mining_mining_rare_colorful_asteroid_chunk = object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff")
+ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff")

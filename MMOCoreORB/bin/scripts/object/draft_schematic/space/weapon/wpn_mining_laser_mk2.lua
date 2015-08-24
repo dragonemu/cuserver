@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_weapon_shared_wpn_mining_laser_mk2 = object_draft_schematic_space_weapon_shared_wpn_mining_laser_mk2:new {
+object_draft_schematic_space_weapon_wpn_mining_laser_mk2 = object_draft_schematic_space_weapon_shared_wpn_mining_laser_mk2:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_shared_wpn_mining_laser_mk2, "object/draft_schematic/space/weapon/shared_wpn_mining_laser_mk2.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_mining_laser_mk2, "object/draft_schematic/space/weapon/shared_wpn_mining_laser_mk2.iff")

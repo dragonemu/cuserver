@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_uller = object_mobile_shared_uller:new {
+object_mobile_uller = object_mobile_shared_uller:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_uller, "object/mobile/shared_uller.iff")
+ObjectTemplates:addTemplate(object_mobile_uller, "object/mobile/shared_uller.iff")

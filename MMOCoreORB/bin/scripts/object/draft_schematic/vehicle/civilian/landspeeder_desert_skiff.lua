@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_vehicle_civilian_shared_landspeeder_desert_skiff = object_draft_schematic_vehicle_civilian_shared_landspeeder_desert_skiff:new {
+object_draft_schematic_vehicle_civilian_landspeeder_desert_skiff = object_draft_schematic_vehicle_civilian_shared_landspeeder_desert_skiff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_shared_landspeeder_desert_skiff, "object/draft_schematic/vehicle/civilian/shared_landspeeder_desert_skiff.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_landspeeder_desert_skiff, "object/draft_schematic/vehicle/civilian/shared_landspeeder_desert_skiff.iff")
