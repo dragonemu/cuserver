@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_quest_som_kenobi_reunite_shard_splinters_2 = object_tangible_quest_som_kenobi_reunite_shard_splinters_2:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_reunite_shard_splinters_2, "object/tangible/quest/som_kenobi_reunite_shard_splinters_2.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_finned_blaggart = object_mobile_finned_blaggart:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_finned_blaggart, "object/mobile/finned_blaggart.iff")

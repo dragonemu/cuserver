@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed = object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed, "object/tangible/ship/crafted/chassis/tieinterceptor_imperial_guard_reward_deed.iff")

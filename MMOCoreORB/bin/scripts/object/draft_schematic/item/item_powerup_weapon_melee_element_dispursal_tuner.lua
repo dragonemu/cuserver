@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_item_item_powerup_weapon_melee_element_dispursal_tuner = object_draft_schematic_item_item_powerup_weapon_melee_element_dispursal_tuner:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_item_item_powerup_weapon_melee_element_dispursal_tuner, "object/draft_schematic/item/item_powerup_weapon_melee_element_dispursal_tuner.iff")

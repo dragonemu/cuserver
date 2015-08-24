@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_crafted_chassis_jedi_starfighter_deed = object_tangible_ship_crafted_chassis_jedi_starfighter_deed:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_jedi_starfighter_deed, "object/tangible/ship/crafted/chassis/jedi_starfighter_deed.iff")

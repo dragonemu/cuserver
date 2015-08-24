@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_frn_all_trophy_bantha_kash = object_building_kashyyyk_frn_all_trophy_bantha_kash:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_all_trophy_bantha_kash, "object/building/kashyyyk/frn_all_trophy_bantha_kash.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_npc_loot_engineer_analysis_board_generic = object_tangible_loot_npc_loot_engineer_analysis_board_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_engineer_analysis_board_generic, "object/tangible/loot/npc_loot/engineer_analysis_board_generic.iff")

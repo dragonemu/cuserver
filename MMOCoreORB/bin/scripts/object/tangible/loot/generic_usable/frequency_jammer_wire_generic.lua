@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_generic_usable_frequency_jammer_wire_generic = object_tangible_loot_generic_usable_frequency_jammer_wire_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_frequency_jammer_wire_generic, "object/tangible/loot/generic_usable/frequency_jammer_wire_generic.iff")

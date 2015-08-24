@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic = object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic, "object/tangible/loot/loot_schematic/trandoshan_hunter_rifle_schematic.iff")

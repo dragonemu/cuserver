@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_f = object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_f:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_f, "object/tangible/wearables/necklace/ith_necklace_ace_pilot_neutral_f.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_worldbuilding_terminal_wall_terminal_bank_off_02 = object_static_worldbuilding_terminal_wall_terminal_bank_off_02:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_wall_terminal_bank_off_02, "object/static/worldbuilding/terminal/wall_terminal_bank_off_02.iff")

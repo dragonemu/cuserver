@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_powerup_weapon_melee_element_dispursal_tuner = object_tangible_powerup_weapon_melee_element_dispursal_tuner:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_element_dispursal_tuner, "object/tangible/powerup/weapon/melee_element_dispursal_tuner.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_food_quest_dessert_luilris_mushroom_pie = object_tangible_food_quest_dessert_luilris_mushroom_pie:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_food_quest_dessert_luilris_mushroom_pie, "object/tangible/food/quest/dessert_luilris_mushroom_pie.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_quest_corellia_coronet_government_work_courier = object_tangible_quest_corellia_coronet_government_work_courier:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_government_work_courier, "object/tangible/quest/corellia_coronet_government_work_courier.iff")

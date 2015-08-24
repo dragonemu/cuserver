@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_generic_usable_elect_power_unit_generic = object_tangible_loot_generic_usable_elect_power_unit_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_elect_power_unit_generic, "object/tangible/loot/generic_usable/elect_power_unit_generic.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_resource_container_resource_container_organic_tuber = object_resource_container_resource_container_organic_tuber:new {
+
+}
+
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_tuber, "object/resource_container/resource_container_organic_tuber.iff")

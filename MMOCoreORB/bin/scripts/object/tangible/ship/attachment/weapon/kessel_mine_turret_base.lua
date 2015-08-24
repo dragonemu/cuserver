@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_attachment_weapon_kessel_mine_turret_base = object_tangible_ship_attachment_weapon_kessel_mine_turret_base:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_kessel_mine_turret_base, "object/tangible/ship/attachment/weapon/kessel_mine_turret_base.iff")

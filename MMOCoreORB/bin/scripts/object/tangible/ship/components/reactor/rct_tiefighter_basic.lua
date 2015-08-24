@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_reactor_rct_tiefighter_basic = object_tangible_ship_components_reactor_rct_tiefighter_basic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_tiefighter_basic, "object/tangible/ship/components/reactor/rct_tiefighter_basic.iff")

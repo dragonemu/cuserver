@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_engine_eng_h17_singularity = object_tangible_ship_components_engine_eng_h17_singularity:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_h17_singularity, "object/tangible/ship/components/engine/eng_h17_singularity.iff")

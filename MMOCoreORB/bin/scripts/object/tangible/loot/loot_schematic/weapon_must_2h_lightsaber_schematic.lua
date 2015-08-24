@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic = object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic, "object/tangible/loot/loot_schematic/weapon_must_2h_lightsaber_schematic.iff")

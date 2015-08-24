@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_ep3_rewards_wke_center_piece = object_tangible_furniture_ep3_rewards_wke_center_piece:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_center_piece, "object/tangible/furniture/ep3_rewards/wke_center_piece.iff")

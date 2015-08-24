@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_veteran_reward_vehicle_transport_skiff = object_tangible_veteran_reward_vehicle_transport_skiff:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_vehicle_transport_skiff, "object/tangible/veteran_reward/vehicle_transport_skiff.iff")

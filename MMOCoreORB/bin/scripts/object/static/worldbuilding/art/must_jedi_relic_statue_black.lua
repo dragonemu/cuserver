@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_worldbuilding_art_must_jedi_relic_statue_black = object_static_worldbuilding_art_must_jedi_relic_statue_black:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_worldbuilding_art_must_jedi_relic_statue_black, "object/static/worldbuilding/art/must_jedi_relic_statue_black.iff")

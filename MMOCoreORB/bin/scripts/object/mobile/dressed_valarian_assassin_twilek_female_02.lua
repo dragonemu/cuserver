@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_dressed_valarian_assassin_twilek_female_02 = object_mobile_dressed_valarian_assassin_twilek_female_02:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_dressed_valarian_assassin_twilek_female_02, "object/mobile/dressed_valarian_assassin_twilek_female_02.iff")

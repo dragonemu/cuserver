@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner = object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner, "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_scanner.iff")

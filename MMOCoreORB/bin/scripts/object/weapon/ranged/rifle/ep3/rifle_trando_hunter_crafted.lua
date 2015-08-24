@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted = object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted, "object/weapon/ranged/rifle/ep3/rifle_trando_hunter_crafted.iff")

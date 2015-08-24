@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_weapon_wpn_hoersch_railgun = object_tangible_ship_components_weapon_wpn_hoersch_railgun:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_hoersch_railgun, "object/tangible/ship/components/weapon/wpn_hoersch_railgun.iff")

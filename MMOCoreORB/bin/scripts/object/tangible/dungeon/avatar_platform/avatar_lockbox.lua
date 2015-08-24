@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_avatar_platform_avatar_lockbox = object_tangible_dungeon_avatar_platform_avatar_lockbox:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_avatar_lockbox, "object/tangible/dungeon/avatar_platform/avatar_lockbox.iff")

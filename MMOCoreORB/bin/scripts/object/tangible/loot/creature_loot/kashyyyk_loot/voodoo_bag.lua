@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag = object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag, "object/tangible/loot/creature_loot/kashyyyk_loot/voodoo_bag.iff")

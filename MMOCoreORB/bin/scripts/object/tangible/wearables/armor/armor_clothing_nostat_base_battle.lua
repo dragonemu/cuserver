@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_armor_clothing_nostat_base_battle = object_tangible_wearables_armor_armor_clothing_nostat_base_battle:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base_battle, "object/tangible/wearables/armor/armor_clothing_nostat_base_battle.iff")

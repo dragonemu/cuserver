@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_space_weapon_wpn_mining_laser_mk3 = object_draft_schematic_space_weapon_wpn_mining_laser_mk3:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_mining_laser_mk3, "object/draft_schematic/space/weapon/wpn_mining_laser_mk3.iff")

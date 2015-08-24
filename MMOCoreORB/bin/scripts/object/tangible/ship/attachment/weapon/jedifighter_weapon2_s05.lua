@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05 = object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05, "object/tangible/ship/attachment/weapon/jedifighter_weapon2_s05.iff")

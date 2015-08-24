@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_weapon_wpn_mining_laser_mk3 = object_tangible_ship_components_weapon_wpn_mining_laser_mk3:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_mining_laser_mk3, "object/tangible/ship/components/weapon/wpn_mining_laser_mk3.iff")

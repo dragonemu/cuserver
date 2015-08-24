@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_04 = object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_04:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_04, "object/tangible/loot/creature_loot/kashyyyk_loot/adventurers_remains_04.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_myyydril_cave_slime_strip_c = object_building_kashyyyk_myyydril_cave_slime_strip_c:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_slime_strip_c, "object/building/kashyyyk/myyydril_cave_slime_strip_c.iff")

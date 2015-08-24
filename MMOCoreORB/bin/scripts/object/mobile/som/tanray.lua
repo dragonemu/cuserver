@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_som_tanray = object_mobile_som_tanray:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_som_tanray, "object/mobile/som/tanray.iff")

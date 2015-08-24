@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_eqp_static_wookiee_totem_crafters = object_building_kashyyyk_eqp_static_wookiee_totem_crafters:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_crafters, "object/building/kashyyyk/eqp_static_wookiee_totem_crafters.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_hologram_hologram_hk47 = object_tangible_hologram_hologram_hk47:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_hologram_hologram_hk47, "object/tangible/hologram/hologram_hk47.iff")

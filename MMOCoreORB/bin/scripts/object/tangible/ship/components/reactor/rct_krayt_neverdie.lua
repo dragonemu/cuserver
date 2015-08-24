@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_reactor_rct_krayt_neverdie = object_tangible_ship_components_reactor_rct_krayt_neverdie:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_krayt_neverdie, "object/tangible/ship/components/reactor/rct_krayt_neverdie.iff")

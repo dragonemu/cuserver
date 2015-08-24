@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_component_armor_armor_core_battle_advanced = object_tangible_component_armor_armor_core_battle_advanced:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_battle_advanced, "object/tangible/component/armor/armor_core_battle_advanced.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_decorative_hologram_base_emperor = object_tangible_furniture_decorative_hologram_base_emperor:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_decorative_hologram_base_emperor, "object/tangible/furniture/decorative/hologram_base_emperor.iff")

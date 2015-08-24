@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_melee_polearm_lance_avatar_wke_heartlance = object_weapon_melee_polearm_lance_avatar_wke_heartlance:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_avatar_wke_heartlance, "object/weapon/melee/polearm/lance_avatar_wke_heartlance.iff")

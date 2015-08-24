@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_ship_asteroid_mining_asteroid_dynamic_default = object_ship_asteroid_mining_asteroid_dynamic_default:new {
+
+}
+
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_default, "object/ship/asteroid/mining_asteroid_dynamic_default.iff")

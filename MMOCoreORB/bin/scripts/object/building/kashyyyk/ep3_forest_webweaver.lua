@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_ep3_forest_webweaver = object_building_kashyyyk_ep3_forest_webweaver:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_ep3_forest_webweaver, "object/building/kashyyyk/ep3_forest_webweaver.iff")

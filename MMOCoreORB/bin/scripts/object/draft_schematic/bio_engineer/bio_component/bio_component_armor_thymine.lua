@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine = object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine, "object/draft_schematic/bio_engineer/bio_component/bio_component_armor_thymine.iff")

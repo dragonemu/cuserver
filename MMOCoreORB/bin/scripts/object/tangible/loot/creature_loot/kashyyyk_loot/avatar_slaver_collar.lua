@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar = object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar, "object/tangible/loot/creature_loot/kashyyyk_loot/avatar_slaver_collar.iff")

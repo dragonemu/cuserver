@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_clone_trooper_armor_clone_trooper_neutral_s01_belt = object_tangible_wearables_armor_clone_trooper_armor_clone_trooper_neutral_s01_belt:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_clone_trooper_armor_clone_trooper_neutral_s01_belt, "object/tangible/wearables/armor/clone_trooper/armor_clone_trooper_neutral_s01_belt.iff")

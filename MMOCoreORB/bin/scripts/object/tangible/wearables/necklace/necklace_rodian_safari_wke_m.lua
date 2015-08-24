@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_necklace_necklace_rodian_safari_wke_m = object_tangible_wearables_necklace_necklace_rodian_safari_wke_m:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_rodian_safari_wke_m, "object/tangible/wearables/necklace/necklace_rodian_safari_wke_m.iff")

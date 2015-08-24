@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_ranged_carbine_som_carbine_republic_sfor_generic = object_weapon_ranged_carbine_som_carbine_republic_sfor_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_som_carbine_republic_sfor_generic, "object/weapon/ranged/carbine/som_carbine_republic_sfor_generic.iff")

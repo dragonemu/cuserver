@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_wall_modular_restraining_wall_4m = object_building_kashyyyk_wall_modular_restraining_wall_4m:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_wall_modular_restraining_wall_4m, "object/building/kashyyyk/wall_modular_restraining_wall_4m.iff")

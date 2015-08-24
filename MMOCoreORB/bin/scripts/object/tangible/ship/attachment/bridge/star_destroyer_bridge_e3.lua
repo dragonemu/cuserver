@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_attachment_bridge_star_destroyer_bridge_e3 = object_tangible_ship_attachment_bridge_star_destroyer_bridge_e3:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_bridge_star_destroyer_bridge_e3, "object/tangible/ship/attachment/bridge/star_destroyer_bridge_e3.iff")

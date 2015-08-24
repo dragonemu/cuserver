@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_uplink_trial_beetle_lair = object_tangible_dungeon_mustafar_uplink_trial_beetle_lair:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_uplink_trial_beetle_lair, "object/tangible/dungeon/mustafar/uplink_trial/beetle_lair.iff")

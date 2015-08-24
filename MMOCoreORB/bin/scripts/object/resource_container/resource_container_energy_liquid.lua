@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_resource_container_resource_container_energy_liquid = object_resource_container_resource_container_energy_liquid:new {
+
+}
+
+ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_liquid, "object/resource_container/resource_container_energy_liquid.iff")

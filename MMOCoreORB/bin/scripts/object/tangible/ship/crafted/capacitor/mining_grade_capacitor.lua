@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_crafted_capacitor_mining_grade_capacitor = object_tangible_ship_crafted_capacitor_mining_grade_capacitor:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_capacitor_mining_grade_capacitor, "object/tangible/ship/crafted/capacitor/mining_grade_capacitor.iff")

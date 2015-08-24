@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_general_naboo_kadaara_skaak_tipper_bunker = object_building_general_naboo_kadaara_skaak_tipper_bunker:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_general_naboo_kadaara_skaak_tipper_bunker, "object/building/general/naboo_kadaara_skaak_tipper_bunker.iff")

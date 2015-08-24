@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_belt = object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_belt:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_belt, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_belt.iff")

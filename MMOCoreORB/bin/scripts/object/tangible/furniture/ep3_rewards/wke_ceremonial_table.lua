@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_ep3_rewards_wke_ceremonial_table = object_tangible_furniture_ep3_rewards_wke_ceremonial_table:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_ceremonial_table, "object/tangible/furniture/ep3_rewards/wke_ceremonial_table.iff")

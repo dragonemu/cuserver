@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_component_armor_standard_armor_layer_stun = object_tangible_component_armor_standard_armor_layer_stun:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_stun, "object/tangible/component/armor/standard_armor_layer_stun.iff")

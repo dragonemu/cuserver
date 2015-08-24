@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_npc_loot_magseal_detector_generic = object_tangible_loot_npc_loot_magseal_detector_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_magseal_detector_generic, "object/tangible/loot/npc_loot/magseal_detector_generic.iff")

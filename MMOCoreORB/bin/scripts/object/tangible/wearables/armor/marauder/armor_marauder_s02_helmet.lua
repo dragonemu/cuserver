@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_marauder_armor_marauder_s02_helmet = object_tangible_wearables_armor_marauder_armor_marauder_s02_helmet:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_armor_marauder_s02_helmet, "object/tangible/wearables/armor/marauder/armor_marauder_s02_helmet.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_leggings = object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_leggings:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_leggings, "object/tangible/wearables/armor/assault_trooper/armor_assault_trooper_leggings.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_resource_container_resource_container_organic_fungi = object_resource_container_resource_container_organic_fungi:new {
+
+}
+
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_fungi, "object/resource_container/resource_container_organic_fungi.iff")

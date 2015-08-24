@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_armor_component_new_armor_layer_base = object_draft_schematic_armor_component_new_armor_layer_base:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_layer_base, "object/draft_schematic/armor/component/new_armor_layer_base.iff")

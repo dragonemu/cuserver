@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_food_generic_dessert_kiwik_clusjo_swirl = object_tangible_food_generic_dessert_kiwik_clusjo_swirl:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_kiwik_clusjo_swirl, "object/tangible/food/generic/dessert_kiwik_clusjo_swirl.iff")

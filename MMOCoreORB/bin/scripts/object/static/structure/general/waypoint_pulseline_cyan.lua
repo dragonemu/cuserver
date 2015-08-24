@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_structure_general_waypoint_pulseline_cyan = object_static_structure_general_waypoint_pulseline_cyan:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_structure_general_waypoint_pulseline_cyan, "object/static/structure/general/waypoint_pulseline_cyan.iff")

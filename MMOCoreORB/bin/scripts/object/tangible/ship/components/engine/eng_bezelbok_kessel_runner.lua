@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_engine_eng_bezelbok_kessel_runner = object_tangible_ship_components_engine_eng_bezelbok_kessel_runner:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_bezelbok_kessel_runner, "object/tangible/ship/components/engine/eng_bezelbok_kessel_runner.iff")

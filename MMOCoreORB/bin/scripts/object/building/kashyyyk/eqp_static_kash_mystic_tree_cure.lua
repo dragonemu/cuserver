@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_eqp_static_kash_mystic_tree_cure = object_building_kashyyyk_eqp_static_kash_mystic_tree_cure:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_kash_mystic_tree_cure, "object/building/kashyyyk/eqp_static_kash_mystic_tree_cure.iff")

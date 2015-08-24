@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token = object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token, "object/tangible/ship/components/chassis/tiefighter_heavy_chassis_token.iff")

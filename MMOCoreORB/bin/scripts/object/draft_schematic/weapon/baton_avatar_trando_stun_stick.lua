@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_baton_avatar_trando_stun_stick = object_draft_schematic_weapon_baton_avatar_trando_stun_stick:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_baton_avatar_trando_stun_stick, "object/draft_schematic/weapon/baton_avatar_trando_stun_stick.iff")

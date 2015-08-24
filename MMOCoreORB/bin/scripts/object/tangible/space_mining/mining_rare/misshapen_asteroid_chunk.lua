@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk = object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk, "object/tangible/space_mining/mining_rare/misshapen_asteroid_chunk.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_powerup_weapon_melee_inertial_fluctuator = object_tangible_powerup_weapon_melee_inertial_fluctuator:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_inertial_fluctuator, "object/tangible/powerup/weapon/melee_inertial_fluctuator.iff")

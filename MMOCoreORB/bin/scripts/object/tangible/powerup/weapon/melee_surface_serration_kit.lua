@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_powerup_weapon_melee_surface_serration_kit = object_tangible_powerup_weapon_melee_surface_serration_kit:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_surface_serration_kit, "object/tangible/powerup/weapon/melee_surface_serration_kit.iff")
