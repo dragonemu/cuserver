@@ -7,11 +7,11 @@ Copyright (C) 2014 CU Galaxies
 
 #include "server/zone/objects/scene/SceneObject.h"
 
-class ArmorBreakCommand : public QueueCommand {
+class ArmorBreakCommand : public CombatQueueCommand {
 public:
 
 	ArmorBreakCommand(const String& name, ZoneProcessServer* server)
-		: QueueCommand(name, server) {
+		: CombatQueueCommand(name, server) {
 
 	}
 
@@ -23,7 +23,7 @@ public:
 		if (!checkInvalidLocomotions(creature))
 			return INVALIDLOCOMOTION;
 
-		return SUCCESS;
+		return doCombatAction(creature, target);
 	}
 
 };

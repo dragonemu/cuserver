@@ -101,12 +101,11 @@ bool AbilityList::add(Ability* ability, DeltaMessage* message, int updates) {
 	bool val = vector.add(ability);
 
 	if (message != NULL) {
-		if (updates != 0)
-			message->startList(updates, updateCounter += updates);
-
-		message->insertByte(1);
-		message->insertShort(vector.size() - 1);
-		ability->toBinaryStream(message);
+		message->insertInt(1);
+		message->insertInt(++updateCounter);
+		message->insertByte(0);
+		message->insertAscii(ability->getAbilityName());
+		message->insertInt(1);
 	}
 
 	return val;

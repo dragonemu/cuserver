@@ -87,6 +87,9 @@
 #include "server/zone/objects/player/events/LogoutTask.h"
 #include "server/zone/objects/player/events/StoreSpawnedChildrenTask.h"
 
+#include "server/zone/packets/tangible/WeaponObjectMessage3.h"
+#include "server/zone/packets/tangible/WeaponObjectMessage6.h"
+
 #include "server/zone/objects/tangible/threat/ThreatMap.h"
 
 #include "buffs/BuffDurationEvent.h"
@@ -213,17 +216,17 @@ void CreatureObjectImplementation::loadTemplateData(
 
 	wounds.removeAll();
 
-	for (int i = 0; i < 1; ++i) {
+	for (int i = 0; i < 6; i++) {
 		wounds.add(0);
 	}
 
 	hamList.removeAll();
-	for (int i = 0; i < 6; ++i) {
+	for (int i = 0; i < 6; i++) {
 		hamList.add(baseHAM.get(i));
 	}
 
 	maxHamList.removeAll();
-	for (int i = 0; i < 6; ++i) {
+	for (int i = 0; i < 6; i++)  {
 		maxHamList.add(baseHAM.get(i));
 	}
 
@@ -438,17 +441,6 @@ void CreatureObjectImplementation::sendNewbieTutorialEnableHudElement(
 	sendMessage(message);
 }
 
-
-
-
-
-
-
-
-
-
-
-
 void CreatureObjectImplementation::sendSystemMessage(
 		StringIdChatParameter& message) {
 	if (!isPlayerCreature())
@@ -470,19 +462,18 @@ void CreatureObjectImplementation::clearQueueAction(uint32 actioncntr, float tim
 	if (!isPlayerCreature())
 		return;
 
+
+
 	if (tab1 > 0 || tab2 > 0 || timer == 0) {
 		BaseMessage* commandFail = new CommandTimer(_this.get(), actioncntr, actionCRC);
 		sendMessage(commandFail);
-	} else {
+	} /*else {
 		ManagedReference<ObjectController*> objectController = getZoneServer()->getObjectController();
 		QueueCommand* queueCommand = objectController->getQueueCommand(actionCRC);
 
 		BaseMessage* cooldownStart = new CommandTimer(_this.get(), actioncntr, actionCRC, queueCommand->getCoolDownGroup().hashCode(), queueCommand->getCooldown(), queueCommand->getExecuteTime());
 		sendMessage(cooldownStart);
-	}
-
-	BaseMessage* queuemsg = new CommandQueueRemove(_this.get(), actioncntr, timer, tab1, tab2);
-	sendMessage(queuemsg);
+	}*/
 }
 
 void CreatureObjectImplementation::clearQueueActions(bool combatOnly) {
@@ -523,30 +514,33 @@ void CreatureObjectImplementation::setWeapon(WeaponObject* weao,
 
 	weapon = weao;
 
-	//TODO fix
-
-
-
-
-
-
-
-
-
-
+	/*if (isPlayerCreature()) {
+		PlayerObject* ghost = getSlottedObject("ghost").castTo<PlayerObject*>();
+		if (ghost != NULL) {
+			if (!ghost->hasAbility("counterAttack") && (weapon->isCarbineWeapon() || (weapon->isTwoHandMeleeWeapon() && !weapon->isJediWeapon()))) {
+				SkillManager::instance()->addAbility(ghost, "counterAttack", false);
+			} else if (ghost->hasAbility("counterAttack") && !(weapon->isCarbineWeapon() || (weapon->isTwoHandMeleeWeapon() && !weapon->isJediWeapon()))) {
+				SkillManager::instance()->removeAbility(ghost, "counterAttack", false);
+			}
+		}
+	}*/
 
 	if (notifyClient) {
-	/*	CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				asCreatureObject());
-
+		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
+				_this.get());
 		msg->updateWeapon();
 		msg->close();
 
 		broadcastMessage(msg, true);
 
-		*/
-		WeaponRanges* ranges = new WeaponRanges(asCreatureObject(), getWeapon());
-		sendMessage(ranges);
+		WeaponObjectMessage3* weaponChange1 = new WeaponObjectMessage3(_this.get()->getWeapon());
+		sendMessage(weaponChange1);
+
+		WeaponObjectMessage6* weaponChange2 = new WeaponObjectMessage6(_this.get()->getWeapon());
+		sendMessage(weaponChange2);
+
+		/*WeaponRanges* ranges = new WeaponRanges(_this.get(), getWeapon());
+		sendMessage(ranges); */ // not used in CU
 	}
 }
 
@@ -587,7 +581,7 @@ void CreatureObjectImplementation::setTargetID(uint64 targetID,
 	CreatureObjectImplementation::targetID = targetID;
 	//TODO fix
 
-	/*if (notifyClient) {
+	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
 				asCreatureObject());
 
@@ -595,7 +589,7 @@ void CreatureObjectImplementation::setTargetID(uint64 targetID,
 		msg->close();
 
 		broadcastMessage(msg, false);
-	}*/
+	}
 }
 
 void CreatureObjectImplementation::setHeight(float height, bool notifyClient) {
@@ -997,23 +991,23 @@ void CreatureObjectImplementation::setHAM(int type, int value,
 	if (hamList.get(type) == value)
 		return;
 
-	/*StringBuffer msg;
-	 msg << "setting ham type " << type << " to " << value;
-	 info(msg.toString(), true);*/
+	//StringBuffer msg;
+	// msg << "setting ham type " << type << " to " << value;
+	// info(msg.toString(), true);
 	//TODO FIX
 
-	/*if (notifyClient) {
+	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
 				asCreatureObject());
 
-		msg->startUpdate(0x0D);
+		msg->startUpdate(0x0E);
 		hamList.set(type, value, msg);
 		msg->close();
 
 		broadcastMessage(msg, true);
-	} else { */
+	} else {
 		hamList.set(type, value, NULL);
-	//}
+	}
 }
 
 int CreatureObjectImplementation::inflictDamage(TangibleObject* attacker, int damageType, float damage, bool destroy, const String& xp, bool notifyClient) {
@@ -1337,7 +1331,7 @@ void CreatureObjectImplementation::addSkill(Skill* skill, bool notifyClient) {
 		return;
 	//TODO Fix?
 
-	/*if (notifyClient) {
+	if (notifyClient) {
 		CreatureObjectDeltaMessage1* msg =
 				new CreatureObjectDeltaMessage1(this);
 		msg->startUpdate(0x03);
@@ -1345,9 +1339,9 @@ void CreatureObjectImplementation::addSkill(Skill* skill, bool notifyClient) {
 		msg->close();
 
 		sendMessage(msg);
-	} else {*/
+	} else {
 		skillList.add(skill, NULL);
-	//}
+	}
 }
 
 void CreatureObjectImplementation::removeSkill(Skill* skill, bool notifyClient) {
@@ -1866,9 +1860,9 @@ void CreatureObjectImplementation::enqueueCommand(unsigned int actionCRC,
 		return;
 	}
 
-	StringBuffer msg;
-	msg << "trying to enqueue QUEUE COMMAND 0x" << hex << actionCRC;
-	info(msg.toString(), true);
+	//StringBuffer msg;
+	//msg << "trying to enqueue QUEUE COMMAND 0x" << hex << actionCRC;
+	//info(msg.toString(), true);
 
 	if (priority < 0)
 		priority = queueCommand->getDefaultPriority();
@@ -1931,6 +1925,7 @@ void CreatureObjectImplementation::sendCommand(const String& action, const Unico
 }
 
 void CreatureObjectImplementation::sendCommand(uint32 crc, const UnicodeString& args, uint64 targetID, int priority) {
+
 	uint32 nextCounter = incrementLastActionCounter();
 	CommandQueueAdd* msg = new CommandQueueAdd(asCreatureObject(), crc, nextCounter);
 	sendMessage(msg);
@@ -2830,19 +2825,17 @@ void CreatureObjectImplementation::addWearableObject(TangibleObject* object, boo
 	if (wearablesVector.contains(object))
 		return;
 
-	if (notifyClient) {
+	/*if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				asCreatureObject());
-
+				_this.get());
 		msg->startUpdate(0x0F);
 		wearablesVector.add(object, msg);
 		msg->close();
 
-		broadcastMessage(msg, true);
-	} else {
-		wearablesVector.add(object);
-	}
-
+		broadcastMessage(msg, true);*/
+	//} else {
+	wearablesVector.add(object);
+	//}
 }
 
 void CreatureObjectImplementation::removeWearableObject(TangibleObject* object, bool notifyClient) {
@@ -2851,19 +2844,17 @@ void CreatureObjectImplementation::removeWearableObject(TangibleObject* object, 
 	if (index == -1)
 		return;
 
-	if (notifyClient) {
+	/*if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				asCreatureObject());
-
+				_this.get());
 		msg->startUpdate(0x0F);
 		wearablesVector.remove(index, msg);
 		msg->close();
 
 		broadcastMessage(msg, true);
-	} else {
-		wearablesVector.remove(index);
-	}
-
+	} else {*/
+	wearablesVector.remove(index);
+	//}
 }
 
 CampSiteActiveArea* CreatureObjectImplementation::getCurrentCamp() {

@@ -64,19 +64,20 @@ public:
 
 		insertByte(attacker->getPosture()); // AttackerEndPosture: 0x0-Standing 0x1-Kneeling 0x2-Prone 0xD-Incapacitated
 		insertByte(trails); // Trails: 0x01-left_foot 0x02-right_foot 0x04-left_hand 0x08-right_hand 0x10-weapon
-		insertByte(0x00); // AttackerSpecialMoveEffect: disabled in the client
-
+		insertByte(0x00); // AttackerSpecialMoveEffect:
 		insertInt(commandcrc); // Command CRC
 
-		defenderSize = 1;
 
-		insertShort(1); // Defender List Size
-		insertLong(defender->getObjectID());
+
+		insertByte(1); // Use location
+		//insertByte(0); // target location
+		//insertByte(0); // target cell
+		insertByte(0);//defenderSize = 1;
+		insertLong(defender->getObjectID()); // defender ID
 		insertByte(defender->getPosture()); // DefenderEndPosture: 0x0-Standing 0x1-Kneeling 0x2-Prone 0xD-Incapacitated
 		insertByte(hit); // HitType: 0x0-MISS 0x1-HIT 0x2-BLOCK 0x3-DODGE 0x5-COUNTER 0x7-RICOCHET 0x8-REFLECT 0x9-REFLECT_TO_TARGET
 		insertByte(0x00); // DefenderSpecialMoveEffect: disabled in the client
-
-		insertByte(0x00); // Unk - Packet has 0x05, 0x04, 0x03, 0x02, 0x01 and 0x00
+		insertByte(0x01); //hit loc
 		insertShort(damage); // This is the damage in a flytext that the attack is doing
 	}
 

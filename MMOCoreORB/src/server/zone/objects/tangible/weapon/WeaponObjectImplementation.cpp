@@ -153,10 +153,10 @@ void WeaponObjectImplementation::sendBaselinesTo(SceneObject* player) {
 	BaseMessage* weao6 = new WeaponObjectMessage6(_this.getReferenceUnsafeStaticCast());
 	player->sendMessage(weao6);
 
-	if (player->isCreatureObject()) {
+	/*if (player->isCreatureObject()) {
 		BaseMessage* ranges = new WeaponRanges(cast<CreatureObject*>(player), _this.getReferenceUnsafeStaticCast());
 		player->sendMessage(ranges);
-	}
+	}*/
 }
 
 String WeaponObjectImplementation::getWeaponType() {
@@ -210,17 +210,6 @@ String WeaponObjectImplementation::getWeaponType() {
 void WeaponObjectImplementation::fillAttributeList(AttributeListMessage* alm, CreatureObject* object) {
 	TangibleObjectImplementation::fillAttributeList(alm, object);
 
-	bool res = isCertifiedFor(object);
-
-	if (res) {
-		alm->insertAttribute("weapon_cert_status", "Yes");
-	} else {
-		alm->insertAttribute("weapon_cert_status", "No");
-	}
-
-	/*if (usesRemaining > 0)
-		alm->insertAttribute("count", usesRemaining);*/
-
 	for(int i = 0; i < wearableSkillMods.size(); ++i) {
 		String key = wearableSkillMods.elementAt(i).getKey();
 		String statname = "cat_skill_mod_bonus.@stat_n:" + key;
@@ -230,32 +219,15 @@ void WeaponObjectImplementation::fillAttributeList(AttributeListMessage* alm, Cr
 			alm->insertAttribute(statname, value);
 	}
 
-	String ap;
+	// Dreadlow - ADK Notice goes here
+	//			- "Bio Link:" for some weapons too, if I'm not mistaken
+	// Force Cost
+	if (getForceCost() > 0)
+		alm->insertAttribute("forcecost", getForceCost());
+	//alm->insertAttribute("healing_combat_level_required", levelRequired);
+	alm->insertAttribute("skillmodmin", "None"); // Pull this
 
-	switch (armorPiercing) {
-	case NONE:
-		ap = "None";
-		break;
-	case LIGHT:
-		ap = "Light";
-		break;
-	case MEDIUM:
-		ap = "Medium";
-		break;
-	case HEAVY:
-		ap = "Heavy";
-		break;
-	default:
-		ap = "Unknown";
-		break;
-	}
-
-	alm->insertAttribute("wpn_armor_pierce_rating", ap);
-
-	alm->insertAttribute("wpn_attack_speed", Math::getPrecision(getAttackSpeed(), 1));
-
-	if (getDamageRadius() != 0.0f)
-		alm->insertAttribute("area", Math::getPrecision(getDamageRadius(), 0));
+	// Dreadlow - "Required Profession:" here
 
 	//Damage Information
 	StringBuffer dmgtxt;
@@ -293,152 +265,23 @@ void WeaponObjectImplementation::fillAttributeList(AttributeListMessage* alm, Cr
 		break;
 	}
 
-	alm->insertAttribute("damage.wpn_damage_type", dmgtxt);
+	alm->insertAttribute("cat_wpn_damage.wpn_damage_type", dmgtxt);
+	alm->insertAttribute("cat_wpn_damage.wpn_attack_speed", getAttackSpeed(true));
+	//alm->insertAttribute("cat_wpn_damage.wpn_real_speed", getModifiedSpeed(object));
+	alm->insertAttribute("cat_wpn_damage.damage", String::valueOf(getMinDamage(true)) + " - " + String::valueOf(getMaxDamage(true)));
+	//alm->insertAttribute("cat_wpn_damage.wpn_accuracy", getAccuracyBonus(object));
+	alm->insertAttribute("cat_wpn_damage.wpn_wound_chance", getWoundsRatio(true));
+	//alm->insertAttribute("cat_wpn_damage.wpn_base_dps", String::valueOf(getBaseDPS(object)) + " / sec");
+//	alm->insertAttribute("cat_wpn_damage.wpn_real_dps", String::valueOf(getModifiedDPS(object)) + " / sec");
 
-	float minDmg = round(getMinDamage());
-	float maxDmg = round(getMaxDamage());
+	alm->insertAttribute("cat_wpn_other.wpn_range", "0 - " + String::valueOf(getMaxRange(true)) + "m");
+	//alm->insertAttribute("cat_wpn_other.attackcost", getSpecialActionCost());
 
-	alm->insertAttribute("damage.wpn_damage_min", minDmg);
-
-	alm->insertAttribute("damage.wpn_damage_max", maxDmg);
-
-	StringBuffer woundsratio;
-
-	float wnd = round(10 * getWoundsRatio()) / 10.0f;
-
-	woundsratio << wnd << "%";
-
-	alm->insertAttribute("damage.wpn_wound_chance", woundsratio);
-
-	//Accuracy Modifiers
-	StringBuffer pblank;
-	if (getPointBlankAccuracy() >= 0)
-		pblank << "+";
-
-	pblank << getPointBlankAccuracy() << " @ " << getPointBlankRange() << "m";
-	alm->insertAttribute("cat_wpn_rangemods.wpn_range_zero", pblank);
-
-	StringBuffer ideal;
-	if (getIdealAccuracy() >= 0)
-		ideal << "+";
-
-	ideal << getIdealAccuracy() << " @ " << getIdealRange() << "m";
-	alm->insertAttribute("cat_wpn_rangemods.wpn_range_mid", ideal);
-
-	StringBuffer maxrange;
-	if (getMaxRangeAccuracy() >= 0)
-		maxrange << "+";
-
-	maxrange << getMaxRangeAccuracy() << " @ " << getMaxRange() << "m";
-	alm->insertAttribute("cat_wpn_rangemods.wpn_range_max", maxrange);
-
-	//Special Attack Costs
-	alm->insertAttribute("cat_wpn_attack_cost.health", getHealthAttackCost());
-
-	alm->insertAttribute("cat_wpn_attack_cost.action", getActionAttackCost());
-
-	alm->insertAttribute("cat_wpn_attack_cost.mind", getMindAttackCost());
-
-	//Anti Decay Kit
-	if(hasAntiDecayKit()){
-		alm->insertAttribute("@veteran_new:antidecay_examine_title", "@veteran_new:antidecay_examine_text");
-	}
-
-	// Force Cost
-	if (getForceCost() > 0)
-		alm->insertAttribute("forcecost", getForceCost());
-
-	for (int i = 0; i < getNumberOfDots(); i++) {
-
-			String dt;
-
-			switch (getDotType(i)) {
-			case 1:
-				dt = "Poison";
-				break;
-			case 2:
-				dt = "Disease";
-				break;
-			case 3:
-				dt = "Fire";
-				break;
-			case 4:
-				dt = "Bleeding";
-				break;
-			default:
-				dt = "Unknown";
-				break;
-			}
-
-			StringBuffer type;
-			type << "cat_wpn_dot_0" << i << ".wpn_dot_type";
-			alm->insertAttribute(type.toString(), dt);
-
-			String da;
-
-			switch (getDotAttribute(i)) {
-			case 0:
-				da = "Health";
-				break;
-			case 1:
-				da = "Strength";
-				break;
-			case 2:
-				da = "Constitution";
-				break;
-			case 3:
-				da = "Action";
-				break;
-			case 4:
-				da = "Quickness";
-				break;
-			case 5:
-				da = "Stamina";
-				break;
-			case 6:
-				da = "Mind";
-				break;
-			case 7:
-				da = "Focus";
-				break;
-			case 8:
-				da = "Willpower";
-				break;
-			default:
-				da = "Unknown";
-				break;
-			}
-
-			StringBuffer attrib;
-			attrib << "cat_wpn_dot_0" << i << ".wpn_dot_attrib";
-			alm->insertAttribute(attrib.toString(), da);
-
-			StringBuffer str;
-			str << "cat_wpn_dot_0" << i << ".wpn_dot_strength";
-			alm->insertAttribute(str.toString(), getDotStrength(i));
-
-			StringBuffer dotDur;
-			dotDur << getDotDuration(i) << "s";
-			StringBuffer dur;
-			dur << "cat_wpn_dot_0" << i << ".wpn_dot_duration";
-			alm->insertAttribute(dur.toString(), dotDur);
-
-			StringBuffer dotPot;
-			dotPot << getDotPotency(i) << "%";
-			StringBuffer pot;
-			pot << "cat_wpn_dot_0" << i << ".wpn_dot_potency";
-			alm->insertAttribute(pot.toString(), dotPot);
-
-			StringBuffer use;
-			use << "cat_wpn_dot_0" << i << ".wpn_dot_uses";
-			alm->insertAttribute(use.toString(), getDotUses(i));
-		}
-
-	if(hasPowerup())
-		powerupObject->fillWeaponAttributeList(alm, _this.getReferenceUnsafeStaticCast());
+	if (hasPowerup())
+		powerupObject->fillWeaponAttributeList(alm, _this.get());
 
 	if (sliced == 1)
-		alm->insertAttribute("wpn_attr", "@obj_attr_n:hacked1");
+		alm->insertAttribute("cat_wpn_other.wpn_attr", "@obj_attr_n:hacked1");
 
 }
 

@@ -82,7 +82,8 @@ public:
 
 
 			uint32 healthHealed = creatureTarget->healDamage(creature, CreatureAttribute::HEALTH, 500);
-
+			creature->inflictDamage(creature, CreatureAttribute::ACTION, 40, true, true);
+			creature->inflictDamage(creature, CreatureAttribute::MIND, 160, true, true);
 
 			if (creatureTarget != creature)
 				creature->doAnimation("heal_other");

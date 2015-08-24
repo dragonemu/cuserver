@@ -11,7 +11,7 @@
 #include "server/zone/objects/creature/CreatureObject.h"
 #include "server/zone/objects/creature/CreaturePosture.h"
 #include "server/zone/objects/creature/CreatureLocomotion.h"
-
+#include "server/zone/managers/combat/CombatManager.h"
 
 #include "server/zone/ZoneProcessServer.h"
 #include "server/zone/objects/creature/variables/Skill.h"
@@ -142,7 +142,8 @@ public:
 
 	virtual float getCommandDuration(CreatureObject* object, const UnicodeString& arguments) const {
 		// TODO: modify this value by skill, probably need to specify which skill affects what in luas
-		return defaultTime;
+		return CombatManager::instance()->calculateWeaponAttackSpeed(object, object->getWeapon(), 1);
+		//return defaultTime;
 	}
 
 	//setters
@@ -155,11 +156,11 @@ public:
 	}
 
 	/*inline void setTarget(int num) {
-		target = num;
+		target = num;#include "server/zone/managers/combat/CombatManager.h"
 	}*/
 
 	inline void setDefaultTime(float time) {
-		defaultTime = time;
+		defaultTime = 0.f;
 	}
 
 	inline void setTargetType(int num) {

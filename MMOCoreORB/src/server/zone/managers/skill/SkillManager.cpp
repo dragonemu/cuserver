@@ -334,10 +334,12 @@ bool SkillManager::awardSkill(const String& skillName, CreatureObject* creature,
 			ghost->setSkillPoints(totalSkillPointsWasted);
 		}
 
-		ManagedReference<PlayerManager*> playerManager = creature->getZoneServer()->getPlayerManager();
-		if (playerManager != NULL) {
-			creature->setLevel(playerManager->calculatePlayerLevel(creature));
-		}
+		/*ManagedReference<PlayerManager*> playerManager = creature->getZoneServer()->getPlayerManager();
+		  if (playerManager != NULL) {
+		   creature->setLevel(playerManager->calculatePlayerLevel(creature));
+		  }*/
+
+		  ghost->addCombatLevelXp( creature, skillName );
 	}
 
 	/// Update client with new values for things like Terrain Negotiation
@@ -424,10 +426,11 @@ bool SkillManager::surrenderSkill(const String& skillName, CreatureObject* creat
 			ghost->setSkillPoints(totalSkillPointsWasted);
 		}
 
-		ManagedReference<PlayerManager*> playerManager = creature->getZoneServer()->getPlayerManager();
-		if (playerManager != NULL) {
-			creature->setLevel(playerManager->calculatePlayerLevel(creature));
-		}
+		/*ManagedReference<PlayerManager*> playerManager = creature->getZoneServer()->getPlayerManager();
+		  if (playerManager != NULL) {
+		   creature->setLevel(playerManager->calculatePlayerLevel(creature));
+		  }*/
+		  ghost->removeCombatLevelXp( creature, skillName );
 	}
 
 	/// Update client with new values for things like Terrain Negotiation
@@ -489,6 +492,7 @@ void SkillManager::surrenderAllSkills(CreatureObject* creature, bool notifyClien
 				/// update force
 				ghost->setForcePowerMax(creature->getSkillMod("jedi_force_power_max"), true);
 				ghost->setForcePowerRegen(creature->getSkillMod("jedi_force_power_regen"));
+				ghost->recalculateCombatLevel( creature );
 			}
 		}
 	}

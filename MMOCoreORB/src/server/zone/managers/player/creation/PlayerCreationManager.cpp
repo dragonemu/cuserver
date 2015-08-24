@@ -773,7 +773,7 @@ void PlayerCreationManager::addProfessionStartingItems(CreatureObject* creature,
 			creature, false, true, true);
 
 	//Set the hams.
-	for (int i = 0; i < 6; ++i) {
+	for (int i = 0; i < 6; i++) {
 			int mod = 1000; // All stats start at 1k.
 			creature->setBaseHAM(i, mod, false);
 			creature->setHAM(i, mod, false);
@@ -1095,20 +1095,22 @@ void PlayerCreationManager::addRacialMods(CreatureObject* creature,
 	if (racialData == NULL)
 		racialData = racialCreationData.get(0);
 
-	for (int i = 0; i < 6; ++i) {
+	for (int i = 0; i < 6; i++)  {
 		int mod = racialData->getAttributeMod(i) + creature->getBaseHAM(i);
 		creature->setBaseHAM(i, mod, false);
 		creature->setHAM(i, mod, false);
 		creature->setMaxHAM(i, mod, false);
 	}
 
-	if (startingSkills != NULL) {
-		for (int i = 0; i < startingSkills->size(); ++i) {
-			SkillManager::instance()->awardSkill(startingSkills->get(i),
-					creature, false, true, true);
-		}
-	}
-
+	PlayerObject* ghost = creature->getPlayerObject();
+	SkillManager::instance()->awardSkill("combat_marksman_novice",creature, false, true, true);
+	SkillManager::instance()->awardSkill("combat_brawler_novice",creature, false, true, true);
+	SkillManager::instance()->awardSkill("crafting_artisan_novice",creature, false, true, true);
+	SkillManager::instance()->awardSkill("science_medic_novice",creature, false, true, true);
+	SkillManager::instance()->awardSkill("social_entertainer_novice",creature, false, true, true);
+	SkillManager::instance()->awardSkill("outdoors_scout_novice",creature, false, true, true);
+	SkillManager::instance()->addAbility(ghost, "rangedShot", false);
+	SkillManager::instance()->addAbility(ghost, "meleeHit", false); //Crappy but works for now.
 	// Get inventory.
 	if (!equipmentOnly) {
 		SceneObject* inventory = creature->getSlottedObject("inventory");
