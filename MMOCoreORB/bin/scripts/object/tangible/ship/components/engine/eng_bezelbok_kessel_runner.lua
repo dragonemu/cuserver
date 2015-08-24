@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner.iff = object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner.iff:new {
+object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner = object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner.iff, "object/tangible/ship/components/engine/shared_eng_bezelbok_kessel_runner.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner, "object/tangible/ship/components/engine/shared_eng_bezelbok_kessel_runner.iff")

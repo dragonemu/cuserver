@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_furniture_shared_starship_pilot_chair.iff = object_static_worldbuilding_furniture_shared_starship_pilot_chair.iff:new {
+object_static_worldbuilding_furniture_shared_starship_pilot_chair = object_static_worldbuilding_furniture_shared_starship_pilot_chair:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_shared_starship_pilot_chair.iff, "object/static/worldbuilding/furniture/shared_starship_pilot_chair.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_shared_starship_pilot_chair, "object/static/worldbuilding/furniture/shared_starship_pilot_chair.iff")

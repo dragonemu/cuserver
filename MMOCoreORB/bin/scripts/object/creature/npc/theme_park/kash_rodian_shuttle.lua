@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_creature_npc_theme_park_shared_kash_rodian_shuttle.iff = object_creature_npc_theme_park_shared_kash_rodian_shuttle.iff:new {
+object_creature_npc_theme_park_shared_kash_rodian_shuttle = object_creature_npc_theme_park_shared_kash_rodian_shuttle:new {
 
 }
 
-ObjectTemplates:addTemplate(object_creature_npc_theme_park_shared_kash_rodian_shuttle.iff, "object/creature/npc/theme_park/shared_kash_rodian_shuttle.iff")
+ObjectTemplates:addTemplate(object_creature_npc_theme_park_shared_kash_rodian_shuttle, "object/creature/npc/theme_park/shared_kash_rodian_shuttle.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec.iff = object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec.iff:new {
+object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec = object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec.iff, "object/draft_schematic/weapon/shared_carbine_blaster_cdef_corsec.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_blaster_cdef_corsec, "object/draft_schematic/weapon/shared_carbine_blaster_cdef_corsec.iff")

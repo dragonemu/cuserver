@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_loot_grievance.iff = object_draft_schematic_weapon_shared_loot_grievance.iff:new {
+object_draft_schematic_weapon_shared_loot_grievance = object_draft_schematic_weapon_shared_loot_grievance:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_grievance.iff, "object/draft_schematic/weapon/shared_loot_grievance.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_grievance, "object/draft_schematic/weapon/shared_loot_grievance.iff")

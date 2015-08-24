@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_shared_pt_water_drop_sound.iff = object_static_particle_shared_pt_water_drop_sound.iff:new {
+object_static_particle_shared_pt_water_drop_sound = object_static_particle_shared_pt_water_drop_sound:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_shared_pt_water_drop_sound.iff, "object/static/particle/shared_pt_water_drop_sound.iff")
+ObjectTemplates:addTemplate(object_static_particle_shared_pt_water_drop_sound, "object/static/particle/shared_pt_water_drop_sound.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_shared_pt_waterfall_kashyyyk_5x30.iff = object_static_particle_shared_pt_waterfall_kashyyyk_5x30.iff:new {
+object_static_particle_shared_pt_waterfall_kashyyyk_5x30 = object_static_particle_shared_pt_waterfall_kashyyyk_5x30:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_shared_pt_waterfall_kashyyyk_5x30.iff, "object/static/particle/shared_pt_waterfall_kashyyyk_5x30.iff")
+ObjectTemplates:addTemplate(object_static_particle_shared_pt_waterfall_kashyyyk_5x30, "object/static/particle/shared_pt_waterfall_kashyyyk_5x30.iff")

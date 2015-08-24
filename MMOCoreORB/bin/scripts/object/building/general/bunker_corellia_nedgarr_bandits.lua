@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_general_shared_bunker_corellia_nedgarr_bandits.iff = object_building_general_shared_bunker_corellia_nedgarr_bandits.iff:new {
+object_building_general_shared_bunker_corellia_nedgarr_bandits = object_building_general_shared_bunker_corellia_nedgarr_bandits:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_shared_bunker_corellia_nedgarr_bandits.iff, "object/building/general/shared_bunker_corellia_nedgarr_bandits.iff")
+ObjectTemplates:addTemplate(object_building_general_shared_bunker_corellia_nedgarr_bandits, "object/building/general/shared_bunker_corellia_nedgarr_bandits.iff")

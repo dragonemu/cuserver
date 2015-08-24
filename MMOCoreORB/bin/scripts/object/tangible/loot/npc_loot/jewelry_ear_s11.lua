@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_jewelry_ear_s11.iff = object_tangible_loot_npc_loot_shared_jewelry_ear_s11.iff:new {
+object_tangible_loot_npc_loot_shared_jewelry_ear_s11 = object_tangible_loot_npc_loot_shared_jewelry_ear_s11:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_jewelry_ear_s11.iff, "object/tangible/loot/npc_loot/shared_jewelry_ear_s11.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_jewelry_ear_s11, "object/tangible/loot/npc_loot/shared_jewelry_ear_s11.iff")

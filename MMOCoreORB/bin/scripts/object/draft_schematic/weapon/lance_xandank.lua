@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_lance_xandank.iff = object_draft_schematic_weapon_shared_lance_xandank.iff:new {
+object_draft_schematic_weapon_shared_lance_xandank = object_draft_schematic_weapon_shared_lance_xandank:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_xandank.iff, "object/draft_schematic/weapon/shared_lance_xandank.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_xandank, "object/draft_schematic/weapon/shared_lance_xandank.iff")

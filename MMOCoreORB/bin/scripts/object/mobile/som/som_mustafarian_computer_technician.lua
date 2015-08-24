@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_som_mustafarian_computer_technician.iff = object_mobile_som_shared_som_mustafarian_computer_technician.iff:new {
+object_mobile_som_shared_som_mustafarian_computer_technician = object_mobile_som_shared_som_mustafarian_computer_technician:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_som_mustafarian_computer_technician.iff, "object/mobile/som/shared_som_mustafarian_computer_technician.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_mustafarian_computer_technician, "object/mobile/som/shared_som_mustafarian_computer_technician.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic.iff = object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic.iff:new {
+object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic = object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic.iff, "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic, "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff")

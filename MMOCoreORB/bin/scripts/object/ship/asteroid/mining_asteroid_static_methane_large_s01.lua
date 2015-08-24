@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01.iff = object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01.iff:new {
+object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01 = object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01.iff, "object/ship/asteroid/shared_mining_asteroid_static_methane_large_s01.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_shared_mining_asteroid_static_methane_large_s01, "object/ship/asteroid/shared_mining_asteroid_static_methane_large_s01.iff")

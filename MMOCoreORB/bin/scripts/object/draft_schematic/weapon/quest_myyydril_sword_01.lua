@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_quest_myyydril_sword_01.iff = object_draft_schematic_weapon_shared_quest_myyydril_sword_01.iff:new {
+object_draft_schematic_weapon_shared_quest_myyydril_sword_01 = object_draft_schematic_weapon_shared_quest_myyydril_sword_01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_quest_myyydril_sword_01.iff, "object/draft_schematic/weapon/shared_quest_myyydril_sword_01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_quest_myyydril_sword_01, "object/draft_schematic/weapon/shared_quest_myyydril_sword_01.iff")

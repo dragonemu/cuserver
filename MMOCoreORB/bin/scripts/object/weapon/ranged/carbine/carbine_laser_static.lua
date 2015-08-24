@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_shared_carbine_laser_static.iff = object_weapon_ranged_carbine_shared_carbine_laser_static.iff:new {
+object_weapon_ranged_carbine_shared_carbine_laser_static = object_weapon_ranged_carbine_shared_carbine_laser_static:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_carbine_laser_static.iff, "object/weapon/ranged/carbine/shared_carbine_laser_static.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_carbine_laser_static, "object/weapon/ranged/carbine/shared_carbine_laser_static.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_ep3_forest_kerritamba_warrior.iff = object_mobile_shared_dressed_ep3_forest_kerritamba_warrior.iff:new {
+object_mobile_shared_dressed_ep3_forest_kerritamba_warrior = object_mobile_shared_dressed_ep3_forest_kerritamba_warrior:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_warrior.iff, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_warrior, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff")

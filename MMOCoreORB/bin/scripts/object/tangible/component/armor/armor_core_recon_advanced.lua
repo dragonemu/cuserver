@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shared_armor_core_recon_advanced.iff = object_tangible_component_armor_shared_armor_core_recon_advanced.iff:new {
+object_tangible_component_armor_shared_armor_core_recon_advanced = object_tangible_component_armor_shared_armor_core_recon_advanced:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shared_armor_core_recon_advanced.iff, "object/tangible/component/armor/shared_armor_core_recon_advanced.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_armor_core_recon_advanced, "object/tangible/component/armor/shared_armor_core_recon_advanced.iff")

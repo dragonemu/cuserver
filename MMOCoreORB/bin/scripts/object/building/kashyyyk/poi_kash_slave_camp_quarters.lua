@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_poi_kash_slave_camp_quarters.iff = object_building_kashyyyk_shared_poi_kash_slave_camp_quarters.iff:new {
+object_building_kashyyyk_shared_poi_kash_slave_camp_quarters = object_building_kashyyyk_shared_poi_kash_slave_camp_quarters:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_slave_camp_quarters.iff, "object/building/kashyyyk/shared_poi_kash_slave_camp_quarters.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_slave_camp_quarters, "object/building/kashyyyk/shared_poi_kash_slave_camp_quarters.iff")

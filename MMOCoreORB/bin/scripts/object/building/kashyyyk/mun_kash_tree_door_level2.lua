@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_mun_kash_tree_door_level2.iff = object_building_kashyyyk_shared_mun_kash_tree_door_level2.iff:new {
+object_building_kashyyyk_shared_mun_kash_tree_door_level2 = object_building_kashyyyk_shared_mun_kash_tree_door_level2:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_mun_kash_tree_door_level2.iff, "object/building/kashyyyk/shared_mun_kash_tree_door_level2.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_mun_kash_tree_door_level2, "object/building/kashyyyk/shared_mun_kash_tree_door_level2.iff")

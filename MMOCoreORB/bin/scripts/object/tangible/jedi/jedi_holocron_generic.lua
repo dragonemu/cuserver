@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_jedi_shared_jedi_holocron_generic.iff = object_tangible_jedi_shared_jedi_holocron_generic.iff:new {
+object_tangible_jedi_shared_jedi_holocron_generic = object_tangible_jedi_shared_jedi_holocron_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_jedi_shared_jedi_holocron_generic.iff, "object/tangible/jedi/shared_jedi_holocron_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_jedi_shared_jedi_holocron_generic, "object/tangible/jedi/shared_jedi_holocron_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate.iff = object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate.iff:new {
+object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate = object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate.iff, "object/building/kashyyyk/shared_thm_kash_zonegate_fence_elaborate.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_zonegate_fence_elaborate, "object/building/kashyyyk/shared_thm_kash_zonegate_fence_elaborate.iff")

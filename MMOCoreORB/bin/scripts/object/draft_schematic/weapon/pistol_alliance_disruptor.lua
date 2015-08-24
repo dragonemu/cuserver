@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_pistol_alliance_disruptor.iff = object_draft_schematic_weapon_shared_pistol_alliance_disruptor.iff:new {
+object_draft_schematic_weapon_shared_pistol_alliance_disruptor = object_draft_schematic_weapon_shared_pistol_alliance_disruptor:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_alliance_disruptor.iff, "object/draft_schematic/weapon/shared_pistol_alliance_disruptor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_alliance_disruptor, "object/draft_schematic/weapon/shared_pistol_alliance_disruptor.iff")

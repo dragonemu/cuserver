@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik.iff = object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik.iff:new {
+object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik = object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik.iff, "object/tangible/furniture/all/shared_frn_all_trophy_scorpion_kliknik.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_shared_frn_all_trophy_scorpion_kliknik, "object/tangible/furniture/all/shared_frn_all_trophy_scorpion_kliknik.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_col_narl.iff = object_mobile_som_shared_col_narl.iff:new {
+object_mobile_som_shared_col_narl = object_mobile_som_shared_col_narl:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_col_narl.iff, "object/mobile/som/shared_col_narl.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_col_narl, "object/mobile/som/shared_col_narl.iff")

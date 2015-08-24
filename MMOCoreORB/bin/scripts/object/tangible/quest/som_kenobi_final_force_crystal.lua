@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_som_kenobi_final_force_crystal.iff = object_tangible_quest_shared_som_kenobi_final_force_crystal.iff:new {
+object_tangible_quest_shared_som_kenobi_final_force_crystal = object_tangible_quest_shared_som_kenobi_final_force_crystal:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_som_kenobi_final_force_crystal.iff, "object/tangible/quest/shared_som_kenobi_final_force_crystal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_som_kenobi_final_force_crystal, "object/tangible/quest/shared_som_kenobi_final_force_crystal.iff")

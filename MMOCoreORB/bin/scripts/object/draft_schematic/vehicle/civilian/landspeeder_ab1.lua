@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1.iff = object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1.iff:new {
+object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1 = object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1.iff, "object/draft_schematic/vehicle/civilian/shared_landspeeder_ab1.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_shared_landspeeder_ab1, "object/draft_schematic/vehicle/civilian/shared_landspeeder_ab1.iff")

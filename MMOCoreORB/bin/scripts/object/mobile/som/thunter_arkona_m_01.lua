@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_thunter_arkona_m_01.iff = object_mobile_som_shared_thunter_arkona_m_01.iff:new {
+object_mobile_som_shared_thunter_arkona_m_01 = object_mobile_som_shared_thunter_arkona_m_01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_thunter_arkona_m_01.iff, "object/mobile/som/shared_thunter_arkona_m_01.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_thunter_arkona_m_01, "object/mobile/som/shared_thunter_arkona_m_01.iff")

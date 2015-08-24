@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_location_shared_location_8.iff = object_tangible_location_shared_location_8.iff:new {
+object_tangible_location_shared_location_8 = object_tangible_location_shared_location_8:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_location_shared_location_8.iff, "object/tangible/location/shared_location_8.iff")
+ObjectTemplates:addTemplate(object_tangible_location_shared_location_8, "object/tangible/location/shared_location_8.iff")

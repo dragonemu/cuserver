@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion.iff:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion = object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_black_potion.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_black_potion, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_black_potion.iff")

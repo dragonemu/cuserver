@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_shared_eng_h17_singularity.iff = object_tangible_ship_components_engine_shared_eng_h17_singularity.iff:new {
+object_tangible_ship_components_engine_shared_eng_h17_singularity = object_tangible_ship_components_engine_shared_eng_h17_singularity:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_engine_shared_eng_h17_singularity.iff, "object/tangible/ship/components/engine/shared_eng_h17_singularity.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_shared_eng_h17_singularity, "object/tangible/ship/components/engine/shared_eng_h17_singularity.iff")

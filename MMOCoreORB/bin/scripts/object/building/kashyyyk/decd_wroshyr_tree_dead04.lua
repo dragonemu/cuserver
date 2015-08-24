@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_decd_wroshyr_tree_dead04.iff = object_building_kashyyyk_shared_decd_wroshyr_tree_dead04.iff:new {
+object_building_kashyyyk_shared_decd_wroshyr_tree_dead04 = object_building_kashyyyk_shared_decd_wroshyr_tree_dead04:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_decd_wroshyr_tree_dead04.iff, "object/building/kashyyyk/shared_decd_wroshyr_tree_dead04.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_decd_wroshyr_tree_dead04, "object/building/kashyyyk/shared_decd_wroshyr_tree_dead04.iff")

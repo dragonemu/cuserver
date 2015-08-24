@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_bespin_port.iff = object_tangible_food_generic_shared_drink_bespin_port.iff:new {
+object_tangible_food_generic_shared_drink_bespin_port = object_tangible_food_generic_shared_drink_bespin_port:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_bespin_port.iff, "object/tangible/food/generic/shared_drink_bespin_port.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_bespin_port, "object/tangible/food/generic/shared_drink_bespin_port.iff")

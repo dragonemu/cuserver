@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider.iff = object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider.iff:new {
+object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider = object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider.iff, "object/tangible/furniture/all/shared_frn_all_trophy_bane_back_spider.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider, "object/tangible/furniture/all/shared_frn_all_trophy_bane_back_spider.iff")

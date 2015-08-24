@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_shared_armor_core_recon_basic.iff = object_draft_schematic_armor_component_shared_armor_core_recon_basic.iff:new {
+object_draft_schematic_armor_component_shared_armor_core_recon_basic = object_draft_schematic_armor_component_shared_armor_core_recon_basic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_core_recon_basic.iff, "object/draft_schematic/armor/component/shared_armor_core_recon_basic.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_core_recon_basic, "object/draft_schematic/armor/component/shared_armor_core_recon_basic.iff")

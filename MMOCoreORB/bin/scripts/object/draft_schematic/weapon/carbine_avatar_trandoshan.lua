@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_carbine_avatar_trandoshan.iff = object_draft_schematic_weapon_shared_carbine_avatar_trandoshan.iff:new {
+object_draft_schematic_weapon_shared_carbine_avatar_trandoshan = object_draft_schematic_weapon_shared_carbine_avatar_trandoshan:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_avatar_trandoshan.iff, "object/draft_schematic/weapon/shared_carbine_avatar_trandoshan.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_avatar_trandoshan, "object/draft_schematic/weapon/shared_carbine_avatar_trandoshan.iff")

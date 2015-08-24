@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_shared_pt_fog_kashyyyk_deadforest.iff = object_static_particle_shared_pt_fog_kashyyyk_deadforest.iff:new {
+object_static_particle_shared_pt_fog_kashyyyk_deadforest = object_static_particle_shared_pt_fog_kashyyyk_deadforest:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_shared_pt_fog_kashyyyk_deadforest.iff, "object/static/particle/shared_pt_fog_kashyyyk_deadforest.iff")
+ObjectTemplates:addTemplate(object_static_particle_shared_pt_fog_kashyyyk_deadforest, "object/static/particle/shared_pt_fog_kashyyyk_deadforest.iff")

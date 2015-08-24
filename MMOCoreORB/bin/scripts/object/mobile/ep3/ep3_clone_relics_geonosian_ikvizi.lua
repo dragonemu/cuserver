@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi.iff = object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi.iff:new {
+object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi = object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi.iff, "object/mobile/ep3/shared_ep3_clone_relics_geonosian_ikvizi.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi, "object/mobile/ep3/shared_ep3_clone_relics_geonosian_ikvizi.iff")

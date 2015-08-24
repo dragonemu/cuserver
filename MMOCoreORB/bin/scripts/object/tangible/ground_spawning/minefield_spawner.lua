@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ground_spawning_shared_minefield_spawner.iff = object_tangible_ground_spawning_shared_minefield_spawner.iff:new {
+object_tangible_ground_spawning_shared_minefield_spawner = object_tangible_ground_spawning_shared_minefield_spawner:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ground_spawning_shared_minefield_spawner.iff, "object/tangible/ground_spawning/shared_minefield_spawner.iff")
+ObjectTemplates:addTemplate(object_tangible_ground_spawning_shared_minefield_spawner, "object/tangible/ground_spawning/shared_minefield_spawner.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl.iff:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl = object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_riverpearl.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_riverpearl, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_riverpearl.iff")

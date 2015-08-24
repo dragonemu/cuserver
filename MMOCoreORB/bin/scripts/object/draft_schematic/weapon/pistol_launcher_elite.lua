@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_pistol_launcher_elite.iff = object_draft_schematic_weapon_shared_pistol_launcher_elite.iff:new {
+object_draft_schematic_weapon_shared_pistol_launcher_elite = object_draft_schematic_weapon_shared_pistol_launcher_elite:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_launcher_elite.iff, "object/draft_schematic/weapon/shared_pistol_launcher_elite.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_launcher_elite, "object/draft_schematic/weapon/shared_pistol_launcher_elite.iff")

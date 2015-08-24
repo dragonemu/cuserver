@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_furniture_shared_tech_cabinet.iff = object_static_worldbuilding_furniture_shared_tech_cabinet.iff:new {
+object_static_worldbuilding_furniture_shared_tech_cabinet = object_static_worldbuilding_furniture_shared_tech_cabinet:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_shared_tech_cabinet.iff, "object/static/worldbuilding/furniture/shared_tech_cabinet.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_shared_tech_cabinet, "object/static/worldbuilding/furniture/shared_tech_cabinet.iff")

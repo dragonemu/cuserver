@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_urnsoris_young.iff = object_mobile_shared_urnsoris_young.iff:new {
+object_mobile_shared_urnsoris_young = object_mobile_shared_urnsoris_young:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_urnsoris_young.iff, "object/mobile/shared_urnsoris_young.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_urnsoris_young, "object/mobile/shared_urnsoris_young.iff")

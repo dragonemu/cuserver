@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer.iff = object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer.iff:new {
+object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer = object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer.iff, "object/weapon/ranged/pistol/shared_event_pistol_striker_enforcer.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer, "object/weapon/ranged/pistol/shared_event_pistol_striker_enforcer.iff")

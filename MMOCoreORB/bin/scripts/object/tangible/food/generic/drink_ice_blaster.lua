@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_ice_blaster.iff = object_tangible_food_generic_shared_drink_ice_blaster.iff:new {
+object_tangible_food_generic_shared_drink_ice_blaster = object_tangible_food_generic_shared_drink_ice_blaster:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_ice_blaster.iff, "object/tangible/food/generic/shared_drink_ice_blaster.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_ice_blaster, "object/tangible/food/generic/shared_drink_ice_blaster.iff")

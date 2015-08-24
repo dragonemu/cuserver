@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_shared_sword_mace_junti_generic.iff = object_weapon_melee_sword_shared_sword_mace_junti_generic.iff:new {
+object_weapon_melee_sword_shared_sword_mace_junti_generic = object_weapon_melee_sword_shared_sword_mace_junti_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_sword_mace_junti_generic.iff, "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_sword_mace_junti_generic, "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff")

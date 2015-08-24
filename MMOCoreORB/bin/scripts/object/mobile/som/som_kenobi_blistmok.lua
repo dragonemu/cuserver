@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_som_kenobi_blistmok.iff = object_mobile_som_shared_som_kenobi_blistmok.iff:new {
+object_mobile_som_shared_som_kenobi_blistmok = object_mobile_som_shared_som_kenobi_blistmok:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_som_kenobi_blistmok.iff, "object/mobile/som/shared_som_kenobi_blistmok.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_kenobi_blistmok, "object/mobile/som/shared_som_kenobi_blistmok.iff")

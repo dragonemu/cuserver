@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09.iff = object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09.iff:new {
+object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09 = object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09.iff, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff")

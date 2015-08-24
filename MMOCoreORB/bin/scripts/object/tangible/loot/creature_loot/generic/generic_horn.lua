@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_shared_generic_horn.iff = object_tangible_loot_creature_loot_generic_shared_generic_horn.iff:new {
+object_tangible_loot_creature_loot_generic_shared_generic_horn = object_tangible_loot_creature_loot_generic_shared_generic_horn:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_horn.iff, "object/tangible/loot/creature_loot/generic/shared_generic_horn.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_horn, "object/tangible/loot/creature_loot/generic/shared_generic_horn.iff")

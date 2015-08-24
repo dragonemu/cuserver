@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_jawa_beer.iff = object_tangible_food_generic_shared_drink_jawa_beer.iff:new {
+object_tangible_food_generic_shared_drink_jawa_beer = object_tangible_food_generic_shared_drink_jawa_beer:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_jawa_beer.iff, "object/tangible/food/generic/shared_drink_jawa_beer.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_jawa_beer, "object/tangible/food/generic/shared_drink_jawa_beer.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat.iff:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat = object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_meat.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_snake_meat, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_meat.iff")

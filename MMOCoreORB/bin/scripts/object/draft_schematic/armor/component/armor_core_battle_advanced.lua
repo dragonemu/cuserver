@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_shared_armor_core_battle_advanced.iff = object_draft_schematic_armor_component_shared_armor_core_battle_advanced.iff:new {
+object_draft_schematic_armor_component_shared_armor_core_battle_advanced = object_draft_schematic_armor_component_shared_armor_core_battle_advanced:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_core_battle_advanced.iff, "object/draft_schematic/armor/component/shared_armor_core_battle_advanced.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_core_battle_advanced, "object/draft_schematic/armor/component/shared_armor_core_battle_advanced.iff")

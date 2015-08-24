@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_installation_shared_mockup_clothing_factory_style_1.iff = object_static_installation_shared_mockup_clothing_factory_style_1.iff:new {
+object_static_installation_shared_mockup_clothing_factory_style_1 = object_static_installation_shared_mockup_clothing_factory_style_1:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_installation_shared_mockup_clothing_factory_style_1.iff, "object/static/installation/shared_mockup_clothing_factory_style_1.iff")
+ObjectTemplates:addTemplate(object_static_installation_shared_mockup_clothing_factory_style_1, "object/static/installation/shared_mockup_clothing_factory_style_1.iff")

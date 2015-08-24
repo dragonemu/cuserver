@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_accarragm.iff = object_tangible_food_generic_shared_drink_accarragm.iff:new {
+object_tangible_food_generic_shared_drink_accarragm = object_tangible_food_generic_shared_drink_accarragm:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_accarragm.iff, "object/tangible/food/generic/shared_drink_accarragm.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_accarragm, "object/tangible/food/generic/shared_drink_accarragm.iff")

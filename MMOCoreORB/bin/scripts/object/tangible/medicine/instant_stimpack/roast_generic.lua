@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_instant_stimpack_shared_roast_generic.iff = object_tangible_medicine_instant_stimpack_shared_roast_generic.iff:new {
+object_tangible_medicine_instant_stimpack_shared_roast_generic = object_tangible_medicine_instant_stimpack_shared_roast_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_shared_roast_generic.iff, "object/tangible/medicine/instant_stimpack/shared_roast_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_shared_roast_generic, "object/tangible/medicine/instant_stimpack/shared_roast_generic.iff")

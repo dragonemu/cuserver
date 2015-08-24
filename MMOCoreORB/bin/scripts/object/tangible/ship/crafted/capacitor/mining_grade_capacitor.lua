@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor.iff = object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor.iff:new {
+object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor = object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor.iff, "object/tangible/ship/crafted/capacitor/shared_mining_grade_capacitor.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_capacitor_shared_mining_grade_capacitor, "object/tangible/ship/crafted/capacitor/shared_mining_grade_capacitor.iff")

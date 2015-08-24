@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_gralinyn_juice.iff = object_tangible_food_generic_shared_drink_gralinyn_juice.iff:new {
+object_tangible_food_generic_shared_drink_gralinyn_juice = object_tangible_food_generic_shared_drink_gralinyn_juice:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_gralinyn_juice.iff, "object/tangible/food/generic/shared_drink_gralinyn_juice.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_gralinyn_juice, "object/tangible/food/generic/shared_drink_gralinyn_juice.iff")

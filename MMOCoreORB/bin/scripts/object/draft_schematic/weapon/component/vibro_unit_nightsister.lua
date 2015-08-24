@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_component_shared_vibro_unit_nightsister.iff = object_draft_schematic_weapon_component_shared_vibro_unit_nightsister.iff:new {
+object_draft_schematic_weapon_component_shared_vibro_unit_nightsister = object_draft_schematic_weapon_component_shared_vibro_unit_nightsister:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_component_shared_vibro_unit_nightsister.iff, "object/draft_schematic/weapon/component/shared_vibro_unit_nightsister.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_component_shared_vibro_unit_nightsister, "object/draft_schematic/weapon/component/shared_vibro_unit_nightsister.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_cheated_gambler.iff = object_mobile_ep3_shared_ep3_cheated_gambler.iff:new {
+object_mobile_ep3_shared_ep3_cheated_gambler = object_mobile_ep3_shared_ep3_cheated_gambler:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_cheated_gambler.iff, "object/mobile/ep3/shared_ep3_cheated_gambler.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_cheated_gambler, "object/mobile/ep3/shared_ep3_cheated_gambler.iff")

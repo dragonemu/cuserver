@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_shared_sher_kar_syringe.iff = object_tangible_item_som_shared_sher_kar_syringe.iff:new {
+object_tangible_item_som_shared_sher_kar_syringe = object_tangible_item_som_shared_sher_kar_syringe:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_shared_sher_kar_syringe.iff, "object/tangible/item/som/shared_sher_kar_syringe.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_shared_sher_kar_syringe, "object/tangible/item/som/shared_sher_kar_syringe.iff")

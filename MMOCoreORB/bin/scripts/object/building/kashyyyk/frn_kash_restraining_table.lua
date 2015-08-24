@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_frn_kash_restraining_table.iff = object_building_kashyyyk_shared_frn_kash_restraining_table.iff:new {
+object_building_kashyyyk_shared_frn_kash_restraining_table = object_building_kashyyyk_shared_frn_kash_restraining_table:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_restraining_table.iff, "object/building/kashyyyk/shared_frn_kash_restraining_table.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_restraining_table, "object/building/kashyyyk/shared_frn_kash_restraining_table.iff")

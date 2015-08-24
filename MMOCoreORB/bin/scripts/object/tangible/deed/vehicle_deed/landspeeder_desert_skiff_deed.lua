@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed.iff = object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed.iff:new {
+object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed = object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed.iff, "object/tangible/deed/vehicle_deed/shared_landspeeder_desert_skiff_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_shared_landspeeder_desert_skiff_deed, "object/tangible/deed/vehicle_deed/shared_landspeeder_desert_skiff_deed.iff")

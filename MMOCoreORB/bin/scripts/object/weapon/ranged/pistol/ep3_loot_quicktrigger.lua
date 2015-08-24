@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger.iff = object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger.iff:new {
+object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger = object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger.iff, "object/weapon/ranged/pistol/shared_ep3_loot_quicktrigger.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_ep3_loot_quicktrigger, "object/weapon/ranged/pistol/shared_ep3_loot_quicktrigger.iff")

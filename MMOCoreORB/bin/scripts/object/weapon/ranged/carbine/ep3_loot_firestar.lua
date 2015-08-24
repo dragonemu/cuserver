@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_shared_ep3_loot_firestar.iff = object_weapon_ranged_carbine_shared_ep3_loot_firestar.iff:new {
+object_weapon_ranged_carbine_shared_ep3_loot_firestar = object_weapon_ranged_carbine_shared_ep3_loot_firestar:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_ep3_loot_firestar.iff, "object/weapon/ranged/carbine/shared_ep3_loot_firestar.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_ep3_loot_firestar, "object/weapon/ranged/carbine/shared_ep3_loot_firestar.iff")

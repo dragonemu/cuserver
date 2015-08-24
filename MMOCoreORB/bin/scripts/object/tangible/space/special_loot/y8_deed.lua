@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_space_special_loot_shared_y8_deed.iff = object_tangible_space_special_loot_shared_y8_deed.iff:new {
+object_tangible_space_special_loot_shared_y8_deed = object_tangible_space_special_loot_shared_y8_deed:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_special_loot_shared_y8_deed.iff, "object/tangible/space/special_loot/shared_y8_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_space_special_loot_shared_y8_deed, "object/tangible/space/special_loot/shared_y8_deed.iff")

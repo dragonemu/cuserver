@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_carbine_bothan_bola.iff = object_draft_schematic_weapon_shared_carbine_bothan_bola.iff:new {
+object_draft_schematic_weapon_shared_carbine_bothan_bola = object_draft_schematic_weapon_shared_carbine_bothan_bola:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_bothan_bola.iff, "object/draft_schematic/weapon/shared_carbine_bothan_bola.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_bothan_bola, "object/draft_schematic/weapon/shared_carbine_bothan_bola.iff")

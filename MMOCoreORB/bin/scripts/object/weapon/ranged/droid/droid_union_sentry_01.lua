@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_droid_shared_droid_union_sentry_01.iff = object_weapon_ranged_droid_shared_droid_union_sentry_01.iff:new {
+object_weapon_ranged_droid_shared_droid_union_sentry_01 = object_weapon_ranged_droid_shared_droid_union_sentry_01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_droid_shared_droid_union_sentry_01.iff, "object/weapon/ranged/droid/shared_droid_union_sentry_01.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_droid_shared_droid_union_sentry_01, "object/weapon/ranged/droid/shared_droid_union_sentry_01.iff")

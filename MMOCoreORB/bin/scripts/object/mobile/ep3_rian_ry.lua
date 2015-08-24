@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_ep3_rian_ry.iff = object_mobile_shared_ep3_rian_ry.iff:new {
+object_mobile_shared_ep3_rian_ry = object_mobile_shared_ep3_rian_ry:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_ep3_rian_ry.iff, "object/mobile/shared_ep3_rian_ry.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_ep3_rian_ry, "object/mobile/shared_ep3_rian_ry.iff")

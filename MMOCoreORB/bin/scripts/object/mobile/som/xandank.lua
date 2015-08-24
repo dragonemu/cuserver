@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_xandank.iff = object_mobile_som_shared_xandank.iff:new {
+object_mobile_som_shared_xandank = object_mobile_som_shared_xandank:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_xandank.iff, "object/mobile/som/shared_xandank.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_xandank, "object/mobile/som/shared_xandank.iff")

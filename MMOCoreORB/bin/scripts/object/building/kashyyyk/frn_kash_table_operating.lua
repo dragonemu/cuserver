@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_frn_kash_table_operating.iff = object_building_kashyyyk_shared_frn_kash_table_operating.iff:new {
+object_building_kashyyyk_shared_frn_kash_table_operating = object_building_kashyyyk_shared_frn_kash_table_operating:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_table_operating.iff, "object/building/kashyyyk/shared_frn_kash_table_operating.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_table_operating, "object/building/kashyyyk/shared_frn_kash_table_operating.iff")

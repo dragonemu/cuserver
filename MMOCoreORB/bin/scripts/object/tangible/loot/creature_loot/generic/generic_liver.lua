@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_shared_generic_liver.iff = object_tangible_loot_creature_loot_generic_shared_generic_liver.iff:new {
+object_tangible_loot_creature_loot_generic_shared_generic_liver = object_tangible_loot_creature_loot_generic_shared_generic_liver:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_liver.iff, "object/tangible/loot/creature_loot/generic/shared_generic_liver.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_liver, "object/tangible/loot/creature_loot/generic/shared_generic_liver.iff")

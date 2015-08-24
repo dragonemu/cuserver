@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_anchorjobs_ordo.iff = object_mobile_shared_dressed_anchorjobs_ordo.iff:new {
+object_mobile_shared_dressed_anchorjobs_ordo = object_mobile_shared_dressed_anchorjobs_ordo:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_anchorjobs_ordo.iff, "object/mobile/shared_dressed_anchorjobs_ordo.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_anchorjobs_ordo, "object/mobile/shared_dressed_anchorjobs_ordo.iff")

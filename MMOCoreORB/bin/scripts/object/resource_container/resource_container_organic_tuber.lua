@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_shared_resource_container_organic_tuber.iff = object_resource_container_shared_resource_container_organic_tuber.iff:new {
+object_resource_container_shared_resource_container_organic_tuber = object_resource_container_shared_resource_container_organic_tuber:new {
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_shared_resource_container_organic_tuber.iff, "object/resource_container/shared_resource_container_organic_tuber.iff")
+ObjectTemplates:addTemplate(object_resource_container_shared_resource_container_organic_tuber, "object/resource_container/shared_resource_container_organic_tuber.iff")

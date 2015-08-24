@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_sayormi_queen.iff = object_mobile_shared_dressed_sayormi_queen.iff:new {
+object_mobile_shared_dressed_sayormi_queen = object_mobile_shared_dressed_sayormi_queen:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_sayormi_queen.iff, "object/mobile/shared_dressed_sayormi_queen.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_sayormi_queen, "object/mobile/shared_dressed_sayormi_queen.iff")

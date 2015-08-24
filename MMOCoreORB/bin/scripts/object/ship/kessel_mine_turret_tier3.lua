@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_shared_kessel_mine_turret_tier3.iff = object_ship_shared_kessel_mine_turret_tier3.iff:new {
+object_ship_shared_kessel_mine_turret_tier3 = object_ship_shared_kessel_mine_turret_tier3:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_shared_kessel_mine_turret_tier3.iff, "object/ship/shared_kessel_mine_turret_tier3.iff")
+ObjectTemplates:addTemplate(object_ship_shared_kessel_mine_turret_tier3, "object/ship/shared_kessel_mine_turret_tier3.iff")

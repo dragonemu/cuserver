@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door.iff = object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door.iff:new {
+object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door = object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door.iff, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door.iff")

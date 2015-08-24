@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_shared_enhancer_stabilizer.iff = object_tangible_medicine_enhancer_shared_enhancer_stabilizer.iff:new {
+object_tangible_medicine_enhancer_shared_enhancer_stabilizer = object_tangible_medicine_enhancer_shared_enhancer_stabilizer:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_stabilizer.iff, "object/tangible/medicine/enhancer/shared_enhancer_stabilizer.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_stabilizer, "object/tangible/medicine/enhancer/shared_enhancer_stabilizer.iff")

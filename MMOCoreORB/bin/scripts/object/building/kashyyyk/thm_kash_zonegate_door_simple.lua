@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_kash_zonegate_door_simple.iff = object_building_kashyyyk_shared_thm_kash_zonegate_door_simple.iff:new {
+object_building_kashyyyk_shared_thm_kash_zonegate_door_simple = object_building_kashyyyk_shared_thm_kash_zonegate_door_simple:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_zonegate_door_simple.iff, "object/building/kashyyyk/shared_thm_kash_zonegate_door_simple.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_zonegate_door_simple, "object/building/kashyyyk/shared_thm_kash_zonegate_door_simple.iff")

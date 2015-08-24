@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior.iff = object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior.iff:new {
+object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior = object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior.iff, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_exterior.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_cave_myyydril_exterior, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_exterior.iff")

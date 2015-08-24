@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_hk47.iff = object_mobile_som_shared_hk47.iff:new {
+object_mobile_som_shared_hk47 = object_mobile_som_shared_hk47:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_hk47.iff, "object/mobile/som/shared_hk47.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_hk47, "object/mobile/som/shared_hk47.iff")

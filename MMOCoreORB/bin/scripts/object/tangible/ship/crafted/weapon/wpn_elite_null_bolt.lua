@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt.iff = object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt.iff:new {
+object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt = object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt.iff, "object/tangible/ship/crafted/weapon/shared_wpn_elite_null_bolt.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt, "object/tangible/ship/crafted/weapon/shared_wpn_elite_null_bolt.iff")

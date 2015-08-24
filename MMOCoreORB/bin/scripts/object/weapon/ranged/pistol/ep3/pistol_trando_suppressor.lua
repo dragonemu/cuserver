@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor.iff = object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor.iff:new {
+object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor = object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor.iff, "object/weapon/ranged/pistol/ep3/shared_pistol_trando_suppressor.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor, "object/weapon/ranged/pistol/ep3/shared_pistol_trando_suppressor.iff")

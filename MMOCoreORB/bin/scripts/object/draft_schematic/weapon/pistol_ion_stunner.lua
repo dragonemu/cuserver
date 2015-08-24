@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_pistol_ion_stunner.iff = object_draft_schematic_weapon_shared_pistol_ion_stunner.iff:new {
+object_draft_schematic_weapon_shared_pistol_ion_stunner = object_draft_schematic_weapon_shared_pistol_ion_stunner:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_ion_stunner.iff, "object/draft_schematic/weapon/shared_pistol_ion_stunner.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_ion_stunner, "object/draft_schematic/weapon/shared_pistol_ion_stunner.iff")

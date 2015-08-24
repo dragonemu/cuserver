@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_bio_shared_bio_component_armor_thymine.iff = object_tangible_component_bio_shared_bio_component_armor_thymine.iff:new {
+object_tangible_component_bio_shared_bio_component_armor_thymine = object_tangible_component_bio_shared_bio_component_armor_thymine:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_bio_shared_bio_component_armor_thymine.iff, "object/tangible/component/bio/shared_bio_component_armor_thymine.iff")
+ObjectTemplates:addTemplate(object_tangible_component_bio_shared_bio_component_armor_thymine, "object/tangible/component/bio/shared_bio_component_armor_thymine.iff")

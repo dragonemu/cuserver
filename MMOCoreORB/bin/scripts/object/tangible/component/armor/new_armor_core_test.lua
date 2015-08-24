@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shared_new_armor_core_test.iff = object_tangible_component_armor_shared_new_armor_core_test.iff:new {
+object_tangible_component_armor_shared_new_armor_core_test = object_tangible_component_armor_shared_new_armor_core_test:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shared_new_armor_core_test.iff, "object/tangible/component/armor/shared_new_armor_core_test.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_new_armor_core_test, "object/tangible/component/armor/shared_new_armor_core_test.iff")

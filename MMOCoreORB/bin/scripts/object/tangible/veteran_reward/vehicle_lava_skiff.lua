@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_shared_vehicle_lava_skiff.iff = object_tangible_veteran_reward_shared_vehicle_lava_skiff.iff:new {
+object_tangible_veteran_reward_shared_vehicle_lava_skiff = object_tangible_veteran_reward_shared_vehicle_lava_skiff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_vehicle_lava_skiff.iff, "object/tangible/veteran_reward/shared_vehicle_lava_skiff.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_vehicle_lava_skiff, "object/tangible/veteran_reward/shared_vehicle_lava_skiff.iff")

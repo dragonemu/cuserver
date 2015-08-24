@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack.iff = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack.iff:new {
+object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack.iff, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff")

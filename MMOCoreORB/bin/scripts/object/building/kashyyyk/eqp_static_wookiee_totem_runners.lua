@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners.iff = object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners.iff:new {
+object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners = object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners.iff, "object/building/kashyyyk/shared_eqp_static_wookiee_totem_runners.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_eqp_static_wookiee_totem_runners, "object/building/kashyyyk/shared_eqp_static_wookiee_totem_runners.iff")

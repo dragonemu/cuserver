@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_shared_frn_vet_holo_starfighter.iff = object_tangible_veteran_reward_shared_frn_vet_holo_starfighter.iff:new {
+object_tangible_veteran_reward_shared_frn_vet_holo_starfighter = object_tangible_veteran_reward_shared_frn_vet_holo_starfighter:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_frn_vet_holo_starfighter.iff, "object/tangible/veteran_reward/shared_frn_vet_holo_starfighter.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_frn_vet_holo_starfighter, "object/tangible/veteran_reward/shared_frn_vet_holo_starfighter.iff")

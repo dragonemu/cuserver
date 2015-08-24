@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_uwari_beetle_aggro_2.iff = object_mobile_shared_uwari_beetle_aggro_2.iff:new {
+object_mobile_shared_uwari_beetle_aggro_2 = object_mobile_shared_uwari_beetle_aggro_2:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_uwari_beetle_aggro_2.iff, "object/mobile/shared_uwari_beetle_aggro_2.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_uwari_beetle_aggro_2, "object/mobile/shared_uwari_beetle_aggro_2.iff")

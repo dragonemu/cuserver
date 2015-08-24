@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_shared_ep3_loot_retribution.iff = object_weapon_ranged_carbine_shared_ep3_loot_retribution.iff:new {
+object_weapon_ranged_carbine_shared_ep3_loot_retribution = object_weapon_ranged_carbine_shared_ep3_loot_retribution:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_ep3_loot_retribution.iff, "object/weapon/ranged/carbine/shared_ep3_loot_retribution.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_ep3_loot_retribution, "object/weapon/ranged/carbine/shared_ep3_loot_retribution.iff")

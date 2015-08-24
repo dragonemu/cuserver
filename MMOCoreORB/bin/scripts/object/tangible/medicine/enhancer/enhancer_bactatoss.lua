@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_shared_enhancer_bactatoss.iff = object_tangible_medicine_enhancer_shared_enhancer_bactatoss.iff:new {
+object_tangible_medicine_enhancer_shared_enhancer_bactatoss = object_tangible_medicine_enhancer_shared_enhancer_bactatoss:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_bactatoss.iff, "object/tangible/medicine/enhancer/shared_enhancer_bactatoss.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_bactatoss, "object/tangible/medicine/enhancer/shared_enhancer_bactatoss.iff")

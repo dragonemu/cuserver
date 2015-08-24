@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture.iff = object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture.iff:new {
+object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture = object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture.iff, "object/tangible/medicine/enhancer/shared_enhancer_thyroidrupture.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_thyroidrupture, "object/tangible/medicine/enhancer/shared_enhancer_thyroidrupture.iff")

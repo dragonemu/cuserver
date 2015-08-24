@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_lava_flea.iff = object_mobile_som_shared_lava_flea.iff:new {
+object_mobile_som_shared_lava_flea = object_mobile_som_shared_lava_flea:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_lava_flea.iff, "object/mobile/som/shared_lava_flea.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_lava_flea, "object/mobile/som/shared_lava_flea.iff")

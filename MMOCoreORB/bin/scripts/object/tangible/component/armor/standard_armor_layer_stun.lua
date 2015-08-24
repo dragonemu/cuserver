@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shared_standard_armor_layer_stun.iff = object_tangible_component_armor_shared_standard_armor_layer_stun.iff:new {
+object_tangible_component_armor_shared_standard_armor_layer_stun = object_tangible_component_armor_shared_standard_armor_layer_stun:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shared_standard_armor_layer_stun.iff, "object/tangible/component/armor/shared_standard_armor_layer_stun.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_standard_armor_layer_stun, "object/tangible/component/armor/shared_standard_armor_layer_stun.iff")

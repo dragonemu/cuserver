@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_loot_strike.iff = object_draft_schematic_weapon_shared_loot_strike.iff:new {
+object_draft_schematic_weapon_shared_loot_strike = object_draft_schematic_weapon_shared_loot_strike:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_strike.iff, "object/draft_schematic/weapon/shared_loot_strike.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_strike, "object/draft_schematic/weapon/shared_loot_strike.iff")

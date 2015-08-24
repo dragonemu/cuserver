@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_datapad_flashy_generic.iff = object_tangible_loot_npc_loot_shared_datapad_flashy_generic.iff:new {
+object_tangible_loot_npc_loot_shared_datapad_flashy_generic = object_tangible_loot_npc_loot_shared_datapad_flashy_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_datapad_flashy_generic.iff, "object/tangible/loot/npc_loot/shared_datapad_flashy_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_datapad_flashy_generic, "object/tangible/loot/npc_loot/shared_datapad_flashy_generic.iff")

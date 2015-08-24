@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_etyyy_banol_starkiller.iff = object_mobile_ep3_shared_ep3_etyyy_banol_starkiller.iff:new {
+object_mobile_ep3_shared_ep3_etyyy_banol_starkiller = object_mobile_ep3_shared_ep3_etyyy_banol_starkiller:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_etyyy_banol_starkiller.iff, "object/mobile/ep3/shared_ep3_etyyy_banol_starkiller.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_etyyy_banol_starkiller, "object/mobile/ep3/shared_ep3_etyyy_banol_starkiller.iff")

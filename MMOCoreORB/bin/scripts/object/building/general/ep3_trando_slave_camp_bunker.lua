@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_general_shared_ep3_trando_slave_camp_bunker.iff = object_building_general_shared_ep3_trando_slave_camp_bunker.iff:new {
+object_building_general_shared_ep3_trando_slave_camp_bunker = object_building_general_shared_ep3_trando_slave_camp_bunker:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_shared_ep3_trando_slave_camp_bunker.iff, "object/building/general/shared_ep3_trando_slave_camp_bunker.iff")
+ObjectTemplates:addTemplate(object_building_general_shared_ep3_trando_slave_camp_bunker, "object/building/general/shared_ep3_trando_slave_camp_bunker.iff")

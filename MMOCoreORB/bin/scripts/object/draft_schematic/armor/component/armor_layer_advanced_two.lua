@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_shared_armor_layer_advanced_two.iff = object_draft_schematic_armor_component_shared_armor_layer_advanced_two.iff:new {
+object_draft_schematic_armor_component_shared_armor_layer_advanced_two = object_draft_schematic_armor_component_shared_armor_layer_advanced_two:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_layer_advanced_two.iff, "object/draft_schematic/armor/component/shared_armor_layer_advanced_two.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_layer_advanced_two, "object/draft_schematic/armor/component/shared_armor_layer_advanced_two.iff")

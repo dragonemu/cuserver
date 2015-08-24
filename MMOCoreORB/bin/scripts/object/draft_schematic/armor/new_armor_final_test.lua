@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_shared_new_armor_final_test.iff = object_draft_schematic_armor_shared_new_armor_final_test.iff:new {
+object_draft_schematic_armor_shared_new_armor_final_test = object_draft_schematic_armor_shared_new_armor_final_test:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_shared_new_armor_final_test.iff, "object/draft_schematic/armor/shared_new_armor_final_test.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_shared_new_armor_final_test, "object/draft_schematic/armor/shared_new_armor_final_test.iff")

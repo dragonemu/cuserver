@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a.iff = object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a.iff:new {
+object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a = object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a.iff, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff")

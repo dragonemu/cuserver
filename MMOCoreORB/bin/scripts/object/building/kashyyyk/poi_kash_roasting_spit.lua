@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_poi_kash_roasting_spit.iff = object_building_kashyyyk_shared_poi_kash_roasting_spit.iff:new {
+object_building_kashyyyk_shared_poi_kash_roasting_spit = object_building_kashyyyk_shared_poi_kash_roasting_spit:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_roasting_spit.iff, "object/building/kashyyyk/shared_poi_kash_roasting_spit.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_roasting_spit, "object/building/kashyyyk/shared_poi_kash_roasting_spit.iff")

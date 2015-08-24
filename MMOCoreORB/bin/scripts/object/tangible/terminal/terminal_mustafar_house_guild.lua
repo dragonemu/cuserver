@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_shared_terminal_mustafar_house_guild.iff = object_tangible_terminal_shared_terminal_mustafar_house_guild.iff:new {
+object_tangible_terminal_shared_terminal_mustafar_house_guild = object_tangible_terminal_shared_terminal_mustafar_house_guild:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_shared_terminal_mustafar_house_guild.iff, "object/tangible/terminal/shared_terminal_mustafar_house_guild.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_shared_terminal_mustafar_house_guild, "object/tangible/terminal/shared_terminal_mustafar_house_guild.iff")

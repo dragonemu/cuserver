@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_creature_shared_kashyyyk_varactyl.iff = object_static_creature_shared_kashyyyk_varactyl.iff:new {
+object_static_creature_shared_kashyyyk_varactyl = object_static_creature_shared_kashyyyk_varactyl:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_creature_shared_kashyyyk_varactyl.iff, "object/static/creature/shared_kashyyyk_varactyl.iff")
+ObjectTemplates:addTemplate(object_static_creature_shared_kashyyyk_varactyl, "object/static/creature/shared_kashyyyk_varactyl.iff")

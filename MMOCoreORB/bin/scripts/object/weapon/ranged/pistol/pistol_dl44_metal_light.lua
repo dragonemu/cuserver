@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_shared_pistol_dl44_metal_light.iff = object_weapon_ranged_pistol_shared_pistol_dl44_metal_light.iff:new {
+object_weapon_ranged_pistol_shared_pistol_dl44_metal_light = object_weapon_ranged_pistol_shared_pistol_dl44_metal_light:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_dl44_metal_light.iff, "object/weapon/ranged/pistol/shared_pistol_dl44_metal_light.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_dl44_metal_light, "object/weapon/ranged/pistol/shared_pistol_dl44_metal_light.iff")

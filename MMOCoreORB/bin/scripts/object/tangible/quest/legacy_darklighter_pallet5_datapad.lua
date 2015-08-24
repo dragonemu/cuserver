@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_legacy_darklighter_pallet5_datapad.iff = object_tangible_quest_shared_legacy_darklighter_pallet5_datapad.iff:new {
+object_tangible_quest_shared_legacy_darklighter_pallet5_datapad = object_tangible_quest_shared_legacy_darklighter_pallet5_datapad:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_legacy_darklighter_pallet5_datapad.iff, "object/tangible/quest/shared_legacy_darklighter_pallet5_datapad.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_legacy_darklighter_pallet5_datapad, "object/tangible/quest/shared_legacy_darklighter_pallet5_datapad.iff")

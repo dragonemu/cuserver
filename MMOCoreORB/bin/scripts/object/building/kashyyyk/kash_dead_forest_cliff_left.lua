@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_kash_dead_forest_cliff_left.iff = object_building_kashyyyk_shared_kash_dead_forest_cliff_left.iff:new {
+object_building_kashyyyk_shared_kash_dead_forest_cliff_left = object_building_kashyyyk_shared_kash_dead_forest_cliff_left:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_kash_dead_forest_cliff_left.iff, "object/building/kashyyyk/shared_kash_dead_forest_cliff_left.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_kash_dead_forest_cliff_left, "object/building/kashyyyk/shared_kash_dead_forest_cliff_left.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_etyyy_brody_campsite_corpse.iff = object_tangible_quest_shared_etyyy_brody_campsite_corpse.iff:new {
+object_tangible_quest_shared_etyyy_brody_campsite_corpse = object_tangible_quest_shared_etyyy_brody_campsite_corpse:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_etyyy_brody_campsite_corpse.iff, "object/tangible/quest/shared_etyyy_brody_campsite_corpse.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_etyyy_brody_campsite_corpse, "object/tangible/quest/shared_etyyy_brody_campsite_corpse.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_lance_massassi.iff = object_draft_schematic_weapon_shared_lance_massassi.iff:new {
+object_draft_schematic_weapon_shared_lance_massassi = object_draft_schematic_weapon_shared_lance_massassi:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_massassi.iff, "object/draft_schematic/weapon/shared_lance_massassi.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_massassi, "object/draft_schematic/weapon/shared_lance_massassi.iff")

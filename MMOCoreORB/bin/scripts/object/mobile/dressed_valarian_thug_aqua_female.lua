@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_valarian_thug_aqua_female.iff = object_mobile_shared_dressed_valarian_thug_aqua_female.iff:new {
+object_mobile_shared_dressed_valarian_thug_aqua_female = object_mobile_shared_dressed_valarian_thug_aqua_female:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_valarian_thug_aqua_female.iff, "object/mobile/shared_dressed_valarian_thug_aqua_female.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_valarian_thug_aqua_female, "object/mobile/shared_dressed_valarian_thug_aqua_female.iff")

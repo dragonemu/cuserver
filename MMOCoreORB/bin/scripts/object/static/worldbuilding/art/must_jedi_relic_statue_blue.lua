@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue.iff = object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue.iff:new {
+object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue = object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue.iff, "object/static/worldbuilding/art/shared_must_jedi_relic_statue_blue.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_art_shared_must_jedi_relic_statue_blue, "object/static/worldbuilding/art/shared_must_jedi_relic_statue_blue.iff")

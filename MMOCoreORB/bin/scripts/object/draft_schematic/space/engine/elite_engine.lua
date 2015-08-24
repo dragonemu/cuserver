@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_engine_shared_elite_engine.iff = object_draft_schematic_space_engine_shared_elite_engine.iff:new {
+object_draft_schematic_space_engine_shared_elite_engine = object_draft_schematic_space_engine_shared_elite_engine:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_engine_shared_elite_engine.iff, "object/draft_schematic/space/engine/shared_elite_engine.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_engine_shared_elite_engine, "object/draft_schematic/space/engine/shared_elite_engine.iff")

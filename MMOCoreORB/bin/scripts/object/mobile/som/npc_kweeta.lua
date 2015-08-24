@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_npc_kweeta.iff = object_mobile_som_shared_npc_kweeta.iff:new {
+object_mobile_som_shared_npc_kweeta = object_mobile_som_shared_npc_kweeta:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_npc_kweeta.iff, "object/mobile/som/shared_npc_kweeta.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_npc_kweeta, "object/mobile/som/shared_npc_kweeta.iff")

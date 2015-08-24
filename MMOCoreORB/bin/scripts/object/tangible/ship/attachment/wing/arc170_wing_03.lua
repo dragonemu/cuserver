@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_wing_shared_arc170_wing_03.iff = object_tangible_ship_attachment_wing_shared_arc170_wing_03.iff:new {
+object_tangible_ship_attachment_wing_shared_arc170_wing_03 = object_tangible_ship_attachment_wing_shared_arc170_wing_03:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_shared_arc170_wing_03.iff, "object/tangible/ship/attachment/wing/shared_arc170_wing_03.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_shared_arc170_wing_03, "object/tangible/ship/attachment/wing/shared_arc170_wing_03.iff")

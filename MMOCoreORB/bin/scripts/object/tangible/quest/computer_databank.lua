@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_computer_databank.iff = object_tangible_quest_shared_computer_databank.iff:new {
+object_tangible_quest_shared_computer_databank = object_tangible_quest_shared_computer_databank:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_computer_databank.iff, "object/tangible/quest/shared_computer_databank.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_computer_databank, "object/tangible/quest/shared_computer_databank.iff")

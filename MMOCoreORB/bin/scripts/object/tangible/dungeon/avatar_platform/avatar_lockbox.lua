@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_avatar_platform_shared_avatar_lockbox.iff = object_tangible_dungeon_avatar_platform_shared_avatar_lockbox.iff:new {
+object_tangible_dungeon_avatar_platform_shared_avatar_lockbox = object_tangible_dungeon_avatar_platform_shared_avatar_lockbox:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_shared_avatar_lockbox.iff, "object/tangible/dungeon/avatar_platform/shared_avatar_lockbox.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_shared_avatar_lockbox, "object/tangible/dungeon/avatar_platform/shared_avatar_lockbox.iff")

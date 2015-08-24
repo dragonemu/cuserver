@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_loot_retaliation.iff = object_draft_schematic_weapon_shared_loot_retaliation.iff:new {
+object_draft_schematic_weapon_shared_loot_retaliation = object_draft_schematic_weapon_shared_loot_retaliation:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_retaliation.iff, "object/draft_schematic/weapon/shared_loot_retaliation.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_retaliation, "object/draft_schematic/weapon/shared_loot_retaliation.iff")

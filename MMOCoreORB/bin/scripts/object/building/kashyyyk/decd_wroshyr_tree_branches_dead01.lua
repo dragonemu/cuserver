@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01.iff = object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01.iff:new {
+object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01 = object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01.iff, "object/building/kashyyyk/shared_decd_wroshyr_tree_branches_dead01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_decd_wroshyr_tree_branches_dead01, "object/building/kashyyyk/shared_decd_wroshyr_tree_branches_dead01.iff")

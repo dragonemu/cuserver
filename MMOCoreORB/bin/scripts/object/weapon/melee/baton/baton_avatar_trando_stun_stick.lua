@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick.iff = object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick.iff:new {
+object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick = object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick.iff, "object/weapon/melee/baton/shared_baton_avatar_trando_stun_stick.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_baton_shared_baton_avatar_trando_stun_stick, "object/weapon/melee/baton/shared_baton_avatar_trando_stun_stick.iff")

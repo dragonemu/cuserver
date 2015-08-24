@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice.iff:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice = object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_lost_chance_dice.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_lost_chance_dice, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_lost_chance_dice.iff")

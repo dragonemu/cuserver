@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_shared_old_republic_tech_06.iff = object_tangible_loot_mustafar_shared_old_republic_tech_06.iff:new {
+object_tangible_loot_mustafar_shared_old_republic_tech_06 = object_tangible_loot_mustafar_shared_old_republic_tech_06:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_shared_old_republic_tech_06.iff, "object/tangible/loot/mustafar/shared_old_republic_tech_06.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_shared_old_republic_tech_06, "object/tangible/loot/mustafar/shared_old_republic_tech_06.iff")

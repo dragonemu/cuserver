@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_wookiee_gravestone_s03.iff = object_building_kashyyyk_shared_wookiee_gravestone_s03.iff:new {
+object_building_kashyyyk_shared_wookiee_gravestone_s03 = object_building_kashyyyk_shared_wookiee_gravestone_s03:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_wookiee_gravestone_s03.iff, "object/building/kashyyyk/shared_wookiee_gravestone_s03.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_wookiee_gravestone_s03, "object/building/kashyyyk/shared_wookiee_gravestone_s03.iff")

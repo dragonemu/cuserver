@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shared_advanced_armor_layer_two.iff = object_tangible_component_armor_shared_advanced_armor_layer_two.iff:new {
+object_tangible_component_armor_shared_advanced_armor_layer_two = object_tangible_component_armor_shared_advanced_armor_layer_two:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shared_advanced_armor_layer_two.iff, "object/tangible/component/armor/shared_advanced_armor_layer_two.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_advanced_armor_layer_two, "object/tangible/component/armor/shared_advanced_armor_layer_two.iff")

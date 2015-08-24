@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic.iff = object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic.iff:new {
+object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic = object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic.iff, "object/tangible/loot/creature_loot/generic/shared_lizard_scale_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic, "object/tangible/loot/creature_loot/generic/shared_lizard_scale_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves.iff = object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves.iff:new {
+object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves = object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves.iff, "object/tangible/wearables/armor/marauder/shared_armor_marauder_s02_gloves.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves, "object/tangible/wearables/armor/marauder/shared_armor_marauder_s02_gloves.iff")

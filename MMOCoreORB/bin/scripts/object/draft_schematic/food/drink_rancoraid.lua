@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_food_shared_drink_rancoraid.iff = object_draft_schematic_food_shared_drink_rancoraid.iff:new {
+object_draft_schematic_food_shared_drink_rancoraid = object_draft_schematic_food_shared_drink_rancoraid:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_food_shared_drink_rancoraid.iff, "object/draft_schematic/food/shared_drink_rancoraid.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_food_shared_drink_rancoraid, "object/draft_schematic/food/shared_drink_rancoraid.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5.iff = object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5.iff:new {
+object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5 = object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5.iff, "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5, "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff")

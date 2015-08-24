@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_terminal_shared_floor_console_sectional_03.iff = object_static_worldbuilding_terminal_shared_floor_console_sectional_03.iff:new {
+object_static_worldbuilding_terminal_shared_floor_console_sectional_03 = object_static_worldbuilding_terminal_shared_floor_console_sectional_03:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_shared_floor_console_sectional_03.iff, "object/static/worldbuilding/terminal/shared_floor_console_sectional_03.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_shared_floor_console_sectional_03, "object/static/worldbuilding/terminal/shared_floor_console_sectional_03.iff")

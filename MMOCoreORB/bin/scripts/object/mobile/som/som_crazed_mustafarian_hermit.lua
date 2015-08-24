@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_som_crazed_mustafarian_hermit.iff = object_mobile_som_shared_som_crazed_mustafarian_hermit.iff:new {
+object_mobile_som_shared_som_crazed_mustafarian_hermit = object_mobile_som_shared_som_crazed_mustafarian_hermit:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_som_crazed_mustafarian_hermit.iff, "object/mobile/som/shared_som_crazed_mustafarian_hermit.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_crazed_mustafarian_hermit, "object/mobile/som/shared_som_crazed_mustafarian_hermit.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_dessert_corellian_fried_icecream.iff = object_tangible_food_generic_shared_dessert_corellian_fried_icecream.iff:new {
+object_tangible_food_generic_shared_dessert_corellian_fried_icecream = object_tangible_food_generic_shared_dessert_corellian_fried_icecream:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_corellian_fried_icecream.iff, "object/tangible/food/generic/shared_dessert_corellian_fried_icecream.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_corellian_fried_icecream, "object/tangible/food/generic/shared_dessert_corellian_fried_icecream.iff")

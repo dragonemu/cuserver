@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_shared_som_republic_flamer_generic.iff = object_weapon_ranged_heavy_shared_som_republic_flamer_generic.iff:new {
+object_weapon_ranged_heavy_shared_som_republic_flamer_generic = object_weapon_ranged_heavy_shared_som_republic_flamer_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_heavy_shared_som_republic_flamer_generic.iff, "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_shared_som_republic_flamer_generic, "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff")

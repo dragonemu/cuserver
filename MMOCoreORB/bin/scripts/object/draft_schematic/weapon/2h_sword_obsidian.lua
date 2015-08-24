@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_2h_sword_obsidian.iff = object_draft_schematic_weapon_shared_2h_sword_obsidian.iff:new {
+object_draft_schematic_weapon_shared_2h_sword_obsidian = object_draft_schematic_weapon_shared_2h_sword_obsidian:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_2h_sword_obsidian.iff, "object/draft_schematic/weapon/shared_2h_sword_obsidian.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_2h_sword_obsidian, "object/draft_schematic/weapon/shared_2h_sword_obsidian.iff")

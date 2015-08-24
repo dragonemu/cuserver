@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_myyydril_isdan.iff = object_mobile_shared_dressed_myyydril_isdan.iff:new {
+object_mobile_shared_dressed_myyydril_isdan = object_mobile_shared_dressed_myyydril_isdan:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_myyydril_isdan.iff, "object/mobile/shared_dressed_myyydril_isdan.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_myyydril_isdan, "object/mobile/shared_dressed_myyydril_isdan.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_all_humanoid_bone_calf.iff = object_building_kashyyyk_shared_thm_all_humanoid_bone_calf.iff:new {
+object_building_kashyyyk_shared_thm_all_humanoid_bone_calf = object_building_kashyyyk_shared_thm_all_humanoid_bone_calf:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_all_humanoid_bone_calf.iff, "object/building/kashyyyk/shared_thm_all_humanoid_bone_calf.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_all_humanoid_bone_calf, "object/building/kashyyyk/shared_thm_all_humanoid_bone_calf.iff")

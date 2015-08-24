@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_shared_som_sword_mustafar_bandit.iff = object_weapon_melee_sword_shared_som_sword_mustafar_bandit.iff:new {
+object_weapon_melee_sword_shared_som_sword_mustafar_bandit = object_weapon_melee_sword_shared_som_sword_mustafar_bandit:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_som_sword_mustafar_bandit.iff, "object/weapon/melee/sword/shared_som_sword_mustafar_bandit.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_som_sword_mustafar_bandit, "object/weapon/melee/sword/shared_som_sword_mustafar_bandit.iff")

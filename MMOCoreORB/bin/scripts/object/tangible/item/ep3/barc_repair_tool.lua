@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_ep3_shared_barc_repair_tool.iff = object_tangible_item_ep3_shared_barc_repair_tool.iff:new {
+object_tangible_item_ep3_shared_barc_repair_tool = object_tangible_item_ep3_shared_barc_repair_tool:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_ep3_shared_barc_repair_tool.iff, "object/tangible/item/ep3/shared_barc_repair_tool.iff")
+ObjectTemplates:addTemplate(object_tangible_item_ep3_shared_barc_repair_tool, "object/tangible/item/ep3/shared_barc_repair_tool.iff")

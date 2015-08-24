@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_shared_delicate_trigger_assembly.iff = object_tangible_smuggler_shared_delicate_trigger_assembly.iff:new {
+object_tangible_smuggler_shared_delicate_trigger_assembly = object_tangible_smuggler_shared_delicate_trigger_assembly:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_shared_delicate_trigger_assembly.iff, "object/tangible/smuggler/shared_delicate_trigger_assembly.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_shared_delicate_trigger_assembly, "object/tangible/smuggler/shared_delicate_trigger_assembly.iff")

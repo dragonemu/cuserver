@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_capacitor_shared_mining_grade_capacitor.iff = object_draft_schematic_space_capacitor_shared_mining_grade_capacitor.iff:new {
+object_draft_schematic_space_capacitor_shared_mining_grade_capacitor = object_draft_schematic_space_capacitor_shared_mining_grade_capacitor:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_shared_mining_grade_capacitor.iff, "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_shared_mining_grade_capacitor, "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff")

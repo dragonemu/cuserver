@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_drink_sullustan_gin.iff = object_tangible_food_generic_shared_drink_sullustan_gin.iff:new {
+object_tangible_food_generic_shared_drink_sullustan_gin = object_tangible_food_generic_shared_drink_sullustan_gin:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_sullustan_gin.iff, "object/tangible/food/generic/shared_drink_sullustan_gin.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_sullustan_gin, "object/tangible/food/generic/shared_drink_sullustan_gin.iff")

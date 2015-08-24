@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain.iff = object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain.iff:new {
+object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain = object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain.iff, "object/tangible/quest/shared_corellia_coronet_farm_aid_stolen_grain.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain, "object/tangible/quest/shared_corellia_coronet_farm_aid_stolen_grain.iff")

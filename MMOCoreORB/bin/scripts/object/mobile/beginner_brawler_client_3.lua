@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_beginner_brawler_client_3.iff = object_mobile_shared_beginner_brawler_client_3.iff:new {
+object_mobile_shared_beginner_brawler_client_3 = object_mobile_shared_beginner_brawler_client_3:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_beginner_brawler_client_3.iff, "object/mobile/shared_beginner_brawler_client_3.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_beginner_brawler_client_3, "object/mobile/shared_beginner_brawler_client_3.iff")

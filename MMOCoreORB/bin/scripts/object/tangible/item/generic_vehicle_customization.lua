@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_shared_generic_vehicle_customization.iff = object_tangible_item_shared_generic_vehicle_customization.iff:new {
+object_tangible_item_shared_generic_vehicle_customization = object_tangible_item_shared_generic_vehicle_customization:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_shared_generic_vehicle_customization.iff, "object/tangible/item/shared_generic_vehicle_customization.iff")
+ObjectTemplates:addTemplate(object_tangible_item_shared_generic_vehicle_customization, "object/tangible/item/shared_generic_vehicle_customization.iff")

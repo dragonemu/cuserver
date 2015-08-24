@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_wing_shared_jedifighter_wing1.iff = object_tangible_ship_attachment_wing_shared_jedifighter_wing1.iff:new {
+object_tangible_ship_attachment_wing_shared_jedifighter_wing1 = object_tangible_ship_attachment_wing_shared_jedifighter_wing1:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_shared_jedifighter_wing1.iff, "object/tangible/ship/attachment/wing/shared_jedifighter_wing1.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_shared_jedifighter_wing1, "object/tangible/ship/attachment/wing/shared_jedifighter_wing1.iff")

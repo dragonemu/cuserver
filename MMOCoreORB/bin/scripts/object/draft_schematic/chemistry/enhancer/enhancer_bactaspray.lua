@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray.iff = object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray.iff:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray = object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray.iff, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactaspray.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_bactaspray, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactaspray.iff")

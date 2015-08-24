@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic.iff = object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic.iff:new {
+object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic = object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic.iff, "object/tangible/loot/npc_loot/shared_large_dispersal_unit_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_large_dispersal_unit_generic, "object/tangible/loot/npc_loot/shared_large_dispersal_unit_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_boshaz.iff = object_mobile_ep3_shared_ep3_boshaz.iff:new {
+object_mobile_ep3_shared_ep3_boshaz = object_mobile_ep3_shared_ep3_boshaz:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_boshaz.iff, "object/mobile/ep3/shared_ep3_boshaz.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_boshaz, "object/mobile/ep3/shared_ep3_boshaz.iff")

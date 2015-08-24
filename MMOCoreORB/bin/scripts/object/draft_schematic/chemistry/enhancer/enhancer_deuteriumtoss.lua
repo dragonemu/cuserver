@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss.iff = object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss.iff:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss = object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss.iff, "object/draft_schematic/chemistry/enhancer/shared_enhancer_deuteriumtoss.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_deuteriumtoss, "object/draft_schematic/chemistry/enhancer/shared_enhancer_deuteriumtoss.iff")

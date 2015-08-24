@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_urnsoris_nurse.iff = object_mobile_shared_urnsoris_nurse.iff:new {
+object_mobile_shared_urnsoris_nurse = object_mobile_shared_urnsoris_nurse:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_urnsoris_nurse.iff, "object/mobile/shared_urnsoris_nurse.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_urnsoris_nurse, "object/mobile/shared_urnsoris_nurse.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_ep3_forest_ardon.iff = object_mobile_shared_dressed_ep3_forest_ardon.iff:new {
+object_mobile_shared_dressed_ep3_forest_ardon = object_mobile_shared_dressed_ep3_forest_ardon:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_ep3_forest_ardon.iff, "object/mobile/shared_dressed_ep3_forest_ardon.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_ep3_forest_ardon, "object/mobile/shared_dressed_ep3_forest_ardon.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_spice_yarrock_generic.iff = object_tangible_loot_npc_loot_shared_spice_yarrock_generic.iff:new {
+object_tangible_loot_npc_loot_shared_spice_yarrock_generic = object_tangible_loot_npc_loot_shared_spice_yarrock_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_spice_yarrock_generic.iff, "object/tangible/loot/npc_loot/shared_spice_yarrock_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_spice_yarrock_generic, "object/tangible/loot/npc_loot/shared_spice_yarrock_generic.iff")

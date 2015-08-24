@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_frn_all_trophy_webweaver.iff = object_building_kashyyyk_shared_frn_all_trophy_webweaver.iff:new {
+object_building_kashyyyk_shared_frn_all_trophy_webweaver = object_building_kashyyyk_shared_frn_all_trophy_webweaver:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_all_trophy_webweaver.iff, "object/building/kashyyyk/shared_frn_all_trophy_webweaver.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_all_trophy_webweaver, "object/building/kashyyyk/shared_frn_all_trophy_webweaver.iff")

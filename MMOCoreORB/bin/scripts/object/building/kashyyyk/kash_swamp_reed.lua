@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_kash_swamp_reed.iff = object_building_kashyyyk_shared_kash_swamp_reed.iff:new {
+object_building_kashyyyk_shared_kash_swamp_reed = object_building_kashyyyk_shared_kash_swamp_reed:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_kash_swamp_reed.iff, "object/building/kashyyyk/shared_kash_swamp_reed.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_kash_swamp_reed, "object/building/kashyyyk/shared_kash_swamp_reed.iff")

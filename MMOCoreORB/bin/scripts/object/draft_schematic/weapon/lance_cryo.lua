@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_lance_cryo.iff = object_draft_schematic_weapon_shared_lance_cryo.iff:new {
+object_draft_schematic_weapon_shared_lance_cryo = object_draft_schematic_weapon_shared_lance_cryo:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_cryo.iff, "object/draft_schematic/weapon/shared_lance_cryo.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_cryo, "object/draft_schematic/weapon/shared_lance_cryo.iff")

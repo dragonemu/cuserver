@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_coyn_trooper.iff = object_mobile_som_shared_coyn_trooper.iff:new {
+object_mobile_som_shared_coyn_trooper = object_mobile_som_shared_coyn_trooper:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_coyn_trooper.iff, "object/mobile/som/shared_coyn_trooper.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_coyn_trooper, "object/mobile/som/shared_coyn_trooper.iff")

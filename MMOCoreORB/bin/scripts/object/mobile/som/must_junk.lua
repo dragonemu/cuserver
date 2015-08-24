@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_must_junk.iff = object_mobile_som_shared_must_junk.iff:new {
+object_mobile_som_shared_must_junk = object_mobile_som_shared_must_junk:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_must_junk.iff, "object/mobile/som/shared_must_junk.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_must_junk, "object/mobile/som/shared_must_junk.iff")

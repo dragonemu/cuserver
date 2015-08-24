@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_vansk_blackguard.iff = object_mobile_som_shared_vansk_blackguard.iff:new {
+object_mobile_som_shared_vansk_blackguard = object_mobile_som_shared_vansk_blackguard:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_vansk_blackguard.iff, "object/mobile/som/shared_vansk_blackguard.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_vansk_blackguard, "object/mobile/som/shared_vansk_blackguard.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_intangible_vehicle_shared_landspeeder_tantive4_pcd.iff = object_intangible_vehicle_shared_landspeeder_tantive4_pcd.iff:new {
+object_intangible_vehicle_shared_landspeeder_tantive4_pcd = object_intangible_vehicle_shared_landspeeder_tantive4_pcd:new {
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_vehicle_shared_landspeeder_tantive4_pcd.iff, "object/intangible/vehicle/shared_landspeeder_tantive4_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_vehicle_shared_landspeeder_tantive4_pcd, "object/intangible/vehicle/shared_landspeeder_tantive4_pcd.iff")

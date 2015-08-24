@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_structure_general_shared_decontamination_chamber.iff = object_static_structure_general_shared_decontamination_chamber.iff:new {
+object_static_structure_general_shared_decontamination_chamber = object_static_structure_general_shared_decontamination_chamber:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_shared_decontamination_chamber.iff, "object/static/structure/general/shared_decontamination_chamber.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_shared_decontamination_chamber, "object/static/structure/general/shared_decontamination_chamber.iff")

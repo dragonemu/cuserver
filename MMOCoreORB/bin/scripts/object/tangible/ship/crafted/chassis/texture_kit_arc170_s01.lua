@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01.iff = object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01.iff:new {
+object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01 = object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01.iff, "object/tangible/ship/crafted/chassis/shared_texture_kit_arc170_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_shared_texture_kit_arc170_s01, "object/tangible/ship/crafted/chassis/shared_texture_kit_arc170_s01.iff")

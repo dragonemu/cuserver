@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_ig106.iff = object_mobile_som_shared_ig106.iff:new {
+object_mobile_som_shared_ig106 = object_mobile_som_shared_ig106:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_ig106.iff, "object/mobile/som/shared_ig106.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_ig106, "object/mobile/som/shared_ig106.iff")

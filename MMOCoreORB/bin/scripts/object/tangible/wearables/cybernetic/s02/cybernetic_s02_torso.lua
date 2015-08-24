@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso.iff = object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso.iff:new {
+object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso = object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso.iff, "object/tangible/wearables/cybernetic/s02/shared_cybernetic_s02_torso.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_cybernetic_s02_shared_cybernetic_s02_torso, "object/tangible/wearables/cybernetic/s02/shared_cybernetic_s02_torso.iff")

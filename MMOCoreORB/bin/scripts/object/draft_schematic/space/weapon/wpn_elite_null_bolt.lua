@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt.iff = object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt.iff:new {
+object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt = object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt.iff, "object/draft_schematic/space/weapon/shared_wpn_elite_null_bolt.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt, "object/draft_schematic/space/weapon/shared_wpn_elite_null_bolt.iff")

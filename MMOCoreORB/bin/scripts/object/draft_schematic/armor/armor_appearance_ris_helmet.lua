@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_shared_armor_appearance_ris_helmet.iff = object_draft_schematic_armor_shared_armor_appearance_ris_helmet.iff:new {
+object_draft_schematic_armor_shared_armor_appearance_ris_helmet = object_draft_schematic_armor_shared_armor_appearance_ris_helmet:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_shared_armor_appearance_ris_helmet.iff, "object/draft_schematic/armor/shared_armor_appearance_ris_helmet.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_shared_armor_appearance_ris_helmet, "object/draft_schematic/armor/shared_armor_appearance_ris_helmet.iff")

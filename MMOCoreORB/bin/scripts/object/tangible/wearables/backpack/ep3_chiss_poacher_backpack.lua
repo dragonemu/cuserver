@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack.iff = object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack.iff:new {
+object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack = object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack.iff, "object/tangible/wearables/backpack/shared_ep3_chiss_poacher_backpack.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_backpack_shared_ep3_chiss_poacher_backpack, "object/tangible/wearables/backpack/shared_ep3_chiss_poacher_backpack.iff")

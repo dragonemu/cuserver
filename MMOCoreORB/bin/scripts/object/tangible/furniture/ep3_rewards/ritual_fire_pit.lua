@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit.iff = object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit.iff:new {
+object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit = object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit.iff, "object/tangible/furniture/ep3_rewards/shared_ritual_fire_pit.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit, "object/tangible/furniture/ep3_rewards/shared_ritual_fire_pit.iff")

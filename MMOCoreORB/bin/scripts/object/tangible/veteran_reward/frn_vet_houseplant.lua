@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_shared_frn_vet_houseplant.iff = object_tangible_veteran_reward_shared_frn_vet_houseplant.iff:new {
+object_tangible_veteran_reward_shared_frn_vet_houseplant = object_tangible_veteran_reward_shared_frn_vet_houseplant:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_frn_vet_houseplant.iff, "object/tangible/veteran_reward/shared_frn_vet_houseplant.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_shared_frn_vet_houseplant, "object/tangible/veteran_reward/shared_frn_vet_houseplant.iff")

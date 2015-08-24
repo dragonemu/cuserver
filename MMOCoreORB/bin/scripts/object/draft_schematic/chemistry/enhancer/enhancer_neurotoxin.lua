@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin.iff = object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin.iff:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin = object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin.iff, "object/draft_schematic/chemistry/enhancer/shared_enhancer_neurotoxin.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_neurotoxin, "object/draft_schematic/chemistry/enhancer/shared_enhancer_neurotoxin.iff")

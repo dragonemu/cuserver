@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_booster_shared_bst_nova_breaker.iff = object_tangible_ship_components_booster_shared_bst_nova_breaker.iff:new {
+object_tangible_ship_components_booster_shared_bst_nova_breaker = object_tangible_ship_components_booster_shared_bst_nova_breaker:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_booster_shared_bst_nova_breaker.iff, "object/tangible/ship/components/booster/shared_bst_nova_breaker.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_booster_shared_bst_nova_breaker, "object/tangible/ship/components/booster/shared_bst_nova_breaker.iff")

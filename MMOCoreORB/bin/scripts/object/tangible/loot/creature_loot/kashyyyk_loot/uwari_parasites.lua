@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites.iff:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites = object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_uwari_parasites.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_parasites, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_uwari_parasites.iff")

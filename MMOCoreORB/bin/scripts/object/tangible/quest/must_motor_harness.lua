@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_must_motor_harness.iff = object_tangible_quest_shared_must_motor_harness.iff:new {
+object_tangible_quest_shared_must_motor_harness = object_tangible_quest_shared_must_motor_harness:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_must_motor_harness.iff, "object/tangible/quest/shared_must_motor_harness.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_must_motor_harness, "object/tangible/quest/shared_must_motor_harness.iff")

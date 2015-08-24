@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_one_year_anniversary_shared_painting_10.iff = object_tangible_veteran_reward_one_year_anniversary_shared_painting_10.iff:new {
+object_tangible_veteran_reward_one_year_anniversary_shared_painting_10 = object_tangible_veteran_reward_one_year_anniversary_shared_painting_10:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_one_year_anniversary_shared_painting_10.iff, "object/tangible/veteran_reward/one_year_anniversary/shared_painting_10.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_one_year_anniversary_shared_painting_10, "object/tangible/veteran_reward/one_year_anniversary/shared_painting_10.iff")

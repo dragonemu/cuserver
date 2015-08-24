@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_yavin_osae.iff = object_mobile_shared_dressed_yavin_osae.iff:new {
+object_mobile_shared_dressed_yavin_osae = object_mobile_shared_dressed_yavin_osae:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_yavin_osae.iff, "object/mobile/shared_dressed_yavin_osae.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_yavin_osae, "object/mobile/shared_dressed_yavin_osae.iff")

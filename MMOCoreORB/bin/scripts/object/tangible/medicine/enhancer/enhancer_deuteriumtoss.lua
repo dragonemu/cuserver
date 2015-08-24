@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss.iff = object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss.iff:new {
+object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss = object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss.iff, "object/tangible/medicine/enhancer/shared_enhancer_deuteriumtoss.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_deuteriumtoss, "object/tangible/medicine/enhancer/shared_enhancer_deuteriumtoss.iff")

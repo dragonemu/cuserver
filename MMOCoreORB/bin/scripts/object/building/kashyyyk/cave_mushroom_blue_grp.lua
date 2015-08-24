@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_cave_mushroom_blue_grp.iff = object_building_kashyyyk_shared_cave_mushroom_blue_grp.iff:new {
+object_building_kashyyyk_shared_cave_mushroom_blue_grp = object_building_kashyyyk_shared_cave_mushroom_blue_grp:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_cave_mushroom_blue_grp.iff, "object/building/kashyyyk/shared_cave_mushroom_blue_grp.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_cave_mushroom_blue_grp, "object/building/kashyyyk/shared_cave_mushroom_blue_grp.iff")

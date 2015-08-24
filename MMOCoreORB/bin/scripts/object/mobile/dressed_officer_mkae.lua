@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_officer_mkae.iff = object_mobile_shared_dressed_officer_mkae.iff:new {
+object_mobile_shared_dressed_officer_mkae = object_mobile_shared_dressed_officer_mkae:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_officer_mkae.iff, "object/mobile/shared_dressed_officer_mkae.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_officer_mkae, "object/mobile/shared_dressed_officer_mkae.iff")

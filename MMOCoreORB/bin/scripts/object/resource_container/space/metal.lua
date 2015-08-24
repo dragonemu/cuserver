@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_space_shared_metal.iff = object_resource_container_space_shared_metal.iff:new {
+object_resource_container_space_shared_metal = object_resource_container_space_shared_metal:new {
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_space_shared_metal.iff, "object/resource_container/space/shared_metal.iff")
+ObjectTemplates:addTemplate(object_resource_container_space_shared_metal, "object/resource_container/space/shared_metal.iff")

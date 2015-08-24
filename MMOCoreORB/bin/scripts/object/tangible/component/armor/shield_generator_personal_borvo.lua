@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shared_shield_generator_personal_borvo.iff = object_tangible_component_armor_shared_shield_generator_personal_borvo.iff:new {
+object_tangible_component_armor_shared_shield_generator_personal_borvo = object_tangible_component_armor_shared_shield_generator_personal_borvo:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shared_shield_generator_personal_borvo.iff, "object/tangible/component/armor/shared_shield_generator_personal_borvo.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_shield_generator_personal_borvo, "object/tangible/component/armor/shared_shield_generator_personal_borvo.iff")

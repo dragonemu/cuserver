@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_lance_kaminoan_great_staff.iff = object_draft_schematic_weapon_shared_lance_kaminoan_great_staff.iff:new {
+object_draft_schematic_weapon_shared_lance_kaminoan_great_staff = object_draft_schematic_weapon_shared_lance_kaminoan_great_staff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_kaminoan_great_staff.iff, "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_lance_kaminoan_great_staff, "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff")

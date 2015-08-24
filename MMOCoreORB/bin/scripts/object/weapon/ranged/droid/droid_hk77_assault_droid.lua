@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_droid_shared_droid_hk77_assault_droid.iff = object_weapon_ranged_droid_shared_droid_hk77_assault_droid.iff:new {
+object_weapon_ranged_droid_shared_droid_hk77_assault_droid = object_weapon_ranged_droid_shared_droid_hk77_assault_droid:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_droid_shared_droid_hk77_assault_droid.iff, "object/weapon/ranged/droid/shared_droid_hk77_assault_droid.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_droid_shared_droid_hk77_assault_droid, "object/weapon/ranged/droid/shared_droid_hk77_assault_droid.iff")

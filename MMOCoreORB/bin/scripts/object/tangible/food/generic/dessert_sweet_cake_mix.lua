@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_dessert_sweet_cake_mix.iff = object_tangible_food_generic_shared_dessert_sweet_cake_mix.iff:new {
+object_tangible_food_generic_shared_dessert_sweet_cake_mix = object_tangible_food_generic_shared_dessert_sweet_cake_mix:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_sweet_cake_mix.iff, "object/tangible/food/generic/shared_dessert_sweet_cake_mix.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_sweet_cake_mix, "object/tangible/food/generic/shared_dessert_sweet_cake_mix.iff")

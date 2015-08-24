@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02.iff = object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02.iff:new {
+object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02 = object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02.iff, "object/mobile/ep3/shared_ep3_rryatt_gotal_hunter_trapper_02.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_rryatt_gotal_hunter_trapper_02, "object/mobile/ep3/shared_ep3_rryatt_gotal_hunter_trapper_02.iff")

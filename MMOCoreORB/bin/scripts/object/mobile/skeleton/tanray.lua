@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_shared_tanray.iff = object_mobile_skeleton_shared_tanray.iff:new {
+object_mobile_skeleton_shared_tanray = object_mobile_skeleton_shared_tanray:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_skeleton_shared_tanray.iff, "object/mobile/skeleton/shared_tanray.iff")
+ObjectTemplates:addTemplate(object_mobile_skeleton_shared_tanray, "object/mobile/skeleton/shared_tanray.iff")

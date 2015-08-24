@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f.iff = object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f.iff:new {
+object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f = object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f.iff, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_f, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_f.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_dressed_tatooine_icon_lyrissa.iff = object_mobile_shared_dressed_tatooine_icon_lyrissa.iff:new {
+object_mobile_shared_dressed_tatooine_icon_lyrissa = object_mobile_shared_dressed_tatooine_icon_lyrissa:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_dressed_tatooine_icon_lyrissa.iff, "object/mobile/shared_dressed_tatooine_icon_lyrissa.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_tatooine_icon_lyrissa, "object/mobile/shared_dressed_tatooine_icon_lyrissa.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_mission_shared_mission_bounty_jedi_target.iff = object_tangible_mission_shared_mission_bounty_jedi_target.iff:new {
+object_tangible_mission_shared_mission_bounty_jedi_target = object_tangible_mission_shared_mission_bounty_jedi_target:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_mission_shared_mission_bounty_jedi_target.iff, "object/tangible/mission/shared_mission_bounty_jedi_target.iff")
+ObjectTemplates:addTemplate(object_tangible_mission_shared_mission_bounty_jedi_target, "object/tangible/mission/shared_mission_bounty_jedi_target.iff")
