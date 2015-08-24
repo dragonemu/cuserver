@@ -2,6 +2,6 @@ object_draft_schematic_droid_component_shared_armor_bio_cartridge = SharedDraftS
 	clientTemplateFileName = "object/draft_schematic/droid/component/shared_armor_bio_cartridge.iff")
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_droid_component_shared_armor_bio_cartridge, "object/draft_schematic/droid/component/shared_armor_bio_cartridge.iff")
+ObjectTemplates:addClientTemplate(object_draft_schematic_droid_component_shared_armor_bio_cartridge, "object/draft_schematic/droid/component/shared_armor_bio_cartridge.iff"
 
 
