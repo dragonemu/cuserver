@@ -1,0 +1,77 @@
+object_tangible_quest_quest_start_corellia_coronet_meatlump_act1_viewscreen = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/corellia_coronet_meatlump_act1_viewscreen.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_corellia_coronet_meatlump_act1_viewscreen, "object/tangible/quest/quest_start/corellia_coronet_meatlump_act1_viewscreen.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_brightclaw_jaw = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_brightclaw_jaw.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_brightclaw_jaw, "object/tangible/quest/quest_start/ep3_hunt_loot_brightclaw_jaw.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_greyclimber_eye = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_greyclimber_eye.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_greyclimber_eye, "object/tangible/quest/quest_start/ep3_hunt_loot_greyclimber_eye.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_paleclaw_jaw = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_paleclaw_jaw.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_paleclaw_jaw, "object/tangible/quest/quest_start/ep3_hunt_loot_paleclaw_jaw.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_silkthrower_fang = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_silkthrower_fang.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_silkthrower_fang, "object/tangible/quest/quest_start/ep3_hunt_loot_silkthrower_fang.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_spiketop_horn.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn, "object/tangible/quest/quest_start/ep3_hunt_loot_spiketop_horn.iff"
+
+
+object_tangible_quest_quest_start_ep3_hunt_loot_stoneleg_heart = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/ep3_hunt_loot_stoneleg_heart.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_stoneleg_heart, "object/tangible/quest/quest_start/ep3_hunt_loot_stoneleg_heart.iff"
+
+
+object_tangible_quest_quest_start_naboo_kadaara_jonni_skaak_journal = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/naboo_kadaara_jonni_skaak_journal.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_naboo_kadaara_jonni_skaak_journal, "object/tangible/quest/quest_start/naboo_kadaara_jonni_skaak_journal.iff"
+
+
+object_tangible_quest_quest_start_som_kenobi_hidden_treasure_plaque = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/som_kenobi_hidden_treasure_plaque.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_som_kenobi_hidden_treasure_plaque, "object/tangible/quest/quest_start/som_kenobi_hidden_treasure_plaque.iff"
+
+
+object_tangible_quest_quest_start_som_kenobi_reunite_shard = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/som_kenobi_reunite_shard.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_som_kenobi_reunite_shard, "object/tangible/quest/quest_start/som_kenobi_reunite_shard.iff"
+
+
+object_tangible_quest_quest_start_som_kenobi_symbiosis_fluid_container = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/quest_start/som_kenobi_symbiosis_fluid_container.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_quest_start_som_kenobi_symbiosis_fluid_container, "object/tangible/quest/quest_start/som_kenobi_symbiosis_fluid_container.iff"
+
+

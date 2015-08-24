@@ -1,0 +1,56 @@
+object_tangible_dungeon_mustafar_decrepit_droid_factory_access_controller = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/access_controller.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_access_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/access_controller.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/data_terminal.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal, "object/tangible/dungeon/mustafar/decrepit_droid_factory/data_terminal.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/environmental_controller.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/environmental_controller.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/master_power_core.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core, "object/tangible/dungeon/mustafar/decrepit_droid_factory/master_power_core.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_security_controller = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_controller.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_controller.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_scanner.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner, "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_scanner.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_system_controller = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/system_controller.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_system_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/system_controller.iff"
+
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_workstation = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/decrepit_droid_factory/workstation.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_workstation, "object/tangible/dungeon/mustafar/decrepit_droid_factory/workstation.iff"
+
+

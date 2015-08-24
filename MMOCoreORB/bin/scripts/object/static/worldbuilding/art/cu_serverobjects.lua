@@ -1,0 +1,8 @@
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_aqua.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_black.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_blue.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_green.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_pink.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_purple.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_red.lua")
+includeFile("object/static/worldbuilding/art/must_jedi_relic_statue_yellow.lua")

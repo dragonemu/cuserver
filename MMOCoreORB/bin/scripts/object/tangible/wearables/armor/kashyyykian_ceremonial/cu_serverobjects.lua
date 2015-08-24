@@ -1,0 +1,3 @@
+includeFile("object/tangible/wearables/armor/kashyyykian_ceremonial/armor_kashyyykian_ceremonial_bicep_l.lua")
+includeFile("object/tangible/wearables/armor/kashyyykian_ceremonial/armor_kashyyykian_ceremonial_bicep_r.lua")
+includeFile("object/tangible/wearables/armor/kashyyykian_ceremonial/armor_kashyyykian_ceremonial_chestplate.lua")

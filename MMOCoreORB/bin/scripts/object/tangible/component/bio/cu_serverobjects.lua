@@ -1,0 +1,5 @@
+includeFile("object/tangible/component/bio/base_bio_component_armor.lua")
+includeFile("object/tangible/component/bio/bio_component_armor_adenine.lua")
+includeFile("object/tangible/component/bio/bio_component_armor_cytosine.lua")
+includeFile("object/tangible/component/bio/bio_component_armor_guanine.lua")
+includeFile("object/tangible/component/bio/bio_component_armor_thymine.lua")

@@ -1,0 +1,35 @@
+object_draft_schematic_space_modification_blacksun_heavy_modification_s01 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/space/modification/blacksun_heavy_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_modification_blacksun_heavy_modification_s01, "object/draft_schematic/space/modification/blacksun_heavy_modification_s01.iff"
+
+
+object_draft_schematic_space_modification_hutt_heavy_modification_s01 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/space/modification/hutt_heavy_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_modification_hutt_heavy_modification_s01, "object/draft_schematic/space/modification/hutt_heavy_modification_s01.iff"
+
+
+object_draft_schematic_space_modification_tieadvanced_modification_s01 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/space/modification/tieadvanced_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_modification_tieadvanced_modification_s01, "object/draft_schematic/space/modification/tieadvanced_modification_s01.iff"
+
+
+object_draft_schematic_space_modification_xwing_modification_s01 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/space/modification/xwing_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_modification_xwing_modification_s01, "object/draft_schematic/space/modification/xwing_modification_s01.iff"
+
+
+object_draft_schematic_space_modification_z95_modification_s01 = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/space/modification/z95_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_modification_z95_modification_s01, "object/draft_schematic/space/modification/z95_modification_s01.iff"
+
+

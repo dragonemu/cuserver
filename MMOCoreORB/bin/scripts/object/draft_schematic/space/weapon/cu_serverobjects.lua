@@ -1,0 +1,8 @@
+includeFile("object/draft_schematic/space/weapon/wpn_elite_gauss.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_elite_null_bolt.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_elite_railgun.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_mining_laser_elite.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_mining_laser_mk1.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_mining_laser_mk2.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_mining_laser_mk3.lua")
+includeFile("object/draft_schematic/space/weapon/wpn_tractor_beam.lua")

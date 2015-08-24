@@ -1,0 +1,5 @@
+includeFile("object/draft_schematic/chemistry/instant_stimpack/stimpack_a.lua")
+includeFile("object/draft_schematic/chemistry/instant_stimpack/stimpack_b.lua")
+includeFile("object/draft_schematic/chemistry/instant_stimpack/stimpack_c.lua")
+includeFile("object/draft_schematic/chemistry/instant_stimpack/stimpack_d.lua")
+includeFile("object/draft_schematic/chemistry/instant_stimpack/stimpack_e.lua")

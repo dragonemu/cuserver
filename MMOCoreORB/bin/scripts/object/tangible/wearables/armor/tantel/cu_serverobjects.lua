@@ -1,0 +1,6 @@
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_bicep_l.lua")
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_bicep_r.lua")
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_bracer_l.lua")
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_bracer_r.lua")
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_gloves.lua")
+includeFile("object/tangible/wearables/armor/tantel/armor_tantel_skreej_leggings.lua")

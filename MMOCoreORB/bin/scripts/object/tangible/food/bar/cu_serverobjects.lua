@@ -1,0 +1,5 @@
+includeFile("object/tangible/food/bar/drink_bar_s01.lua")
+includeFile("object/tangible/food/bar/drink_bar_s02.lua")
+includeFile("object/tangible/food/bar/drink_bar_s03.lua")
+includeFile("object/tangible/food/bar/drink_bar_s04.lua")
+includeFile("object/tangible/food/bar/drink_bar_s05.lua")
