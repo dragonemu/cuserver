@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_varactyl = object_mobile_varactyl:new {
+object_mobile_shared_varactyl = object_mobile_shared_varactyl:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_varactyl, "object/mobile/varactyl.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_varactyl, "object/mobile/shared_varactyl.iff")

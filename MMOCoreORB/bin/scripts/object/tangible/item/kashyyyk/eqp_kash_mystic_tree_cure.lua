@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_kashyyyk_eqp_kash_mystic_tree_cure = object_tangible_item_kashyyyk_eqp_kash_mystic_tree_cure:new {
+object_tangible_item_kashyyyk_shared_eqp_kash_mystic_tree_cure = object_tangible_item_kashyyyk_shared_eqp_kash_mystic_tree_cure:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_kash_mystic_tree_cure, "object/tangible/item/kashyyyk/eqp_kash_mystic_tree_cure.iff")
+ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_shared_eqp_kash_mystic_tree_cure, "object/tangible/item/kashyyyk/shared_eqp_kash_mystic_tree_cure.iff")

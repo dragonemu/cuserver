@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_02_generic = object_weapon_melee_sword_sword_02_generic:new {
+object_weapon_melee_sword_shared_sword_02_generic = object_weapon_melee_sword_shared_sword_02_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_02_generic, "object/weapon/melee/sword/sword_02_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_sword_02_generic, "object/weapon/melee/sword/shared_sword_02_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_victor_baton_gaderiffi = object_draft_schematic_weapon_victor_baton_gaderiffi:new {
+object_draft_schematic_weapon_shared_victor_baton_gaderiffi = object_draft_schematic_weapon_shared_victor_baton_gaderiffi:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_victor_baton_gaderiffi, "object/draft_schematic/weapon/victor_baton_gaderiffi.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_victor_baton_gaderiffi, "object/draft_schematic/weapon/shared_victor_baton_gaderiffi.iff")

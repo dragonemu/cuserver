@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_decd_wroshyr_bent_tree_dead = object_building_kashyyyk_decd_wroshyr_bent_tree_dead:new {
+object_building_kashyyyk_shared_decd_wroshyr_bent_tree_dead = object_building_kashyyyk_shared_decd_wroshyr_bent_tree_dead:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_decd_wroshyr_bent_tree_dead, "object/building/kashyyyk/decd_wroshyr_bent_tree_dead.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_decd_wroshyr_bent_tree_dead, "object/building/kashyyyk/shared_decd_wroshyr_bent_tree_dead.iff")

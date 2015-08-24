@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_event_perk_frn_tato_fruit_stand_small_style_01 = object_tangible_event_perk_frn_tato_fruit_stand_small_style_01:new {
+object_tangible_event_perk_shared_frn_tato_fruit_stand_small_style_01 = object_tangible_event_perk_shared_frn_tato_fruit_stand_small_style_01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_event_perk_frn_tato_fruit_stand_small_style_01, "object/tangible/event_perk/frn_tato_fruit_stand_small_style_01.iff")
+ObjectTemplates:addTemplate(object_tangible_event_perk_shared_frn_tato_fruit_stand_small_style_01, "object/tangible/event_perk/shared_frn_tato_fruit_stand_small_style_01.iff")

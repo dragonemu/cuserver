@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_rifle_avatar_laser_trando = object_weapon_ranged_rifle_rifle_avatar_laser_trando:new {
+object_weapon_ranged_rifle_shared_rifle_avatar_laser_trando = object_weapon_ranged_rifle_shared_rifle_avatar_laser_trando:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_avatar_laser_trando, "object/weapon/ranged/rifle/rifle_avatar_laser_trando.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_shared_rifle_avatar_laser_trando, "object/weapon/ranged/rifle/shared_rifle_avatar_laser_trando.iff")

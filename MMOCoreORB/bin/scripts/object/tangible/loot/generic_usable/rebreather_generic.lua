@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_rebreather_generic = object_tangible_loot_generic_usable_rebreather_generic:new {
+object_tangible_loot_generic_usable_shared_rebreather_generic = object_tangible_loot_generic_usable_shared_rebreather_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_rebreather_generic, "object/tangible/loot/generic_usable/rebreather_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_shared_rebreather_generic, "object/tangible/loot/generic_usable/shared_rebreather_generic.iff")

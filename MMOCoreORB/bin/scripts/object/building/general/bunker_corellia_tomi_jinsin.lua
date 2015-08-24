@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_general_bunker_corellia_tomi_jinsin = object_building_general_bunker_corellia_tomi_jinsin:new {
+object_building_general_shared_bunker_corellia_tomi_jinsin = object_building_general_shared_bunker_corellia_tomi_jinsin:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_bunker_corellia_tomi_jinsin, "object/building/general/bunker_corellia_tomi_jinsin.iff")
+ObjectTemplates:addTemplate(object_building_general_shared_bunker_corellia_tomi_jinsin, "object/building/general/shared_bunker_corellia_tomi_jinsin.iff")

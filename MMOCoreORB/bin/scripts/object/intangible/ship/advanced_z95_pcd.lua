@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_advanced_z95_pcd = object_intangible_ship_advanced_z95_pcd:new {
+object_intangible_ship_shared_advanced_z95_pcd = object_intangible_ship_shared_advanced_z95_pcd:new {
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_advanced_z95_pcd, "object/intangible/ship/advanced_z95_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_shared_advanced_z95_pcd, "object/intangible/ship/shared_advanced_z95_pcd.iff")

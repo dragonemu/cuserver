@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_acid = object_weapon_melee_sword_sword_acid:new {
+object_weapon_melee_sword_shared_sword_acid = object_weapon_melee_sword_shared_sword_acid:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_acid, "object/weapon/melee/sword/sword_acid.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_sword_acid, "object/weapon/melee/sword/shared_sword_acid.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_ramorrean_capanata = object_tangible_food_generic_dish_ramorrean_capanata:new {
+object_tangible_food_generic_shared_dish_ramorrean_capanata = object_tangible_food_generic_shared_dish_ramorrean_capanata:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_ramorrean_capanata, "object/tangible/food/generic/dish_ramorrean_capanata.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dish_ramorrean_capanata, "object/tangible/food/generic/shared_dish_ramorrean_capanata.iff")

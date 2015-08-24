@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_tatooine_opening_reimos = object_mobile_dressed_tatooine_opening_reimos:new {
+object_mobile_shared_dressed_tatooine_opening_reimos = object_mobile_shared_dressed_tatooine_opening_reimos:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_reimos, "object/mobile/dressed_tatooine_opening_reimos.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_tatooine_opening_reimos, "object/mobile/shared_dressed_tatooine_opening_reimos.iff")

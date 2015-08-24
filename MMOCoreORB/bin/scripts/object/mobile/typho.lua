@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_typho = object_mobile_typho:new {
+object_mobile_shared_typho = object_mobile_shared_typho:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_typho, "object/mobile/typho.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_typho, "object/mobile/shared_typho.iff")

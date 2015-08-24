@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight = object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_avatar_worklight = object_tangible_loot_creature_loot_kashyyyk_loot_shared_avatar_worklight:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight, "object/tangible/loot/creature_loot/kashyyyk_loot/avatar_worklight.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_avatar_worklight, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_avatar_worklight.iff")

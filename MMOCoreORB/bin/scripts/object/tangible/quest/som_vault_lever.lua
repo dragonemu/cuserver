@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_vault_lever = object_tangible_quest_som_vault_lever:new {
+object_tangible_quest_shared_som_vault_lever = object_tangible_quest_shared_som_vault_lever:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_vault_lever, "object/tangible/quest/som_vault_lever.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_som_vault_lever, "object/tangible/quest/shared_som_vault_lever.iff")

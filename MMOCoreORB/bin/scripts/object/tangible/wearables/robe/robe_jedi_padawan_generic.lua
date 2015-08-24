@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_robe_robe_jedi_padawan_generic = object_tangible_wearables_robe_robe_jedi_padawan_generic:new {
+object_tangible_wearables_robe_shared_robe_jedi_padawan_generic = object_tangible_wearables_robe_shared_robe_jedi_padawan_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_robe_robe_jedi_padawan_generic, "object/tangible/wearables/robe/robe_jedi_padawan_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_robe_shared_robe_jedi_padawan_generic, "object/tangible/wearables/robe/shared_robe_jedi_padawan_generic.iff")

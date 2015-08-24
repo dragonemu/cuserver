@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_enhancer_bactatoss = object_draft_schematic_chemistry_enhancer_enhancer_bactatoss:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_bactatoss = object_draft_schematic_chemistry_enhancer_shared_enhancer_bactatoss:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactatoss, "object/draft_schematic/chemistry/enhancer/enhancer_bactatoss.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_bactatoss, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactatoss.iff")

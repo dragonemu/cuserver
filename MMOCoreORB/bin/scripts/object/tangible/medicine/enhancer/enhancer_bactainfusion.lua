@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_enhancer_bactainfusion = object_tangible_medicine_enhancer_enhancer_bactainfusion:new {
+object_tangible_medicine_enhancer_shared_enhancer_bactainfusion = object_tangible_medicine_enhancer_shared_enhancer_bactainfusion:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_bactainfusion, "object/tangible/medicine/enhancer/enhancer_bactainfusion.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_shared_enhancer_bactainfusion, "object/tangible/medicine/enhancer/shared_enhancer_bactainfusion.iff")

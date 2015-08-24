@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_armor_segment_assault = object_draft_schematic_armor_component_armor_segment_assault:new {
+object_draft_schematic_armor_component_shared_armor_segment_assault = object_draft_schematic_armor_component_shared_armor_segment_assault:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_segment_assault, "object/draft_schematic/armor/component/armor_segment_assault.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_shared_armor_segment_assault, "object/draft_schematic/armor/component/shared_armor_segment_assault.iff")

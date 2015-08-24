@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_humanoid_skull = object_tangible_loot_creature_loot_generic_humanoid_skull:new {
+object_tangible_loot_creature_loot_generic_shared_humanoid_skull = object_tangible_loot_creature_loot_generic_shared_humanoid_skull:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_humanoid_skull, "object/tangible/loot/creature_loot/generic/humanoid_skull.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_humanoid_skull, "object/tangible/loot/creature_loot/generic/shared_humanoid_skull.iff")

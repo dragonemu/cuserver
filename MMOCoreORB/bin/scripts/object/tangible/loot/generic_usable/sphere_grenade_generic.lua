@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_sphere_grenade_generic = object_tangible_loot_generic_usable_sphere_grenade_generic:new {
+object_tangible_loot_generic_usable_shared_sphere_grenade_generic = object_tangible_loot_generic_usable_shared_sphere_grenade_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_sphere_grenade_generic, "object/tangible/loot/generic_usable/sphere_grenade_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_shared_sphere_grenade_generic, "object/tangible/loot/generic_usable/shared_sphere_grenade_generic.iff")

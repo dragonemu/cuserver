@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_trinity_assassin_ithorian_male = object_mobile_som_som_trinity_assassin_ithorian_male:new {
+object_mobile_som_shared_som_trinity_assassin_ithorian_male = object_mobile_som_shared_som_trinity_assassin_ithorian_male:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_trinity_assassin_ithorian_male, "object/mobile/som/som_trinity_assassin_ithorian_male.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_trinity_assassin_ithorian_male, "object/mobile/som/shared_som_trinity_assassin_ithorian_male.iff")

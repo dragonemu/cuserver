@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_generic_heart = object_tangible_loot_creature_loot_generic_generic_heart:new {
+object_tangible_loot_creature_loot_generic_shared_generic_heart = object_tangible_loot_creature_loot_generic_shared_generic_heart:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_heart, "object/tangible/loot/creature_loot/generic/generic_heart.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_heart, "object/tangible/loot/creature_loot/generic/shared_generic_heart.iff")

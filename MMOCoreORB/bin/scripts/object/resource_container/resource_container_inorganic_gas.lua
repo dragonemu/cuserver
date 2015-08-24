@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_resource_container_inorganic_gas = object_resource_container_resource_container_inorganic_gas:new {
+object_resource_container_shared_resource_container_inorganic_gas = object_resource_container_shared_resource_container_inorganic_gas:new {
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_inorganic_gas, "object/resource_container/resource_container_inorganic_gas.iff")
+ObjectTemplates:addTemplate(object_resource_container_shared_resource_container_inorganic_gas, "object/resource_container/shared_resource_container_inorganic_gas.iff")

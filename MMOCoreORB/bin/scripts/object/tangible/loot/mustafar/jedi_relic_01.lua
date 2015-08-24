@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_jedi_relic_01 = object_tangible_loot_mustafar_jedi_relic_01:new {
+object_tangible_loot_mustafar_shared_jedi_relic_01 = object_tangible_loot_mustafar_shared_jedi_relic_01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_jedi_relic_01, "object/tangible/loot/mustafar/jedi_relic_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_shared_jedi_relic_01, "object/tangible/loot/mustafar/shared_jedi_relic_01.iff")
