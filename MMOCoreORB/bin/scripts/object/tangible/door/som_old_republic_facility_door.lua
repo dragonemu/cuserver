@@ -4,4 +4,4 @@ object_tangible_door_som_old_republic_facility_door = object_tangible_door_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_door_som_old_republic_facility_door, "object/tangible/door/shared_som_old_republic_facility_door.iff")
+ObjectTemplates:addTemplate(object_tangible_door_som_old_republic_facility_door, "object/tangible/door/som_old_republic_facility_door.iff")

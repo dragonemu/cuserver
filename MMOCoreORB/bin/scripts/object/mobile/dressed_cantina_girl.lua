@@ -4,4 +4,4 @@ object_mobile_dressed_cantina_girl = object_mobile_shared_dressed_cantina_girl:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_cantina_girl, "object/mobile/shared_dressed_cantina_girl.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_cantina_girl, "object/mobile/dressed_cantina_girl.iff")

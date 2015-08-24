@@ -4,4 +4,4 @@ object_tangible_ship_attachment_weapon_grievous_starship_weapon1_s01 = object_ta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_grievous_starship_weapon1_s01, "object/tangible/ship/attachment/weapon/shared_grievous_starship_weapon1_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_grievous_starship_weapon1_s01, "object/tangible/ship/attachment/weapon/grievous_starship_weapon1_s01.iff")

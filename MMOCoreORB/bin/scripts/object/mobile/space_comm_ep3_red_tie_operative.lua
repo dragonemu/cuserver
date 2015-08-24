@@ -4,4 +4,4 @@ object_mobile_space_comm_ep3_red_tie_operative = object_mobile_shared_space_comm
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_red_tie_operative, "object/mobile/shared_space_comm_ep3_red_tie_operative.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_red_tie_operative, "object/mobile/space_comm_ep3_red_tie_operative.iff")

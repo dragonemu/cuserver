@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_working_droid_factory_rapid_assembly_station = 
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_rapid_assembly_station, "object/tangible/dungeon/mustafar/working_droid_factory/shared_rapid_assembly_station.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_rapid_assembly_station, "object/tangible/dungeon/mustafar/working_droid_factory/rapid_assembly_station.iff")

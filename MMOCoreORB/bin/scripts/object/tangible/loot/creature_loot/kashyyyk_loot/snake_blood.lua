@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_snake_blood = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_snake_blood, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_blood.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_snake_blood, "object/tangible/loot/creature_loot/kashyyyk_loot/snake_blood.iff")

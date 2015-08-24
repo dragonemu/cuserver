@@ -4,4 +4,4 @@ object_draft_schematic_weapon_bowcaster_assault = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_bowcaster_assault, "object/draft_schematic/weapon/shared_bowcaster_assault.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_bowcaster_assault, "object/draft_schematic/weapon/bowcaster_assault.iff")

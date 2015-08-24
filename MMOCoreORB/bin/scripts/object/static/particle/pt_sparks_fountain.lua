@@ -4,4 +4,4 @@ object_static_particle_pt_sparks_fountain = object_static_particle_shared_pt_spa
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_sparks_fountain, "object/static/particle/shared_pt_sparks_fountain.iff")
+ObjectTemplates:addTemplate(object_static_particle_pt_sparks_fountain, "object/static/particle/pt_sparks_fountain.iff")

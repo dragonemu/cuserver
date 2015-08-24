@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_mandalorian_wine = object_tangible_food_gener
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_mandalorian_wine, "object/tangible/food/generic/shared_drink_mandalorian_wine.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_mandalorian_wine, "object/tangible/food/generic/drink_mandalorian_wine.iff")

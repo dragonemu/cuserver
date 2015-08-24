@@ -4,4 +4,4 @@ object_draft_schematic_space_capacitor_mining_grade_capacitor = object_draft_sch
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_mining_grade_capacitor, "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_mining_grade_capacitor, "object/draft_schematic/space/capacitor/mining_grade_capacitor.iff")

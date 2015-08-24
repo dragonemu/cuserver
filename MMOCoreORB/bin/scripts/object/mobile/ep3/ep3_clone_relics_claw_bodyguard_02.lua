@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_claw_bodyguard_02 = object_mobile_ep3_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_claw_bodyguard_02, "object/mobile/ep3/shared_ep3_clone_relics_claw_bodyguard_02.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_claw_bodyguard_02, "object/mobile/ep3/ep3_clone_relics_claw_bodyguard_02.iff")

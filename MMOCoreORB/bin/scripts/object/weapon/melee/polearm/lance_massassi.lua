@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_massassi = object_weapon_melee_polearm_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_massassi, "object/weapon/melee/polearm/shared_lance_massassi.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_massassi, "object/weapon/melee/polearm/lance_massassi.iff")

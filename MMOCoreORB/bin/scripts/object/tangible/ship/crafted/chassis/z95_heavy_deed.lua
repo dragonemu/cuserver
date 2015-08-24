@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_z95_heavy_deed = object_tangible_ship_craft
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_z95_heavy_deed, "object/tangible/ship/crafted/chassis/shared_z95_heavy_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_z95_heavy_deed, "object/tangible/ship/crafted/chassis/z95_heavy_deed.iff")

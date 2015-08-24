@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_chem_dispersion_device_generic = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_chem_dispersion_device_generic, "object/tangible/loot/generic_usable/shared_chem_dispersion_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_chem_dispersion_device_generic, "object/tangible/loot/generic_usable/chem_dispersion_device_generic.iff")

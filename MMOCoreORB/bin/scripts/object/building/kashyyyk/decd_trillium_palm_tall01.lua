@@ -4,4 +4,4 @@ object_building_kashyyyk_decd_trillium_palm_tall01 = object_building_kashyyyk_sh
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_decd_trillium_palm_tall01, "object/building/kashyyyk/shared_decd_trillium_palm_tall01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_decd_trillium_palm_tall01, "object/building/kashyyyk/decd_trillium_palm_tall01.iff")

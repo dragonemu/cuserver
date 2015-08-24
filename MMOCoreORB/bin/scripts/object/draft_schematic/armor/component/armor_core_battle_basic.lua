@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_armor_core_battle_basic = object_draft_sc
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_core_battle_basic, "object/draft_schematic/armor/component/shared_armor_core_battle_basic.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_core_battle_basic, "object/draft_schematic/armor/component/armor_core_battle_basic.iff")

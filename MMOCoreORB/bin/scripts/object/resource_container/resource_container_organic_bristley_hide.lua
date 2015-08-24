@@ -4,4 +4,4 @@ object_resource_container_resource_container_organic_bristley_hide = object_reso
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_bristley_hide, "object/resource_container/shared_resource_container_organic_bristley_hide.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_bristley_hide, "object/resource_container/resource_container_organic_bristley_hide.iff")

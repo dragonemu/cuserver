@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_etyyy_chiss_poacher_defender_03 = object_mobile_ep3_shared
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_chiss_poacher_defender_03, "object/mobile/ep3/shared_ep3_etyyy_chiss_poacher_defender_03.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_chiss_poacher_defender_03, "object/mobile/ep3/ep3_etyyy_chiss_poacher_defender_03.iff")

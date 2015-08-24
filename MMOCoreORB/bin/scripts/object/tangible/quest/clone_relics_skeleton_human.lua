@@ -4,4 +4,4 @@ object_tangible_quest_clone_relics_skeleton_human = object_tangible_quest_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_clone_relics_skeleton_human, "object/tangible/quest/shared_clone_relics_skeleton_human.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_clone_relics_skeleton_human, "object/tangible/quest/clone_relics_skeleton_human.iff")

@@ -4,4 +4,4 @@ object_tangible_quest_tatooine_bestinejobs_xwing = object_tangible_quest_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_tatooine_bestinejobs_xwing, "object/tangible/quest/shared_tatooine_bestinejobs_xwing.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_tatooine_bestinejobs_xwing, "object/tangible/quest/tatooine_bestinejobs_xwing.iff")

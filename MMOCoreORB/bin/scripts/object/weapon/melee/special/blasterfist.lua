@@ -4,4 +4,4 @@ object_weapon_melee_special_blasterfist = object_weapon_melee_special_shared_bla
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_special_blasterfist, "object/weapon/melee/special/shared_blasterfist.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_special_blasterfist, "object/weapon/melee/special/blasterfist.iff")

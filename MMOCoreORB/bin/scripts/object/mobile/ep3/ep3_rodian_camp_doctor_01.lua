@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_rodian_camp_doctor_01 = object_mobile_ep3_shared_ep3_rodia
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rodian_camp_doctor_01, "object/mobile/ep3/shared_ep3_rodian_camp_doctor_01.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rodian_camp_doctor_01, "object/mobile/ep3/ep3_rodian_camp_doctor_01.iff")

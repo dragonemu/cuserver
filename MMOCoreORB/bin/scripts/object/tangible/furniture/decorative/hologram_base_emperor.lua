@@ -4,4 +4,4 @@ object_tangible_furniture_decorative_hologram_base_emperor = object_tangible_fur
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_decorative_hologram_base_emperor, "object/tangible/furniture/decorative/shared_hologram_base_emperor.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_decorative_hologram_base_emperor, "object/tangible/furniture/decorative/hologram_base_emperor.iff")

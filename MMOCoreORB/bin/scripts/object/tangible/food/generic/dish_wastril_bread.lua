@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_wastril_bread = object_tangible_food_generic_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_wastril_bread, "object/tangible/food/generic/shared_dish_wastril_bread.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_wastril_bread, "object/tangible/food/generic/dish_wastril_bread.iff")

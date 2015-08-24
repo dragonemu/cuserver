@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_som_disruptor_pistol_generic = object_weapon_ranged_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_som_disruptor_pistol_generic, "object/weapon/ranged/pistol/shared_som_disruptor_pistol_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_som_disruptor_pistol_generic, "object/weapon/ranged/pistol/som_disruptor_pistol_generic.iff")

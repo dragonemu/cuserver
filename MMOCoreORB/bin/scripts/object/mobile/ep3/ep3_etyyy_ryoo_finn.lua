@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_etyyy_ryoo_finn = object_mobile_ep3_shared_ep3_etyyy_ryoo_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_ryoo_finn, "object/mobile/ep3/shared_ep3_etyyy_ryoo_finn.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_ryoo_finn, "object/mobile/ep3/ep3_etyyy_ryoo_finn.iff")

@@ -4,4 +4,4 @@ object_tangible_quest_som_kenobi_reunite_shard_splinters_1 = object_tangible_que
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_reunite_shard_splinters_1, "object/tangible/quest/shared_som_kenobi_reunite_shard_splinters_1.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_reunite_shard_splinters_1, "object/tangible/quest/som_kenobi_reunite_shard_splinters_1.iff")

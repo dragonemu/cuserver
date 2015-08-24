@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_odararissl = object_weapon_ranged_rifle_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_odararissl, "object/weapon/ranged/rifle/shared_rifle_odararissl.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_odararissl, "object/weapon/ranged/rifle/rifle_odararissl.iff")

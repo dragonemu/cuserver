@@ -4,4 +4,4 @@ object_tangible_wearables_armor_marine_armor_marine_gloves = object_tangible_wea
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_marine_armor_marine_gloves, "object/tangible/wearables/armor/marine/shared_armor_marine_gloves.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marine_armor_marine_gloves, "object/tangible/wearables/armor/marine/armor_marine_gloves.iff")

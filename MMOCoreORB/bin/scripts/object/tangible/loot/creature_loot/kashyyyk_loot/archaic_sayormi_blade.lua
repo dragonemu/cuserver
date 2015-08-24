@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_archaic_sayormi_blade.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade, "object/tangible/loot/creature_loot/kashyyyk_loot/archaic_sayormi_blade.iff")

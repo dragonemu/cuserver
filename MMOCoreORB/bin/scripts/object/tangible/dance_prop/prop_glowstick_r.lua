@@ -4,4 +4,4 @@ object_tangible_dance_prop_prop_glowstick_r = object_tangible_dance_prop_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_glowstick_r, "object/tangible/dance_prop/shared_prop_glowstick_r.iff")
+ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_glowstick_r, "object/tangible/dance_prop/prop_glowstick_r.iff")

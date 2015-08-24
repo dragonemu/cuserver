@@ -4,4 +4,4 @@ object_tangible_smuggler_delicate_trigger_assembly = object_tangible_smuggler_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_delicate_trigger_assembly, "object/tangible/smuggler/shared_delicate_trigger_assembly.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_delicate_trigger_assembly, "object/tangible/smuggler/delicate_trigger_assembly.iff")

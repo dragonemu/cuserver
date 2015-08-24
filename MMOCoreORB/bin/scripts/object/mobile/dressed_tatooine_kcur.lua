@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_kcur = object_mobile_shared_dressed_tatooine_kcur
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_kcur, "object/mobile/shared_dressed_tatooine_kcur.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_kcur, "object/mobile/dressed_tatooine_kcur.iff")

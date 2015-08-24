@@ -4,4 +4,4 @@ object_weapon_melee_sword_sword_avatar_wke_spiritblade = object_weapon_melee_swo
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_avatar_wke_spiritblade, "object/weapon/melee/sword/shared_sword_avatar_wke_spiritblade.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_avatar_wke_spiritblade, "object/weapon/melee/sword/sword_avatar_wke_spiritblade.iff")

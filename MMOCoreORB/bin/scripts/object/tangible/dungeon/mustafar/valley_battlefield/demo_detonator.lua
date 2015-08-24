@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator, "object/tangible/dungeon/mustafar/valley_battlefield/demo_detonator.iff")

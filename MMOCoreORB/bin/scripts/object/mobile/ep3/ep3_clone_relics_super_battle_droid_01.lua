@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_super_battle_droid_01 = object_mobile_ep3_sha
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_super_battle_droid_01, "object/mobile/ep3/shared_ep3_clone_relics_super_battle_droid_01.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_super_battle_droid_01, "object/mobile/ep3/ep3_clone_relics_super_battle_droid_01.iff")

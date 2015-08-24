@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_ithorian_sentinel_boots = object_d
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_boots, "object/draft_schematic/armor/shared_armor_appearance_ithorian_sentinel_boots.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_boots, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_boots.iff")

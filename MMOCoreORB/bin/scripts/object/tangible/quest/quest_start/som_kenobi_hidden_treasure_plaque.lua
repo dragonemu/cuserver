@@ -4,4 +4,4 @@ object_tangible_quest_quest_start_som_kenobi_hidden_treasure_plaque = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_quest_start_som_kenobi_hidden_treasure_plaque, "object/tangible/quest/quest_start/shared_som_kenobi_hidden_treasure_plaque.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_quest_start_som_kenobi_hidden_treasure_plaque, "object/tangible/quest/quest_start/som_kenobi_hidden_treasure_plaque.iff")

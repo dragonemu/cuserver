@@ -4,4 +4,4 @@ object_tangible_quest_mysess_blossom = object_tangible_quest_shared_mysess_bloss
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_mysess_blossom, "object/tangible/quest/shared_mysess_blossom.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_mysess_blossom, "object/tangible/quest/mysess_blossom.iff")

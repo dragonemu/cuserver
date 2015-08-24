@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_necklace_deepspace_empire_wke_m = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_deepspace_empire_wke_m, "object/tangible/wearables/necklace/shared_necklace_deepspace_empire_wke_m.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_deepspace_empire_wke_m, "object/tangible/wearables/necklace/necklace_deepspace_empire_wke_m.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_supplement_solid_pills = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_supplement_solid_pills, "object/tangible/loot/generic_usable/shared_supplement_solid_pills.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_supplement_solid_pills, "object/tangible/loot/generic_usable/supplement_solid_pills.iff")

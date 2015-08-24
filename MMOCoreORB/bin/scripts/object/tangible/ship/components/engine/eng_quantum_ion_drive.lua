@@ -4,4 +4,4 @@ object_tangible_ship_components_engine_eng_quantum_ion_drive = object_tangible_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_quantum_ion_drive, "object/tangible/ship/components/engine/shared_eng_quantum_ion_drive.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_quantum_ion_drive, "object/tangible/ship/components/engine/eng_quantum_ion_drive.iff")

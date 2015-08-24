@@ -4,4 +4,4 @@ object_mobile_vehicle_landspeeder_desert_skiff = object_mobile_vehicle_shared_la
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_vehicle_landspeeder_desert_skiff, "object/mobile/vehicle/shared_landspeeder_desert_skiff.iff")
+ObjectTemplates:addTemplate(object_mobile_vehicle_landspeeder_desert_skiff, "object/mobile/vehicle/landspeeder_desert_skiff.iff")

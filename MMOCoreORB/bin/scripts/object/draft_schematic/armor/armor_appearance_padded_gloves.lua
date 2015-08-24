@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_padded_gloves = object_draft_schem
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_padded_gloves, "object/draft_schematic/armor/shared_armor_appearance_padded_gloves.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_padded_gloves, "object/draft_schematic/armor/armor_appearance_padded_gloves.iff")

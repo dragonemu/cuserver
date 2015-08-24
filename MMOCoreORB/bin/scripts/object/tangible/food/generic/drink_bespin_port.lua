@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_bespin_port = object_tangible_food_generic_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_bespin_port, "object/tangible/food/generic/shared_drink_bespin_port.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_bespin_port, "object/tangible/food/generic/drink_bespin_port.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_handheld_viewscreen_2_generic = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_handheld_viewscreen_2_generic, "object/tangible/loot/generic_usable/shared_handheld_viewscreen_2_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_handheld_viewscreen_2_generic, "object/tangible/loot/generic_usable/handheld_viewscreen_2_generic.iff")

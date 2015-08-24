@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_teltier_noodles = object_tangible_food_generic
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_teltier_noodles, "object/tangible/food/generic/shared_dish_teltier_noodles.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_teltier_noodles, "object/tangible/food/generic/dish_teltier_noodles.iff")

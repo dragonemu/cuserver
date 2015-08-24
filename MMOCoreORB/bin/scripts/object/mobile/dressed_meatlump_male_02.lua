@@ -4,4 +4,4 @@ object_mobile_dressed_meatlump_male_02 = object_mobile_shared_dressed_meatlump_m
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_meatlump_male_02, "object/mobile/shared_dressed_meatlump_male_02.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_meatlump_male_02, "object/mobile/dressed_meatlump_male_02.iff")

@@ -4,4 +4,4 @@ object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token, "object/tangible/ship/components/chassis/shared_tiefighter_heavy_chassis_token.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token, "object/tangible/ship/components/chassis/tiefighter_heavy_chassis_token.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_software_module_generic = object_tangible_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_software_module_generic, "object/tangible/loot/generic_usable/shared_software_module_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_software_module_generic, "object/tangible/loot/generic_usable/software_module_generic.iff")

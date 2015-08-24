@@ -4,4 +4,4 @@ object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic, "object/tangible/loot/loot_schematic/shared_speeder_desert_skiff_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic, "object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.iff")

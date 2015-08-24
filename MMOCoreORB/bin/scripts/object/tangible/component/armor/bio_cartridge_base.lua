@@ -4,4 +4,4 @@ object_tangible_component_armor_bio_cartridge_base = object_tangible_component_a
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_bio_cartridge_base, "object/tangible/component/armor/shared_bio_cartridge_base.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_bio_cartridge_base, "object/tangible/component/armor/bio_cartridge_base.iff")

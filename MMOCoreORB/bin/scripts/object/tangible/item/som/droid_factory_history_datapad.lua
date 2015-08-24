@@ -4,4 +4,4 @@ object_tangible_item_som_droid_factory_history_datapad = object_tangible_item_so
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_droid_factory_history_datapad, "object/tangible/item/som/shared_droid_factory_history_datapad.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_droid_factory_history_datapad, "object/tangible/item/som/droid_factory_history_datapad.iff")

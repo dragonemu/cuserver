@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_voting_02 = object_static_worldbuildi
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_voting_02, "object/static/worldbuilding/terminal/shared_floor_voting_02.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_voting_02, "object/static/worldbuilding/terminal/floor_voting_02.iff")

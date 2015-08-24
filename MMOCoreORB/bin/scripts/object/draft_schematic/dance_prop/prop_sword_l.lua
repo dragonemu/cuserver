@@ -4,4 +4,4 @@ object_draft_schematic_dance_prop_prop_sword_l = object_draft_schematic_dance_pr
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_sword_l, "object/draft_schematic/dance_prop/shared_prop_sword_l.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_sword_l, "object/draft_schematic/dance_prop/prop_sword_l.iff")

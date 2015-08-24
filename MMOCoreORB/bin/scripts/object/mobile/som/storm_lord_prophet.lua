@@ -4,4 +4,4 @@ object_mobile_som_storm_lord_prophet = object_mobile_som_shared_storm_lord_proph
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_storm_lord_prophet, "object/mobile/som/shared_storm_lord_prophet.iff")
+ObjectTemplates:addTemplate(object_mobile_som_storm_lord_prophet, "object/mobile/som/storm_lord_prophet.iff")

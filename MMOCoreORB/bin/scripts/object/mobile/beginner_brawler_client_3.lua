@@ -4,4 +4,4 @@ object_mobile_beginner_brawler_client_3 = object_mobile_shared_beginner_brawler_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_beginner_brawler_client_3, "object/mobile/shared_beginner_brawler_client_3.iff")
+ObjectTemplates:addTemplate(object_mobile_beginner_brawler_client_3, "object/mobile/beginner_brawler_client_3.iff")

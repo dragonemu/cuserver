@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_vercupti_of_agazza_boleruuee = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_vercupti_of_agazza_boleruuee, "object/tangible/food/generic/shared_dish_vercupti_of_agazza_boleruuee.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_vercupti_of_agazza_boleruuee, "object/tangible/food/generic/dish_vercupti_of_agazza_boleruuee.iff")

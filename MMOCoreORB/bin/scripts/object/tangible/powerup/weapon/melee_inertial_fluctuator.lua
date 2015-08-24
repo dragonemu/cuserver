@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_inertial_fluctuator = object_tangible_power
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_inertial_fluctuator, "object/tangible/powerup/weapon/shared_melee_inertial_fluctuator.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_inertial_fluctuator, "object/tangible/powerup/weapon/melee_inertial_fluctuator.iff")

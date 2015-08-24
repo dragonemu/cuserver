@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_sullustan_gin = object_tangible_food_generic_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_sullustan_gin, "object/tangible/food/generic/shared_drink_sullustan_gin.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_sullustan_gin, "object/tangible/food/generic/drink_sullustan_gin.iff")

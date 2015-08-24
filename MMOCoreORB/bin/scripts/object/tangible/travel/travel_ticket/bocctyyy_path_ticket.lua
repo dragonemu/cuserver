@@ -4,4 +4,4 @@ object_tangible_travel_travel_ticket_bocctyyy_path_ticket = object_tangible_trav
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_bocctyyy_path_ticket, "object/tangible/travel/travel_ticket/shared_bocctyyy_path_ticket.iff")
+ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_bocctyyy_path_ticket, "object/tangible/travel/travel_ticket/bocctyyy_path_ticket.iff")

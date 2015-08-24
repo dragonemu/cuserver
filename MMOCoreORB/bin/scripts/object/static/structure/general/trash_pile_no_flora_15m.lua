@@ -4,4 +4,4 @@ object_static_structure_general_trash_pile_no_flora_15m = object_static_structur
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_trash_pile_no_flora_15m, "object/static/structure/general/shared_trash_pile_no_flora_15m.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_trash_pile_no_flora_15m, "object/static/structure/general/trash_pile_no_flora_15m.iff")

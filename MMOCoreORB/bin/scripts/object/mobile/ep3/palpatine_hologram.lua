@@ -4,4 +4,4 @@ object_mobile_ep3_palpatine_hologram = object_mobile_ep3_shared_palpatine_hologr
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_palpatine_hologram, "object/mobile/ep3/shared_palpatine_hologram.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_palpatine_hologram, "object/mobile/ep3/palpatine_hologram.iff")

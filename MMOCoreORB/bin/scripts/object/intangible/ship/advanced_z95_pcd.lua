@@ -4,4 +4,4 @@ object_intangible_ship_advanced_z95_pcd = object_intangible_ship_shared_advanced
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_advanced_z95_pcd, "object/intangible/ship/shared_advanced_z95_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_advanced_z95_pcd, "object/intangible/ship/advanced_z95_pcd.iff")

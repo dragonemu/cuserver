@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_tranna_nougat_cream = object_tangible_food_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_tranna_nougat_cream, "object/tangible/food/generic/shared_dessert_tranna_nougat_cream.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_tranna_nougat_cream, "object/tangible/food/generic/dessert_tranna_nougat_cream.iff")

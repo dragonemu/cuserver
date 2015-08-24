@@ -4,4 +4,4 @@ object_draft_schematic_weapon_bowcaster_recon = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_bowcaster_recon, "object/draft_schematic/weapon/shared_bowcaster_recon.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_bowcaster_recon, "object/draft_schematic/weapon/bowcaster_recon.iff")

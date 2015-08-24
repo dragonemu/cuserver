@@ -4,4 +4,4 @@ object_ship_player_player_star_destroyer = object_ship_player_shared_player_star
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_star_destroyer, "object/ship/player/shared_player_star_destroyer.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_star_destroyer, "object/ship/player/player_star_destroyer.iff")

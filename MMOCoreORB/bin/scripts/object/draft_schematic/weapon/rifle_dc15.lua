@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_dc15 = object_draft_schematic_weapon_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_dc15, "object/draft_schematic/weapon/shared_rifle_dc15.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_dc15, "object/draft_schematic/weapon/rifle_dc15.iff")

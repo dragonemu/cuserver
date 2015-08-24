@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_old_republic_tech_06 = object_tangible_loot_mustaf
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_old_republic_tech_06, "object/tangible/loot/mustafar/shared_old_republic_tech_06.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_old_republic_tech_06, "object/tangible/loot/mustafar/old_republic_tech_06.iff")

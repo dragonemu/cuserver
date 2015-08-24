@@ -4,4 +4,4 @@ object_building_kashyyyk_eqp_monitorscreen_text_s02 = object_building_kashyyyk_s
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_monitorscreen_text_s02, "object/building/kashyyyk/shared_eqp_monitorscreen_text_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_monitorscreen_text_s02, "object/building/kashyyyk/eqp_monitorscreen_text_s02.iff")

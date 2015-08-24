@@ -4,4 +4,4 @@ object_tangible_quest_naboo_kadaara_tipping_skaak_radio = object_tangible_quest_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_naboo_kadaara_tipping_skaak_radio, "object/tangible/quest/shared_naboo_kadaara_tipping_skaak_radio.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_naboo_kadaara_tipping_skaak_radio, "object/tangible/quest/naboo_kadaara_tipping_skaak_radio.iff")

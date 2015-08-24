@@ -4,4 +4,4 @@ object_mobile_ep3_cyborg_engineer_tatooine = object_mobile_ep3_shared_cyborg_eng
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_cyborg_engineer_tatooine, "object/mobile/ep3/shared_cyborg_engineer_tatooine.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_cyborg_engineer_tatooine, "object/mobile/ep3/cyborg_engineer_tatooine.iff")

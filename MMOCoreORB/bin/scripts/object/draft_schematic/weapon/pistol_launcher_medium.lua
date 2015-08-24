@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_launcher_medium = object_draft_schematic_we
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_launcher_medium, "object/draft_schematic/weapon/shared_pistol_launcher_medium.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_launcher_medium, "object/draft_schematic/weapon/pistol_launcher_medium.iff")

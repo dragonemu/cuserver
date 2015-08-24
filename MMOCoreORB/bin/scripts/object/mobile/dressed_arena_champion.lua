@@ -4,4 +4,4 @@ object_mobile_dressed_arena_champion = object_mobile_shared_dressed_arena_champi
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_arena_champion, "object/mobile/shared_dressed_arena_champion.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_arena_champion, "object/mobile/dressed_arena_champion.iff")

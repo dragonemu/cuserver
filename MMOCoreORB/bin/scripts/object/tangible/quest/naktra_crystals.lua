@@ -4,4 +4,4 @@ object_tangible_quest_naktra_crystals = object_tangible_quest_shared_naktra_crys
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_naktra_crystals, "object/tangible/quest/shared_naktra_crystals.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_naktra_crystals, "object/tangible/quest/naktra_crystals.iff")

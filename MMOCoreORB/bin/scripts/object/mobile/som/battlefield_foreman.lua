@@ -4,4 +4,4 @@ object_mobile_som_battlefield_foreman = object_mobile_som_shared_battlefield_for
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_battlefield_foreman, "object/mobile/som/shared_battlefield_foreman.iff")
+ObjectTemplates:addTemplate(object_mobile_som_battlefield_foreman, "object/mobile/som/battlefield_foreman.iff")

@@ -4,4 +4,4 @@ object_mobile_dressed_mauler_initiate = object_mobile_shared_dressed_mauler_init
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_mauler_initiate, "object/mobile/shared_dressed_mauler_initiate.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_mauler_initiate, "object/mobile/dressed_mauler_initiate.iff")

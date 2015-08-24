@@ -4,4 +4,4 @@ object_ship_player_player_y8_mining_ship = object_ship_player_shared_player_y8_m
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_y8_mining_ship, "object/ship/player/shared_player_y8_mining_ship.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_y8_mining_ship, "object/ship/player/player_y8_mining_ship.iff")

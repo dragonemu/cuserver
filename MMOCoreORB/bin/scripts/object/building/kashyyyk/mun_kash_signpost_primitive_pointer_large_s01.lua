@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_signpost_primitive_pointer_large_s01 = object_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_signpost_primitive_pointer_large_s01, "object/building/kashyyyk/shared_mun_kash_signpost_primitive_pointer_large_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_signpost_primitive_pointer_large_s01, "object/building/kashyyyk/mun_kash_signpost_primitive_pointer_large_s01.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_kaminoan = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_kaminoan, "object/draft_schematic/weapon/shared_lance_kaminoan.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_kaminoan, "object/draft_schematic/weapon/lance_kaminoan.iff")

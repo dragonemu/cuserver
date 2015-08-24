@@ -4,4 +4,4 @@ object_weapon_melee_special_ep3_loot_heartstriker = object_weapon_melee_special_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_special_ep3_loot_heartstriker, "object/weapon/melee/special/shared_ep3_loot_heartstriker.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_special_ep3_loot_heartstriker, "object/weapon/melee/special/ep3_loot_heartstriker.iff")

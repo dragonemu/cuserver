@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_neurotoxin = object_tangible_medicine
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_neurotoxin, "object/tangible/medicine/enhancer/shared_enhancer_neurotoxin.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_neurotoxin, "object/tangible/medicine/enhancer/enhancer_neurotoxin.iff")

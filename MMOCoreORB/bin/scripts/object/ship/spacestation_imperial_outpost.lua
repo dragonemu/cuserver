@@ -4,4 +4,4 @@ object_ship_spacestation_imperial_outpost = object_ship_shared_spacestation_impe
 
 }
 
-ObjectTemplates:addTemplate(object_ship_spacestation_imperial_outpost, "object/ship/shared_spacestation_imperial_outpost.iff")
+ObjectTemplates:addTemplate(object_ship_spacestation_imperial_outpost, "object/ship/spacestation_imperial_outpost.iff")

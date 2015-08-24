@@ -4,4 +4,4 @@ object_tangible_component_armor_standard_armor_layer_energy = object_tangible_co
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_energy, "object/tangible/component/armor/shared_standard_armor_layer_energy.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_energy, "object/tangible/component/armor/standard_armor_layer_energy.iff")

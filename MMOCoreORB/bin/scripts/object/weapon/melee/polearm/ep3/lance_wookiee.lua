@@ -4,4 +4,4 @@ object_weapon_melee_polearm_ep3_lance_wookiee = object_weapon_melee_polearm_ep3_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_lance_wookiee, "object/weapon/melee/polearm/ep3/shared_lance_wookiee.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_lance_wookiee, "object/weapon/melee/polearm/ep3/lance_wookiee.iff")

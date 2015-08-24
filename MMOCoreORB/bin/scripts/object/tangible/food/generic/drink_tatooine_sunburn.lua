@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_tatooine_sunburn = object_tangible_food_gener
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_tatooine_sunburn, "object/tangible/food/generic/shared_drink_tatooine_sunburn.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_tatooine_sunburn, "object/tangible/food/generic/drink_tatooine_sunburn.iff")

@@ -4,4 +4,4 @@ object_ship_player_player_blacksun_vaksai = object_ship_player_shared_player_bla
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_blacksun_vaksai, "object/ship/player/shared_player_blacksun_vaksai.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_blacksun_vaksai, "object/ship/player/player_blacksun_vaksai.iff")

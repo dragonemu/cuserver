@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_pistol_d18_npe = object_weapon_ranged_pistol_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_d18_npe, "object/weapon/ranged/pistol/shared_pistol_d18_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_d18_npe, "object/weapon/ranged/pistol/pistol_d18_npe.iff")

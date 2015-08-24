@@ -4,4 +4,4 @@ object_ship_asteroid_mining_asteroid_static_acid_large_s02 = object_ship_asteroi
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_acid_large_s02, "object/ship/asteroid/shared_mining_asteroid_static_acid_large_s02.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_acid_large_s02, "object/ship/asteroid/mining_asteroid_static_acid_large_s02.iff")

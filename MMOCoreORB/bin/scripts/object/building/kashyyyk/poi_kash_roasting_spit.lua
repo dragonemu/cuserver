@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_roasting_spit = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_roasting_spit, "object/building/kashyyyk/shared_poi_kash_roasting_spit.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_roasting_spit, "object/building/kashyyyk/poi_kash_roasting_spit.iff")

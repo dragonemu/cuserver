@@ -4,4 +4,4 @@ object_draft_schematic_weapon_2h_sword_obsidian = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_obsidian, "object/draft_schematic/weapon/shared_2h_sword_obsidian.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_obsidian, "object/draft_schematic/weapon/2h_sword_obsidian.iff")

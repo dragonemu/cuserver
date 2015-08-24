@@ -4,4 +4,4 @@ object_draft_schematic_weapon_polearm_electric = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_polearm_electric, "object/draft_schematic/weapon/shared_polearm_electric.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_polearm_electric, "object/draft_schematic/weapon/polearm_electric.iff")

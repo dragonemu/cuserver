@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_exo_protein_wafers = object_tangible_food_gene
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_exo_protein_wafers, "object/tangible/food/generic/shared_dish_exo_protein_wafers.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_exo_protein_wafers, "object/tangible/food/generic/dish_exo_protein_wafers.iff")

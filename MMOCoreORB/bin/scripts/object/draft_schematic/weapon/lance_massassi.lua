@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_massassi = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_massassi, "object/draft_schematic/weapon/shared_lance_massassi.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_massassi, "object/draft_schematic/weapon/lance_massassi.iff")

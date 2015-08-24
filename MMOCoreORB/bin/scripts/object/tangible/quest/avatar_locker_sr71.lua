@@ -4,4 +4,4 @@ object_tangible_quest_avatar_locker_sr71 = object_tangible_quest_shared_avatar_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_avatar_locker_sr71, "object/tangible/quest/shared_avatar_locker_sr71.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_avatar_locker_sr71, "object/tangible/quest/avatar_locker_sr71.iff")

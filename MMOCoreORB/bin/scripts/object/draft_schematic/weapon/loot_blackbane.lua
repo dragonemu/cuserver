@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_blackbane = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_blackbane, "object/draft_schematic/weapon/shared_loot_blackbane.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_blackbane, "object/draft_schematic/weapon/loot_blackbane.iff")

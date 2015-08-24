@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_dragoneye = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_dragoneye, "object/draft_schematic/weapon/shared_loot_dragoneye.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_dragoneye, "object/draft_schematic/weapon/loot_dragoneye.iff")

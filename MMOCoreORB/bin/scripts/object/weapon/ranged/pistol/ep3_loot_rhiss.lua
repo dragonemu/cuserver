@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_loot_rhiss = object_weapon_ranged_pistol_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_rhiss, "object/weapon/ranged/pistol/shared_ep3_loot_rhiss.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_rhiss, "object/weapon/ranged/pistol/ep3_loot_rhiss.iff")

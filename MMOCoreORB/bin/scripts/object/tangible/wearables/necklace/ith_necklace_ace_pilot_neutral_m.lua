@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_m = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_m, "object/tangible/wearables/necklace/shared_ith_necklace_ace_pilot_neutral_m.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_ace_pilot_neutral_m, "object/tangible/wearables/necklace/ith_necklace_ace_pilot_neutral_m.iff")

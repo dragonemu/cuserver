@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_bactainfusion = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactainfusion, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactainfusion.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactainfusion, "object/draft_schematic/chemistry/enhancer/enhancer_bactainfusion.iff")

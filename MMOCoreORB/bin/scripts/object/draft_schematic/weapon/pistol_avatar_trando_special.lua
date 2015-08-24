@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_avatar_trando_special = object_draft_schema
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_avatar_trando_special, "object/draft_schematic/weapon/shared_pistol_avatar_trando_special.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_avatar_trando_special, "object/draft_schematic/weapon/pistol_avatar_trando_special.iff")

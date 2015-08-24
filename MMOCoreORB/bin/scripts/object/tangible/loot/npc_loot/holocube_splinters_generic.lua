@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_holocube_splinters_generic = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_holocube_splinters_generic, "object/tangible/loot/npc_loot/shared_holocube_splinters_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_holocube_splinters_generic, "object/tangible/loot/npc_loot/holocube_splinters_generic.iff")

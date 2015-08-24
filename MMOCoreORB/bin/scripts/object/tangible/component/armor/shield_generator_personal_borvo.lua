@@ -4,4 +4,4 @@ object_tangible_component_armor_shield_generator_personal_borvo = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shield_generator_personal_borvo, "object/tangible/component/armor/shared_shield_generator_personal_borvo.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shield_generator_personal_borvo, "object/tangible/component/armor/shield_generator_personal_borvo.iff")

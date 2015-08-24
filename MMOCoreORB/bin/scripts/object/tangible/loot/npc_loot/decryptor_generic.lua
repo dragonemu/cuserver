@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_decryptor_generic = object_tangible_loot_npc_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_decryptor_generic, "object/tangible/loot/npc_loot/shared_decryptor_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_decryptor_generic, "object/tangible/loot/npc_loot/decryptor_generic.iff")

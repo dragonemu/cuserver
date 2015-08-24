@@ -4,4 +4,4 @@ object_tangible_wearables_armor_armor_clothing_nostat_base_recon = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base_recon, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base_recon.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base_recon, "object/tangible/wearables/armor/armor_clothing_nostat_base_recon.iff")

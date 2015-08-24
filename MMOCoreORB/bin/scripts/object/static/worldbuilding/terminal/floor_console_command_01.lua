@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_console_command_01 = object_static_wo
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_console_command_01, "object/static/worldbuilding/terminal/shared_floor_console_command_01.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_console_command_01, "object/static/worldbuilding/terminal/floor_console_command_01.iff")

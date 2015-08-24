@@ -4,4 +4,4 @@ object_tangible_food_quest_dessert_luilris_mushroom_pie = object_tangible_food_q
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_quest_dessert_luilris_mushroom_pie, "object/tangible/food/quest/shared_dessert_luilris_mushroom_pie.iff")
+ObjectTemplates:addTemplate(object_tangible_food_quest_dessert_luilris_mushroom_pie, "object/tangible/food/quest/dessert_luilris_mushroom_pie.iff")

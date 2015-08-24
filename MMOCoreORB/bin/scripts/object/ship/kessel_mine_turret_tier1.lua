@@ -4,4 +4,4 @@ object_ship_kessel_mine_turret_tier1 = object_ship_shared_kessel_mine_turret_tie
 
 }
 
-ObjectTemplates:addTemplate(object_ship_kessel_mine_turret_tier1, "object/ship/shared_kessel_mine_turret_tier1.iff")
+ObjectTemplates:addTemplate(object_ship_kessel_mine_turret_tier1, "object/ship/kessel_mine_turret_tier1.iff")

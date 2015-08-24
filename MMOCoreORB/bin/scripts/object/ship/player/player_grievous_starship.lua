@@ -4,4 +4,4 @@ object_ship_player_player_grievous_starship = object_ship_player_shared_player_g
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_grievous_starship, "object/ship/player/shared_player_grievous_starship.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_grievous_starship, "object/ship/player/player_grievous_starship.iff")

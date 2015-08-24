@@ -4,4 +4,4 @@ object_building_general_bunker_legacy_swoop_gang = object_building_general_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_bunker_legacy_swoop_gang, "object/building/general/shared_bunker_legacy_swoop_gang.iff")
+ObjectTemplates:addTemplate(object_building_general_bunker_legacy_swoop_gang, "object/building/general/bunker_legacy_swoop_gang.iff")

@@ -4,4 +4,4 @@ object_tangible_scout_camokit_camokit_kashyyyk = object_tangible_scout_camokit_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_scout_camokit_camokit_kashyyyk, "object/tangible/scout/camokit/shared_camokit_kashyyyk.iff")
+ObjectTemplates:addTemplate(object_tangible_scout_camokit_camokit_kashyyyk, "object/tangible/scout/camokit/camokit_kashyyyk.iff")

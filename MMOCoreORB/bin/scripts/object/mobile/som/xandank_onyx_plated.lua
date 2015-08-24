@@ -4,4 +4,4 @@ object_mobile_som_xandank_onyx_plated = object_mobile_som_shared_xandank_onyx_pl
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_xandank_onyx_plated, "object/mobile/som/shared_xandank_onyx_plated.iff")
+ObjectTemplates:addTemplate(object_mobile_som_xandank_onyx_plated, "object/mobile/som/xandank_onyx_plated.iff")

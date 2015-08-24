@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kachirho_starport = object_building_kashyyyk_shared
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kachirho_starport, "object/building/kashyyyk/shared_mun_kachirho_starport.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kachirho_starport, "object/building/kashyyyk/mun_kachirho_starport.iff")

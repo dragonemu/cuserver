@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_segment_assault = object_tangible_componen
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_segment_assault, "object/tangible/component/armor/shared_armor_segment_assault.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_segment_assault, "object/tangible/component/armor/armor_segment_assault.iff")

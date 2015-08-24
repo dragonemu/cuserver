@@ -4,4 +4,4 @@ object_tangible_loot_quest_force_sensitive__force_crystal = object_tangible_loot
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_force_sensitive__force_crystal, "object/tangible/loot/quest/force_sensitive/shared__force_crystal.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_force_sensitive__force_crystal, "object/tangible/loot/quest/force_sensitive/_force_crystal.iff")

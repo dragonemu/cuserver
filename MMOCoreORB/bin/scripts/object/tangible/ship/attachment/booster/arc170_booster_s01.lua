@@ -4,4 +4,4 @@ object_tangible_ship_attachment_booster_arc170_booster_s01 = object_tangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_arc170_booster_s01, "object/tangible/ship/attachment/booster/shared_arc170_booster_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_arc170_booster_s01, "object/tangible/ship/attachment/booster/arc170_booster_s01.iff")

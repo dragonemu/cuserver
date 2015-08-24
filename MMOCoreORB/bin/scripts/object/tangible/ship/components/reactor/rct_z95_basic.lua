@@ -4,4 +4,4 @@ object_tangible_ship_components_reactor_rct_z95_basic = object_tangible_ship_com
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_z95_basic, "object/tangible/ship/components/reactor/shared_rct_z95_basic.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_z95_basic, "object/tangible/ship/components/reactor/rct_z95_basic.iff")

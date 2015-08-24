@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_loot_blackfalcon = object_weapon_ranged_pistol_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_blackfalcon, "object/weapon/ranged/pistol/shared_ep3_loot_blackfalcon.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_blackfalcon, "object/weapon/ranged/pistol/ep3_loot_blackfalcon.iff")

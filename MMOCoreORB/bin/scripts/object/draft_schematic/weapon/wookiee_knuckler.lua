@@ -4,4 +4,4 @@ object_draft_schematic_weapon_wookiee_knuckler = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_wookiee_knuckler, "object/draft_schematic/weapon/shared_wookiee_knuckler.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_wookiee_knuckler, "object/draft_schematic/weapon/wookiee_knuckler.iff")

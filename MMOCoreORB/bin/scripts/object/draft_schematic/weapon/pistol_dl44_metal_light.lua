@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_dl44_metal_light = object_draft_schematic_w
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_dl44_metal_light, "object/draft_schematic/weapon/shared_pistol_dl44_metal_light.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_dl44_metal_light, "object/draft_schematic/weapon/pistol_dl44_metal_light.iff")

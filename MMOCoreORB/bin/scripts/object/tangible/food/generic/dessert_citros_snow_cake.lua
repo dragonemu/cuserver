@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_citros_snow_cake = object_tangible_food_gen
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_citros_snow_cake, "object/tangible/food/generic/shared_dessert_citros_snow_cake.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_citros_snow_cake, "object/tangible/food/generic/dessert_citros_snow_cake.iff")

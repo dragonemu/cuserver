@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_spc_asteroid_bunker_energy_door = object_building_k
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_spc_asteroid_bunker_energy_door, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_spc_asteroid_bunker_energy_door, "object/building/kashyyyk/thm_spc_asteroid_bunker_energy_door.iff")

@@ -4,4 +4,4 @@ object_tangible_ship_components_chassis_z95_heavy_chassis_token = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_z95_heavy_chassis_token, "object/tangible/ship/components/chassis/shared_z95_heavy_chassis_token.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_z95_heavy_chassis_token, "object/tangible/ship/components/chassis/z95_heavy_chassis_token.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_jedi_statue = object_tangible_loot_mustafar_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_jedi_statue, "object/tangible/loot/mustafar/shared_jedi_statue.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_jedi_statue, "object/tangible/loot/mustafar/jedi_statue.iff")

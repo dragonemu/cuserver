@@ -4,4 +4,4 @@ object_mobile_dressed_corellia_tomi_jinsin = object_mobile_shared_dressed_corell
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_corellia_tomi_jinsin, "object/mobile/shared_dressed_corellia_tomi_jinsin.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_corellia_tomi_jinsin, "object/mobile/dressed_corellia_tomi_jinsin.iff")

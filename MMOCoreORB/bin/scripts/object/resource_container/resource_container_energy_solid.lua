@@ -4,4 +4,4 @@ object_resource_container_resource_container_energy_solid = object_resource_cont
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_solid, "object/resource_container/shared_resource_container_energy_solid.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_solid, "object/resource_container/resource_container_energy_solid.iff")

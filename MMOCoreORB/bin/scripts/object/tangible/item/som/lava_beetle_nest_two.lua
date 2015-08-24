@@ -4,4 +4,4 @@ object_tangible_item_som_lava_beetle_nest_two = object_tangible_item_som_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_lava_beetle_nest_two, "object/tangible/item/som/shared_lava_beetle_nest_two.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_lava_beetle_nest_two, "object/tangible/item/som/lava_beetle_nest_two.iff")

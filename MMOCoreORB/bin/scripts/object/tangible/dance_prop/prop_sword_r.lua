@@ -4,4 +4,4 @@ object_tangible_dance_prop_prop_sword_r = object_tangible_dance_prop_shared_prop
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_sword_r, "object/tangible/dance_prop/shared_prop_sword_r.iff")
+ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_sword_r, "object/tangible/dance_prop/prop_sword_r.iff")

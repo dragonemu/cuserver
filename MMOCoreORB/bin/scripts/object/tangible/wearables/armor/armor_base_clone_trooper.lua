@@ -4,4 +4,4 @@ object_tangible_wearables_armor_armor_base_clone_trooper = object_tangible_weara
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_base_clone_trooper, "object/tangible/wearables/armor/shared_armor_base_clone_trooper.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_base_clone_trooper, "object/tangible/wearables/armor/armor_base_clone_trooper.iff")

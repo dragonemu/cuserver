@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_necrosis = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_necrosis, "object/draft_schematic/weapon/shared_loot_necrosis.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_necrosis, "object/draft_schematic/weapon/loot_necrosis.iff")

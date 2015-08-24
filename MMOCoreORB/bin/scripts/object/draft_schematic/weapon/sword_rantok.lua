@@ -4,4 +4,4 @@ object_draft_schematic_weapon_sword_rantok = object_draft_schematic_weapon_share
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_rantok, "object/draft_schematic/weapon/shared_sword_rantok.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_rantok, "object/draft_schematic/weapon/sword_rantok.iff")

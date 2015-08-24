@@ -4,4 +4,4 @@ object_resource_container_resource_container_organic_corn = object_resource_cont
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_corn, "object/resource_container/shared_resource_container_organic_corn.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_corn, "object/resource_container/resource_container_organic_corn.iff")

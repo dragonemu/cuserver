@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_ee3_static = object_weapon_ranged_carbine_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_ee3_static, "object/weapon/ranged/carbine/shared_carbine_ee3_static.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_ee3_static, "object/weapon/ranged/carbine/carbine_ee3_static.iff")

@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_scrimpi = object_tangible_food_generic_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_scrimpi, "object/tangible/food/generic/shared_dish_scrimpi.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_scrimpi, "object/tangible/food/generic/dish_scrimpi.iff")

@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_opening_wh_receptionist = object_mobile_shared_dr
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_wh_receptionist, "object/mobile/shared_dressed_tatooine_opening_wh_receptionist.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_wh_receptionist, "object/mobile/dressed_tatooine_opening_wh_receptionist.iff")

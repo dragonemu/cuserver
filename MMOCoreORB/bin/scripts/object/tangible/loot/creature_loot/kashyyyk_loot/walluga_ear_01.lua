@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_walluga_ear_01 = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_walluga_ear_01, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_walluga_ear_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_walluga_ear_01, "object/tangible/loot/creature_loot/kashyyyk_loot/walluga_ear_01.iff")

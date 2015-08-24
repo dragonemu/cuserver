@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_xandank = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_xandank, "object/draft_schematic/weapon/shared_lance_xandank.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_xandank, "object/draft_schematic/weapon/lance_xandank.iff")

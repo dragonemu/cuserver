@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_ris_chest = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ris_chest, "object/draft_schematic/armor/shared_armor_appearance_ris_chest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ris_chest, "object/draft_schematic/armor/armor_appearance_ris_chest.iff")

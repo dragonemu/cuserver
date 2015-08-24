@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_endorphineinjection = object_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_endorphineinjection, "object/draft_schematic/chemistry/enhancer/shared_enhancer_endorphineinjection.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_endorphineinjection, "object/draft_schematic/chemistry/enhancer/enhancer_endorphineinjection.iff")

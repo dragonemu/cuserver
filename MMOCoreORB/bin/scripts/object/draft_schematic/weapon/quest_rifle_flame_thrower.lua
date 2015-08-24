@@ -4,4 +4,4 @@ object_draft_schematic_weapon_quest_rifle_flame_thrower = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_rifle_flame_thrower, "object/draft_schematic/weapon/shared_quest_rifle_flame_thrower.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_rifle_flame_thrower, "object/draft_schematic/weapon/quest_rifle_flame_thrower.iff")

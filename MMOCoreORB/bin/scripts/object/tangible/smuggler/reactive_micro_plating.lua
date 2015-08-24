@@ -4,4 +4,4 @@ object_tangible_smuggler_reactive_micro_plating = object_tangible_smuggler_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_reactive_micro_plating, "object/tangible/smuggler/shared_reactive_micro_plating.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_reactive_micro_plating, "object/tangible/smuggler/reactive_micro_plating.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_faux_bowcaster = object_draft_schematic_weap
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_faux_bowcaster, "object/draft_schematic/weapon/shared_rifle_faux_bowcaster.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_faux_bowcaster, "object/draft_schematic/weapon/rifle_faux_bowcaster.iff")

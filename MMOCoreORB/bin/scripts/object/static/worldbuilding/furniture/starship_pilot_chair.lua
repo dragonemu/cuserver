@@ -4,4 +4,4 @@ object_static_worldbuilding_furniture_starship_pilot_chair = object_static_world
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_starship_pilot_chair, "object/static/worldbuilding/furniture/shared_starship_pilot_chair.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_starship_pilot_chair, "object/static/worldbuilding/furniture/starship_pilot_chair.iff")

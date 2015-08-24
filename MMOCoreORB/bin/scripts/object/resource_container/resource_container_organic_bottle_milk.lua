@@ -4,4 +4,4 @@ object_resource_container_resource_container_organic_bottle_milk = object_resour
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_bottle_milk, "object/resource_container/shared_resource_container_organic_bottle_milk.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_bottle_milk, "object/resource_container/resource_container_organic_bottle_milk.iff")

@@ -4,4 +4,4 @@ object_weapon_melee_polearm_ep3_loot_poisonspike = object_weapon_melee_polearm_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_loot_poisonspike, "object/weapon/melee/polearm/shared_ep3_loot_poisonspike.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_loot_poisonspike, "object/weapon/melee/polearm/ep3_loot_poisonspike.iff")

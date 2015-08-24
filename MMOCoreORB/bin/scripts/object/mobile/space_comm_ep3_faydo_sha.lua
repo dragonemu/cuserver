@@ -4,4 +4,4 @@ object_mobile_space_comm_ep3_faydo_sha = object_mobile_shared_space_comm_ep3_fay
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_faydo_sha, "object/mobile/shared_space_comm_ep3_faydo_sha.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_faydo_sha, "object/mobile/space_comm_ep3_faydo_sha.iff")

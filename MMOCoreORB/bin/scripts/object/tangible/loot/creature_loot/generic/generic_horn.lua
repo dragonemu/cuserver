@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_generic_horn = object_tangible_loot_c
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_horn, "object/tangible/loot/creature_loot/generic/shared_generic_horn.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_horn, "object/tangible/loot/creature_loot/generic/generic_horn.iff")

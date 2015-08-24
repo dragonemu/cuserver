@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_blob_candy = object_tangible_food_generic_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_blob_candy, "object/tangible/food/generic/shared_dessert_blob_candy.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_blob_candy, "object/tangible/food/generic/dessert_blob_candy.iff")

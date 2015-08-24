@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_shock = object_draft_schematic_weapon_shared
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_shock, "object/draft_schematic/weapon/shared_lance_shock.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_shock, "object/draft_schematic/weapon/lance_shock.iff")

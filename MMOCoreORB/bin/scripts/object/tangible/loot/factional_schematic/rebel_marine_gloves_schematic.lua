@@ -4,4 +4,4 @@ object_tangible_loot_factional_schematic_rebel_marine_gloves_schematic = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_marine_gloves_schematic, "object/tangible/loot/factional_schematic/shared_rebel_marine_gloves_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_marine_gloves_schematic, "object/tangible/loot/factional_schematic/rebel_marine_gloves_schematic.iff")

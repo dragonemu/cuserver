@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_motivator_device_generic = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_motivator_device_generic, "object/tangible/loot/generic_usable/shared_motivator_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_motivator_device_generic, "object/tangible/loot/generic_usable/motivator_device_generic.iff")

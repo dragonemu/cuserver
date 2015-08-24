@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_jedi_starfighter_reward_deed = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_jedi_starfighter_reward_deed, "object/tangible/ship/crafted/chassis/shared_jedi_starfighter_reward_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_jedi_starfighter_reward_deed, "object/tangible/ship/crafted/chassis/jedi_starfighter_reward_deed.iff")

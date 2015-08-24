@@ -4,4 +4,4 @@ object_static_particle_pt_fog_kashyyyk_deadforest = object_static_particle_share
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_fog_kashyyyk_deadforest, "object/static/particle/shared_pt_fog_kashyyyk_deadforest.iff")
+ObjectTemplates:addTemplate(object_static_particle_pt_fog_kashyyyk_deadforest, "object/static/particle/pt_fog_kashyyyk_deadforest.iff")

@@ -4,4 +4,4 @@ object_tangible_component_armor_shield_generator_personal_droideka = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_shield_generator_personal_droideka, "object/tangible/component/armor/shared_shield_generator_personal_droideka.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shield_generator_personal_droideka, "object/tangible/component/armor/shield_generator_personal_droideka.iff")

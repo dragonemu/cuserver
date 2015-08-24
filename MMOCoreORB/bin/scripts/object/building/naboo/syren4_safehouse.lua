@@ -4,4 +4,4 @@ object_building_naboo_syren4_safehouse = object_building_naboo_shared_syren4_saf
 
 }
 
-ObjectTemplates:addTemplate(object_building_naboo_syren4_safehouse, "object/building/naboo/shared_syren4_safehouse.iff")
+ObjectTemplates:addTemplate(object_building_naboo_syren4_safehouse, "object/building/naboo/syren4_safehouse.iff")

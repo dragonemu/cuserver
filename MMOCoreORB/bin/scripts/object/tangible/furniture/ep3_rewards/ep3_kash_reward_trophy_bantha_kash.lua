@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_bantha_kash = objec
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_bantha_kash, "object/tangible/furniture/ep3_rewards/shared_ep3_kash_reward_trophy_bantha_kash.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_bantha_kash, "object/tangible/furniture/ep3_rewards/ep3_kash_reward_trophy_bantha_kash.iff")

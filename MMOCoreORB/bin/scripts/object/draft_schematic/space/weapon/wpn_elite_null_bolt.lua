@@ -4,4 +4,4 @@ object_draft_schematic_space_weapon_wpn_elite_null_bolt = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_null_bolt, "object/draft_schematic/space/weapon/shared_wpn_elite_null_bolt.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_null_bolt, "object/draft_schematic/space/weapon/wpn_elite_null_bolt.iff")

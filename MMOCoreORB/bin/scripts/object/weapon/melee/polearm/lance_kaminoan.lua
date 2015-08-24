@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_kaminoan = object_weapon_melee_polearm_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_kaminoan, "object/weapon/melee/polearm/shared_lance_kaminoan.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_kaminoan, "object/weapon/melee/polearm/lance_kaminoan.iff")

@@ -4,4 +4,4 @@ object_tangible_wearables_armor_armor_base = object_tangible_wearables_armor_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_base, "object/tangible/wearables/armor/shared_armor_base.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_base, "object/tangible/wearables/armor/armor_base.iff")

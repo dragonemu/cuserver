@@ -4,4 +4,4 @@ object_tangible_veteran_reward_tow_retail_reward = object_tangible_veteran_rewar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_tow_retail_reward, "object/tangible/veteran_reward/shared_tow_retail_reward.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_tow_retail_reward, "object/tangible/veteran_reward/tow_retail_reward.iff")

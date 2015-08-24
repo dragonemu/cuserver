@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_light_blaster_dh17_carbine_black = object_dr
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_light_blaster_dh17_carbine_black, "object/draft_schematic/weapon/shared_rifle_light_blaster_dh17_carbine_black.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_light_blaster_dh17_carbine_black, "object/draft_schematic/weapon/rifle_light_blaster_dh17_carbine_black.iff")

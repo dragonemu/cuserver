@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_massassi_ink_generic = object_weapon_ranged_rif
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_massassi_ink_generic, "object/weapon/ranged/rifle/shared_rifle_massassi_ink_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_massassi_ink_generic, "object/weapon/ranged/rifle/rifle_massassi_ink_generic.iff")

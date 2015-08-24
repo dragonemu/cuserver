@@ -4,4 +4,4 @@ object_draft_schematic_weapon_heavy_republic_flamer = object_draft_schematic_wea
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_republic_flamer, "object/draft_schematic/weapon/shared_heavy_republic_flamer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_republic_flamer, "object/draft_schematic/weapon/heavy_republic_flamer.iff")

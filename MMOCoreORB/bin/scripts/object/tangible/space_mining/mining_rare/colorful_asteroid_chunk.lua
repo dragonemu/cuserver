@@ -4,4 +4,4 @@ object_tangible_space_mining_mining_rare_colorful_asteroid_chunk = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff")
+ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/colorful_asteroid_chunk.iff")

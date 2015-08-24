@@ -4,4 +4,4 @@ object_building_kashyyyk_rock_kashyyyk_large_s02 = object_building_kashyyyk_shar
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_rock_kashyyyk_large_s02, "object/building/kashyyyk/shared_rock_kashyyyk_large_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_rock_kashyyyk_large_s02, "object/building/kashyyyk/rock_kashyyyk_large_s02.iff")

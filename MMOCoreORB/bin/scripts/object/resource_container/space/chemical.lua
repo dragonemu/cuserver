@@ -4,4 +4,4 @@ object_resource_container_space_chemical = object_resource_container_space_share
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_space_chemical, "object/resource_container/space/shared_chemical.iff")
+ObjectTemplates:addTemplate(object_resource_container_space_chemical, "object/resource_container/space/chemical.iff")

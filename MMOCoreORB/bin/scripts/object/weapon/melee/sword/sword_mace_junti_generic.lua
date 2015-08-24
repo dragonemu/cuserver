@@ -4,4 +4,4 @@ object_weapon_melee_sword_sword_mace_junti_generic = object_weapon_melee_sword_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_mace_junti_generic, "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_mace_junti_generic, "object/weapon/melee/sword/sword_mace_junti_generic.iff")

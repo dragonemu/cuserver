@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_all_lair_webweaver = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_all_lair_webweaver, "object/building/kashyyyk/shared_poi_all_lair_webweaver.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_all_lair_webweaver, "object/building/kashyyyk/poi_all_lair_webweaver.iff")

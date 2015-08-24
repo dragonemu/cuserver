@@ -4,4 +4,4 @@ object_tangible_dungeon_avatar_platform_avatar_lockbox = object_tangible_dungeon
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_avatar_lockbox, "object/tangible/dungeon/avatar_platform/shared_avatar_lockbox.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_avatar_lockbox, "object/tangible/dungeon/avatar_platform/avatar_lockbox.iff")

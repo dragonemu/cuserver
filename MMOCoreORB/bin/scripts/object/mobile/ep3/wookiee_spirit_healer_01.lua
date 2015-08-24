@@ -4,4 +4,4 @@ object_mobile_ep3_wookiee_spirit_healer_01 = object_mobile_ep3_shared_wookiee_sp
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_wookiee_spirit_healer_01, "object/mobile/ep3/shared_wookiee_spirit_healer_01.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_wookiee_spirit_healer_01, "object/mobile/ep3/wookiee_spirit_healer_01.iff")

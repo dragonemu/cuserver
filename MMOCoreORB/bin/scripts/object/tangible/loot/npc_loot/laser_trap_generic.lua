@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_laser_trap_generic = object_tangible_loot_npc_loot
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_laser_trap_generic, "object/tangible/loot/npc_loot/shared_laser_trap_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_laser_trap_generic, "object/tangible/loot/npc_loot/laser_trap_generic.iff")

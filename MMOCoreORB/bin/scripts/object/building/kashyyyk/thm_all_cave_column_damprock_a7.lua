@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_all_cave_column_damprock_a7 = object_building_kashy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_all_cave_column_damprock_a7, "object/building/kashyyyk/shared_thm_all_cave_column_damprock_a7.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_all_cave_column_damprock_a7, "object/building/kashyyyk/thm_all_cave_column_damprock_a7.iff")

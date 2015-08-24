@@ -4,4 +4,4 @@ object_mobile_som_som_dark_jedi_minion_3 = object_mobile_som_shared_som_dark_jed
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_dark_jedi_minion_3, "object/mobile/som/shared_som_dark_jedi_minion_3.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_dark_jedi_minion_3, "object/mobile/som/som_dark_jedi_minion_3.iff")

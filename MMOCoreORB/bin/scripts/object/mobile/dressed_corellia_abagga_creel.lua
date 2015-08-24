@@ -4,4 +4,4 @@ object_mobile_dressed_corellia_abagga_creel = object_mobile_shared_dressed_corel
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_corellia_abagga_creel, "object/mobile/shared_dressed_corellia_abagga_creel.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_corellia_abagga_creel, "object/mobile/dressed_corellia_abagga_creel.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_trando_suppressor = object_draft_schematic_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_trando_suppressor, "object/draft_schematic/weapon/shared_pistol_trando_suppressor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_trando_suppressor, "object/draft_schematic/weapon/pistol_trando_suppressor.iff")

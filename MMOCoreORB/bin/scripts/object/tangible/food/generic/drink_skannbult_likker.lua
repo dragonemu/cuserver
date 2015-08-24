@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_skannbult_likker = object_tangible_food_gener
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_skannbult_likker, "object/tangible/food/generic/shared_drink_skannbult_likker.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_skannbult_likker, "object/tangible/food/generic/drink_skannbult_likker.iff")

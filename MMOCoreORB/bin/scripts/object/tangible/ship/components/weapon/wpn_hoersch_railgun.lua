@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_hoersch_railgun = object_tangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_hoersch_railgun, "object/tangible/ship/components/weapon/shared_wpn_hoersch_railgun.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_hoersch_railgun, "object/tangible/ship/components/weapon/wpn_hoersch_railgun.iff")

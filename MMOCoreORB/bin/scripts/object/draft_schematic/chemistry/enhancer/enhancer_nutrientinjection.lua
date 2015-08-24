@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection = object_dr
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection, "object/draft_schematic/chemistry/enhancer/shared_enhancer_nutrientinjection.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection, "object/draft_schematic/chemistry/enhancer/enhancer_nutrientinjection.iff")

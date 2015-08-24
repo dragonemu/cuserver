@@ -4,4 +4,4 @@ object_tangible_veteran_reward_frn_vet_holo_deathstar = object_tangible_veteran_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_holo_deathstar, "object/tangible/veteran_reward/shared_frn_vet_holo_deathstar.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_holo_deathstar, "object/tangible/veteran_reward/frn_vet_holo_deathstar.iff")

@@ -4,4 +4,4 @@ object_tangible_door_som_droid_factory_door = object_tangible_door_shared_som_dr
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_door_som_droid_factory_door, "object/tangible/door/shared_som_droid_factory_door.iff")
+ObjectTemplates:addTemplate(object_tangible_door_som_droid_factory_door, "object/tangible/door/som_droid_factory_door.iff")

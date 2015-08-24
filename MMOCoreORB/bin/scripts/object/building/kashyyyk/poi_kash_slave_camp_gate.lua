@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_slave_camp_gate = object_building_kashyyyk_sha
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_slave_camp_gate, "object/building/kashyyyk/shared_poi_kash_slave_camp_gate.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_slave_camp_gate, "object/building/kashyyyk/poi_kash_slave_camp_gate.iff")

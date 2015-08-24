@@ -4,4 +4,4 @@ object_mobile_dressed_forest_ardessa = object_mobile_shared_dressed_forest_ardes
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_forest_ardessa, "object/mobile/shared_dressed_forest_ardessa.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_forest_ardessa, "object/mobile/dressed_forest_ardessa.iff")

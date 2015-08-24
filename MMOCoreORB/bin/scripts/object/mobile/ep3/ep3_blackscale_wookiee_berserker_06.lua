@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_blackscale_wookiee_berserker_06 = object_mobile_ep3_shared
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_blackscale_wookiee_berserker_06, "object/mobile/ep3/shared_ep3_blackscale_wookiee_berserker_06.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_blackscale_wookiee_berserker_06, "object/mobile/ep3/ep3_blackscale_wookiee_berserker_06.iff")

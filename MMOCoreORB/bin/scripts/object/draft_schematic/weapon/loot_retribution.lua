@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_retribution = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_retribution, "object/draft_schematic/weapon/shared_loot_retribution.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_retribution, "object/draft_schematic/weapon/loot_retribution.iff")

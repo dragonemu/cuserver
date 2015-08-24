@@ -4,4 +4,4 @@ object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster = ob
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster, "object/tangible/component/weapon/quest/shared_blaster_power_handler_faux_bowcaster.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster, "object/tangible/component/weapon/quest/blaster_power_handler_faux_bowcaster.iff")

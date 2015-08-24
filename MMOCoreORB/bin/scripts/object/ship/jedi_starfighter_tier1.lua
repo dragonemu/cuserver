@@ -4,4 +4,4 @@ object_ship_jedi_starfighter_tier1 = object_ship_shared_jedi_starfighter_tier1:n
 
 }
 
-ObjectTemplates:addTemplate(object_ship_jedi_starfighter_tier1, "object/ship/shared_jedi_starfighter_tier1.iff")
+ObjectTemplates:addTemplate(object_ship_jedi_starfighter_tier1, "object/ship/jedi_starfighter_tier1.iff")

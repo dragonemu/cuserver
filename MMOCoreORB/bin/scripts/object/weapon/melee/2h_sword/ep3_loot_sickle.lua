@@ -4,4 +4,4 @@ object_weapon_melee_2h_sword_ep3_loot_sickle = object_weapon_melee_2h_sword_shar
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_ep3_loot_sickle, "object/weapon/melee/2h_sword/shared_ep3_loot_sickle.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_ep3_loot_sickle, "object/weapon/melee/2h_sword/ep3_loot_sickle.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic, "object/tangible/loot/loot_schematic/shared_trandoshan_hunter_rifle_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic, "object/tangible/loot/loot_schematic/trandoshan_hunter_rifle_schematic.iff")

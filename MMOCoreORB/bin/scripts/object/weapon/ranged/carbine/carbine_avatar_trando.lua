@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_avatar_trando = object_weapon_ranged_carbin
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_avatar_trando, "object/weapon/ranged/carbine/shared_carbine_avatar_trando.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_avatar_trando, "object/weapon/ranged/carbine/carbine_avatar_trando.iff")

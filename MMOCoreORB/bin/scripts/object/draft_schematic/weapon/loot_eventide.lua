@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_eventide = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_eventide, "object/draft_schematic/weapon/shared_loot_eventide.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_eventide, "object/draft_schematic/weapon/loot_eventide.iff")

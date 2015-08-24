@@ -4,4 +4,4 @@ object_tangible_quest_warl_cave_plant = object_tangible_quest_shared_warl_cave_p
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_warl_cave_plant, "object/tangible/quest/shared_warl_cave_plant.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_warl_cave_plant, "object/tangible/quest/warl_cave_plant.iff")

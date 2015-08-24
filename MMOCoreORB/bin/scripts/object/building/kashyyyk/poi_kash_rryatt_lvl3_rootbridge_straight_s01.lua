@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbridge_straight_s01 = object_b
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbridge_straight_s01, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl3_rootbridge_straight_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbridge_straight_s01, "object/building/kashyyyk/poi_kash_rryatt_lvl3_rootbridge_straight_s01.iff")

@@ -4,4 +4,4 @@ object_tangible_deed_pet_deed_lava_flea_generic_deed = object_tangible_deed_pet_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_lava_flea_generic_deed, "object/tangible/deed/pet_deed/shared_lava_flea_generic_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_pet_deed_lava_flea_generic_deed, "object/tangible/deed/pet_deed/lava_flea_generic_deed.iff")

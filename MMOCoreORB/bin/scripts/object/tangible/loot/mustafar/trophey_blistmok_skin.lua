@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_trophey_blistmok_skin = object_tangible_loot_musta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_trophey_blistmok_skin, "object/tangible/loot/mustafar/shared_trophey_blistmok_skin.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_trophey_blistmok_skin, "object/tangible/loot/mustafar/trophey_blistmok_skin.iff")

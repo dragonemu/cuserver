@@ -4,4 +4,4 @@ object_building_kashyyyk_ptch_kashyyyk_fern_s02 = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_ptch_kashyyyk_fern_s02, "object/building/kashyyyk/shared_ptch_kashyyyk_fern_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_ptch_kashyyyk_fern_s02, "object/building/kashyyyk/ptch_kashyyyk_fern_s02.iff")

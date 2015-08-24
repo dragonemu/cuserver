@@ -4,4 +4,4 @@ object_tangible_component_weapon_mustafar_lava_cannon_coil = object_tangible_com
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_lava_cannon_coil, "object/tangible/component/weapon/mustafar/shared_lava_cannon_coil.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_lava_cannon_coil, "object/tangible/component/weapon/mustafar/lava_cannon_coil.iff")

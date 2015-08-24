@@ -4,4 +4,4 @@ object_building_kashyyyk_kash_swamp_lilypad_s02 = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_kash_swamp_lilypad_s02, "object/building/kashyyyk/shared_kash_swamp_lilypad_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_kash_swamp_lilypad_s02, "object/building/kashyyyk/kash_swamp_lilypad_s02.iff")

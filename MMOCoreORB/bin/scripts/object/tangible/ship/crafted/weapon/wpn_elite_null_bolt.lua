@@ -4,4 +4,4 @@ object_tangible_ship_crafted_weapon_wpn_elite_null_bolt = object_tangible_ship_c
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_wpn_elite_null_bolt, "object/tangible/ship/crafted/weapon/shared_wpn_elite_null_bolt.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_wpn_elite_null_bolt, "object/tangible/ship/crafted/weapon/wpn_elite_null_bolt.iff")

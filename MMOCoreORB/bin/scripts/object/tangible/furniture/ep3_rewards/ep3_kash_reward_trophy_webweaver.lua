@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_webweaver = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_webweaver, "object/tangible/furniture/ep3_rewards/shared_ep3_kash_reward_trophy_webweaver.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_webweaver, "object/tangible/furniture/ep3_rewards/ep3_kash_reward_trophy_webweaver.iff")

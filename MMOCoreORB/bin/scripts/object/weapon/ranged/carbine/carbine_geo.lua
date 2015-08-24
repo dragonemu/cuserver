@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_geo = object_weapon_ranged_carbine_shared_c
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_geo, "object/weapon/ranged/carbine/shared_carbine_geo.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_geo, "object/weapon/ranged/carbine/carbine_geo.iff")

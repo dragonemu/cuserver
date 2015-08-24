@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_republic_sfor = object_draft_schematic_wea
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_republic_sfor, "object/draft_schematic/weapon/shared_carbine_republic_sfor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_republic_sfor, "object/draft_schematic/weapon/carbine_republic_sfor.iff")

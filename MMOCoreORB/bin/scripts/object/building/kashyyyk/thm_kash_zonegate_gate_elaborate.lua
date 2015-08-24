@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_kash_zonegate_gate_elaborate = object_building_kash
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_zonegate_gate_elaborate, "object/building/kashyyyk/shared_thm_kash_zonegate_gate_elaborate.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_zonegate_gate_elaborate, "object/building/kashyyyk/thm_kash_zonegate_gate_elaborate.iff")

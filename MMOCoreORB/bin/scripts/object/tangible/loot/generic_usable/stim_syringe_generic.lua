@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_stim_syringe_generic = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_stim_syringe_generic, "object/tangible/loot/generic_usable/shared_stim_syringe_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_stim_syringe_generic, "object/tangible/loot/generic_usable/stim_syringe_generic.iff")

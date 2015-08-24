@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_event_venue = object_tangible_terminal_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_event_venue, "object/tangible/terminal/shared_terminal_event_venue.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_event_venue, "object/tangible/terminal/terminal_event_venue.iff")

@@ -4,4 +4,4 @@ object_mobile_som_must_foreman_chivos = object_mobile_som_shared_must_foreman_ch
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_must_foreman_chivos, "object/mobile/som/shared_must_foreman_chivos.iff")
+ObjectTemplates:addTemplate(object_mobile_som_must_foreman_chivos, "object/mobile/som/must_foreman_chivos.iff")

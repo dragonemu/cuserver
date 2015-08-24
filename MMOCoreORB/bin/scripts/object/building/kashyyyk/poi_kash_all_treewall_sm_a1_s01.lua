@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_all_treewall_sm_a1_s01 = object_building_kashy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_all_treewall_sm_a1_s01, "object/building/kashyyyk/shared_poi_kash_all_treewall_sm_a1_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_all_treewall_sm_a1_s01, "object/building/kashyyyk/poi_kash_all_treewall_sm_a1_s01.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_lost_chance_dice = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_lost_chance_dice, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_lost_chance_dice.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_lost_chance_dice, "object/tangible/loot/creature_loot/kashyyyk_loot/lost_chance_dice.iff")

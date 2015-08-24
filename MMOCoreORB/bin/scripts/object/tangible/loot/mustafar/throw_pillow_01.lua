@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_throw_pillow_01 = object_tangible_loot_mustafar_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_throw_pillow_01, "object/tangible/loot/mustafar/shared_throw_pillow_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_throw_pillow_01, "object/tangible/loot/mustafar/throw_pillow_01.iff")

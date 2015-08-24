@@ -4,4 +4,4 @@ object_mobile_som_som_mustafarian_phantom_bandit = object_mobile_som_shared_som_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_mustafarian_phantom_bandit, "object/mobile/som/shared_som_mustafarian_phantom_bandit.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_mustafarian_phantom_bandit, "object/mobile/som/som_mustafarian_phantom_bandit.iff")

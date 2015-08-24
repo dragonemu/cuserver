@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_all_humanoid_bone_skull = object_building_kashyyyk_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_all_humanoid_bone_skull, "object/building/kashyyyk/shared_thm_all_humanoid_bone_skull.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_all_humanoid_bone_skull, "object/building/kashyyyk/thm_all_humanoid_bone_skull.iff")

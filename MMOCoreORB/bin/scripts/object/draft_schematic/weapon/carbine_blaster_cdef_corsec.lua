@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_blaster_cdef_corsec = object_draft_schemat
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_blaster_cdef_corsec, "object/draft_schematic/weapon/shared_carbine_blaster_cdef_corsec.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_blaster_cdef_corsec, "object/draft_schematic/weapon/carbine_blaster_cdef_corsec.iff")

@@ -4,4 +4,4 @@ object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s02 = o
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s02, "object/weapon/melee/sword/crafted_saber/shared_sword_lightsaber_ranged_donotuse_s02.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s02, "object/weapon/melee/sword/crafted_saber/sword_lightsaber_ranged_donotuse_s02.iff")

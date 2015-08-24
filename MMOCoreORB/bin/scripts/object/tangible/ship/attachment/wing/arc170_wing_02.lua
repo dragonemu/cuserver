@@ -4,4 +4,4 @@ object_tangible_ship_attachment_wing_arc170_wing_02 = object_tangible_ship_attac
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_arc170_wing_02, "object/tangible/ship/attachment/wing/shared_arc170_wing_02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_wing_arc170_wing_02, "object/tangible/ship/attachment/wing/arc170_wing_02.iff")

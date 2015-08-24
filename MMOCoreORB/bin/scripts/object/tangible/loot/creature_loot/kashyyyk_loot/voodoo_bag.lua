@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag = object_tangible_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_voodoo_bag.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag, "object/tangible/loot/creature_loot/kashyyyk_loot/voodoo_bag.iff")

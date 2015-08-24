@@ -4,4 +4,4 @@ object_mobile_som_lava_flea_smoldering = object_mobile_som_shared_lava_flea_smol
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_lava_flea_smoldering, "object/mobile/som/shared_lava_flea_smoldering.iff")
+ObjectTemplates:addTemplate(object_mobile_som_lava_flea_smoldering, "object/mobile/som/lava_flea_smoldering.iff")

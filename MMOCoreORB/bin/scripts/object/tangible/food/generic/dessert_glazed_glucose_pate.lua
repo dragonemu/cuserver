@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_glazed_glucose_pate = object_tangible_food_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_glazed_glucose_pate, "object/tangible/food/generic/shared_dessert_glazed_glucose_pate.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_glazed_glucose_pate, "object/tangible/food/generic/dessert_glazed_glucose_pate.iff")

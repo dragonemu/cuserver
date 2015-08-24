@@ -4,4 +4,4 @@ object_tangible_ship_components_chassis_hutt_light_heavy_chassis_token = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_hutt_light_heavy_chassis_token, "object/tangible/ship/components/chassis/shared_hutt_light_heavy_chassis_token.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_chassis_hutt_light_heavy_chassis_token, "object/tangible/ship/components/chassis/hutt_light_heavy_chassis_token.iff")

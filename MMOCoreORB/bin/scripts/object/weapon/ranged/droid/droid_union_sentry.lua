@@ -4,4 +4,4 @@ object_weapon_ranged_droid_droid_union_sentry = object_weapon_ranged_droid_share
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_union_sentry, "object/weapon/ranged/droid/shared_droid_union_sentry.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_union_sentry, "object/weapon/ranged/droid/droid_union_sentry.iff")

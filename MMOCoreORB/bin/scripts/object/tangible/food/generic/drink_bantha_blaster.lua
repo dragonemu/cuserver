@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_bantha_blaster = object_tangible_food_generic
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_bantha_blaster, "object/tangible/food/generic/shared_drink_bantha_blaster.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_bantha_blaster, "object/tangible/food/generic/drink_bantha_blaster.iff")

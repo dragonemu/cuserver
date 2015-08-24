@@ -4,4 +4,4 @@ object_tangible_smuggler_powered_motivators = object_tangible_smuggler_shared_po
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_powered_motivators, "object/tangible/smuggler/shared_powered_motivators.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_powered_motivators, "object/tangible/smuggler/powered_motivators.iff")

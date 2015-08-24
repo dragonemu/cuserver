@@ -4,4 +4,4 @@ object_intangible_ship_tieinterceptor_imperial_guard_pcd = object_intangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_tieinterceptor_imperial_guard_pcd, "object/intangible/ship/shared_tieinterceptor_imperial_guard_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_tieinterceptor_imperial_guard_pcd, "object/intangible/ship/tieinterceptor_imperial_guard_pcd.iff")

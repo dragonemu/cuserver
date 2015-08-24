@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_fence_16m = obje
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_fence_16m, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_16m.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_fence_16m, "object/tangible/dungeon/mustafar/valley_battlefield/must_bandit_fence_16m.iff")

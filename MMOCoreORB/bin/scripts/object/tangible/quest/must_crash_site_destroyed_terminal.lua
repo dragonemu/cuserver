@@ -4,4 +4,4 @@ object_tangible_quest_must_crash_site_destroyed_terminal = object_tangible_quest
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_must_crash_site_destroyed_terminal, "object/tangible/quest/shared_must_crash_site_destroyed_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_must_crash_site_destroyed_terminal, "object/tangible/quest/must_crash_site_destroyed_terminal.iff")

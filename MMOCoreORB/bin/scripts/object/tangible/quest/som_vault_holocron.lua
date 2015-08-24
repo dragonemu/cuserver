@@ -4,4 +4,4 @@ object_tangible_quest_som_vault_holocron = object_tangible_quest_shared_som_vaul
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_vault_holocron, "object/tangible/quest/shared_som_vault_holocron.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_vault_holocron, "object/tangible/quest/som_vault_holocron.iff")

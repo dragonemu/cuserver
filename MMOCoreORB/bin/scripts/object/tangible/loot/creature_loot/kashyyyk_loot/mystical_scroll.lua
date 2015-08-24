@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_mystical_scroll = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_mystical_scroll, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_scroll.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_mystical_scroll, "object/tangible/loot/creature_loot/kashyyyk_loot/mystical_scroll.iff")

@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_corellian_ale = object_tangible_food_generic_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_corellian_ale, "object/tangible/food/generic/shared_drink_corellian_ale.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_corellian_ale, "object/tangible/food/generic/drink_corellian_ale.iff")

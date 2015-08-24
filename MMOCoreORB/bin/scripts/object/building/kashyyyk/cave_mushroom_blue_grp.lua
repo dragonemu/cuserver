@@ -4,4 +4,4 @@ object_building_kashyyyk_cave_mushroom_blue_grp = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_cave_mushroom_blue_grp, "object/building/kashyyyk/shared_cave_mushroom_blue_grp.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_cave_mushroom_blue_grp, "object/building/kashyyyk/cave_mushroom_blue_grp.iff")

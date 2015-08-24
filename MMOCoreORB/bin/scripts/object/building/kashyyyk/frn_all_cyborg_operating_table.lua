@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_all_cyborg_operating_table = object_building_kashyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_all_cyborg_operating_table, "object/building/kashyyyk/shared_frn_all_cyborg_operating_table.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_all_cyborg_operating_table, "object/building/kashyyyk/frn_all_cyborg_operating_table.iff")

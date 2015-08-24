@@ -4,4 +4,4 @@ object_draft_schematic_weapon_2h_sword_tulrus = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_tulrus, "object/draft_schematic/weapon/shared_2h_sword_tulrus.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_tulrus, "object/draft_schematic/weapon/2h_sword_tulrus.iff")

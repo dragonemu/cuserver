@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_generic_antennae = object_tangible_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_antennae, "object/tangible/loot/creature_loot/generic/shared_generic_antennae.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_antennae, "object/tangible/loot/creature_loot/generic/generic_antennae.iff")

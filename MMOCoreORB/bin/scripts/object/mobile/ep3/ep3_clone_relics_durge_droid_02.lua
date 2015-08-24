@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_durge_droid_02 = object_mobile_ep3_shared_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_durge_droid_02, "object/mobile/ep3/shared_ep3_clone_relics_durge_droid_02.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_durge_droid_02, "object/mobile/ep3/ep3_clone_relics_durge_droid_02.iff")

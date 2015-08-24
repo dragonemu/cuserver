@@ -4,4 +4,4 @@ object_tangible_ship_attachment_modification_z95_modification_s01 = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_z95_modification_s01, "object/tangible/ship/attachment/modification/shared_z95_modification_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_z95_modification_s01, "object/tangible/ship/attachment/modification/z95_modification_s01.iff")

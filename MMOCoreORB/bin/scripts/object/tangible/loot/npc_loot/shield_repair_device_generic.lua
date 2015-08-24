@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_shield_repair_device_generic = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shield_repair_device_generic, "object/tangible/loot/npc_loot/shared_shield_repair_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shield_repair_device_generic, "object/tangible/loot/npc_loot/shield_repair_device_generic.iff")

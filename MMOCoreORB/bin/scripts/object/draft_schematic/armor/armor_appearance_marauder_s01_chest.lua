@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_marauder_s01_chest = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_chest, "object/draft_schematic/armor/shared_armor_appearance_marauder_s01_chest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_chest, "object/draft_schematic/armor/armor_appearance_marauder_s01_chest.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_quest_decomposed_hand = object_tangible_loot_quest_shared_d
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_decomposed_hand, "object/tangible/loot/quest/shared_decomposed_hand.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_decomposed_hand, "object/tangible/loot/quest/decomposed_hand.iff")

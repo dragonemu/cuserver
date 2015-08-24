@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_snake_riverpearl = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_snake_riverpearl, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_snake_riverpearl.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_snake_riverpearl, "object/tangible/loot/creature_loot/kashyyyk_loot/snake_riverpearl.iff")

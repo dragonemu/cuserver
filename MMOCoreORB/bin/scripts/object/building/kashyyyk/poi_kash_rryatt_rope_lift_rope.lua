@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope = object_building_kashyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope, "object/building/kashyyyk/poi_kash_rryatt_rope_lift_rope.iff")

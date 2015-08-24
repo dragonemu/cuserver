@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_new_armor_layer_heat_test = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_layer_heat_test, "object/draft_schematic/armor/component/shared_new_armor_layer_heat_test.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_layer_heat_test, "object/draft_schematic/armor/component/new_armor_layer_heat_test.iff")

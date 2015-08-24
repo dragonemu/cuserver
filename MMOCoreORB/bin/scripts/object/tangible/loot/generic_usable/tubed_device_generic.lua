@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_tubed_device_generic = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_tubed_device_generic, "object/tangible/loot/generic_usable/shared_tubed_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_tubed_device_generic, "object/tangible/loot/generic_usable/tubed_device_generic.iff")

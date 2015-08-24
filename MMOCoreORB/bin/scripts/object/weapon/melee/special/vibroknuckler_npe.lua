@@ -4,4 +4,4 @@ object_weapon_melee_special_vibroknuckler_npe = object_weapon_melee_special_shar
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_special_vibroknuckler_npe, "object/weapon/melee/special/shared_vibroknuckler_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_special_vibroknuckler_npe, "object/weapon/melee/special/vibroknuckler_npe.iff")

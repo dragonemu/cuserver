@@ -4,4 +4,4 @@ object_tangible_quest_computer_console = object_tangible_quest_shared_computer_c
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_computer_console, "object/tangible/quest/shared_computer_console.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_computer_console, "object/tangible/quest/computer_console.iff")

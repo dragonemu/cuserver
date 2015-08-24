@@ -4,4 +4,4 @@ object_mobile_urnsoris_queen = object_mobile_shared_urnsoris_queen:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_urnsoris_queen, "object/mobile/shared_urnsoris_queen.iff")
+ObjectTemplates:addTemplate(object_mobile_urnsoris_queen, "object/mobile/urnsoris_queen.iff")

@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_ep3_loot_corestrike = object_weapon_ranged_carbine_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_ep3_loot_corestrike, "object/weapon/ranged/carbine/shared_ep3_loot_corestrike.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_ep3_loot_corestrike, "object/weapon/ranged/carbine/ep3_loot_corestrike.iff")

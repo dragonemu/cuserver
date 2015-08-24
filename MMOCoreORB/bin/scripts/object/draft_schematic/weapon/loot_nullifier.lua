@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_nullifier = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_nullifier, "object/draft_schematic/weapon/shared_loot_nullifier.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_nullifier, "object/draft_schematic/weapon/loot_nullifier.iff")

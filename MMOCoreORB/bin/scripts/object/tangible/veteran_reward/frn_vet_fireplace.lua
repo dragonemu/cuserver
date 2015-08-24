@@ -4,4 +4,4 @@ object_tangible_veteran_reward_frn_vet_fireplace = object_tangible_veteran_rewar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_fireplace, "object/tangible/veteran_reward/shared_frn_vet_fireplace.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_fireplace, "object/tangible/veteran_reward/frn_vet_fireplace.iff")

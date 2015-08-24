@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_wookiee_bowcaster = object_draft_schematic_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_wookiee_bowcaster, "object/draft_schematic/weapon/shared_pistol_wookiee_bowcaster.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_wookiee_bowcaster, "object/draft_schematic/weapon/pistol_wookiee_bowcaster.iff")

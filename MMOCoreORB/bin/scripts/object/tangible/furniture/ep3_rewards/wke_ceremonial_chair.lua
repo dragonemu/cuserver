@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_wke_ceremonial_chair = object_tangible_fur
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_ceremonial_chair, "object/tangible/furniture/ep3_rewards/shared_wke_ceremonial_chair.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_ceremonial_chair, "object/tangible/furniture/ep3_rewards/wke_ceremonial_chair.iff")

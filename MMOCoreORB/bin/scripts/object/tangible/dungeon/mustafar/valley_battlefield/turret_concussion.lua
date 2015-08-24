@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion, "object/tangible/dungeon/mustafar/valley_battlefield/turret_concussion.iff")

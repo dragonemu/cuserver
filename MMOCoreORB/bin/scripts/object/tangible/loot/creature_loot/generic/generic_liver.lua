@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_generic_liver = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_liver, "object/tangible/loot/creature_loot/generic/shared_generic_liver.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_liver, "object/tangible/loot/creature_loot/generic/generic_liver.iff")

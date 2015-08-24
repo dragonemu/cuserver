@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_radar_screen = object_tangible_loot_mustafar_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_radar_screen, "object/tangible/loot/mustafar/shared_radar_screen.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_radar_screen, "object/tangible/loot/mustafar/radar_screen.iff")

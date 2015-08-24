@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_avatar_slaver_collar.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_slaver_collar, "object/tangible/loot/creature_loot/kashyyyk_loot/avatar_slaver_collar.iff")

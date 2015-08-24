@@ -4,4 +4,4 @@ object_weapon_melee_2h_sword_som_2h_sword_tulrus_generic = object_weapon_melee_2
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_som_2h_sword_tulrus_generic, "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_som_2h_sword_tulrus_generic, "object/weapon/melee/2h_sword/som_2h_sword_tulrus_generic.iff")

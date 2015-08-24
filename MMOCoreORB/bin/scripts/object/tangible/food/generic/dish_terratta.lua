@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_terratta = object_tangible_food_generic_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_terratta, "object/tangible/food/generic/shared_dish_terratta.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_terratta, "object/tangible/food/generic/dish_terratta.iff")

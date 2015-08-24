@@ -4,4 +4,4 @@ object_resource_container_resource_container_inorganic_gas = object_resource_con
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_inorganic_gas, "object/resource_container/shared_resource_container_inorganic_gas.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_inorganic_gas, "object/resource_container/resource_container_inorganic_gas.iff")

@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy, "object/tangible/dungeon/mustafar/valley_battlefield/turret_null_energy.iff")

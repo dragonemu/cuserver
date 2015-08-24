@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_hovercrate_transport_generic = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_hovercrate_transport_generic, "object/tangible/loot/npc_loot/shared_hovercrate_transport_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_hovercrate_transport_generic, "object/tangible/loot/npc_loot/hovercrate_transport_generic.iff")

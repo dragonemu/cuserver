@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_pistol_ion_stunner = object_weapon_ranged_pistol
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_pistol_ion_stunner, "object/weapon/ranged/pistol/ep3/shared_pistol_ion_stunner.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_pistol_ion_stunner, "object/weapon/ranged/pistol/ep3/pistol_ion_stunner.iff")

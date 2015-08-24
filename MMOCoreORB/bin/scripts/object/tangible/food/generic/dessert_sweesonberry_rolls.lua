@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_sweesonberry_rolls = object_tangible_food_g
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_sweesonberry_rolls, "object/tangible/food/generic/shared_dessert_sweesonberry_rolls.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_sweesonberry_rolls, "object/tangible/food/generic/dessert_sweesonberry_rolls.iff")

@@ -4,4 +4,4 @@ object_tangible_quest_avatar_safety_02 = object_tangible_quest_shared_avatar_saf
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_avatar_safety_02, "object/tangible/quest/shared_avatar_safety_02.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_avatar_safety_02, "object/tangible/quest/avatar_safety_02.iff")

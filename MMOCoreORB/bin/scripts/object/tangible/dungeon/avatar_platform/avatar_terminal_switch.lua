@@ -4,4 +4,4 @@ object_tangible_dungeon_avatar_platform_avatar_terminal_switch = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_avatar_terminal_switch, "object/tangible/dungeon/avatar_platform/shared_avatar_terminal_switch.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_avatar_terminal_switch, "object/tangible/dungeon/avatar_platform/avatar_terminal_switch.iff")

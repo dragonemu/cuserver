@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_medallion = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_medallion, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_kerritamba_medallion.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_medallion, "object/tangible/loot/creature_loot/kashyyyk_loot/kerritamba_medallion.iff")

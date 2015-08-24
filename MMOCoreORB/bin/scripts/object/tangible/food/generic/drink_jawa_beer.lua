@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_jawa_beer = object_tangible_food_generic_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_jawa_beer, "object/tangible/food/generic/shared_drink_jawa_beer.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_jawa_beer, "object/tangible/food/generic/drink_jawa_beer.iff")

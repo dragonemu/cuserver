@@ -4,4 +4,4 @@ object_building_general_bunker_corellia_nedgarr_bandits = object_building_genera
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_bunker_corellia_nedgarr_bandits, "object/building/general/shared_bunker_corellia_nedgarr_bandits.iff")
+ObjectTemplates:addTemplate(object_building_general_bunker_corellia_nedgarr_bandits, "object/building/general/bunker_corellia_nedgarr_bandits.iff")

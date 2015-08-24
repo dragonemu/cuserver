@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_e5 = object_weapon_ranged_carbine_shared_ca
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_e5, "object/weapon/ranged/carbine/shared_carbine_e5.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_e5, "object/weapon/ranged/carbine/carbine_e5.iff")

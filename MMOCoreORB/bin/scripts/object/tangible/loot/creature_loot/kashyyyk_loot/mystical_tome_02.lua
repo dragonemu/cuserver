@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_mystical_tome_02 = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_mystical_tome_02, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome_02.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_mystical_tome_02, "object/tangible/loot/creature_loot/kashyyyk_loot/mystical_tome_02.iff")

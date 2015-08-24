@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_bantha_butter = object_tangible_food_generi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_bantha_butter, "object/tangible/food/generic/shared_dessert_bantha_butter.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_bantha_butter, "object/tangible/food/generic/dessert_bantha_butter.iff")

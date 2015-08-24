@@ -4,4 +4,4 @@ object_resource_container_resource_container_energy_radioactive = object_resourc
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_radioactive, "object/resource_container/shared_resource_container_energy_radioactive.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_radioactive, "object/resource_container/resource_container_energy_radioactive.iff")

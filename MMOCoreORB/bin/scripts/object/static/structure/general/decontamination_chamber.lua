@@ -4,4 +4,4 @@ object_static_structure_general_decontamination_chamber = object_static_structur
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_decontamination_chamber, "object/static/structure/general/shared_decontamination_chamber.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_decontamination_chamber, "object/static/structure/general/decontamination_chamber.iff")

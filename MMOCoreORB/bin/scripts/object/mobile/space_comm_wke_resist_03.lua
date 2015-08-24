@@ -4,4 +4,4 @@ object_mobile_space_comm_wke_resist_03 = object_mobile_shared_space_comm_wke_res
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_wke_resist_03, "object/mobile/shared_space_comm_wke_resist_03.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_wke_resist_03, "object/mobile/space_comm_wke_resist_03.iff")

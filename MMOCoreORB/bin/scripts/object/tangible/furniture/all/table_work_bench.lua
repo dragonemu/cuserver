@@ -4,4 +4,4 @@ object_tangible_furniture_all_table_work_bench = object_tangible_furniture_all_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_table_work_bench, "object/tangible/furniture/all/shared_table_work_bench.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_table_work_bench, "object/tangible/furniture/all/table_work_bench.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_mark = object_draft_schematic_weapon_shared_l
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_mark, "object/draft_schematic/weapon/shared_loot_mark.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_mark, "object/draft_schematic/weapon/loot_mark.iff")

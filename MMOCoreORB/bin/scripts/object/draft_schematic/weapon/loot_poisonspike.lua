@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_poisonspike = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_poisonspike, "object/draft_schematic/weapon/shared_loot_poisonspike.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_poisonspike, "object/draft_schematic/weapon/loot_poisonspike.iff")

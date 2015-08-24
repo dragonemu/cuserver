@@ -4,4 +4,4 @@ object_mobile_som_som_mustafarian_ikt = object_mobile_som_shared_som_mustafarian
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_mustafarian_ikt, "object/mobile/som/shared_som_mustafarian_ikt.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_mustafarian_ikt, "object/mobile/som/som_mustafarian_ikt.iff")

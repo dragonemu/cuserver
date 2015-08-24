@@ -4,4 +4,4 @@ object_tangible_wearables_armor_scout_trooper_armor_scout_trooper_leggings = obj
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_scout_trooper_armor_scout_trooper_leggings, "object/tangible/wearables/armor/scout_trooper/shared_armor_scout_trooper_leggings.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_scout_trooper_armor_scout_trooper_leggings, "object/tangible/wearables/armor/scout_trooper/armor_scout_trooper_leggings.iff")

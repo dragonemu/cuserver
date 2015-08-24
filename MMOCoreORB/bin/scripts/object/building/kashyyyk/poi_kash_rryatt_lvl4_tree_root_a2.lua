@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl4_tree_root_a2 = object_building_kas
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl4_tree_root_a2, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl4_tree_root_a2.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl4_tree_root_a2, "object/building/kashyyyk/poi_kash_rryatt_lvl4_tree_root_a2.iff")

@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_rryatt_feral_wookiee_03 = object_mobile_ep3_shared_ep3_rry
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rryatt_feral_wookiee_03, "object/mobile/ep3/shared_ep3_rryatt_feral_wookiee_03.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rryatt_feral_wookiee_03, "object/mobile/ep3/ep3_rryatt_feral_wookiee_03.iff")

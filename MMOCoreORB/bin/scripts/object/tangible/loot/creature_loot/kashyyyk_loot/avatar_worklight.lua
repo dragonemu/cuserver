@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_avatar_worklight.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_worklight, "object/tangible/loot/creature_loot/kashyyyk_loot/avatar_worklight.iff")

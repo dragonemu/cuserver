@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_sign_post_attachment_primitive = object_buildi
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_sign_post_attachment_primitive, "object/building/kashyyyk/shared_mun_kash_sign_post_attachment_primitive.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_sign_post_attachment_primitive, "object/building/kashyyyk/mun_kash_sign_post_attachment_primitive.iff")

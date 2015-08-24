@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_controllerfp_npe = object_weapon_melee_polearm
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_controllerfp_npe, "object/weapon/melee/polearm/shared_lance_controllerfp_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_controllerfp_npe, "object/weapon/melee/polearm/lance_controllerfp_npe.iff")

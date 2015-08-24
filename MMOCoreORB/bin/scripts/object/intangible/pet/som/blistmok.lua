@@ -4,4 +4,4 @@ object_intangible_pet_som_blistmok = object_intangible_pet_som_shared_blistmok:n
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_pet_som_blistmok, "object/intangible/pet/som/shared_blistmok.iff")
+ObjectTemplates:addTemplate(object_intangible_pet_som_blistmok, "object/intangible/pet/som/blistmok.iff")

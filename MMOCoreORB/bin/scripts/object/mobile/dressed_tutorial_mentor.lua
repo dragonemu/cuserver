@@ -4,4 +4,4 @@ object_mobile_dressed_tutorial_mentor = object_mobile_shared_dressed_tutorial_me
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tutorial_mentor, "object/mobile/shared_dressed_tutorial_mentor.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tutorial_mentor, "object/mobile/dressed_tutorial_mentor.iff")

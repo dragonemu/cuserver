@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_mustafar_map = object_tangible_loot_mustafar_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_mustafar_map, "object/tangible/loot/mustafar/shared_mustafar_map.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_mustafar_map, "object/tangible/loot/mustafar/mustafar_map.iff")

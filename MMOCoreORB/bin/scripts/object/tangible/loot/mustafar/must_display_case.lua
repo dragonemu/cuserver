@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_must_display_case = object_tangible_loot_mustafar_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_must_display_case, "object/tangible/loot/mustafar/shared_must_display_case.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_must_display_case, "object/tangible/loot/mustafar/must_display_case.iff")

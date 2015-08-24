@@ -4,4 +4,4 @@ object_tangible_quest_medical_boxes = object_tangible_quest_shared_medical_boxes
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_medical_boxes, "object/tangible/quest/shared_medical_boxes.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_medical_boxes, "object/tangible/quest/medical_boxes.iff")

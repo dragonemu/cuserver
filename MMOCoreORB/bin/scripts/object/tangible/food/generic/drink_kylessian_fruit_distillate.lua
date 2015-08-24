@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_kylessian_fruit_distillate = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_kylessian_fruit_distillate, "object/tangible/food/generic/shared_drink_kylessian_fruit_distillate.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_kylessian_fruit_distillate, "object/tangible/food/generic/drink_kylessian_fruit_distillate.iff")

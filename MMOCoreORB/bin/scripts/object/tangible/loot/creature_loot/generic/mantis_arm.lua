@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_mantis_arm = object_tangible_loot_cre
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_mantis_arm, "object/tangible/loot/creature_loot/generic/shared_mantis_arm.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_mantis_arm, "object/tangible/loot/creature_loot/generic/mantis_arm.iff")

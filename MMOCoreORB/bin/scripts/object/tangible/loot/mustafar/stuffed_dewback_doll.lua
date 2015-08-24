@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_stuffed_dewback_doll = object_tangible_loot_mustaf
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_stuffed_dewback_doll, "object/tangible/loot/mustafar/shared_stuffed_dewback_doll.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_stuffed_dewback_doll, "object/tangible/loot/mustafar/stuffed_dewback_doll.iff")

@@ -4,4 +4,4 @@ object_tangible_medicine_instant_stimpack_roast_generic = object_tangible_medici
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_roast_generic, "object/tangible/medicine/instant_stimpack/shared_roast_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_roast_generic, "object/tangible/medicine/instant_stimpack/roast_generic.iff")

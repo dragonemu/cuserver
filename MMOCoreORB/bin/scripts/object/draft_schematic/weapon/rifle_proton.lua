@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_proton = object_draft_schematic_weapon_share
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_proton, "object/draft_schematic/weapon/shared_rifle_proton.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_proton, "object/draft_schematic/weapon/rifle_proton.iff")

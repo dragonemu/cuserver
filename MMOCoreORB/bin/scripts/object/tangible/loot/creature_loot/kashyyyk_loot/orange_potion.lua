@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_orange_potion = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_orange_potion, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_orange_potion.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_orange_potion, "object/tangible/loot/creature_loot/kashyyyk_loot/orange_potion.iff")

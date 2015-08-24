@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed, "object/tangible/ship/crafted/chassis/shared_grievous_starfighter_reward_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed, "object/tangible/ship/crafted/chassis/grievous_starfighter_reward_deed.iff")

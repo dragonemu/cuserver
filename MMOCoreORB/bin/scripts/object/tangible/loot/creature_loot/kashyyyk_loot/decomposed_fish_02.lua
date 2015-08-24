@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_decomposed_fish_02 = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_decomposed_fish_02, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_decomposed_fish_02.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_decomposed_fish_02, "object/tangible/loot/creature_loot/kashyyyk_loot/decomposed_fish_02.iff")

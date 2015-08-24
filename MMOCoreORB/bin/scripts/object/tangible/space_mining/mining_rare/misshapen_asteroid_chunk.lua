@@ -4,4 +4,4 @@ object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_misshapen_asteroid_chunk.iff")
+ObjectTemplates:addTemplate(object_tangible_space_mining_mining_rare_misshapen_asteroid_chunk, "object/tangible/space_mining/mining_rare/misshapen_asteroid_chunk.iff")

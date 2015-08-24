@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_ion_stunner = object_draft_schematic_weapon
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_ion_stunner, "object/draft_schematic/weapon/shared_pistol_ion_stunner.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_ion_stunner, "object/draft_schematic/weapon/pistol_ion_stunner.iff")

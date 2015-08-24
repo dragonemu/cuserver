@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_wke_center_piece = object_tangible_furnitu
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_center_piece, "object/tangible/furniture/ep3_rewards/shared_wke_center_piece.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_center_piece, "object/tangible/furniture/ep3_rewards/wke_center_piece.iff")

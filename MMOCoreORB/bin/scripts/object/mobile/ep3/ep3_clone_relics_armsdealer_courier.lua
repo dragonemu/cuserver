@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_armsdealer_courier = object_mobile_ep3_shared
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_armsdealer_courier, "object/mobile/ep3/shared_ep3_clone_relics_armsdealer_courier.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_armsdealer_courier, "object/mobile/ep3/ep3_clone_relics_armsdealer_courier.iff")

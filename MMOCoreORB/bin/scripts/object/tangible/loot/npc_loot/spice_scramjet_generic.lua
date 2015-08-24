@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_spice_scramjet_generic = object_tangible_loot_npc_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_scramjet_generic, "object/tangible/loot/npc_loot/shared_spice_scramjet_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_scramjet_generic, "object/tangible/loot/npc_loot/spice_scramjet_generic.iff")

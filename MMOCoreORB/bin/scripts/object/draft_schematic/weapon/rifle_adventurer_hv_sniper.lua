@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_adventurer_hv_sniper = object_draft_schemati
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_adventurer_hv_sniper, "object/draft_schematic/weapon/shared_rifle_adventurer_hv_sniper.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_adventurer_hv_sniper, "object/draft_schematic/weapon/rifle_adventurer_hv_sniper.iff")

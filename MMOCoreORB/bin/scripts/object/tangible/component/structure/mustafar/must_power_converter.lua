@@ -4,4 +4,4 @@ object_tangible_component_structure_mustafar_must_power_converter = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_power_converter, "object/tangible/component/structure/mustafar/shared_must_power_converter.iff")
+ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_power_converter, "object/tangible/component/structure/mustafar/must_power_converter.iff")

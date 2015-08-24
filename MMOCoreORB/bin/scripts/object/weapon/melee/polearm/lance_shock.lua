@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_shock = object_weapon_melee_polearm_shared_lan
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_shock, "object/weapon/melee/polearm/shared_lance_shock.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_shock, "object/weapon/melee/polearm/lance_shock.iff")

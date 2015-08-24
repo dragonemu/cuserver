@@ -4,4 +4,4 @@ object_mobile_vehicle_landspeeder_tantive4 = object_mobile_vehicle_shared_landsp
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_vehicle_landspeeder_tantive4, "object/mobile/vehicle/shared_landspeeder_tantive4.iff")
+ObjectTemplates:addTemplate(object_mobile_vehicle_landspeeder_tantive4, "object/mobile/vehicle/landspeeder_tantive4.iff")

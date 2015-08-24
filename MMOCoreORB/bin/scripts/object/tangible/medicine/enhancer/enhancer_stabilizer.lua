@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_stabilizer = object_tangible_medicine
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_stabilizer, "object/tangible/medicine/enhancer/shared_enhancer_stabilizer.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_stabilizer, "object/tangible/medicine/enhancer/enhancer_stabilizer.iff")

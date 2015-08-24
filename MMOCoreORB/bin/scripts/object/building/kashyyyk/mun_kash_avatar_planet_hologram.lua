@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_avatar_planet_hologram = object_building_kashy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_avatar_planet_hologram, "object/building/kashyyyk/shared_mun_kash_avatar_planet_hologram.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_avatar_planet_hologram, "object/building/kashyyyk/mun_kash_avatar_planet_hologram.iff")

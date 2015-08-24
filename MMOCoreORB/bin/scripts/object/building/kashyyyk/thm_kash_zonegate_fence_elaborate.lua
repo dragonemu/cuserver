@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_kash_zonegate_fence_elaborate = object_building_kas
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_zonegate_fence_elaborate, "object/building/kashyyyk/shared_thm_kash_zonegate_fence_elaborate.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_zonegate_fence_elaborate, "object/building/kashyyyk/thm_kash_zonegate_fence_elaborate.iff")

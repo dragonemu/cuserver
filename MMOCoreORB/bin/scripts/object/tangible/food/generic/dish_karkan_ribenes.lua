@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_karkan_ribenes = object_tangible_food_generic_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_karkan_ribenes, "object/tangible/food/generic/shared_dish_karkan_ribenes.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_karkan_ribenes, "object/tangible/food/generic/dish_karkan_ribenes.iff")

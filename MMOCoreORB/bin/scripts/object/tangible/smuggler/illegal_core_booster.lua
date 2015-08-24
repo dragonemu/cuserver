@@ -4,4 +4,4 @@ object_tangible_smuggler_illegal_core_booster = object_tangible_smuggler_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_illegal_core_booster, "object/tangible/smuggler/shared_illegal_core_booster.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_illegal_core_booster, "object/tangible/smuggler/illegal_core_booster.iff")

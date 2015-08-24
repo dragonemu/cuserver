@@ -4,4 +4,4 @@ object_draft_schematic_weapon_2h_sword_kashyyk = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_kashyyk, "object/draft_schematic/weapon/shared_2h_sword_kashyyk.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_kashyyk, "object/draft_schematic/weapon/2h_sword_kashyyk.iff")

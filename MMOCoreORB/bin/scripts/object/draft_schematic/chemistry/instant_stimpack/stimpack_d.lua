@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_instant_stimpack_stimpack_d = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_instant_stimpack_stimpack_d, "object/draft_schematic/chemistry/instant_stimpack/shared_stimpack_d.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_instant_stimpack_stimpack_d, "object/draft_schematic/chemistry/instant_stimpack/stimpack_d.iff")

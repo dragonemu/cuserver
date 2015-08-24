@@ -4,4 +4,4 @@ object_static_structure_general_waypoint_personal_orange = object_static_structu
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_waypoint_personal_orange, "object/static/structure/general/shared_waypoint_personal_orange.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_waypoint_personal_orange, "object/static/structure/general/waypoint_personal_orange.iff")

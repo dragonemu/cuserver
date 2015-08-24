@@ -4,4 +4,4 @@ object_tangible_component_weapon_mustafar_obsid_lance_core = object_tangible_com
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_obsid_lance_core, "object/tangible/component/weapon/mustafar/shared_obsid_lance_core.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_obsid_lance_core, "object/tangible/component/weapon/mustafar/obsid_lance_core.iff")

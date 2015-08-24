@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_engineer_analysis_board_generic = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_engineer_analysis_board_generic, "object/tangible/loot/npc_loot/shared_engineer_analysis_board_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_engineer_analysis_board_generic, "object/tangible/loot/npc_loot/engineer_analysis_board_generic.iff")

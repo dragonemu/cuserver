@@ -4,4 +4,4 @@ object_mobile_dressed_myyydril_refugee_m_03 = object_mobile_shared_dressed_myyyd
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_refugee_m_03, "object/mobile/shared_dressed_myyydril_refugee_m_03.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_refugee_m_03, "object/mobile/dressed_myyydril_refugee_m_03.iff")

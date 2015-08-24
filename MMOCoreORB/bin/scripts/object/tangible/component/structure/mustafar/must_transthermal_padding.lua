@@ -4,4 +4,4 @@ object_tangible_component_structure_mustafar_must_transthermal_padding = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_transthermal_padding, "object/tangible/component/structure/mustafar/shared_must_transthermal_padding.iff")
+ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_transthermal_padding, "object/tangible/component/structure/mustafar/must_transthermal_padding.iff")

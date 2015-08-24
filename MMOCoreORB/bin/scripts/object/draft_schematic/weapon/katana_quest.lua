@@ -4,4 +4,4 @@ object_draft_schematic_weapon_katana_quest = object_draft_schematic_weapon_share
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_katana_quest, "object/draft_schematic/weapon/shared_katana_quest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_katana_quest, "object/draft_schematic/weapon/katana_quest.iff")

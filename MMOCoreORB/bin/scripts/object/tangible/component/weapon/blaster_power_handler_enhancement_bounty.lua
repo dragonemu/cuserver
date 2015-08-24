@@ -4,4 +4,4 @@ object_tangible_component_weapon_blaster_power_handler_enhancement_bounty = obje
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_blaster_power_handler_enhancement_bounty, "object/tangible/component/weapon/shared_blaster_power_handler_enhancement_bounty.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_blaster_power_handler_enhancement_bounty, "object/tangible/component/weapon/blaster_power_handler_enhancement_bounty.iff")

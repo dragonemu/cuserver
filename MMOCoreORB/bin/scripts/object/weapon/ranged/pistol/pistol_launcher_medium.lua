@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_pistol_launcher_medium = object_weapon_ranged_pistol
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_launcher_medium, "object/weapon/ranged/pistol/shared_pistol_launcher_medium.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_launcher_medium, "object/weapon/ranged/pistol/pistol_launcher_medium.iff")

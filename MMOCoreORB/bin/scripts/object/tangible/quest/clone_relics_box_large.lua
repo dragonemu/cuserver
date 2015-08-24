@@ -4,4 +4,4 @@ object_tangible_quest_clone_relics_box_large = object_tangible_quest_shared_clon
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_clone_relics_box_large, "object/tangible/quest/shared_clone_relics_box_large.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_clone_relics_box_large, "object/tangible/quest/clone_relics_box_large.iff")

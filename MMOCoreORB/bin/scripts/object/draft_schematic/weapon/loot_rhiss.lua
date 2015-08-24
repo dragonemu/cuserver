@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_rhiss = object_draft_schematic_weapon_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_rhiss, "object/draft_schematic/weapon/shared_loot_rhiss.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_rhiss, "object/draft_schematic/weapon/loot_rhiss.iff")

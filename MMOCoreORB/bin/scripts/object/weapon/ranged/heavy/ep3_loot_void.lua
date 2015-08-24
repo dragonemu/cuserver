@@ -4,4 +4,4 @@ object_weapon_ranged_heavy_ep3_loot_void = object_weapon_ranged_heavy_shared_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_heavy_ep3_loot_void, "object/weapon/ranged/heavy/shared_ep3_loot_void.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_ep3_loot_void, "object/weapon/ranged/heavy/ep3_loot_void.iff")

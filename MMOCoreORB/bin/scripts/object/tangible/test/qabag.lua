@@ -4,4 +4,4 @@ object_tangible_test_qabag = object_tangible_test_shared_qabag:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_test_qabag, "object/tangible/test/shared_qabag.iff")
+ObjectTemplates:addTemplate(object_tangible_test_qabag, "object/tangible/test/qabag.iff")

@@ -4,4 +4,4 @@ object_tangible_item_ep3_kachirho_locked_container = object_tangible_item_ep3_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_ep3_kachirho_locked_container, "object/tangible/item/ep3/shared_kachirho_locked_container.iff")
+ObjectTemplates:addTemplate(object_tangible_item_ep3_kachirho_locked_container, "object/tangible/item/ep3/kachirho_locked_container.iff")

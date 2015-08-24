@@ -4,4 +4,4 @@ object_static_test_poi_kash_rryatt_bridge_lg_cap_s01 = object_static_test_shared
 
 }
 
-ObjectTemplates:addTemplate(object_static_test_poi_kash_rryatt_bridge_lg_cap_s01, "object/static/test/shared_poi_kash_rryatt_bridge_lg_cap_s01.iff")
+ObjectTemplates:addTemplate(object_static_test_poi_kash_rryatt_bridge_lg_cap_s01, "object/static/test/poi_kash_rryatt_bridge_lg_cap_s01.iff")

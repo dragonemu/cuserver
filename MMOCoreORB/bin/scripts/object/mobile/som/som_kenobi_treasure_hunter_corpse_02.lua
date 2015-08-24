@@ -4,4 +4,4 @@ object_mobile_som_som_kenobi_treasure_hunter_corpse_02 = object_mobile_som_share
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_treasure_hunter_corpse_02, "object/mobile/som/shared_som_kenobi_treasure_hunter_corpse_02.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_treasure_hunter_corpse_02, "object/mobile/som/som_kenobi_treasure_hunter_corpse_02.iff")

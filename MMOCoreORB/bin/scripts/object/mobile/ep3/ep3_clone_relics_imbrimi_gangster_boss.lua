@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_imbrimi_gangster_boss = object_mobile_ep3_sha
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_imbrimi_gangster_boss, "object/mobile/ep3/shared_ep3_clone_relics_imbrimi_gangster_boss.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_imbrimi_gangster_boss, "object/mobile/ep3/ep3_clone_relics_imbrimi_gangster_boss.iff")

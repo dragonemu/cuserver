@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_czerka_dart = object_draft_schematic_weapo
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_czerka_dart, "object/draft_schematic/weapon/shared_carbine_czerka_dart.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_czerka_dart, "object/draft_schematic/weapon/carbine_czerka_dart.iff")

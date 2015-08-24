@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_criss_nepomi = object_mobile_ep3_shared_ep3_criss_nepomi:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_criss_nepomi, "object/mobile/ep3/shared_ep3_criss_nepomi.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_criss_nepomi, "object/mobile/ep3/ep3_criss_nepomi.iff")

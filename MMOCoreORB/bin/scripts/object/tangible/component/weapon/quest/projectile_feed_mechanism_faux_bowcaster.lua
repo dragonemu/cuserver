@@ -4,4 +4,4 @@ object_tangible_component_weapon_quest_projectile_feed_mechanism_faux_bowcaster 
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_quest_projectile_feed_mechanism_faux_bowcaster, "object/tangible/component/weapon/quest/shared_projectile_feed_mechanism_faux_bowcaster.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_quest_projectile_feed_mechanism_faux_bowcaster, "object/tangible/component/weapon/quest/projectile_feed_mechanism_faux_bowcaster.iff")

@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_nutrientinjection = object_tangible_m
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_nutrientinjection, "object/tangible/medicine/enhancer/shared_enhancer_nutrientinjection.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_nutrientinjection, "object/tangible/medicine/enhancer/enhancer_nutrientinjection.iff")

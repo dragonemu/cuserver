@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_staff_wood_s2_npe = object_weapon_melee_polear
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_staff_wood_s2_npe, "object/weapon/melee/polearm/shared_lance_staff_wood_s2_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_staff_wood_s2_npe, "object/weapon/melee/polearm/lance_staff_wood_s2_npe.iff")

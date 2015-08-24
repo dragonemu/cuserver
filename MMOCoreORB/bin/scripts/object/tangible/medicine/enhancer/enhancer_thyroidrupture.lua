@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_thyroidrupture = object_tangible_medi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_thyroidrupture, "object/tangible/medicine/enhancer/shared_enhancer_thyroidrupture.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_thyroidrupture, "object/tangible/medicine/enhancer/enhancer_thyroidrupture.iff")

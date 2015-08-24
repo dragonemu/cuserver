@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_etyyy_kara_corlon = object_mobile_ep3_shared_ep3_etyyy_kar
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_kara_corlon, "object/mobile/ep3/shared_ep3_etyyy_kara_corlon.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_etyyy_kara_corlon, "object/mobile/ep3/ep3_etyyy_kara_corlon.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_power_output_analyzer_generic = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_power_output_analyzer_generic, "object/tangible/loot/generic_usable/shared_power_output_analyzer_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_power_output_analyzer_generic, "object/tangible/loot/generic_usable/power_output_analyzer_generic.iff")

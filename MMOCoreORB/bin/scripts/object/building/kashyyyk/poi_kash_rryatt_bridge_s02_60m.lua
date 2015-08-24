@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_bridge_s02_60m = object_building_kashyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_bridge_s02_60m, "object/building/kashyyyk/shared_poi_kash_rryatt_bridge_s02_60m.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_bridge_s02_60m, "object/building/kashyyyk/poi_kash_rryatt_bridge_s02_60m.iff")

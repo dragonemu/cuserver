@@ -4,4 +4,4 @@ object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement = objec
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement, "object/draft_schematic/item/shared_item_powerup_weapon_melee_hilt_reinforcement.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement, "object/draft_schematic/item/item_powerup_weapon_melee_hilt_reinforcement.iff")

@@ -4,4 +4,4 @@ object_tangible_quest_som_kenobi_network_computer = object_tangible_quest_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_network_computer, "object/tangible/quest/shared_som_kenobi_network_computer.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_network_computer, "object/tangible/quest/som_kenobi_network_computer.iff")

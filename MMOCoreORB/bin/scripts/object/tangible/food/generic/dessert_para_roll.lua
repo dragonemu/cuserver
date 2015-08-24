@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_para_roll = object_tangible_food_generic_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_para_roll, "object/tangible/food/generic/shared_dessert_para_roll.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_para_roll, "object/tangible/food/generic/dessert_para_roll.iff")

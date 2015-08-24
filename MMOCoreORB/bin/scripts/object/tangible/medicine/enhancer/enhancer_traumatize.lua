@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_traumatize = object_tangible_medicine
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_traumatize, "object/tangible/medicine/enhancer/shared_enhancer_traumatize.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_traumatize, "object/tangible/medicine/enhancer/enhancer_traumatize.iff")

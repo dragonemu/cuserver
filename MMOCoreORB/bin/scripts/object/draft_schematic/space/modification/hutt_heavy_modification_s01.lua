@@ -4,4 +4,4 @@ object_draft_schematic_space_modification_hutt_heavy_modification_s01 = object_d
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_modification_hutt_heavy_modification_s01, "object/draft_schematic/space/modification/shared_hutt_heavy_modification_s01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_modification_hutt_heavy_modification_s01, "object/draft_schematic/space/modification/hutt_heavy_modification_s01.iff")

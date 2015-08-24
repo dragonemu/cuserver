@@ -4,4 +4,4 @@ object_tangible_loot_quest_myyydril_sword_quest_01 = object_tangible_loot_quest_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_myyydril_sword_quest_01, "object/tangible/loot/quest/shared_myyydril_sword_quest_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_myyydril_sword_quest_01, "object/tangible/loot/quest/myyydril_sword_quest_01.iff")

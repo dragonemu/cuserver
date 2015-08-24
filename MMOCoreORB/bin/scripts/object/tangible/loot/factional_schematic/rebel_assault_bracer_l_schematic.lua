@@ -4,4 +4,4 @@ object_tangible_loot_factional_schematic_rebel_assault_bracer_l_schematic = obje
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_assault_bracer_l_schematic, "object/tangible/loot/factional_schematic/shared_rebel_assault_bracer_l_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_assault_bracer_l_schematic, "object/tangible/loot/factional_schematic/rebel_assault_bracer_l_schematic.iff")

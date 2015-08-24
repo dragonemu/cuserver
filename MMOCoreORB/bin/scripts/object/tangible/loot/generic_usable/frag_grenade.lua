@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_frag_grenade = object_tangible_loot_generic_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_frag_grenade, "object/tangible/loot/generic_usable/shared_frag_grenade.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_frag_grenade, "object/tangible/loot/generic_usable/frag_grenade.iff")

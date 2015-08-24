@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_corrupted_fruit = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_corrupted_fruit, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_corrupted_fruit.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_corrupted_fruit, "object/tangible/loot/creature_loot/kashyyyk_loot/corrupted_fruit.iff")

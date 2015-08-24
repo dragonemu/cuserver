@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_blap_biscuit = object_tangible_food_generic
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_blap_biscuit, "object/tangible/food/generic/shared_dessert_blap_biscuit.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_blap_biscuit, "object/tangible/food/generic/dessert_blap_biscuit.iff")

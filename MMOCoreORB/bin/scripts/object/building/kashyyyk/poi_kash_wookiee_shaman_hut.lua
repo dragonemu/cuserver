@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_wookiee_shaman_hut = object_building_kashyyyk_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_wookiee_shaman_hut, "object/building/kashyyyk/shared_poi_kash_wookiee_shaman_hut.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_wookiee_shaman_hut, "object/building/kashyyyk/poi_kash_wookiee_shaman_hut.iff")

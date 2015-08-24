@@ -4,4 +4,4 @@ object_tangible_item_kashyyyk_eqp_kash_hunting_license = object_tangible_item_ka
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_kash_hunting_license, "object/tangible/item/kashyyyk/shared_eqp_kash_hunting_license.iff")
+ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_kash_hunting_license, "object/tangible/item/kashyyyk/eqp_kash_hunting_license.iff")

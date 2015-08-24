@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_soulstinger = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_soulstinger, "object/draft_schematic/weapon/shared_loot_soulstinger.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_soulstinger, "object/draft_schematic/weapon/loot_soulstinger.iff")

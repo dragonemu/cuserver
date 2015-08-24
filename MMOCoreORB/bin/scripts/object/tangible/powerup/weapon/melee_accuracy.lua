@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_accuracy = object_tangible_powerup_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_accuracy, "object/tangible/powerup/weapon/shared_melee_accuracy.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_accuracy, "object/tangible/powerup/weapon/melee_accuracy.iff")

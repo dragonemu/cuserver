@@ -4,4 +4,4 @@ object_tangible_ship_attachment_booster_grievous_starship_booster_s01 = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_grievous_starship_booster_s01, "object/tangible/ship/attachment/booster/shared_grievous_starship_booster_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_grievous_starship_booster_s01, "object/tangible/ship/attachment/booster/grievous_starship_booster_s01.iff")

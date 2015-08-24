@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_spray_unit_small_generic = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_spray_unit_small_generic, "object/tangible/loot/generic_usable/shared_spray_unit_small_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_spray_unit_small_generic, "object/tangible/loot/generic_usable/spray_unit_small_generic.iff")

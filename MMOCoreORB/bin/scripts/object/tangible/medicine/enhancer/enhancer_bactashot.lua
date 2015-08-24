@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_bactashot = object_tangible_medicine_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_bactashot, "object/tangible/medicine/enhancer/shared_enhancer_bactashot.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_bactashot, "object/tangible/medicine/enhancer/enhancer_bactashot.iff")

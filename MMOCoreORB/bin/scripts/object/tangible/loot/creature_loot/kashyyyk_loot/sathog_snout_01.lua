@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_sathog_snout_01 = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sathog_snout_01, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_sathog_snout_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sathog_snout_01, "object/tangible/loot/creature_loot/kashyyyk_loot/sathog_snout_01.iff")

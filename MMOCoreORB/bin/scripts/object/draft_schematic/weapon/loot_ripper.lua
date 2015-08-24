@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_ripper = object_draft_schematic_weapon_shared
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_ripper, "object/draft_schematic/weapon/shared_loot_ripper.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_ripper, "object/draft_schematic/weapon/loot_ripper.iff")

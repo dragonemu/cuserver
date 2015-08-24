@@ -4,4 +4,4 @@ object_tangible_food_foraged_edible_jar_berries_generic = object_tangible_food_f
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_foraged_edible_jar_berries_generic, "object/tangible/food/foraged/shared_edible_jar_berries_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_food_foraged_edible_jar_berries_generic, "object/tangible/food/foraged/edible_jar_berries_generic.iff")

@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_e11_generic = object_weapon_ranged_rifle_shared
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_e11_generic, "object/weapon/ranged/rifle/shared_rifle_e11_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_e11_generic, "object/weapon/ranged/rifle/rifle_e11_generic.iff")

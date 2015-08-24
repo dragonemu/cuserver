@@ -4,4 +4,4 @@ object_tangible_loot_loot_schematic_weapon_must_1h_lightsaber_schematic = object
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_weapon_must_1h_lightsaber_schematic, "object/tangible/loot/loot_schematic/shared_weapon_must_1h_lightsaber_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_weapon_must_1h_lightsaber_schematic, "object/tangible/loot/loot_schematic/weapon_must_1h_lightsaber_schematic.iff")

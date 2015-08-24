@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_icon_tosche = object_mobile_shared_dressed_tatooi
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_icon_tosche, "object/mobile/shared_dressed_tatooine_icon_tosche.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_icon_tosche, "object/mobile/dressed_tatooine_icon_tosche.iff")

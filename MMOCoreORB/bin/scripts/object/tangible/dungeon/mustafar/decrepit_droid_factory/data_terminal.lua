@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal, "object/tangible/dungeon/mustafar/decrepit_droid_factory/shared_data_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal, "object/tangible/dungeon/mustafar/decrepit_droid_factory/data_terminal.iff")

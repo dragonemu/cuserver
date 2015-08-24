@@ -4,4 +4,4 @@ object_draft_schematic_space_modification_xwing_modification_s01 = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_modification_xwing_modification_s01, "object/draft_schematic/space/modification/shared_xwing_modification_s01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_modification_xwing_modification_s01, "object/draft_schematic/space/modification/xwing_modification_s01.iff")

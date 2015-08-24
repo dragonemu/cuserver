@@ -4,4 +4,4 @@ object_tangible_quest_som_vault_lever_2 = object_tangible_quest_shared_som_vault
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_vault_lever_2, "object/tangible/quest/shared_som_vault_lever_2.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_vault_lever_2, "object/tangible/quest/som_vault_lever_2.iff")

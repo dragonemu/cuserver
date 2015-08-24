@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_eyma = object_mobile_ep3_shared_ep3_eyma:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_eyma, "object/mobile/ep3/shared_ep3_eyma.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_eyma, "object/mobile/ep3/ep3_eyma.iff")

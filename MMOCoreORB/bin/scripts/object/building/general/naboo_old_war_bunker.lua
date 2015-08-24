@@ -4,4 +4,4 @@ object_building_general_naboo_old_war_bunker = object_building_general_shared_na
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_naboo_old_war_bunker, "object/building/general/shared_naboo_old_war_bunker.iff")
+ObjectTemplates:addTemplate(object_building_general_naboo_old_war_bunker, "object/building/general/naboo_old_war_bunker.iff")

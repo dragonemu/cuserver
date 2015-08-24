@@ -4,4 +4,4 @@ object_draft_schematic_dance_prop_prop_double_ribbon_spark_r = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_double_ribbon_spark_r, "object/draft_schematic/dance_prop/shared_prop_double_ribbon_spark_r.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_double_ribbon_spark_r, "object/draft_schematic/dance_prop/prop_double_ribbon_spark_r.iff")

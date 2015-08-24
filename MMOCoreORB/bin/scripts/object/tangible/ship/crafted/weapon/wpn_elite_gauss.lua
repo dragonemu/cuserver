@@ -4,4 +4,4 @@ object_tangible_ship_crafted_weapon_wpn_elite_gauss = object_tangible_ship_craft
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_wpn_elite_gauss, "object/tangible/ship/crafted/weapon/shared_wpn_elite_gauss.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_weapon_wpn_elite_gauss, "object/tangible/ship/crafted/weapon/wpn_elite_gauss.iff")

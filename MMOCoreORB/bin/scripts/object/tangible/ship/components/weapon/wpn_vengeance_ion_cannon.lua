@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon, "object/tangible/ship/components/weapon/shared_wpn_vengeance_ion_cannon.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon, "object/tangible/ship/components/weapon/wpn_vengeance_ion_cannon.iff")

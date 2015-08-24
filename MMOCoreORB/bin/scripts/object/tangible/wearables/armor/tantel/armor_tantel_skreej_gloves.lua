@@ -4,4 +4,4 @@ object_tangible_wearables_armor_tantel_armor_tantel_skreej_gloves = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_tantel_armor_tantel_skreej_gloves, "object/tangible/wearables/armor/tantel/shared_armor_tantel_skreej_gloves.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_tantel_armor_tantel_skreej_gloves, "object/tangible/wearables/armor/tantel/armor_tantel_skreej_gloves.iff")

@@ -4,4 +4,4 @@ object_tangible_item_som_communication_console = object_tangible_item_som_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_communication_console, "object/tangible/item/som/shared_communication_console.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_communication_console, "object/tangible/item/som/communication_console.iff")

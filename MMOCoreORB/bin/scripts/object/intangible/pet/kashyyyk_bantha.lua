@@ -4,4 +4,4 @@ object_intangible_pet_kashyyyk_bantha = object_intangible_pet_shared_kashyyyk_ba
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_pet_kashyyyk_bantha, "object/intangible/pet/shared_kashyyyk_bantha.iff")
+ObjectTemplates:addTemplate(object_intangible_pet_kashyyyk_bantha, "object/intangible/pet/kashyyyk_bantha.iff")

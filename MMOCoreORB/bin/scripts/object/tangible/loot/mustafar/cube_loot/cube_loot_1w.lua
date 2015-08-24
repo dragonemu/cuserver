@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_cube_loot_cube_loot_1w = object_tangible_loot_must
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_cube_loot_cube_loot_1w, "object/tangible/loot/mustafar/cube_loot/shared_cube_loot_1w.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_cube_loot_cube_loot_1w, "object/tangible/loot/mustafar/cube_loot/cube_loot_1w.iff")

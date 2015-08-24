@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_kaminoan_great_staff = object_draft_schemati
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_kaminoan_great_staff, "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_kaminoan_great_staff, "object/draft_schematic/weapon/lance_kaminoan_great_staff.iff")

@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_advanced_xwing_deed = object_tangible_ship_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_advanced_xwing_deed, "object/tangible/ship/crafted/chassis/shared_advanced_xwing_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_advanced_xwing_deed, "object/tangible/ship/crafted/chassis/advanced_xwing_deed.iff")

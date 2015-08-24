@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_element_dispursal_tuner = object_tangible_p
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_element_dispursal_tuner, "object/tangible/powerup/weapon/shared_melee_element_dispursal_tuner.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_element_dispursal_tuner, "object/tangible/powerup/weapon/melee_element_dispursal_tuner.iff")

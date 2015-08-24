@@ -4,4 +4,4 @@ object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal = obj
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal, "object/tangible/component/weapon/lightsaber/shared_lightsaber_module_lava_crystal.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal, "object/tangible/component/weapon/lightsaber/lightsaber_module_lava_crystal.iff")

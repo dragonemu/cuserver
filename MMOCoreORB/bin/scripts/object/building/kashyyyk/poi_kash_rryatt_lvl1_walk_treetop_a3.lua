@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl1_walk_treetop_a3 = object_building_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl1_walk_treetop_a3, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl1_walk_treetop_a3.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl1_walk_treetop_a3, "object/building/kashyyyk/poi_kash_rryatt_lvl1_walk_treetop_a3.iff")

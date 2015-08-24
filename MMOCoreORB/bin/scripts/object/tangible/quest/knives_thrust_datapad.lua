@@ -4,4 +4,4 @@ object_tangible_quest_knives_thrust_datapad = object_tangible_quest_shared_knive
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_knives_thrust_datapad, "object/tangible/quest/shared_knives_thrust_datapad.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_knives_thrust_datapad, "object/tangible/quest/knives_thrust_datapad.iff")

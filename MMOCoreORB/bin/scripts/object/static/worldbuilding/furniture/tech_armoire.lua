@@ -4,4 +4,4 @@ object_static_worldbuilding_furniture_tech_armoire = object_static_worldbuilding
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_tech_armoire, "object/static/worldbuilding/furniture/shared_tech_armoire.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_tech_armoire, "object/static/worldbuilding/furniture/tech_armoire.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_green_stone_necklace_generic = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_green_stone_necklace_generic, "object/tangible/loot/npc_loot/shared_green_stone_necklace_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_green_stone_necklace_generic, "object/tangible/loot/npc_loot/green_stone_necklace_generic.iff")

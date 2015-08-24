@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_tantel_leggings = object_draft_sch
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_tantel_leggings, "object/draft_schematic/armor/shared_armor_appearance_tantel_leggings.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_tantel_leggings, "object/draft_schematic/armor/armor_appearance_tantel_leggings.iff")

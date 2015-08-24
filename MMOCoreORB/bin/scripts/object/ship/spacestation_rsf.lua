@@ -4,4 +4,4 @@ object_ship_spacestation_rsf = object_ship_shared_spacestation_rsf:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_spacestation_rsf, "object/ship/shared_spacestation_rsf.iff")
+ObjectTemplates:addTemplate(object_ship_spacestation_rsf, "object/ship/spacestation_rsf.iff")

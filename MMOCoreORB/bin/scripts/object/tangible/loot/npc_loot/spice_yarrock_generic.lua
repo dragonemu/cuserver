@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_spice_yarrock_generic = object_tangible_loot_npc_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_yarrock_generic, "object/tangible/loot/npc_loot/shared_spice_yarrock_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_yarrock_generic, "object/tangible/loot/npc_loot/spice_yarrock_generic.iff")

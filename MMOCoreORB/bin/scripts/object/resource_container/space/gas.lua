@@ -4,4 +4,4 @@ object_resource_container_space_gas = object_resource_container_space_shared_gas
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_space_gas, "object/resource_container/space/shared_gas.iff")
+ObjectTemplates:addTemplate(object_resource_container_space_gas, "object/resource_container/space/gas.iff")

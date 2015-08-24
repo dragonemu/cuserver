@@ -4,4 +4,4 @@ object_building_general_naboo_kadaara_skaak_tipper_bunker = object_building_gene
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_naboo_kadaara_skaak_tipper_bunker, "object/building/general/shared_naboo_kadaara_skaak_tipper_bunker.iff")
+ObjectTemplates:addTemplate(object_building_general_naboo_kadaara_skaak_tipper_bunker, "object/building/general/naboo_kadaara_skaak_tipper_bunker.iff")

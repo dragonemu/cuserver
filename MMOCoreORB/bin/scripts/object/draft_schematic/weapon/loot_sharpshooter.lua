@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_sharpshooter = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_sharpshooter, "object/draft_schematic/weapon/shared_loot_sharpshooter.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_sharpshooter, "object/draft_schematic/weapon/loot_sharpshooter.iff")

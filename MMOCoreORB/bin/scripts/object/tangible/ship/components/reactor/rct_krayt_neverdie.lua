@@ -4,4 +4,4 @@ object_tangible_ship_components_reactor_rct_krayt_neverdie = object_tangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_krayt_neverdie, "object/tangible/ship/components/reactor/shared_rct_krayt_neverdie.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_krayt_neverdie, "object/tangible/ship/components/reactor/rct_krayt_neverdie.iff")

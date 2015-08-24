@@ -4,4 +4,4 @@ object_tangible_painting_painting_grievous_01 = object_tangible_painting_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_painting_painting_grievous_01, "object/tangible/painting/shared_painting_grievous_01.iff")
+ObjectTemplates:addTemplate(object_tangible_painting_painting_grievous_01, "object/tangible/painting/painting_grievous_01.iff")

@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_double_dip_outer_rim_rumdrop = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_double_dip_outer_rim_rumdrop, "object/tangible/food/generic/shared_drink_double_dip_outer_rim_rumdrop.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_double_dip_outer_rim_rumdrop, "object/tangible/food/generic/drink_double_dip_outer_rim_rumdrop.iff")

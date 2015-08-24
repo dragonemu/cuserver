@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_ep3_loot_nullifier = object_weapon_ranged_rifle_share
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_ep3_loot_nullifier, "object/weapon/ranged/rifle/shared_ep3_loot_nullifier.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_ep3_loot_nullifier, "object/weapon/ranged/rifle/ep3_loot_nullifier.iff")

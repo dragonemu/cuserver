@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_new_armor_core_advanced_test = object_dra
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_core_advanced_test, "object/draft_schematic/armor/component/shared_new_armor_core_advanced_test.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_core_advanced_test, "object/draft_schematic/armor/component/new_armor_core_advanced_test.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_item_item_powerup_weapon_melee_inertial_fluctuator = obje
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_item_item_powerup_weapon_melee_inertial_fluctuator, "object/draft_schematic/item/shared_item_powerup_weapon_melee_inertial_fluctuator.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_item_item_powerup_weapon_melee_inertial_fluctuator, "object/draft_schematic/item/item_powerup_weapon_melee_inertial_fluctuator.iff")

@@ -4,4 +4,4 @@ object_mobile_c_syren_3_trandoshan_boss = object_mobile_shared_c_syren_3_trandos
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_c_syren_3_trandoshan_boss, "object/mobile/shared_c_syren_3_trandoshan_boss.iff")
+ObjectTemplates:addTemplate(object_mobile_c_syren_3_trandoshan_boss, "object/mobile/c_syren_3_trandoshan_boss.iff")

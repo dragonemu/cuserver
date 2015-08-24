@@ -4,4 +4,4 @@ object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt =
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt, "object/tangible/wearables/armor/bounty_hunter/shared_armor_bounty_hunter_crafted_belt.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt, "object/tangible/wearables/armor/bounty_hunter/armor_bounty_hunter_crafted_belt.iff")

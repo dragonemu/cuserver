@@ -4,4 +4,4 @@ object_draft_schematic_weapon_sword_avatar_wke_spiritblade = object_draft_schema
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_avatar_wke_spiritblade, "object/draft_schematic/weapon/shared_sword_avatar_wke_spiritblade.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_avatar_wke_spiritblade, "object/draft_schematic/weapon/sword_avatar_wke_spiritblade.iff")

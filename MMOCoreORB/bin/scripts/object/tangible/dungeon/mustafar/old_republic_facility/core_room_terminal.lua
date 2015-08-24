@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal = obje
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal, "object/tangible/dungeon/mustafar/old_republic_facility/shared_core_room_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal, "object/tangible/dungeon/mustafar/old_republic_facility/core_room_terminal.iff")

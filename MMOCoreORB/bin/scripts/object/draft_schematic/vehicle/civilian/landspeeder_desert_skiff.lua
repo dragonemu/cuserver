@@ -4,4 +4,4 @@ object_draft_schematic_vehicle_civilian_landspeeder_desert_skiff = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_landspeeder_desert_skiff, "object/draft_schematic/vehicle/civilian/shared_landspeeder_desert_skiff.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_vehicle_civilian_landspeeder_desert_skiff, "object/draft_schematic/vehicle/civilian/landspeeder_desert_skiff.iff")

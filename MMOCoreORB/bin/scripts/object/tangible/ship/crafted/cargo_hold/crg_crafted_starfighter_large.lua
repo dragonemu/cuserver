@@ -4,4 +4,4 @@ object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_large = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_large, "object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_starfighter_large.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_large, "object/tangible/ship/crafted/cargo_hold/crg_crafted_starfighter_large.iff")

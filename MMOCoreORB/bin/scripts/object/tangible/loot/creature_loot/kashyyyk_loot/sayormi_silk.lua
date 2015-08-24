@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_silk = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_silk, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_sayormi_silk.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_silk, "object/tangible/loot/creature_loot/kashyyyk_loot/sayormi_silk.iff")

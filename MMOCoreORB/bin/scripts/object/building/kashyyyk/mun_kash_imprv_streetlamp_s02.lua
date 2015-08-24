@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_imprv_streetlamp_s02 = object_building_kashyyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_imprv_streetlamp_s02, "object/building/kashyyyk/shared_mun_kash_imprv_streetlamp_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_imprv_streetlamp_s02, "object/building/kashyyyk/mun_kash_imprv_streetlamp_s02.iff")

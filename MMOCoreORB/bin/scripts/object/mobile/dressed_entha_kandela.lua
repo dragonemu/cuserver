@@ -4,4 +4,4 @@ object_mobile_dressed_entha_kandela = object_mobile_shared_dressed_entha_kandela
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_entha_kandela, "object/mobile/shared_dressed_entha_kandela.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_entha_kandela, "object/mobile/dressed_entha_kandela.iff")

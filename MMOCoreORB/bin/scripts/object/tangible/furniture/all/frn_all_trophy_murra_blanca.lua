@@ -4,4 +4,4 @@ object_tangible_furniture_all_frn_all_trophy_murra_blanca = object_tangible_furn
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_murra_blanca, "object/tangible/furniture/all/shared_frn_all_trophy_murra_blanca.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_murra_blanca, "object/tangible/furniture/all/frn_all_trophy_murra_blanca.iff")

@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_village_guard_05 = object_mobile_ep3_shared_ep3_village_gu
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_village_guard_05, "object/mobile/ep3/shared_ep3_village_guard_05.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_village_guard_05, "object/mobile/ep3/ep3_village_guard_05.iff")

@@ -4,4 +4,4 @@ object_mobile_som_som_kenobi_menth_paul = object_mobile_som_shared_som_kenobi_me
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_menth_paul, "object/mobile/som/shared_som_kenobi_menth_paul.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_menth_paul, "object/mobile/som/som_kenobi_menth_paul.iff")

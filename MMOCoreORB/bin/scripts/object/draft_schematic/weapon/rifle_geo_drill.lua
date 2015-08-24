@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_geo_drill = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_geo_drill, "object/draft_schematic/weapon/shared_rifle_geo_drill.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_geo_drill, "object/draft_schematic/weapon/rifle_geo_drill.iff")

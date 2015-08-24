@@ -4,4 +4,4 @@ object_weapon_ranged_heavy_som_lava_cannon_generic = object_weapon_ranged_heavy_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_heavy_som_lava_cannon_generic, "object/weapon/ranged/heavy/shared_som_lava_cannon_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_som_lava_cannon_generic, "object/weapon/ranged/heavy/som_lava_cannon_generic.iff")

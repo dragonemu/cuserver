@@ -4,4 +4,4 @@ object_draft_schematic_space_modification_blacksun_heavy_modification_s01 = obje
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_modification_blacksun_heavy_modification_s01, "object/draft_schematic/space/modification/shared_blacksun_heavy_modification_s01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_modification_blacksun_heavy_modification_s01, "object/draft_schematic/space/modification/blacksun_heavy_modification_s01.iff")

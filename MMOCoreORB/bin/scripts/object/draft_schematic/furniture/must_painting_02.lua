@@ -4,4 +4,4 @@ object_draft_schematic_furniture_must_painting_02 = object_draft_schematic_furni
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_painting_02, "object/draft_schematic/furniture/shared_must_painting_02.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_painting_02, "object/draft_schematic/furniture/must_painting_02.iff")

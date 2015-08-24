@@ -4,4 +4,4 @@ object_static_worldbuilding_battle_droid_powerdown = object_static_worldbuilding
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_battle_droid_powerdown, "object/static/worldbuilding/shared_battle_droid_powerdown.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_battle_droid_powerdown, "object/static/worldbuilding/battle_droid_powerdown.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_generic_tool_kit_generic = object_tangible_loot_np
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_generic_tool_kit_generic, "object/tangible/loot/npc_loot/shared_generic_tool_kit_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_generic_tool_kit_generic, "object/tangible/loot/npc_loot/generic_tool_kit_generic.iff")

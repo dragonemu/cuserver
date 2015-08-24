@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_decrepit_droid_factory_security_controller = ob
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/shared_security_controller.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_controller.iff")

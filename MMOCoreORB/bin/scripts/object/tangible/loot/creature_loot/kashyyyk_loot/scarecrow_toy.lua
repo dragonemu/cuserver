@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_scarecrow_toy = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_scarecrow_toy, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_scarecrow_toy.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_scarecrow_toy, "object/tangible/loot/creature_loot/kashyyyk_loot/scarecrow_toy.iff")

@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_specops_bothan_carbine = object_weapon_rang
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_specops_bothan_carbine, "object/weapon/ranged/carbine/shared_carbine_specops_bothan_carbine.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_specops_bothan_carbine, "object/weapon/ranged/carbine/carbine_specops_bothan_carbine.iff")

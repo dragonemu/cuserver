@@ -4,4 +4,4 @@ object_draft_schematic_weapon_sword_junti_mace = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_junti_mace, "object/draft_schematic/weapon/shared_sword_junti_mace.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_junti_mace, "object/draft_schematic/weapon/sword_junti_mace.iff")

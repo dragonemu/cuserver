@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_victor_projectile_tusken = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_victor_projectile_tusken, "object/draft_schematic/weapon/shared_rifle_victor_projectile_tusken.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_victor_projectile_tusken, "object/draft_schematic/weapon/rifle_victor_projectile_tusken.iff")

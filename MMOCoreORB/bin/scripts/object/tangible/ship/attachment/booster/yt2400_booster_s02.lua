@@ -4,4 +4,4 @@ object_tangible_ship_attachment_booster_yt2400_booster_s02 = object_tangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_yt2400_booster_s02, "object/tangible/ship/attachment/booster/shared_yt2400_booster_s02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_booster_yt2400_booster_s02, "object/tangible/ship/attachment/booster/yt2400_booster_s02.iff")

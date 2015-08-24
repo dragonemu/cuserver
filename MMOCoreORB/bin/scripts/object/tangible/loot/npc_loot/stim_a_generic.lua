@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_stim_a_generic = object_tangible_loot_npc_loot_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_stim_a_generic, "object/tangible/loot/npc_loot/shared_stim_a_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_stim_a_generic, "object/tangible/loot/npc_loot/stim_a_generic.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_space_engine_elite_engine = object_draft_schematic_space_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_engine_elite_engine, "object/draft_schematic/space/engine/shared_elite_engine.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_engine_elite_engine, "object/draft_schematic/space/engine/elite_engine.iff")

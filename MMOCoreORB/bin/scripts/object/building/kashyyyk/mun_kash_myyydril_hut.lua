@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_myyydril_hut = object_building_kashyyyk_shared
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_myyydril_hut, "object/building/kashyyyk/shared_mun_kash_myyydril_hut.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_myyydril_hut, "object/building/kashyyyk/mun_kash_myyydril_hut.iff")

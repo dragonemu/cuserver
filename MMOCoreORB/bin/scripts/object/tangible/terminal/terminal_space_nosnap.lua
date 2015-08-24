@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_space_nosnap = object_tangible_terminal_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_space_nosnap, "object/tangible/terminal/shared_terminal_space_nosnap.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_space_nosnap, "object/tangible/terminal/terminal_space_nosnap.iff")

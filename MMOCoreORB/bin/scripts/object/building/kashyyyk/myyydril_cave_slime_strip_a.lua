@@ -4,4 +4,4 @@ object_building_kashyyyk_myyydril_cave_slime_strip_a = object_building_kashyyyk_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_slime_strip_a, "object/building/kashyyyk/shared_myyydril_cave_slime_strip_a.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_slime_strip_a, "object/building/kashyyyk/myyydril_cave_slime_strip_a.iff")

@@ -4,4 +4,4 @@ object_tangible_deed_vehicle_deed_landspeeder_xp38_deed = object_tangible_deed_v
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_landspeeder_xp38_deed, "object/tangible/deed/vehicle_deed/shared_landspeeder_xp38_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_landspeeder_xp38_deed, "object/tangible/deed/vehicle_deed/landspeeder_xp38_deed.iff")

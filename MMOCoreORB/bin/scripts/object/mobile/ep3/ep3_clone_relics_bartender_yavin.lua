@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_bartender_yavin = object_mobile_ep3_shared_ep
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_bartender_yavin, "object/mobile/ep3/shared_ep3_clone_relics_bartender_yavin.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_bartender_yavin, "object/mobile/ep3/ep3_clone_relics_bartender_yavin.iff")

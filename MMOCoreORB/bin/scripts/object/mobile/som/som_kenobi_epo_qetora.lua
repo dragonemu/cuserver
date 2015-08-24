@@ -4,4 +4,4 @@ object_mobile_som_som_kenobi_epo_qetora = object_mobile_som_shared_som_kenobi_ep
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_epo_qetora, "object/mobile/som/shared_som_kenobi_epo_qetora.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_epo_qetora, "object/mobile/som/som_kenobi_epo_qetora.iff")

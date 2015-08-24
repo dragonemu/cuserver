@@ -4,4 +4,4 @@ object_tangible_ship_attachment_weapon_kessel_mine_turret_base = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_kessel_mine_turret_base, "object/tangible/ship/attachment/weapon/shared_kessel_mine_turret_base.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_kessel_mine_turret_base, "object/tangible/ship/attachment/weapon/kessel_mine_turret_base.iff")

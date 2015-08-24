@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_sturdy = object_draft_schematic_weapon_share
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_sturdy, "object/draft_schematic/weapon/shared_lance_sturdy.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_sturdy, "object/draft_schematic/weapon/lance_sturdy.iff")

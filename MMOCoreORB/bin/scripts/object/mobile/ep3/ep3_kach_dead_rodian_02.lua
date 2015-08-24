@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_kach_dead_rodian_02 = object_mobile_ep3_shared_ep3_kach_de
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kach_dead_rodian_02, "object/mobile/ep3/shared_ep3_kach_dead_rodian_02.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kach_dead_rodian_02, "object/mobile/ep3/ep3_kach_dead_rodian_02.iff")

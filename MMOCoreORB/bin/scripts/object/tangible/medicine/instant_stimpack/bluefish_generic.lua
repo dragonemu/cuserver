@@ -4,4 +4,4 @@ object_tangible_medicine_instant_stimpack_bluefish_generic = object_tangible_med
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_bluefish_generic, "object/tangible/medicine/instant_stimpack/shared_bluefish_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_bluefish_generic, "object/tangible/medicine/instant_stimpack/bluefish_generic.iff")

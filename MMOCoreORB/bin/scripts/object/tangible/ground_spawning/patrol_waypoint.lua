@@ -4,4 +4,4 @@ object_tangible_ground_spawning_patrol_waypoint = object_tangible_ground_spawnin
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ground_spawning_patrol_waypoint, "object/tangible/ground_spawning/shared_patrol_waypoint.iff")
+ObjectTemplates:addTemplate(object_tangible_ground_spawning_patrol_waypoint, "object/tangible/ground_spawning/patrol_waypoint.iff")

@@ -4,4 +4,4 @@ object_tangible_shipcontrol_shipoperations_y8 = object_tangible_shipcontrol_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_shipcontrol_shipoperations_y8, "object/tangible/shipcontrol/shared_shipoperations_y8.iff")
+ObjectTemplates:addTemplate(object_tangible_shipcontrol_shipoperations_y8, "object/tangible/shipcontrol/shipoperations_y8.iff")

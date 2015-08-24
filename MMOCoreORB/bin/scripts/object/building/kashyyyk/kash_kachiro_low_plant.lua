@@ -4,4 +4,4 @@ object_building_kashyyyk_kash_kachiro_low_plant = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_kash_kachiro_low_plant, "object/building/kashyyyk/shared_kash_kachiro_low_plant.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_kash_kachiro_low_plant, "object/building/kashyyyk/kash_kachiro_low_plant.iff")

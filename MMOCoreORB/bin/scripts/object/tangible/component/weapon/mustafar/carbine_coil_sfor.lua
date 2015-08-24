@@ -4,4 +4,4 @@ object_tangible_component_weapon_mustafar_carbine_coil_sfor = object_tangible_co
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_carbine_coil_sfor, "object/tangible/component/weapon/mustafar/shared_carbine_coil_sfor.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_carbine_coil_sfor, "object/tangible/component/weapon/mustafar/carbine_coil_sfor.iff")

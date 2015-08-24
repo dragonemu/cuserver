@@ -4,4 +4,4 @@ object_tangible_ship_attachment_modification_xwing_modification_s01 = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_xwing_modification_s01, "object/tangible/ship/attachment/modification/shared_xwing_modification_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_xwing_modification_s01, "object/tangible/ship/attachment/modification/xwing_modification_s01.iff")

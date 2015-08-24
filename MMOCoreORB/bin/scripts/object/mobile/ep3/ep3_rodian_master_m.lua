@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_rodian_master_m = object_mobile_ep3_shared_ep3_rodian_mast
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rodian_master_m, "object/mobile/ep3/shared_ep3_rodian_master_m.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_rodian_master_m, "object/mobile/ep3/ep3_rodian_master_m.iff")

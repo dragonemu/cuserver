@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_antakarian_fire_dancer = object_tangible_food
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_antakarian_fire_dancer, "object/tangible/food/generic/shared_drink_antakarian_fire_dancer.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_antakarian_fire_dancer, "object/tangible/food/generic/drink_antakarian_fire_dancer.iff")

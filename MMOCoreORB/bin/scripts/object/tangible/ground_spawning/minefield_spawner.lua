@@ -4,4 +4,4 @@ object_tangible_ground_spawning_minefield_spawner = object_tangible_ground_spawn
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ground_spawning_minefield_spawner, "object/tangible/ground_spawning/shared_minefield_spawner.iff")
+ObjectTemplates:addTemplate(object_tangible_ground_spawning_minefield_spawner, "object/tangible/ground_spawning/minefield_spawner.iff")

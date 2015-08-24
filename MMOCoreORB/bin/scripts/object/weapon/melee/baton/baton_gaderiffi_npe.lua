@@ -4,4 +4,4 @@ object_weapon_melee_baton_baton_gaderiffi_npe = object_weapon_melee_baton_shared
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_baton_baton_gaderiffi_npe, "object/weapon/melee/baton/shared_baton_gaderiffi_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_baton_baton_gaderiffi_npe, "object/weapon/melee/baton/baton_gaderiffi_npe.iff")

@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_core_recon = object_tangible_component_arm
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_recon, "object/tangible/component/armor/shared_armor_core_recon.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_recon, "object/tangible/component/armor/armor_core_recon.iff")

@@ -4,4 +4,4 @@ object_weapon_melee_polearm_som_lance_obsidian_generic = object_weapon_melee_pol
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_som_lance_obsidian_generic, "object/weapon/melee/polearm/shared_som_lance_obsidian_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_som_lance_obsidian_generic, "object/weapon/melee/polearm/som_lance_obsidian_generic.iff")

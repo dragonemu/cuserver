@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_outcast_tool_04 = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_outcast_tool_04, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_outcast_tool_04.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_outcast_tool_04, "object/tangible/loot/creature_loot/kashyyyk_loot/outcast_tool_04.iff")

@@ -4,4 +4,4 @@ object_intangible_house_generic_house_control_device = object_intangible_house_s
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_house_generic_house_control_device, "object/intangible/house/shared_generic_house_control_device.iff")
+ObjectTemplates:addTemplate(object_intangible_house_generic_house_control_device, "object/intangible/house/generic_house_control_device.iff")

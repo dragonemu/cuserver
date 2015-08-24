@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_avatar_glow_stick = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_glow_stick, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_avatar_glow_stick.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_avatar_glow_stick, "object/tangible/loot/creature_loot/kashyyyk_loot/avatar_glow_stick.iff")

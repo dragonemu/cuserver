@@ -4,4 +4,4 @@ object_draft_schematic_weapon_massassiknuckler = object_draft_schematic_weapon_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_massassiknuckler, "object/draft_schematic/weapon/shared_massassiknuckler.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_massassiknuckler, "object/draft_schematic/weapon/massassiknuckler.iff")

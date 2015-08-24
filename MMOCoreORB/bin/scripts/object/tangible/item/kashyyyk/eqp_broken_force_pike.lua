@@ -4,4 +4,4 @@ object_tangible_item_kashyyyk_eqp_broken_force_pike = object_tangible_item_kashy
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_broken_force_pike, "object/tangible/item/kashyyyk/shared_eqp_broken_force_pike.iff")
+ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_broken_force_pike, "object/tangible/item/kashyyyk/eqp_broken_force_pike.iff")
