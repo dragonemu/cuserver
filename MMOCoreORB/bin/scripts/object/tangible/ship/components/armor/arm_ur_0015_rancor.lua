@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_armor_arm_ur_0015_rancor = object_tangible_ship_components_armor_arm_ur_0015_rancor:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_armor_arm_ur_0015_rancor, "object/tangible/ship/components/armor/arm_ur_0015_rancor.iff")

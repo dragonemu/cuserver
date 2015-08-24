@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller = object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller, "object/tangible/dungeon/mustafar/decrepit_droid_factory/environmental_controller.iff")

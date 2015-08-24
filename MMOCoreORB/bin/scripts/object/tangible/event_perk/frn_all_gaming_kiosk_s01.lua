@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_event_perk_frn_all_gaming_kiosk_s01 = object_tangible_event_perk_frn_all_gaming_kiosk_s01:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_event_perk_frn_all_gaming_kiosk_s01, "object/tangible/event_perk/frn_all_gaming_kiosk_s01.iff")

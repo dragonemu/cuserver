@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_eqp_static_wookiee_totem_runners = object_building_kashyyyk_eqp_static_wookiee_totem_runners:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_runners, "object/building/kashyyyk/eqp_static_wookiee_totem_runners.iff")

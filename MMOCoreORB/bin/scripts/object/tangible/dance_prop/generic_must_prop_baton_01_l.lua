@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dance_prop_generic_must_prop_baton_01_l = object_tangible_dance_prop_generic_must_prop_baton_01_l:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dance_prop_generic_must_prop_baton_01_l, "object/tangible/dance_prop/generic_must_prop_baton_01_l.iff")

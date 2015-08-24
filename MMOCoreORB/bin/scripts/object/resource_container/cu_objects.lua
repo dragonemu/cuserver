@@ -1,0 +1,266 @@
+object_resource_container_resource_container_energy_gas_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_gas_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_gas_lg, "object/resource_container/resource_container_energy_gas_lg.iff"
+
+
+object_resource_container_resource_container_energy_gas = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_gas.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_gas, "object/resource_container/resource_container_energy_gas.iff"
+
+
+object_resource_container_resource_container_energy_liquid_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_liquid_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_liquid_lg, "object/resource_container/resource_container_energy_liquid_lg.iff"
+
+
+object_resource_container_resource_container_energy_liquid = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_liquid.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_liquid, "object/resource_container/resource_container_energy_liquid.iff"
+
+
+object_resource_container_resource_container_energy_radioactive_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_radioactive_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_radioactive_lg, "object/resource_container/resource_container_energy_radioactive_lg.iff"
+
+
+object_resource_container_resource_container_energy_radioactive = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_radioactive.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_radioactive, "object/resource_container/resource_container_energy_radioactive.iff"
+
+
+object_resource_container_resource_container_energy_solid_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_solid_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_solid_lg, "object/resource_container/resource_container_energy_solid_lg.iff"
+
+
+object_resource_container_resource_container_energy_solid = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_energy_solid.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_energy_solid, "object/resource_container/resource_container_energy_solid.iff"
+
+
+object_resource_container_resource_container_inorganic_bottle_water = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_bottle_water.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_bottle_water, "object/resource_container/resource_container_inorganic_bottle_water.iff"
+
+
+object_resource_container_resource_container_inorganic_chemicals_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_chemicals_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_chemicals_lg, "object/resource_container/resource_container_inorganic_chemicals_lg.iff"
+
+
+object_resource_container_resource_container_inorganic_chemicals = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_chemicals.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_chemicals, "object/resource_container/resource_container_inorganic_chemicals.iff"
+
+
+object_resource_container_resource_container_inorganic_gas_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_gas_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_gas_lg, "object/resource_container/resource_container_inorganic_gas_lg.iff"
+
+
+object_resource_container_resource_container_inorganic_gas = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_gas.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_gas, "object/resource_container/resource_container_inorganic_gas.iff"
+
+
+object_resource_container_resource_container_inorganic_minerals_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_minerals_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_minerals_lg, "object/resource_container/resource_container_inorganic_minerals_lg.iff"
+
+
+object_resource_container_resource_container_inorganic_minerals = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_minerals.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_minerals, "object/resource_container/resource_container_inorganic_minerals.iff"
+
+
+object_resource_container_resource_container_inorganic_petrochem_liquid = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_petrochem_liquid.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_petrochem_liquid, "object/resource_container/resource_container_inorganic_petrochem_liquid.iff"
+
+
+object_resource_container_resource_container_inorganic_water_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_water_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_water_lg, "object/resource_container/resource_container_inorganic_water_lg.iff"
+
+
+object_resource_container_resource_container_inorganic_water = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_inorganic_water.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_inorganic_water, "object/resource_container/resource_container_inorganic_water.iff"
+
+
+object_resource_container_resource_container_organic_bean = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_bean.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_bean, "object/resource_container/resource_container_organic_bean.iff"
+
+
+object_resource_container_resource_container_organic_bottle_milk = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_bottle_milk.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_bottle_milk, "object/resource_container/resource_container_organic_bottle_milk.iff"
+
+
+object_resource_container_resource_container_organic_bristley_hide = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_bristley_hide.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_bristley_hide, "object/resource_container/resource_container_organic_bristley_hide.iff"
+
+
+object_resource_container_resource_container_organic_corn = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_corn.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_corn, "object/resource_container/resource_container_organic_corn.iff"
+
+
+object_resource_container_resource_container_organic_food_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_food_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_food_lg, "object/resource_container/resource_container_organic_food_lg.iff"
+
+
+object_resource_container_resource_container_organic_food = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_food.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_food, "object/resource_container/resource_container_organic_food.iff"
+
+
+object_resource_container_resource_container_organic_fruit = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_fruit.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_fruit, "object/resource_container/resource_container_organic_fruit.iff"
+
+
+object_resource_container_resource_container_organic_fungi = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_fungi.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_fungi, "object/resource_container/resource_container_organic_fungi.iff"
+
+
+object_resource_container_resource_container_organic_green_vegetables = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_green_vegetables.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_green_vegetables, "object/resource_container/resource_container_organic_green_vegetables.iff"
+
+
+object_resource_container_resource_container_organic_hide_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_hide_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_hide_lg, "object/resource_container/resource_container_organic_hide_lg.iff"
+
+
+object_resource_container_resource_container_organic_hide = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_hide.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_hide, "object/resource_container/resource_container_organic_hide.iff"
+
+
+object_resource_container_resource_container_organic_leathery_hide = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_leathery_hide.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_leathery_hide, "object/resource_container/resource_container_organic_leathery_hide.iff"
+
+
+object_resource_container_resource_container_organic_oats = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_oats.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_oats, "object/resource_container/resource_container_organic_oats.iff"
+
+
+object_resource_container_resource_container_organic_rice = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_rice.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_rice, "object/resource_container/resource_container_organic_rice.iff"
+
+
+object_resource_container_resource_container_organic_scaley_hide = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_scaley_hide.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_scaley_hide, "object/resource_container/resource_container_organic_scaley_hide.iff"
+
+
+object_resource_container_resource_container_organic_structure_lg = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_structure_lg.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_structure_lg, "object/resource_container/resource_container_organic_structure_lg.iff"
+
+
+object_resource_container_resource_container_organic_structure = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_structure.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_structure, "object/resource_container/resource_container_organic_structure.iff"
+
+
+object_resource_container_resource_container_organic_tuber = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_tuber.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_tuber, "object/resource_container/resource_container_organic_tuber.iff"
+
+
+object_resource_container_resource_container_organic_wheat = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_wheat.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_wheat, "object/resource_container/resource_container_organic_wheat.iff"
+
+
+object_resource_container_resource_container_organic_wooly_hide = SharedResourceContainerObjectTemplate:new {
+	clientTemplateFileName = "object/resource_container/resource_container_organic_wooly_hide.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_resource_container_resource_container_organic_wooly_hide, "object/resource_container/resource_container_organic_wooly_hide.iff"
+
+

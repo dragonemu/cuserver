@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_ep3_ep3_clone_relics_warren_scientist = object_mobile_ep3_ep3_clone_relics_warren_scientist:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_warren_scientist, "object/mobile/ep3/ep3_clone_relics_warren_scientist.iff")

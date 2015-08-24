@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_ranged_carbine_event_carbine_hairtrigger = object_weapon_ranged_carbine_event_carbine_hairtrigger:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_event_carbine_hairtrigger, "object/weapon/ranged/carbine/event_carbine_hairtrigger.iff")

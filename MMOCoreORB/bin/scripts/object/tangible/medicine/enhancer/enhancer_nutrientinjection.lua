@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_medicine_enhancer_enhancer_nutrientinjection = object_tangible_medicine_enhancer_enhancer_nutrientinjection:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_nutrientinjection, "object/tangible/medicine/enhancer/enhancer_nutrientinjection.iff")

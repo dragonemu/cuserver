@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_medicine_instant_stimpack_stimpack_generic_a = object_tangible_medicine_instant_stimpack_stimpack_generic_a:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_stimpack_generic_a, "object/tangible/medicine/instant_stimpack/stimpack_generic_a.iff")

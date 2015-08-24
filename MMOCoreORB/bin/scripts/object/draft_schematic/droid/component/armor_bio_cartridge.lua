@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_droid_component_armor_bio_cartridge = object_draft_schematic_droid_component_armor_bio_cartridge:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_droid_component_armor_bio_cartridge, "object/draft_schematic/droid/component/armor_bio_cartridge.iff")

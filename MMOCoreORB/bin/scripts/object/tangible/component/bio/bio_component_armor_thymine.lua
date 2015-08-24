@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_component_bio_bio_component_armor_thymine = object_tangible_component_bio_bio_component_armor_thymine:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_component_bio_bio_component_armor_thymine, "object/tangible/component/bio/bio_component_armor_thymine.iff")

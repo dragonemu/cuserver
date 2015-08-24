@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_poi_transport_trandoshan_slaver = object_building_kashyyyk_poi_transport_trandoshan_slaver:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_transport_trandoshan_slaver, "object/building/kashyyyk/poi_transport_trandoshan_slaver.iff")

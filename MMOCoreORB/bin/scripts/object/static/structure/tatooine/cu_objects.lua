@@ -1,0 +1,7 @@
+object_static_structure_tatooine_poi_podracer_sebulba_destroyed = SharedStaticObjectTemplate:new {
+	clientTemplateFileName = "object/static/structure/tatooine/poi_podracer_sebulba_destroyed.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_static_structure_tatooine_poi_podracer_sebulba_destroyed, "object/static/structure/tatooine/poi_podracer_sebulba_destroyed.iff"
+
+

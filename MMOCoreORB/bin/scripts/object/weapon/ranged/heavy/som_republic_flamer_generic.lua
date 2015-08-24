@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_ranged_heavy_som_republic_flamer_generic = object_weapon_ranged_heavy_som_republic_flamer_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_som_republic_flamer_generic, "object/weapon/ranged/heavy/som_republic_flamer_generic.iff")

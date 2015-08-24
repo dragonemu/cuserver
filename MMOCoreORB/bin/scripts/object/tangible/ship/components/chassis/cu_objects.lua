@@ -1,0 +1,21 @@
+object_tangible_ship_components_chassis_hutt_light_heavy_chassis_token = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/components/chassis/hutt_light_heavy_chassis_token.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_components_chassis_hutt_light_heavy_chassis_token, "object/tangible/ship/components/chassis/hutt_light_heavy_chassis_token.iff"
+
+
+object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/components/chassis/tiefighter_heavy_chassis_token.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token, "object/tangible/ship/components/chassis/tiefighter_heavy_chassis_token.iff"
+
+
+object_tangible_ship_components_chassis_z95_heavy_chassis_token = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/components/chassis/z95_heavy_chassis_token.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_components_chassis_z95_heavy_chassis_token, "object/tangible/ship/components/chassis/z95_heavy_chassis_token.iff"
+
+

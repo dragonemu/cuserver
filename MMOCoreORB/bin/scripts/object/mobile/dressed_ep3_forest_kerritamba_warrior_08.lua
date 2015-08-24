@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_dressed_ep3_forest_kerritamba_warrior_08 = object_mobile_dressed_ep3_forest_kerritamba_warrior_08:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_kerritamba_warrior_08, "object/mobile/dressed_ep3_forest_kerritamba_warrior_08.iff")

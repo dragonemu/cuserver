@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_crafted_cargo_hold_crg_crafted_pob_medium = object_tangible_ship_crafted_cargo_hold_crg_crafted_pob_medium:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_cargo_hold_crg_crafted_pob_medium, "object/tangible/ship/crafted/cargo_hold/crg_crafted_pob_medium.iff")

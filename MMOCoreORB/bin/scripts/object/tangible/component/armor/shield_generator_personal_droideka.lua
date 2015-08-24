@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_component_armor_shield_generator_personal_droideka = object_tangible_component_armor_shield_generator_personal_droideka:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_component_armor_shield_generator_personal_droideka, "object/tangible/component/armor/shield_generator_personal_droideka.iff")

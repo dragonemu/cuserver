@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg = object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg, "object/tangible/furniture/all/frn_all_trophy_spiketail_blurrg.iff")

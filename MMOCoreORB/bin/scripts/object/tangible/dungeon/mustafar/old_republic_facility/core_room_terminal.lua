@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal = object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal, "object/tangible/dungeon/mustafar/old_republic_facility/core_room_terminal.iff")

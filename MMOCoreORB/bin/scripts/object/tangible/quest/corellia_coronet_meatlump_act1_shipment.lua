@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_quest_corellia_coronet_meatlump_act1_shipment = object_tangible_quest_corellia_coronet_meatlump_act1_shipment:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_meatlump_act1_shipment, "object/tangible/quest/corellia_coronet_meatlump_act1_shipment.iff")

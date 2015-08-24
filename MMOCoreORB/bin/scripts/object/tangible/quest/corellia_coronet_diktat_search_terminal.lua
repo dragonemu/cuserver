@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_quest_corellia_coronet_diktat_search_terminal = object_tangible_quest_corellia_coronet_diktat_search_terminal:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_diktat_search_terminal, "object/tangible/quest/corellia_coronet_diktat_search_terminal.iff")

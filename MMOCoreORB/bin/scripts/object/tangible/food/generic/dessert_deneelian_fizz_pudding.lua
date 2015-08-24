@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_food_generic_dessert_deneelian_fizz_pudding = object_tangible_food_generic_dessert_deneelian_fizz_pudding:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_deneelian_fizz_pudding, "object/tangible/food/generic/dessert_deneelian_fizz_pudding.iff")

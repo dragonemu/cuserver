@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_dressed_myyydril_patrol_leader = object_mobile_dressed_myyydril_patrol_leader:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_patrol_leader, "object/mobile/dressed_myyydril_patrol_leader.iff")

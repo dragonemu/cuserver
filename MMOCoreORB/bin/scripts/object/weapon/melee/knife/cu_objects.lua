@@ -1,0 +1,21 @@
+object_weapon_melee_knife_ep3_loot_blackbane = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/knife/ep3_loot_blackbane.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_knife_ep3_loot_blackbane, "object/weapon/melee/knife/ep3_loot_blackbane.iff"
+
+
+object_weapon_melee_knife_knife_dagger_static = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/knife/knife_dagger_static.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_knife_knife_dagger_static, "object/weapon/melee/knife/knife_dagger_static.iff"
+
+
+object_weapon_melee_knife_knife_survival_npe = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/knife/knife_survival_npe.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_knife_knife_survival_npe, "object/weapon/melee/knife/knife_survival_npe.iff"
+
+

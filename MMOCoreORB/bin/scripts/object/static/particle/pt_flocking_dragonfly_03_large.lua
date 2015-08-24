@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_particle_pt_flocking_dragonfly_03_large = object_static_particle_pt_flocking_dragonfly_03_large:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_particle_pt_flocking_dragonfly_03_large, "object/static/particle/pt_flocking_dragonfly_03_large.iff")

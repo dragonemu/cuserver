@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_intangible_pet_blistmok = object_intangible_pet_blistmok:new {
+
+}
+
+ObjectTemplates:addTemplate(object_intangible_pet_blistmok, "object/intangible/pet/blistmok.iff")

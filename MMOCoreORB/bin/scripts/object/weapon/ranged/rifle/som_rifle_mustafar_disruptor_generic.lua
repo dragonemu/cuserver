@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_ranged_rifle_som_rifle_mustafar_disruptor_generic = object_weapon_ranged_rifle_som_rifle_mustafar_disruptor_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_som_rifle_mustafar_disruptor_generic, "object/weapon/ranged/rifle/som_rifle_mustafar_disruptor_generic.iff")

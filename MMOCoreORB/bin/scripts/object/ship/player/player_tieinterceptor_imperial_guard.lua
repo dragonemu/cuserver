@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_ship_player_player_tieinterceptor_imperial_guard = object_ship_player_player_tieinterceptor_imperial_guard:new {
+
+}
+
+ObjectTemplates:addTemplate(object_ship_player_player_tieinterceptor_imperial_guard, "object/ship/player/player_tieinterceptor_imperial_guard.iff")

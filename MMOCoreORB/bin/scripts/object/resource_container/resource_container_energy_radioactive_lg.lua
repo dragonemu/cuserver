@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_resource_container_resource_container_energy_radioactive_lg = object_resource_container_resource_container_energy_radioactive_lg:new {
+
+}
+
+ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_radioactive_lg, "object/resource_container/resource_container_energy_radioactive_lg.iff")

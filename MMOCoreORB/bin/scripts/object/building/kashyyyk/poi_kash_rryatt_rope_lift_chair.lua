@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair = object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair, "object/building/kashyyyk/poi_kash_rryatt_rope_lift_chair.iff")

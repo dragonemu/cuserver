@@ -1,0 +1,35 @@
+object_tangible_ship_attachment_modification_blacksun_heavy_modification_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/attachment/modification/blacksun_heavy_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_attachment_modification_blacksun_heavy_modification_s01, "object/tangible/ship/attachment/modification/blacksun_heavy_modification_s01.iff"
+
+
+object_tangible_ship_attachment_modification_hutt_heavy_modification_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/attachment/modification/hutt_heavy_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_attachment_modification_hutt_heavy_modification_s01, "object/tangible/ship/attachment/modification/hutt_heavy_modification_s01.iff"
+
+
+object_tangible_ship_attachment_modification_tie_advanced_modification_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/attachment/modification/tie_advanced_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_attachment_modification_tie_advanced_modification_s01, "object/tangible/ship/attachment/modification/tie_advanced_modification_s01.iff"
+
+
+object_tangible_ship_attachment_modification_xwing_modification_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/attachment/modification/xwing_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_attachment_modification_xwing_modification_s01, "object/tangible/ship/attachment/modification/xwing_modification_s01.iff"
+
+
+object_tangible_ship_attachment_modification_z95_modification_s01 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/ship/attachment/modification/z95_modification_s01.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_ship_attachment_modification_z95_modification_s01, "object/tangible/ship/attachment/modification/z95_modification_s01.iff"
+
+

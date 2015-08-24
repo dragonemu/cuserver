@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_armor_base_clone_trooper = object_tangible_wearables_armor_armor_base_clone_trooper:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_base_clone_trooper, "object/tangible/wearables/armor/armor_base_clone_trooper.iff")

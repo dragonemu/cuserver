@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_chemistry_instant_stimpack_stimpack_a = object_draft_schematic_chemistry_instant_stimpack_stimpack_a:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_instant_stimpack_stimpack_a, "object/draft_schematic/chemistry/instant_stimpack/stimpack_a.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_quest_force_sensitive__waypoint_datapad = object_tangible_loot_quest_force_sensitive__waypoint_datapad:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_quest_force_sensitive__waypoint_datapad, "object/tangible/loot/quest/force_sensitive/_waypoint_datapad.iff")

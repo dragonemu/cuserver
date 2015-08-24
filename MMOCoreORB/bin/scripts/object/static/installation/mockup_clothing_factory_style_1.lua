@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_installation_mockup_clothing_factory_style_1 = object_static_installation_mockup_clothing_factory_style_1:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_installation_mockup_clothing_factory_style_1, "object/static/installation/mockup_clothing_factory_style_1.iff")

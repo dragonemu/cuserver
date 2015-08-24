@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves = object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves, "object/tangible/wearables/armor/marauder/armor_marauder_s02_gloves.iff")

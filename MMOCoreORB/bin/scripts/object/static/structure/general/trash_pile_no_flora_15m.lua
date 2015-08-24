@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_structure_general_trash_pile_no_flora_15m = object_static_structure_general_trash_pile_no_flora_15m:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_structure_general_trash_pile_no_flora_15m, "object/static/structure/general/trash_pile_no_flora_15m.iff")

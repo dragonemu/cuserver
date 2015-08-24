@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_arcona = object_mobile_arcona:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_arcona, "object/mobile/arcona.iff")

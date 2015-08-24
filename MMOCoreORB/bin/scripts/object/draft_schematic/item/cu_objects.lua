@@ -1,0 +1,49 @@
+object_draft_schematic_item_item_barc_repair_tool = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_barc_repair_tool.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_barc_repair_tool, "object/draft_schematic/item/item_barc_repair_tool.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_balancing_weights = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_balancing_weights.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_balancing_weights, "object/draft_schematic/item/item_powerup_weapon_melee_balancing_weights.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_element_dispursal_tuner = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_element_dispursal_tuner.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_element_dispursal_tuner, "object/draft_schematic/item/item_powerup_weapon_melee_element_dispursal_tuner.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_hilt_reinforcement.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement, "object/draft_schematic/item/item_powerup_weapon_melee_hilt_reinforcement.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_inertial_fluctuator = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_inertial_fluctuator.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_inertial_fluctuator, "object/draft_schematic/item/item_powerup_weapon_melee_inertial_fluctuator.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_surface_serration = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_surface_serration.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_surface_serration, "object/draft_schematic/item/item_powerup_weapon_melee_surface_serration.iff"
+
+
+object_draft_schematic_item_item_powerup_weapon_melee_tactical_grip_modifier = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/item/item_powerup_weapon_melee_tactical_grip_modifier.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_item_item_powerup_weapon_melee_tactical_grip_modifier, "object/draft_schematic/item/item_powerup_weapon_melee_tactical_grip_modifier.iff"
+
+

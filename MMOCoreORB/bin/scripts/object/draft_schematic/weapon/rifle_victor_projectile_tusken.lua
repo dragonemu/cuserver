@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_rifle_victor_projectile_tusken = object_draft_schematic_weapon_rifle_victor_projectile_tusken:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_victor_projectile_tusken, "object/draft_schematic/weapon/rifle_victor_projectile_tusken.iff")

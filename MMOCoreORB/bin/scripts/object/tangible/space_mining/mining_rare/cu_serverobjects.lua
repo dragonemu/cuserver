@@ -1,0 +1,5 @@
+includeFile("object/tangible/space_mining/mining_rare/ancient_asteroid_chunk.lua")
+includeFile("object/tangible/space_mining/mining_rare/colorful_asteroid_chunk.lua")
+includeFile("object/tangible/space_mining/mining_rare/glowing_asteroid_chunk.lua")
+includeFile("object/tangible/space_mining/mining_rare/misshapen_asteroid_chunk.lua")
+includeFile("object/tangible/space_mining/mining_rare/strange_asteroid_chunk.lua")

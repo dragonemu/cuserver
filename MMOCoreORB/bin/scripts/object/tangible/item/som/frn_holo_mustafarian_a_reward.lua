@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_item_som_frn_holo_mustafarian_a_reward = object_tangible_item_som_frn_holo_mustafarian_a_reward:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_item_som_frn_holo_mustafarian_a_reward, "object/tangible/item/som/frn_holo_mustafarian_a_reward.iff")

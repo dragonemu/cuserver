@@ -1,0 +1,5 @@
+includeFile("object/weapon/ranged/pistol/ep3/pistol_ion_stunner.lua")
+includeFile("object/weapon/ranged/pistol/ep3/pistol_kyd21.lua")
+includeFile("object/weapon/ranged/pistol/ep3/pistol_trando_suppressor.lua")
+includeFile("object/weapon/ranged/pistol/ep3/pistol_wookiee_bowcaster.lua")
+includeFile("object/weapon/ranged/pistol/ep3/pistol_wookiee.lua")

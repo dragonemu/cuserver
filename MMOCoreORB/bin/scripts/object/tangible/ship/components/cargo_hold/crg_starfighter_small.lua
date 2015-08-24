@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_cargo_hold_crg_starfighter_small = object_tangible_ship_components_cargo_hold_crg_starfighter_small:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_cargo_hold_crg_starfighter_small, "object/tangible/ship/components/cargo_hold/crg_starfighter_small.iff")

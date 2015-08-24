@@ -1,0 +1,21 @@
+object_tangible_component_weapon_blaster_power_handler_enhancement_bounty = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/weapon/blaster_power_handler_enhancement_bounty.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_weapon_blaster_power_handler_enhancement_bounty, "object/tangible/component/weapon/blaster_power_handler_enhancement_bounty.iff"
+
+
+object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/weapon/blaster_rifle_avatar_loot_barrel.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel, "object/tangible/component/weapon/blaster_rifle_avatar_loot_barrel.iff"
+
+
+object_tangible_component_weapon_projectile_feed_mechanism_enhancement_bounty = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/weapon/projectile_feed_mechanism_enhancement_bounty.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_weapon_projectile_feed_mechanism_enhancement_bounty, "object/tangible/component/weapon/projectile_feed_mechanism_enhancement_bounty.iff"
+
+

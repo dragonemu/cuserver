@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01 = object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01, "object/weapon/melee/sword/crafted_saber/sword_lightsaber_ranged_donotuse_s01.iff")

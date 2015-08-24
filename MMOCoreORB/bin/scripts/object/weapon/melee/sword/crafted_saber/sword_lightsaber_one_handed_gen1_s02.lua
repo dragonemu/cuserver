@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_weapon_melee_sword_crafted_saber_sword_lightsaber_one_handed_gen1_s02 = object_weapon_melee_sword_crafted_saber_sword_lightsaber_one_handed_gen1_s02:new {
+
+}
+
+ObjectTemplates:addTemplate(object_weapon_melee_sword_crafted_saber_sword_lightsaber_one_handed_gen1_s02, "object/weapon/melee/sword/crafted_saber/sword_lightsaber_one_handed_gen1_s02.iff")

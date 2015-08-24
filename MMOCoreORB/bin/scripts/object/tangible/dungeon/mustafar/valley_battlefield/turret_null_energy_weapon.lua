@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy_weapon = object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy_weapon:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/turret_null_energy_weapon.iff")

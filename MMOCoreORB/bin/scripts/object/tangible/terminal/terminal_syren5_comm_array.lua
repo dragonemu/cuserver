@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_terminal_terminal_syren5_comm_array = object_tangible_terminal_terminal_syren5_comm_array:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_syren5_comm_array, "object/tangible/terminal/terminal_syren5_comm_array.iff")

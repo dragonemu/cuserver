@@ -1,0 +1,8 @@
+includeFile("object/intangible/vehicle/barc_speeder_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_ab1_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_desert_skiff_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_lava_skiff_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_tantive4_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_usv5_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_v35_pcd.lua")
+includeFile("object/intangible/vehicle/landspeeder_xp38_pcd.lua")

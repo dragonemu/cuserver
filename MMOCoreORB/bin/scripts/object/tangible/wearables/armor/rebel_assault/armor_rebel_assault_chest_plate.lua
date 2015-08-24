@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_chest_plate = object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_chest_plate:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_chest_plate, "object/tangible/wearables/armor/rebel_assault/armor_rebel_assault_chest_plate.iff")

@@ -1,0 +1,8 @@
+includeFile("object/tangible/loot/loot_schematic/generic_limited_use_flashy.lua")
+includeFile("object/tangible/loot/loot_schematic/generic_limited_use.lua")
+includeFile("object/tangible/loot/loot_schematic/generic_vehicle.lua")
+includeFile("object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.lua")
+includeFile("object/tangible/loot/loot_schematic/speeder_usv5_schematic.lua")
+includeFile("object/tangible/loot/loot_schematic/trandoshan_hunter_rifle_schematic.lua")
+includeFile("object/tangible/loot/loot_schematic/weapon_must_1h_lightsaber_schematic.lua")
+includeFile("object/tangible/loot/loot_schematic/weapon_must_2h_lightsaber_schematic.lua")

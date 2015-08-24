@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_kashyyyk_myyydril_cave_luilrus_mushroom_cluster = object_building_kashyyyk_myyydril_cave_luilrus_mushroom_cluster:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_luilrus_mushroom_cluster, "object/building/kashyyyk/myyydril_cave_luilrus_mushroom_cluster.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_veteran_reward_frn_vet_holo_deathstar = object_tangible_veteran_reward_frn_vet_holo_deathstar:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_holo_deathstar, "object/tangible/veteran_reward/frn_vet_holo_deathstar.iff")

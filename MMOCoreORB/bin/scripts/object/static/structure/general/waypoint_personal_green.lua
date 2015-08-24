@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_structure_general_waypoint_personal_green = object_static_structure_general_waypoint_personal_green:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_structure_general_waypoint_personal_green, "object/static/structure/general/waypoint_personal_green.iff")

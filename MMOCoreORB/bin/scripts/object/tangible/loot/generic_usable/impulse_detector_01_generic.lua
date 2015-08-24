@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_generic_usable_impulse_detector_01_generic = object_tangible_loot_generic_usable_impulse_detector_01_generic:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_impulse_detector_01_generic, "object/tangible/loot/generic_usable/impulse_detector_01_generic.iff")

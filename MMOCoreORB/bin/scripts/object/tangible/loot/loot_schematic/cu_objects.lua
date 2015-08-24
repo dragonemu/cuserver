@@ -1,0 +1,56 @@
+object_tangible_loot_loot_schematic_generic_limited_use_flashy = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/generic_limited_use_flashy.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_generic_limited_use_flashy, "object/tangible/loot/loot_schematic/generic_limited_use_flashy.iff"
+
+
+object_tangible_loot_loot_schematic_generic_limited_use = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/generic_limited_use.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_generic_limited_use, "object/tangible/loot/loot_schematic/generic_limited_use.iff"
+
+
+object_tangible_loot_loot_schematic_generic_vehicle = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/generic_vehicle.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_generic_vehicle, "object/tangible/loot/loot_schematic/generic_vehicle.iff"
+
+
+object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic, "object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.iff"
+
+
+object_tangible_loot_loot_schematic_speeder_usv5_schematic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/speeder_usv5_schematic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_speeder_usv5_schematic, "object/tangible/loot/loot_schematic/speeder_usv5_schematic.iff"
+
+
+object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/trandoshan_hunter_rifle_schematic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic, "object/tangible/loot/loot_schematic/trandoshan_hunter_rifle_schematic.iff"
+
+
+object_tangible_loot_loot_schematic_weapon_must_1h_lightsaber_schematic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/weapon_must_1h_lightsaber_schematic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_weapon_must_1h_lightsaber_schematic, "object/tangible/loot/loot_schematic/weapon_must_1h_lightsaber_schematic.iff"
+
+
+object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/weapon_must_2h_lightsaber_schematic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic, "object/tangible/loot/loot_schematic/weapon_must_2h_lightsaber_schematic.iff"
+
+

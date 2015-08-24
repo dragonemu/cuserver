@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_static_worldbuilding_furniture_starship_pilot_chair = object_static_worldbuilding_furniture_starship_pilot_chair:new {
+
+}
+
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_starship_pilot_chair, "object/static/worldbuilding/furniture/starship_pilot_chair.iff")

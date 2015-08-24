@@ -1,0 +1,56 @@
+object_draft_schematic_chemistry_medpack_enhance_action_triad_a = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_action_triad_a.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_action_triad_a, "object/draft_schematic/chemistry/medpack_enhance_action_triad_a.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_action_triad_b = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_action_triad_b.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_action_triad_b, "object/draft_schematic/chemistry/medpack_enhance_action_triad_b.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_action_triad_c = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_action_triad_c.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_action_triad_c, "object/draft_schematic/chemistry/medpack_enhance_action_triad_c.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_action_triad_d = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_action_triad_d.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_action_triad_d, "object/draft_schematic/chemistry/medpack_enhance_action_triad_d.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_health_triad_a = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_health_triad_a.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_a, "object/draft_schematic/chemistry/medpack_enhance_health_triad_a.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_health_triad_b = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_health_triad_b.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_b, "object/draft_schematic/chemistry/medpack_enhance_health_triad_b.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_health_triad_c = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_health_triad_c.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_c, "object/draft_schematic/chemistry/medpack_enhance_health_triad_c.iff"
+
+
+object_draft_schematic_chemistry_medpack_enhance_health_triad_d = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/chemistry/medpack_enhance_health_triad_d.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_d, "object/draft_schematic/chemistry/medpack_enhance_health_triad_d.iff"
+
+

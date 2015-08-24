@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_food_generic_dessert_bofa_treat = object_tangible_food_generic_dessert_bofa_treat:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_bofa_treat, "object/tangible/food/generic/dessert_bofa_treat.iff")

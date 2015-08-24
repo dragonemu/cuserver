@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_armor_kashyyykian_black_mtn_armor_kashyyykian_black_mtn_bicep_r = object_tangible_wearables_armor_kashyyykian_black_mtn_armor_kashyyykian_black_mtn_bicep_r:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_kashyyykian_black_mtn_armor_kashyyykian_black_mtn_bicep_r, "object/tangible/wearables/armor/kashyyykian_black_mtn/armor_kashyyykian_black_mtn_bicep_r.iff")

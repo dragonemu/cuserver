@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_all_frn_all_trophy_finned_blaggart = object_tangible_furniture_all_frn_all_trophy_finned_blaggart:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_finned_blaggart, "object/tangible/furniture/all/frn_all_trophy_finned_blaggart.iff")

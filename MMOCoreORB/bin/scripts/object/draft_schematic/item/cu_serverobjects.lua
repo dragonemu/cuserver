@@ -1,0 +1,7 @@
+includeFile("object/draft_schematic/item/item_barc_repair_tool.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_balancing_weights.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_element_dispursal_tuner.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_hilt_reinforcement.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_inertial_fluctuator.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_surface_serration.lua")
+includeFile("object/draft_schematic/item/item_powerup_weapon_melee_tactical_grip_modifier.lua")

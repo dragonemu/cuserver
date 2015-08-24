@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_valley_battlefield_turret_controller_object = object_tangible_dungeon_mustafar_valley_battlefield_turret_controller_object:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_controller_object, "object/tangible/dungeon/mustafar/valley_battlefield/turret_controller_object.iff")

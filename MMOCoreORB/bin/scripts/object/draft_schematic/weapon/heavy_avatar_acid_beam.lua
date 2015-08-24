@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_heavy_avatar_acid_beam = object_draft_schematic_weapon_heavy_avatar_acid_beam:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_avatar_acid_beam, "object/draft_schematic/weapon/heavy_avatar_acid_beam.iff")

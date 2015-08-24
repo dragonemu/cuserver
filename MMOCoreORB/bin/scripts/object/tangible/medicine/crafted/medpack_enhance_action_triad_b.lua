@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_medicine_crafted_medpack_enhance_action_triad_b = object_tangible_medicine_crafted_medpack_enhance_action_triad_b:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_medicine_crafted_medpack_enhance_action_triad_b, "object/tangible/medicine/crafted/medpack_enhance_action_triad_b.iff")

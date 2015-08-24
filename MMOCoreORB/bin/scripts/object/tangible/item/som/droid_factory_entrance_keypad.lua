@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_item_som_droid_factory_entrance_keypad = object_tangible_item_som_droid_factory_entrance_keypad:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_item_som_droid_factory_entrance_keypad, "object/tangible/item/som/droid_factory_entrance_keypad.iff")

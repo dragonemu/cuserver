@@ -1,0 +1,14 @@
+object_weapon_melee_knife_ep3_knife_naktra_crystal = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/knife/ep3/knife_naktra_crystal.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_knife_ep3_knife_naktra_crystal, "object/weapon/melee/knife/ep3/knife_naktra_crystal.iff"
+
+
+object_weapon_melee_knife_ep3_knife_trando_skinner = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/knife/ep3/knife_trando_skinner.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_knife_ep3_knife_trando_skinner, "object/weapon/melee/knife/ep3/knife_trando_skinner.iff"
+
+

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon = object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_vengeance_ion_cannon, "object/tangible/ship/components/weapon/wpn_vengeance_ion_cannon.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_mobile_ep3_ep3_blackscale_wookiee_berserker_06 = object_mobile_ep3_ep3_blackscale_wookiee_berserker_06:new {
+
+}
+
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_blackscale_wookiee_berserker_06, "object/mobile/ep3/ep3_blackscale_wookiee_berserker_06.iff")

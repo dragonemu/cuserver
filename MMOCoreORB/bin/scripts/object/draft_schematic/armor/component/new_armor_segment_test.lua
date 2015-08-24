@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_armor_component_new_armor_segment_test = object_draft_schematic_armor_component_new_armor_segment_test:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_new_armor_segment_test, "object/draft_schematic/armor/component/new_armor_segment_test.iff")

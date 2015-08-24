@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_quest_must_orc_computer = object_tangible_quest_must_orc_computer:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_quest_must_orc_computer, "object/tangible/quest/must_orc_computer.iff")

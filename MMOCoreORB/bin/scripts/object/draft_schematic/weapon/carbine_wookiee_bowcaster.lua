@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_carbine_wookiee_bowcaster = object_draft_schematic_weapon_carbine_wookiee_bowcaster:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_wookiee_bowcaster, "object/draft_schematic/weapon/carbine_wookiee_bowcaster.iff")

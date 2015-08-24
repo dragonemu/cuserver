@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_polearm_kashyyk_bladestick = object_draft_schematic_weapon_polearm_kashyyk_bladestick:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_polearm_kashyyk_bladestick, "object/draft_schematic/weapon/polearm_kashyyk_bladestick.iff")

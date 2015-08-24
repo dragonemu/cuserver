@@ -1,0 +1,14 @@
+object_draft_schematic_weapon_component_projectile_rifle_barrel_faux_bowcaster = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/component/projectile_rifle_barrel_faux_bowcaster.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_component_projectile_rifle_barrel_faux_bowcaster, "object/draft_schematic/weapon/component/projectile_rifle_barrel_faux_bowcaster.iff"
+
+
+object_draft_schematic_weapon_component_vibro_unit_nightsister = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/component/vibro_unit_nightsister.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_component_vibro_unit_nightsister, "object/draft_schematic/weapon/component/vibro_unit_nightsister.iff"
+
+

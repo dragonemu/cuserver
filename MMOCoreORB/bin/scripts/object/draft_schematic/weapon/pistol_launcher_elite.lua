@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_pistol_launcher_elite = object_draft_schematic_weapon_pistol_launcher_elite:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_launcher_elite, "object/draft_schematic/weapon/pistol_launcher_elite.iff")

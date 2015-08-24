@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_terminal_terminal_bank_floor_on_01 = object_tangible_furniture_terminal_terminal_bank_floor_on_01:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_terminal_terminal_bank_floor_on_01, "object/tangible/furniture/terminal/terminal_bank_floor_on_01.iff")

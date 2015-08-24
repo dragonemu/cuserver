@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_quest_heavy_particle_beam = object_draft_schematic_weapon_quest_heavy_particle_beam:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_heavy_particle_beam, "object/draft_schematic/weapon/quest_heavy_particle_beam.iff")

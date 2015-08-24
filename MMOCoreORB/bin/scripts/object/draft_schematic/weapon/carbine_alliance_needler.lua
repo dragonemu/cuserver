@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_draft_schematic_weapon_carbine_alliance_needler = object_draft_schematic_weapon_carbine_alliance_needler:new {
+
+}
+
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_alliance_needler, "object/draft_schematic/weapon/carbine_alliance_needler.iff")

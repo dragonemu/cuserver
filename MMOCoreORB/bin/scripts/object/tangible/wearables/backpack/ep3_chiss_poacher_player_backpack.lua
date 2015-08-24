@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack = object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack, "object/tangible/wearables/backpack/ep3_chiss_poacher_player_backpack.iff")

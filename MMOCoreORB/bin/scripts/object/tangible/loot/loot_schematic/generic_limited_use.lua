@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_loot_loot_schematic_generic_limited_use = object_tangible_loot_loot_schematic_generic_limited_use:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_generic_limited_use, "object/tangible/loot/loot_schematic/generic_limited_use.iff")

@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_dungeon_mustafar_valley_battlefield_turret_energy_burst = object_tangible_dungeon_mustafar_valley_battlefield_turret_energy_burst:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_energy_burst, "object/tangible/dungeon/mustafar/valley_battlefield/turret_energy_burst.iff")

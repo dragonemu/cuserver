@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_furniture_ep3_rewards_ep3_kash_reward_sordaan_hunting_trophy = object_tangible_furniture_ep3_rewards_ep3_kash_reward_sordaan_hunting_trophy:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_sordaan_hunting_trophy, "object/tangible/furniture/ep3_rewards/ep3_kash_reward_sordaan_hunting_trophy.iff")

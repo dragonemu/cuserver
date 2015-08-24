@@ -1,0 +1,1197 @@
+object_draft_schematic_armor_armor_appearance_bone_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_bicep_l, "object/draft_schematic/armor/armor_appearance_bone_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_bicep_r, "object/draft_schematic/armor/armor_appearance_bone_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_boots, "object/draft_schematic/armor/armor_appearance_bone_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_bracer_l, "object/draft_schematic/armor/armor_appearance_bone_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_bracer_r, "object/draft_schematic/armor/armor_appearance_bone_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_chest, "object/draft_schematic/armor/armor_appearance_bone_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_gloves, "object/draft_schematic/armor/armor_appearance_bone_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_helmet, "object/draft_schematic/armor/armor_appearance_bone_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bone_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bone_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bone_leggings, "object/draft_schematic/armor/armor_appearance_bone_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_belt = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_belt.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_belt, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_belt.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bicep_l, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bicep_r, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_boots, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bracer_l, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_bracer_r, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_chest, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_gloves, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_helmet, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_leggings, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_bicep_l, "object/draft_schematic/armor/armor_appearance_chitin_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_bicep_r, "object/draft_schematic/armor/armor_appearance_chitin_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_boots, "object/draft_schematic/armor/armor_appearance_chitin_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_bracer_l, "object/draft_schematic/armor/armor_appearance_chitin_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_bracer_r, "object/draft_schematic/armor/armor_appearance_chitin_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_chest, "object/draft_schematic/armor/armor_appearance_chitin_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_gloves, "object/draft_schematic/armor/armor_appearance_chitin_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_helmet, "object/draft_schematic/armor/armor_appearance_chitin_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_chitin_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_chitin_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_chitin_leggings, "object/draft_schematic/armor/armor_appearance_chitin_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_bicep_l, "object/draft_schematic/armor/armor_appearance_composite_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_bicep_r, "object/draft_schematic/armor/armor_appearance_composite_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_boots, "object/draft_schematic/armor/armor_appearance_composite_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_bracer_l, "object/draft_schematic/armor/armor_appearance_composite_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_bracer_r, "object/draft_schematic/armor/armor_appearance_composite_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_chest, "object/draft_schematic/armor/armor_appearance_composite_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_gloves, "object/draft_schematic/armor/armor_appearance_composite_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_helmet, "object/draft_schematic/armor/armor_appearance_composite_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_composite_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_composite_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_composite_leggings, "object/draft_schematic/armor/armor_appearance_composite_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_enhancement_feather = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_enhancement_feather.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_enhancement_feather, "object/draft_schematic/armor/armor_appearance_enhancement_feather.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_bicep_l, "object/draft_schematic/armor/armor_appearance_ithorian_defender_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_bicep_r, "object/draft_schematic/armor/armor_appearance_ithorian_defender_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_boots, "object/draft_schematic/armor/armor_appearance_ithorian_defender_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_bracer_l, "object/draft_schematic/armor/armor_appearance_ithorian_defender_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_bracer_r, "object/draft_schematic/armor/armor_appearance_ithorian_defender_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_chest, "object/draft_schematic/armor/armor_appearance_ithorian_defender_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_gloves, "object/draft_schematic/armor/armor_appearance_ithorian_defender_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_helmet, "object/draft_schematic/armor/armor_appearance_ithorian_defender_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_defender_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_defender_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_defender_leggings, "object/draft_schematic/armor/armor_appearance_ithorian_defender_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_bicep_l, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_bicep_r, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_boots, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_bracer_l, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_bracer_r, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_chest, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_gloves, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_helmet, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_guardian_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_guardian_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_leggings, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bicep_l, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bicep_r, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_boots, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bracer_l, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_bracer_r, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_chest, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_gloves, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_helmet, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ithorian_sentinel_leggings, "object/draft_schematic/armor/armor_appearance_ithorian_sentinel_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bicep_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bicep_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bracer_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_bracer_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_chest, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_chestplate = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_chestplate.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_chestplate, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_chestplate.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_black_mtn_leggings, "object/draft_schematic/armor/armor_appearance_kashyyykian_black_mtn_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bicep_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bicep_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bracer_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_bracer_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_chest, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_chestplate = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_chestplate.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_chestplate, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_chestplate.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_ceremonial_leggings, "object/draft_schematic/armor/armor_appearance_kashyyykian_ceremonial_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bicep_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bicep_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_l, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_chest, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_chestplate = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_chestplate.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_chestplate, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_chestplate.iff"
+
+
+object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_leggings, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_belt = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_belt.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_belt, "object/draft_schematic/armor/armor_appearance_mabari_belt.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_boots, "object/draft_schematic/armor/armor_appearance_mabari_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_chest, "object/draft_schematic/armor/armor_appearance_mabari_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_gloves, "object/draft_schematic/armor/armor_appearance_mabari_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_helmet, "object/draft_schematic/armor/armor_appearance_mabari_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mabari_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mabari_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mabari_leggings, "object/draft_schematic/armor/armor_appearance_mabari_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_belt = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_belt.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_belt, "object/draft_schematic/armor/armor_appearance_mandalorian_belt.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_bicep_l, "object/draft_schematic/armor/armor_appearance_mandalorian_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_bicep_r, "object/draft_schematic/armor/armor_appearance_mandalorian_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_boots, "object/draft_schematic/armor/armor_appearance_mandalorian_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_bracer_l, "object/draft_schematic/armor/armor_appearance_mandalorian_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_bracer_r, "object/draft_schematic/armor/armor_appearance_mandalorian_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_chest, "object/draft_schematic/armor/armor_appearance_mandalorian_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_gloves, "object/draft_schematic/armor/armor_appearance_mandalorian_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_helmet, "object/draft_schematic/armor/armor_appearance_mandalorian_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_mandalorian_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_mandalorian_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_leggings, "object/draft_schematic/armor/armor_appearance_mandalorian_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bicep_l, "object/draft_schematic/armor/armor_appearance_marauder_s01_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bicep_r, "object/draft_schematic/armor/armor_appearance_marauder_s01_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_boots, "object/draft_schematic/armor/armor_appearance_marauder_s01_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_l, "object/draft_schematic/armor/armor_appearance_marauder_s01_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_r, "object/draft_schematic/armor/armor_appearance_marauder_s01_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_chest, "object/draft_schematic/armor/armor_appearance_marauder_s01_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_gloves, "object/draft_schematic/armor/armor_appearance_marauder_s01_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_helmet, "object/draft_schematic/armor/armor_appearance_marauder_s01_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s01_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s01_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_leggings, "object/draft_schematic/armor/armor_appearance_marauder_s01_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_bicep_l, "object/draft_schematic/armor/armor_appearance_marauder_s02_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_bicep_r, "object/draft_schematic/armor/armor_appearance_marauder_s02_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_boots, "object/draft_schematic/armor/armor_appearance_marauder_s02_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_bracer_l, "object/draft_schematic/armor/armor_appearance_marauder_s02_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_bracer_r, "object/draft_schematic/armor/armor_appearance_marauder_s02_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_chest, "object/draft_schematic/armor/armor_appearance_marauder_s02_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_gloves, "object/draft_schematic/armor/armor_appearance_marauder_s02_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_helmet, "object/draft_schematic/armor/armor_appearance_marauder_s02_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s02_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s02_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s02_leggings, "object/draft_schematic/armor/armor_appearance_marauder_s02_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_bicep_l, "object/draft_schematic/armor/armor_appearance_marauder_s03_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_bicep_r, "object/draft_schematic/armor/armor_appearance_marauder_s03_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_boots, "object/draft_schematic/armor/armor_appearance_marauder_s03_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_bracer_l, "object/draft_schematic/armor/armor_appearance_marauder_s03_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_bracer_r, "object/draft_schematic/armor/armor_appearance_marauder_s03_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_chest, "object/draft_schematic/armor/armor_appearance_marauder_s03_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_gloves, "object/draft_schematic/armor/armor_appearance_marauder_s03_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_helmet, "object/draft_schematic/armor/armor_appearance_marauder_s03_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_marauder_s03_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_marauder_s03_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_marauder_s03_leggings, "object/draft_schematic/armor/armor_appearance_marauder_s03_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_belt = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_belt.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_belt, "object/draft_schematic/armor/armor_appearance_padded_belt.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_bicep_l, "object/draft_schematic/armor/armor_appearance_padded_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_bicep_r, "object/draft_schematic/armor/armor_appearance_padded_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_boots, "object/draft_schematic/armor/armor_appearance_padded_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_bracer_l, "object/draft_schematic/armor/armor_appearance_padded_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_bracer_r, "object/draft_schematic/armor/armor_appearance_padded_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_chest, "object/draft_schematic/armor/armor_appearance_padded_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_gloves, "object/draft_schematic/armor/armor_appearance_padded_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_helmet, "object/draft_schematic/armor/armor_appearance_padded_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_padded_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_padded_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_padded_leggings, "object/draft_schematic/armor/armor_appearance_padded_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_bicep_l, "object/draft_schematic/armor/armor_appearance_ris_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_bicep_r, "object/draft_schematic/armor/armor_appearance_ris_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_boots, "object/draft_schematic/armor/armor_appearance_ris_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_bracer_l, "object/draft_schematic/armor/armor_appearance_ris_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_bracer_r, "object/draft_schematic/armor/armor_appearance_ris_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_chest, "object/draft_schematic/armor/armor_appearance_ris_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_gloves, "object/draft_schematic/armor/armor_appearance_ris_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_helmet, "object/draft_schematic/armor/armor_appearance_ris_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ris_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ris_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ris_leggings, "object/draft_schematic/armor/armor_appearance_ris_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_bicep_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_bicep_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_bicep_l, "object/draft_schematic/armor/armor_appearance_tantel_bicep_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_bicep_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_bicep_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_bicep_r, "object/draft_schematic/armor/armor_appearance_tantel_bicep_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_boots, "object/draft_schematic/armor/armor_appearance_tantel_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_bracer_l, "object/draft_schematic/armor/armor_appearance_tantel_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_bracer_r, "object/draft_schematic/armor/armor_appearance_tantel_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_chest, "object/draft_schematic/armor/armor_appearance_tantel_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_gloves, "object/draft_schematic/armor/armor_appearance_tantel_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_helmet, "object/draft_schematic/armor/armor_appearance_tantel_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_tantel_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_tantel_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_tantel_leggings, "object/draft_schematic/armor/armor_appearance_tantel_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_bandolier = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_bandolier.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_bandolier, "object/draft_schematic/armor/armor_appearance_ubese_bandolier.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_boots = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_boots.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_boots, "object/draft_schematic/armor/armor_appearance_ubese_boots.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_bracer_l = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_bracer_l.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_bracer_l, "object/draft_schematic/armor/armor_appearance_ubese_bracer_l.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_bracer_r = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_bracer_r.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_bracer_r, "object/draft_schematic/armor/armor_appearance_ubese_bracer_r.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_chest = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_chest.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_chest, "object/draft_schematic/armor/armor_appearance_ubese_chest.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_gloves = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_gloves.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_gloves, "object/draft_schematic/armor/armor_appearance_ubese_gloves.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_helmet = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_helmet.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_helmet, "object/draft_schematic/armor/armor_appearance_ubese_helmet.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_leggings = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_leggings.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_leggings, "object/draft_schematic/armor/armor_appearance_ubese_leggings.iff"
+
+
+object_draft_schematic_armor_armor_appearance_ubese_shirt = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/armor_appearance_ubese_shirt.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_armor_appearance_ubese_shirt, "object/draft_schematic/armor/armor_appearance_ubese_shirt.iff"
+
+
+object_draft_schematic_armor_new_armor_final_test = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/new_armor_final_test.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_new_armor_final_test, "object/draft_schematic/armor/new_armor_final_test.iff"
+
+
+object_draft_schematic_armor_shield_generator_personal_borvo = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/shield_generator_personal_borvo.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_shield_generator_personal_borvo, "object/draft_schematic/armor/shield_generator_personal_borvo.iff"
+
+
+object_draft_schematic_armor_shield_generator_personal_droideka = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/shield_generator_personal_droideka.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_shield_generator_personal_droideka, "object/draft_schematic/armor/shield_generator_personal_droideka.iff"
+
+
+object_draft_schematic_armor_shield_generator_personal_old_republic = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/shield_generator_personal_old_republic.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_shield_generator_personal_old_republic, "object/draft_schematic/armor/shield_generator_personal_old_republic.iff"
+
+
+object_draft_schematic_armor_test_an_armor_final = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/armor/test_an_armor_final.iff")
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_armor_test_an_armor_final, "object/draft_schematic/armor/test_an_armor_final.iff"
+
+

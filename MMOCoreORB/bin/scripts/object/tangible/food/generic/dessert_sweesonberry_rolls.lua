@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_tangible_food_generic_dessert_sweesonberry_rolls = object_tangible_food_generic_dessert_sweesonberry_rolls:new {
+
+}
+
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_sweesonberry_rolls, "object/tangible/food/generic/dessert_sweesonberry_rolls.iff")
