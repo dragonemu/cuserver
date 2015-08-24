@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_deed_vehicle_deed_landspeeder_ab1_deed = object_tangible_deed_vehicle_deed_landspeeder_ab1_deed:new {
+object_tangible_deed_vehicle_deed_shared_landspeeder_ab1_deed.iff = object_tangible_deed_vehicle_deed_shared_landspeeder_ab1_deed.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_landspeeder_ab1_deed, "object/tangible/deed/vehicle_deed/landspeeder_ab1_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_shared_landspeeder_ab1_deed.iff, "object/tangible/deed/vehicle_deed/shared_landspeeder_ab1_deed.iff")

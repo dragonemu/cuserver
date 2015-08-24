@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_clone_relics_starmap_box = object_tangible_quest_clone_relics_starmap_box:new {
+object_tangible_quest_shared_clone_relics_starmap_box.iff = object_tangible_quest_shared_clone_relics_starmap_box.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_clone_relics_starmap_box, "object/tangible/quest/clone_relics_starmap_box.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_clone_relics_starmap_box.iff, "object/tangible/quest/shared_clone_relics_starmap_box.iff")

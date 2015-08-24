@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_polearm_polearm_lance_electric_polearm = object_weapon_melee_polearm_polearm_lance_electric_polearm:new {
+object_weapon_melee_polearm_shared_polearm_lance_electric_polearm.iff = object_weapon_melee_polearm_shared_polearm_lance_electric_polearm.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_polearm_lance_electric_polearm, "object/weapon/melee/polearm/polearm_lance_electric_polearm.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_shared_polearm_lance_electric_polearm.iff, "object/weapon/melee/polearm/shared_polearm_lance_electric_polearm.iff")

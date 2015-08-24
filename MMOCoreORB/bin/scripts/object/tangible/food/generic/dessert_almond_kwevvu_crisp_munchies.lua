@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies = object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies:new {
+object_tangible_food_generic_shared_dessert_almond_kwevvu_crisp_munchies.iff = object_tangible_food_generic_shared_dessert_almond_kwevvu_crisp_munchies.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies, "object/tangible/food/generic/dessert_almond_kwevvu_crisp_munchies.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_almond_kwevvu_crisp_munchies.iff, "object/tangible/food/generic/shared_dessert_almond_kwevvu_crisp_munchies.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_avatar_hologram_squid = object_tangible_furniture_ep3_rewards_avatar_hologram_squid:new {
+object_tangible_furniture_ep3_rewards_shared_avatar_hologram_squid.iff = object_tangible_furniture_ep3_rewards_shared_avatar_hologram_squid.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_avatar_hologram_squid, "object/tangible/furniture/ep3_rewards/avatar_hologram_squid.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_shared_avatar_hologram_squid.iff, "object/tangible/furniture/ep3_rewards/shared_avatar_hologram_squid.iff")

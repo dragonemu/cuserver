@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_pistol_jawa = object_weapon_ranged_pistol_pistol_jawa:new {
+object_weapon_ranged_pistol_shared_pistol_jawa.iff = object_weapon_ranged_pistol_shared_pistol_jawa.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_jawa, "object/weapon/ranged/pistol/pistol_jawa.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_jawa.iff, "object/weapon/ranged/pistol/shared_pistol_jawa.iff")

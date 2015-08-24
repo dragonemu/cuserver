@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_clone_relics_bartender_talus = object_mobile_ep3_ep3_clone_relics_bartender_talus:new {
+object_mobile_ep3_shared_ep3_clone_relics_bartender_talus.iff = object_mobile_ep3_shared_ep3_clone_relics_bartender_talus.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_bartender_talus, "object/mobile/ep3/ep3_clone_relics_bartender_talus.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_clone_relics_bartender_talus.iff, "object/mobile/ep3/shared_ep3_clone_relics_bartender_talus.iff")

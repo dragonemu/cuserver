@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_electronic_key_generic = object_tangible_loot_npc_loot_electronic_key_generic:new {
+object_tangible_loot_npc_loot_shared_electronic_key_generic.iff = object_tangible_loot_npc_loot_shared_electronic_key_generic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_electronic_key_generic, "object/tangible/loot/npc_loot/electronic_key_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_electronic_key_generic.iff, "object/tangible/loot/npc_loot/shared_electronic_key_generic.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_dorme = object_mobile_dressed_dorme:new {
+object_mobile_shared_dressed_dorme.iff = object_mobile_shared_dressed_dorme.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_dorme, "object/mobile/dressed_dorme.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_dorme.iff, "object/mobile/shared_dressed_dorme.iff")

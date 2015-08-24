@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_sansii = object_mobile_som_sansii:new {
+object_mobile_som_shared_sansii.iff = object_mobile_som_shared_sansii.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_sansii, "object/mobile/som/sansii.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_sansii.iff, "object/mobile/som/shared_sansii.iff")

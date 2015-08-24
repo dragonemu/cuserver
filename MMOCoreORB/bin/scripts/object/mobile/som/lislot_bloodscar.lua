@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_lislot_bloodscar = object_mobile_som_lislot_bloodscar:new {
+object_mobile_som_shared_lislot_bloodscar.iff = object_mobile_som_shared_lislot_bloodscar.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_lislot_bloodscar, "object/mobile/som/lislot_bloodscar.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_lislot_bloodscar.iff, "object/mobile/som/shared_lislot_bloodscar.iff")

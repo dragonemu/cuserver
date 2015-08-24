@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_quest_force_sensitive_fs_crystal_health = object_tangible_item_quest_force_sensitive_fs_crystal_health:new {
+object_tangible_item_quest_force_sensitive_shared_fs_crystal_health.iff = object_tangible_item_quest_force_sensitive_shared_fs_crystal_health.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_quest_force_sensitive_fs_crystal_health, "object/tangible/item/quest/force_sensitive/fs_crystal_health.iff")
+ObjectTemplates:addTemplate(object_tangible_item_quest_force_sensitive_shared_fs_crystal_health.iff, "object/tangible/item/quest/force_sensitive/shared_fs_crystal_health.iff")

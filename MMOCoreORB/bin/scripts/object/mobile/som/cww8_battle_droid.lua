@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_cww8_battle_droid = object_mobile_som_cww8_battle_droid:new {
+object_mobile_som_shared_cww8_battle_droid.iff = object_mobile_som_shared_cww8_battle_droid.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_cww8_battle_droid, "object/mobile/som/cww8_battle_droid.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_cww8_battle_droid.iff, "object/mobile/som/shared_cww8_battle_droid.iff")

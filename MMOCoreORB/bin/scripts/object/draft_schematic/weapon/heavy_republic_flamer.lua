@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_heavy_republic_flamer = object_draft_schematic_weapon_heavy_republic_flamer:new {
+object_draft_schematic_weapon_shared_heavy_republic_flamer.iff = object_draft_schematic_weapon_shared_heavy_republic_flamer.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_republic_flamer, "object/draft_schematic/weapon/heavy_republic_flamer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_heavy_republic_flamer.iff, "object/draft_schematic/weapon/shared_heavy_republic_flamer.iff")

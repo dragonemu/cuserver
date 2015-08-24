@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_terminal_wall_data_terminal_02 = object_static_worldbuilding_terminal_wall_data_terminal_02:new {
+object_static_worldbuilding_terminal_shared_wall_data_terminal_02.iff = object_static_worldbuilding_terminal_shared_wall_data_terminal_02.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_wall_data_terminal_02, "object/static/worldbuilding/terminal/wall_data_terminal_02.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_shared_wall_data_terminal_02.iff, "object/static/worldbuilding/terminal/shared_wall_data_terminal_02.iff")

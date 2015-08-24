@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_armor_appearance_padded_bicep_l = object_draft_schematic_armor_armor_appearance_padded_bicep_l:new {
+object_draft_schematic_armor_shared_armor_appearance_padded_bicep_l.iff = object_draft_schematic_armor_shared_armor_appearance_padded_bicep_l.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_padded_bicep_l, "object/draft_schematic/armor/armor_appearance_padded_bicep_l.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_shared_armor_appearance_padded_bicep_l.iff, "object/draft_schematic/armor/shared_armor_appearance_padded_bicep_l.iff")

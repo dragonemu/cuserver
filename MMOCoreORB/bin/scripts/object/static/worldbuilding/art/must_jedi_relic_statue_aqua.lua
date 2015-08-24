@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_art_must_jedi_relic_statue_aqua = object_static_worldbuilding_art_must_jedi_relic_statue_aqua:new {
+object_static_worldbuilding_art_shared_must_jedi_relic_statue_aqua.iff = object_static_worldbuilding_art_shared_must_jedi_relic_statue_aqua.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_art_must_jedi_relic_statue_aqua, "object/static/worldbuilding/art/must_jedi_relic_statue_aqua.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_art_shared_must_jedi_relic_statue_aqua.iff, "object/static/worldbuilding/art/shared_must_jedi_relic_statue_aqua.iff")

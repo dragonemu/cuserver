@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_pistol_d18_npe = object_weapon_ranged_pistol_pistol_d18_npe:new {
+object_weapon_ranged_pistol_shared_pistol_d18_npe.iff = object_weapon_ranged_pistol_shared_pistol_d18_npe.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_d18_npe, "object/weapon/ranged/pistol/pistol_d18_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_d18_npe.iff, "object/weapon/ranged/pistol/shared_pistol_d18_npe.iff")

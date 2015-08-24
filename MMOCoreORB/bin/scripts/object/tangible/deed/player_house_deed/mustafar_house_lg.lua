@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_deed_player_house_deed_mustafar_house_lg = object_tangible_deed_player_house_deed_mustafar_house_lg:new {
+object_tangible_deed_player_house_deed_shared_mustafar_house_lg.iff = object_tangible_deed_player_house_deed_shared_mustafar_house_lg.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_player_house_deed_mustafar_house_lg, "object/tangible/deed/player_house_deed/mustafar_house_lg.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_player_house_deed_shared_mustafar_house_lg.iff, "object/tangible/deed/player_house_deed/shared_mustafar_house_lg.iff")

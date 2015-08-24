@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_massassi = object_weapon_melee_sword_sword_massassi:new {
+object_weapon_melee_sword_shared_sword_massassi.iff = object_weapon_melee_sword_shared_sword_massassi.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_massassi, "object/weapon/melee/sword/sword_massassi.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_sword_massassi.iff, "object/weapon/melee/sword/shared_sword_massassi.iff")

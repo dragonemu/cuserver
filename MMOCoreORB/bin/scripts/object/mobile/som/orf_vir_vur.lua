@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_orf_vir_vur = object_mobile_som_orf_vir_vur:new {
+object_mobile_som_shared_orf_vir_vur.iff = object_mobile_som_shared_orf_vir_vur.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_orf_vir_vur, "object/mobile/som/orf_vir_vur.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_orf_vir_vur.iff, "object/mobile/som/shared_orf_vir_vur.iff")

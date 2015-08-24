@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_rifle_coil_dp23 = object_tangible_component_weapon_mustafar_rifle_coil_dp23:new {
+object_tangible_component_weapon_mustafar_shared_rifle_coil_dp23.iff = object_tangible_component_weapon_mustafar_shared_rifle_coil_dp23.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_rifle_coil_dp23, "object/tangible/component/weapon/mustafar/rifle_coil_dp23.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_shared_rifle_coil_dp23.iff, "object/tangible/component/weapon/mustafar/shared_rifle_coil_dp23.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_ship_interior_turret_upper = object_tangible_terminal_terminal_ship_interior_turret_upper:new {
+object_tangible_terminal_shared_terminal_ship_interior_turret_upper.iff = object_tangible_terminal_shared_terminal_ship_interior_turret_upper.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_ship_interior_turret_upper, "object/tangible/terminal/terminal_ship_interior_turret_upper.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_shared_terminal_ship_interior_turret_upper.iff, "object/tangible/terminal/shared_terminal_ship_interior_turret_upper.iff")

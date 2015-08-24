@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_asteroid_mining_asteroid_dynamic_acid_medium_s01 = object_ship_asteroid_mining_asteroid_dynamic_acid_medium_s01:new {
+object_ship_asteroid_shared_mining_asteroid_dynamic_acid_medium_s01.iff = object_ship_asteroid_shared_mining_asteroid_dynamic_acid_medium_s01.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_acid_medium_s01, "object/ship/asteroid/mining_asteroid_dynamic_acid_medium_s01.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_shared_mining_asteroid_dynamic_acid_medium_s01.iff, "object/ship/asteroid/shared_mining_asteroid_dynamic_acid_medium_s01.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_must_chem_locker = object_tangible_quest_must_chem_locker:new {
+object_tangible_quest_shared_must_chem_locker.iff = object_tangible_quest_shared_must_chem_locker.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_must_chem_locker, "object/tangible/quest/must_chem_locker.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_must_chem_locker.iff, "object/tangible/quest/shared_must_chem_locker.iff")

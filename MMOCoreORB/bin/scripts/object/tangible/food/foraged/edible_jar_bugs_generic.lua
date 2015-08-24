@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_foraged_edible_jar_bugs_generic = object_tangible_food_foraged_edible_jar_bugs_generic:new {
+object_tangible_food_foraged_shared_edible_jar_bugs_generic.iff = object_tangible_food_foraged_shared_edible_jar_bugs_generic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_foraged_edible_jar_bugs_generic, "object/tangible/food/foraged/edible_jar_bugs_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_food_foraged_shared_edible_jar_bugs_generic.iff, "object/tangible/food/foraged/shared_edible_jar_bugs_generic.iff")

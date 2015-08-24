@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_citros_snow_cake = object_tangible_food_generic_dessert_citros_snow_cake:new {
+object_tangible_food_generic_shared_dessert_citros_snow_cake.iff = object_tangible_food_generic_shared_dessert_citros_snow_cake.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_citros_snow_cake, "object/tangible/food/generic/dessert_citros_snow_cake.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_citros_snow_cake.iff, "object/tangible/food/generic/shared_dessert_citros_snow_cake.iff")

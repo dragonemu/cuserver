@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_balancing_weights = object_tangible_powerup_weapon_melee_balancing_weights:new {
+object_tangible_powerup_weapon_shared_melee_balancing_weights.iff = object_tangible_powerup_weapon_shared_melee_balancing_weights.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_balancing_weights, "object/tangible/powerup/weapon/melee_balancing_weights.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_shared_melee_balancing_weights.iff, "object/tangible/powerup/weapon/shared_melee_balancing_weights.iff")

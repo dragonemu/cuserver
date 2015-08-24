@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_bio_base_bio_component_armor = object_tangible_component_bio_base_bio_component_armor:new {
+object_tangible_component_bio_shared_base_bio_component_armor.iff = object_tangible_component_bio_shared_base_bio_component_armor.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_bio_base_bio_component_armor, "object/tangible/component/bio/base_bio_component_armor.iff")
+ObjectTemplates:addTemplate(object_tangible_component_bio_shared_base_bio_component_armor.iff, "object/tangible/component/bio/shared_base_bio_component_armor.iff")

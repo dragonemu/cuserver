@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_asteroid_mining_asteroid_static_all_large_s02 = object_ship_asteroid_mining_asteroid_static_all_large_s02:new {
+object_ship_asteroid_shared_mining_asteroid_static_all_large_s02.iff = object_ship_asteroid_shared_mining_asteroid_static_all_large_s02.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_all_large_s02, "object/ship/asteroid/mining_asteroid_static_all_large_s02.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_shared_mining_asteroid_static_all_large_s02.iff, "object/ship/asteroid/shared_mining_asteroid_static_all_large_s02.iff")

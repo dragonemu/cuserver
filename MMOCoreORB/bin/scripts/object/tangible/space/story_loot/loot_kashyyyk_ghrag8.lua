@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_space_story_loot_loot_kashyyyk_ghrag8 = object_tangible_space_story_loot_loot_kashyyyk_ghrag8:new {
+object_tangible_space_story_loot_shared_loot_kashyyyk_ghrag8.iff = object_tangible_space_story_loot_shared_loot_kashyyyk_ghrag8.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_story_loot_loot_kashyyyk_ghrag8, "object/tangible/space/story_loot/loot_kashyyyk_ghrag8.iff")
+ObjectTemplates:addTemplate(object_tangible_space_story_loot_shared_loot_kashyyyk_ghrag8.iff, "object/tangible/space/story_loot/shared_loot_kashyyyk_ghrag8.iff")

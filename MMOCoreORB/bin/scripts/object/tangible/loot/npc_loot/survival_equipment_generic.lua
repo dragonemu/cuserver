@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_survival_equipment_generic = object_tangible_loot_npc_loot_survival_equipment_generic:new {
+object_tangible_loot_npc_loot_shared_survival_equipment_generic.iff = object_tangible_loot_npc_loot_shared_survival_equipment_generic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_survival_equipment_generic, "object/tangible/loot/npc_loot/survival_equipment_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_survival_equipment_generic.iff, "object/tangible/loot/npc_loot/shared_survival_equipment_generic.iff")

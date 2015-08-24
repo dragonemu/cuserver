@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_ruins_weequay = object_mobile_som_ruins_weequay:new {
+object_mobile_som_shared_ruins_weequay.iff = object_mobile_som_shared_ruins_weequay.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_ruins_weequay, "object/mobile/som/ruins_weequay.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_ruins_weequay.iff, "object/mobile/som/shared_ruins_weequay.iff")

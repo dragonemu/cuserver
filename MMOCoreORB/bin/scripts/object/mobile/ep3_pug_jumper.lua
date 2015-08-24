@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_pug_jumper = object_mobile_ep3_pug_jumper:new {
+object_mobile_shared_ep3_pug_jumper.iff = object_mobile_shared_ep3_pug_jumper.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_pug_jumper, "object/mobile/ep3_pug_jumper.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_ep3_pug_jumper.iff, "object/mobile/shared_ep3_pug_jumper.iff")

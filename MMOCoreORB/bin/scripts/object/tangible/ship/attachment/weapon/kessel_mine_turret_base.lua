@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_kessel_mine_turret_base = object_tangible_ship_attachment_weapon_kessel_mine_turret_base:new {
+object_tangible_ship_attachment_weapon_shared_kessel_mine_turret_base.iff = object_tangible_ship_attachment_weapon_shared_kessel_mine_turret_base.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_kessel_mine_turret_base, "object/tangible/ship/attachment/weapon/kessel_mine_turret_base.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_shared_kessel_mine_turret_base.iff, "object/tangible/ship/attachment/weapon/shared_kessel_mine_turret_base.iff")

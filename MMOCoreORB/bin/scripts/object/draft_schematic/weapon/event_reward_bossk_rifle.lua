@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_event_reward_bossk_rifle = object_draft_schematic_weapon_event_reward_bossk_rifle:new {
+object_draft_schematic_weapon_shared_event_reward_bossk_rifle.iff = object_draft_schematic_weapon_shared_event_reward_bossk_rifle.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_event_reward_bossk_rifle, "object/draft_schematic/weapon/event_reward_bossk_rifle.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_event_reward_bossk_rifle.iff, "object/draft_schematic/weapon/shared_event_reward_bossk_rifle.iff")

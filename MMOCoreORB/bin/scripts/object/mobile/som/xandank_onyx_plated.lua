@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_xandank_onyx_plated = object_mobile_som_xandank_onyx_plated:new {
+object_mobile_som_shared_xandank_onyx_plated.iff = object_mobile_som_shared_xandank_onyx_plated.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_xandank_onyx_plated, "object/mobile/som/xandank_onyx_plated.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_xandank_onyx_plated.iff, "object/mobile/som/shared_xandank_onyx_plated.iff")

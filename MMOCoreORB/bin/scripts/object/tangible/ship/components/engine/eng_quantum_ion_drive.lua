@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_eng_quantum_ion_drive = object_tangible_ship_components_engine_eng_quantum_ion_drive:new {
+object_tangible_ship_components_engine_shared_eng_quantum_ion_drive.iff = object_tangible_ship_components_engine_shared_eng_quantum_ion_drive.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_quantum_ion_drive, "object/tangible/ship/components/engine/eng_quantum_ion_drive.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_shared_eng_quantum_ion_drive.iff, "object/tangible/ship/components/engine/shared_eng_quantum_ion_drive.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_pt_flocking_willowisp_single = object_static_particle_pt_flocking_willowisp_single:new {
+object_static_particle_shared_pt_flocking_willowisp_single.iff = object_static_particle_shared_pt_flocking_willowisp_single.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_flocking_willowisp_single, "object/static/particle/pt_flocking_willowisp_single.iff")
+ObjectTemplates:addTemplate(object_static_particle_shared_pt_flocking_willowisp_single.iff, "object/static/particle/shared_pt_flocking_willowisp_single.iff")

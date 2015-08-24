@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_battery_useable_generic = object_tangible_loot_generic_battery_useable_generic:new {
+object_tangible_loot_generic_shared_battery_useable_generic.iff = object_tangible_loot_generic_shared_battery_useable_generic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_battery_useable_generic, "object/tangible/loot/generic/battery_useable_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_shared_battery_useable_generic.iff, "object/tangible/loot/generic/shared_battery_useable_generic.iff")

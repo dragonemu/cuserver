@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_calibrated = object_draft_schematic_weapon_loot_calibrated:new {
+object_draft_schematic_weapon_shared_loot_calibrated.iff = object_draft_schematic_weapon_shared_loot_calibrated.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_calibrated, "object/draft_schematic/weapon/loot_calibrated.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_calibrated.iff, "object/draft_schematic/weapon/shared_loot_calibrated.iff")

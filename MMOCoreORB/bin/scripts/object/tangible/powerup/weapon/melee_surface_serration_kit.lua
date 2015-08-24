@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_surface_serration_kit = object_tangible_powerup_weapon_melee_surface_serration_kit:new {
+object_tangible_powerup_weapon_shared_melee_surface_serration_kit.iff = object_tangible_powerup_weapon_shared_melee_surface_serration_kit.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_surface_serration_kit, "object/tangible/powerup/weapon/melee_surface_serration_kit.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_shared_melee_surface_serration_kit.iff, "object/tangible/powerup/weapon/shared_melee_surface_serration_kit.iff")

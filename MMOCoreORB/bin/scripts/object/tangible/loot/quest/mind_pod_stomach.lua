@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_mind_pod_stomach = object_tangible_loot_quest_mind_pod_stomach:new {
+object_tangible_loot_quest_shared_mind_pod_stomach.iff = object_tangible_loot_quest_shared_mind_pod_stomach.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_mind_pod_stomach, "object/tangible/loot/quest/mind_pod_stomach.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_shared_mind_pod_stomach.iff, "object/tangible/loot/quest/shared_mind_pod_stomach.iff")

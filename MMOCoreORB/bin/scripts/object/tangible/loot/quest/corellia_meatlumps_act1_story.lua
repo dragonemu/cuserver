@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_corellia_meatlumps_act1_story = object_tangible_loot_quest_corellia_meatlumps_act1_story:new {
+object_tangible_loot_quest_shared_corellia_meatlumps_act1_story.iff = object_tangible_loot_quest_shared_corellia_meatlumps_act1_story.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_corellia_meatlumps_act1_story, "object/tangible/loot/quest/corellia_meatlumps_act1_story.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_shared_corellia_meatlumps_act1_story.iff, "object/tangible/loot/quest/shared_corellia_meatlumps_act1_story.iff")

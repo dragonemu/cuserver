@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_blacksun_vaksai_deed = object_tangible_ship_crafted_chassis_blacksun_vaksai_deed:new {
+object_tangible_ship_crafted_chassis_shared_blacksun_vaksai_deed.iff = object_tangible_ship_crafted_chassis_shared_blacksun_vaksai_deed.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_blacksun_vaksai_deed, "object/tangible/ship/crafted/chassis/blacksun_vaksai_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_shared_blacksun_vaksai_deed.iff, "object/tangible/ship/crafted/chassis/shared_blacksun_vaksai_deed.iff")

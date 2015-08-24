@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_ep3_carbine_wookiee_bowcaster = object_weapon_ranged_carbine_ep3_carbine_wookiee_bowcaster:new {
+object_weapon_ranged_carbine_ep3_shared_carbine_wookiee_bowcaster.iff = object_weapon_ranged_carbine_ep3_shared_carbine_wookiee_bowcaster.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_ep3_carbine_wookiee_bowcaster, "object/weapon/ranged/carbine/ep3/carbine_wookiee_bowcaster.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_ep3_shared_carbine_wookiee_bowcaster.iff, "object/weapon/ranged/carbine/ep3/shared_carbine_wookiee_bowcaster.iff")

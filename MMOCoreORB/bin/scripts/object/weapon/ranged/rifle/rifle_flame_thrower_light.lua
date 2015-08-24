@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_rifle_flame_thrower_light = object_weapon_ranged_rifle_rifle_flame_thrower_light:new {
+object_weapon_ranged_rifle_shared_rifle_flame_thrower_light.iff = object_weapon_ranged_rifle_shared_rifle_flame_thrower_light.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_flame_thrower_light, "object/weapon/ranged/rifle/rifle_flame_thrower_light.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_shared_rifle_flame_thrower_light.iff, "object/weapon/ranged/rifle/shared_rifle_flame_thrower_light.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_myyydril_lost_erriya = object_mobile_dressed_myyydril_lost_erriya:new {
+object_mobile_shared_dressed_myyydril_lost_erriya.iff = object_mobile_shared_dressed_myyydril_lost_erriya.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_lost_erriya, "object/mobile/dressed_myyydril_lost_erriya.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_myyydril_lost_erriya.iff, "object/mobile/shared_dressed_myyydril_lost_erriya.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_nym_slugthrower = object_draft_schematic_weapon_carbine_nym_slugthrower:new {
+object_draft_schematic_weapon_shared_carbine_nym_slugthrower.iff = object_draft_schematic_weapon_shared_carbine_nym_slugthrower.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_nym_slugthrower, "object/draft_schematic/weapon/carbine_nym_slugthrower.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_nym_slugthrower.iff, "object/draft_schematic/weapon/shared_carbine_nym_slugthrower.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_rations = object_tangible_food_generic_dish_rations:new {
+object_tangible_food_generic_shared_dish_rations.iff = object_tangible_food_generic_shared_dish_rations.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_rations, "object/tangible/food/generic/dish_rations.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dish_rations.iff, "object/tangible/food/generic/shared_dish_rations.iff")

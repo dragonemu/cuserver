@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_alien_parasite = object_mobile_som_som_alien_parasite:new {
+object_mobile_som_shared_som_alien_parasite.iff = object_mobile_som_shared_som_alien_parasite.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_alien_parasite, "object/mobile/som/som_alien_parasite.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_alien_parasite.iff, "object/mobile/som/shared_som_alien_parasite.iff")

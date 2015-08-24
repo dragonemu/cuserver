@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_hologram_tiefighter_01 = object_tangible_furniture_ep3_rewards_hologram_tiefighter_01:new {
+object_tangible_furniture_ep3_rewards_shared_hologram_tiefighter_01.iff = object_tangible_furniture_ep3_rewards_shared_hologram_tiefighter_01.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_hologram_tiefighter_01, "object/tangible/furniture/ep3_rewards/hologram_tiefighter_01.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_shared_hologram_tiefighter_01.iff, "object/tangible/furniture/ep3_rewards/shared_hologram_tiefighter_01.iff")

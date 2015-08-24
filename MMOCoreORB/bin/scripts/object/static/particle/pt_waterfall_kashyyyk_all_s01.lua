@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_pt_waterfall_kashyyyk_all_s01 = object_static_particle_pt_waterfall_kashyyyk_all_s01:new {
+object_static_particle_shared_pt_waterfall_kashyyyk_all_s01.iff = object_static_particle_shared_pt_waterfall_kashyyyk_all_s01.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_waterfall_kashyyyk_all_s01, "object/static/particle/pt_waterfall_kashyyyk_all_s01.iff")
+ObjectTemplates:addTemplate(object_static_particle_shared_pt_waterfall_kashyyyk_all_s01.iff, "object/static/particle/shared_pt_waterfall_kashyyyk_all_s01.iff")

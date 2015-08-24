@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_medpack_enhance_health_triad_c = object_draft_schematic_chemistry_medpack_enhance_health_triad_c:new {
+object_draft_schematic_chemistry_shared_medpack_enhance_health_triad_c.iff = object_draft_schematic_chemistry_shared_medpack_enhance_health_triad_c.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_c, "object/draft_schematic/chemistry/medpack_enhance_health_triad_c.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_shared_medpack_enhance_health_triad_c.iff, "object/draft_schematic/chemistry/shared_medpack_enhance_health_triad_c.iff")

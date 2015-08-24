@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic = object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic:new {
+object_tangible_loot_loot_schematic_shared_speeder_desert_skiff_schematic.iff = object_tangible_loot_loot_schematic_shared_speeder_desert_skiff_schematic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_speeder_desert_skiff_schematic, "object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_shared_speeder_desert_skiff_schematic.iff, "object/tangible/loot/loot_schematic/shared_speeder_desert_skiff_schematic.iff")

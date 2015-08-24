@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_yt2400_turret_s02 = object_tangible_ship_attachment_weapon_yt2400_turret_s02:new {
+object_tangible_ship_attachment_weapon_shared_yt2400_turret_s02.iff = object_tangible_ship_attachment_weapon_shared_yt2400_turret_s02.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_yt2400_turret_s02, "object/tangible/ship/attachment/weapon/yt2400_turret_s02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_shared_yt2400_turret_s02.iff, "object/tangible/ship/attachment/weapon/shared_yt2400_turret_s02.iff")

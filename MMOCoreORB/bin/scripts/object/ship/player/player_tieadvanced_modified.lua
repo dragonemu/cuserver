@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_player_tieadvanced_modified = object_ship_player_player_tieadvanced_modified:new {
+object_ship_player_shared_player_tieadvanced_modified.iff = object_ship_player_shared_player_tieadvanced_modified.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_tieadvanced_modified, "object/ship/player/player_tieadvanced_modified.iff")
+ObjectTemplates:addTemplate(object_ship_player_shared_player_tieadvanced_modified.iff, "object/ship/player/shared_player_tieadvanced_modified.iff")

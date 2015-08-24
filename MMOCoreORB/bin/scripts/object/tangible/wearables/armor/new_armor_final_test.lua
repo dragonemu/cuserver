@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_new_armor_final_test = object_tangible_wearables_armor_new_armor_final_test:new {
+object_tangible_wearables_armor_shared_new_armor_final_test.iff = object_tangible_wearables_armor_shared_new_armor_final_test.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_new_armor_final_test, "object/tangible/wearables/armor/new_armor_final_test.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_shared_new_armor_final_test.iff, "object/tangible/wearables/armor/shared_new_armor_final_test.iff")

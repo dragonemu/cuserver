@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_crystal_marker_04 = object_tangible_quest_som_crystal_marker_04:new {
+object_tangible_quest_shared_som_crystal_marker_04.iff = object_tangible_quest_shared_som_crystal_marker_04.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_crystal_marker_04, "object/tangible/quest/som_crystal_marker_04.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_som_crystal_marker_04.iff, "object/tangible/quest/shared_som_crystal_marker_04.iff")

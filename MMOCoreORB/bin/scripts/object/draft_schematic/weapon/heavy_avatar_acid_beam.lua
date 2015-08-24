@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_heavy_avatar_acid_beam = object_draft_schematic_weapon_heavy_avatar_acid_beam:new {
+object_draft_schematic_weapon_shared_heavy_avatar_acid_beam.iff = object_draft_schematic_weapon_shared_heavy_avatar_acid_beam.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_avatar_acid_beam, "object/draft_schematic/weapon/heavy_avatar_acid_beam.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_heavy_avatar_acid_beam.iff, "object/draft_schematic/weapon/shared_heavy_avatar_acid_beam.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_quest_dessert_luilris_mushroom_pie = object_tangible_food_quest_dessert_luilris_mushroom_pie:new {
+object_tangible_food_quest_shared_dessert_luilris_mushroom_pie.iff = object_tangible_food_quest_shared_dessert_luilris_mushroom_pie.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_quest_dessert_luilris_mushroom_pie, "object/tangible/food/quest/dessert_luilris_mushroom_pie.iff")
+ObjectTemplates:addTemplate(object_tangible_food_quest_shared_dessert_luilris_mushroom_pie.iff, "object/tangible/food/quest/shared_dessert_luilris_mushroom_pie.iff")

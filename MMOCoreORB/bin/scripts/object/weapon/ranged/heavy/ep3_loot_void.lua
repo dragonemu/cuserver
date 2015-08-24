@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_ep3_loot_void = object_weapon_ranged_heavy_ep3_loot_void:new {
+object_weapon_ranged_heavy_shared_ep3_loot_void.iff = object_weapon_ranged_heavy_shared_ep3_loot_void.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_heavy_ep3_loot_void, "object/weapon/ranged/heavy/ep3_loot_void.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_shared_ep3_loot_void.iff, "object/weapon/ranged/heavy/shared_ep3_loot_void.iff")

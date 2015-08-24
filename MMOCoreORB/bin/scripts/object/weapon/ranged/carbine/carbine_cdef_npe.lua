@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_carbine_cdef_npe = object_weapon_ranged_carbine_carbine_cdef_npe:new {
+object_weapon_ranged_carbine_shared_carbine_cdef_npe.iff = object_weapon_ranged_carbine_shared_carbine_cdef_npe.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_cdef_npe, "object/weapon/ranged/carbine/carbine_cdef_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_shared_carbine_cdef_npe.iff, "object/weapon/ranged/carbine/shared_carbine_cdef_npe.iff")

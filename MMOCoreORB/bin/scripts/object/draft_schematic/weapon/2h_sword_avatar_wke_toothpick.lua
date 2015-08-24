@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick = object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick:new {
+object_draft_schematic_weapon_shared_2h_sword_avatar_wke_toothpick.iff = object_draft_schematic_weapon_shared_2h_sword_avatar_wke_toothpick.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick, "object/draft_schematic/weapon/2h_sword_avatar_wke_toothpick.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_2h_sword_avatar_wke_toothpick.iff, "object/draft_schematic/weapon/shared_2h_sword_avatar_wke_toothpick.iff")

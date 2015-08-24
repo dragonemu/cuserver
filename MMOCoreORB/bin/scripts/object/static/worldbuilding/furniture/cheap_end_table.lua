@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_furniture_cheap_end_table = object_static_worldbuilding_furniture_cheap_end_table:new {
+object_static_worldbuilding_furniture_shared_cheap_end_table.iff = object_static_worldbuilding_furniture_shared_cheap_end_table.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_cheap_end_table, "object/static/worldbuilding/furniture/cheap_end_table.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_furniture_shared_cheap_end_table.iff, "object/static/worldbuilding/furniture/shared_cheap_end_table.iff")

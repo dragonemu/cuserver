@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_sword_nyax = object_draft_schematic_weapon_sword_nyax:new {
+object_draft_schematic_weapon_shared_sword_nyax.iff = object_draft_schematic_weapon_shared_sword_nyax.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_nyax, "object/draft_schematic/weapon/sword_nyax.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_sword_nyax.iff, "object/draft_schematic/weapon/shared_sword_nyax.iff")

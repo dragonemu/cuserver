@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_myyydril_rope_ladder = object_building_kashyyyk_frn_kash_myyydril_rope_ladder:new {
+object_building_kashyyyk_shared_frn_kash_myyydril_rope_ladder.iff = object_building_kashyyyk_shared_frn_kash_myyydril_rope_ladder.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_myyydril_rope_ladder, "object/building/kashyyyk/frn_kash_myyydril_rope_ladder.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_myyydril_rope_ladder.iff, "object/building/kashyyyk/shared_frn_kash_myyydril_rope_ladder.iff")

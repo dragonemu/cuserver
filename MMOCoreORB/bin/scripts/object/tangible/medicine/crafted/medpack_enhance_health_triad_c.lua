@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_crafted_medpack_enhance_health_triad_c = object_tangible_medicine_crafted_medpack_enhance_health_triad_c:new {
+object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c.iff = object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_crafted_medpack_enhance_health_triad_c, "object/tangible/medicine/crafted/medpack_enhance_health_triad_c.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c.iff, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_c.iff")

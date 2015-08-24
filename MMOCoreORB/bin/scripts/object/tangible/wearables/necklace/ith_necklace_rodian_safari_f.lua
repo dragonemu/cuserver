@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_ith_necklace_rodian_safari_f = object_tangible_wearables_necklace_ith_necklace_rodian_safari_f:new {
+object_tangible_wearables_necklace_shared_ith_necklace_rodian_safari_f.iff = object_tangible_wearables_necklace_shared_ith_necklace_rodian_safari_f.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_rodian_safari_f, "object/tangible/wearables/necklace/ith_necklace_rodian_safari_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_shared_ith_necklace_rodian_safari_f.iff, "object/tangible/wearables/necklace/shared_ith_necklace_rodian_safari_f.iff")

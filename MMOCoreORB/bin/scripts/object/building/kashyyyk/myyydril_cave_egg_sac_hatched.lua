@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_myyydril_cave_egg_sac_hatched = object_building_kashyyyk_myyydril_cave_egg_sac_hatched:new {
+object_building_kashyyyk_shared_myyydril_cave_egg_sac_hatched.iff = object_building_kashyyyk_shared_myyydril_cave_egg_sac_hatched.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_egg_sac_hatched, "object/building/kashyyyk/myyydril_cave_egg_sac_hatched.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_myyydril_cave_egg_sac_hatched.iff, "object/building/kashyyyk/shared_myyydril_cave_egg_sac_hatched.iff")

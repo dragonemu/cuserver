@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_tieadvanced_modified_pcd = object_intangible_ship_tieadvanced_modified_pcd:new {
+object_intangible_ship_shared_tieadvanced_modified_pcd.iff = object_intangible_ship_shared_tieadvanced_modified_pcd.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_tieadvanced_modified_pcd, "object/intangible/ship/tieadvanced_modified_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_shared_tieadvanced_modified_pcd.iff, "object/intangible/ship/shared_tieadvanced_modified_pcd.iff")

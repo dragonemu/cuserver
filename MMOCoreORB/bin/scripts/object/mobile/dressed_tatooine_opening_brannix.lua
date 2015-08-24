@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_tatooine_opening_brannix = object_mobile_dressed_tatooine_opening_brannix:new {
+object_mobile_shared_dressed_tatooine_opening_brannix.iff = object_mobile_shared_dressed_tatooine_opening_brannix.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_brannix, "object/mobile/dressed_tatooine_opening_brannix.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_dressed_tatooine_opening_brannix.iff, "object/mobile/shared_dressed_tatooine_opening_brannix.iff")

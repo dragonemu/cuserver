@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_specops_bothan_carbine = object_draft_schematic_weapon_carbine_specops_bothan_carbine:new {
+object_draft_schematic_weapon_shared_carbine_specops_bothan_carbine.iff = object_draft_schematic_weapon_shared_carbine_specops_bothan_carbine.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_specops_bothan_carbine, "object/draft_schematic/weapon/carbine_specops_bothan_carbine.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_specops_bothan_carbine.iff, "object/draft_schematic/weapon/shared_carbine_specops_bothan_carbine.iff")

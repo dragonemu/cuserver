@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_kashyyyk_content = object_tangible_terminal_terminal_kashyyyk_content:new {
+object_tangible_terminal_shared_terminal_kashyyyk_content.iff = object_tangible_terminal_shared_terminal_kashyyyk_content.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_kashyyyk_content, "object/tangible/terminal/terminal_kashyyyk_content.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_shared_terminal_kashyyyk_content.iff, "object/tangible/terminal/shared_terminal_kashyyyk_content.iff")

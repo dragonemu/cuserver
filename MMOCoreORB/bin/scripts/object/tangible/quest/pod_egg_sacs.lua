@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_pod_egg_sacs = object_tangible_quest_pod_egg_sacs:new {
+object_tangible_quest_shared_pod_egg_sacs.iff = object_tangible_quest_shared_pod_egg_sacs.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_pod_egg_sacs, "object/tangible/quest/pod_egg_sacs.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_pod_egg_sacs.iff, "object/tangible/quest/shared_pod_egg_sacs.iff")

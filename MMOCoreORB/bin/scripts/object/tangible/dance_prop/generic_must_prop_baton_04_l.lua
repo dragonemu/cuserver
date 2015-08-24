@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dance_prop_generic_must_prop_baton_04_l = object_tangible_dance_prop_generic_must_prop_baton_04_l:new {
+object_tangible_dance_prop_shared_generic_must_prop_baton_04_l.iff = object_tangible_dance_prop_shared_generic_must_prop_baton_04_l.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dance_prop_generic_must_prop_baton_04_l, "object/tangible/dance_prop/generic_must_prop_baton_04_l.iff")
+ObjectTemplates:addTemplate(object_tangible_dance_prop_shared_generic_must_prop_baton_04_l.iff, "object/tangible/dance_prop/shared_generic_must_prop_baton_04_l.iff")

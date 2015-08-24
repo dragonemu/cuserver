@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection = object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_nutrientinjection.iff = object_draft_schematic_chemistry_enhancer_shared_enhancer_nutrientinjection.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_nutrientinjection, "object/draft_schematic/chemistry/enhancer/enhancer_nutrientinjection.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_nutrientinjection.iff, "object/draft_schematic/chemistry/enhancer/shared_enhancer_nutrientinjection.iff")

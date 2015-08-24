@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_flamer_coil = object_tangible_component_weapon_mustafar_flamer_coil:new {
+object_tangible_component_weapon_mustafar_shared_flamer_coil.iff = object_tangible_component_weapon_mustafar_shared_flamer_coil.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_flamer_coil, "object/tangible/component/weapon/mustafar/flamer_coil.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_shared_flamer_coil.iff, "object/tangible/component/weapon/mustafar/shared_flamer_coil.iff")

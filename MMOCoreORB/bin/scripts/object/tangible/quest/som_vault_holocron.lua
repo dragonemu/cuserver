@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_vault_holocron = object_tangible_quest_som_vault_holocron:new {
+object_tangible_quest_shared_som_vault_holocron.iff = object_tangible_quest_shared_som_vault_holocron.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_vault_holocron, "object/tangible/quest/som_vault_holocron.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_som_vault_holocron.iff, "object/tangible/quest/shared_som_vault_holocron.iff")

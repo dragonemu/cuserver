@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_the_meeting_data_terminal = object_tangible_quest_corellia_coronet_the_meeting_data_terminal:new {
+object_tangible_quest_shared_corellia_coronet_the_meeting_data_terminal.iff = object_tangible_quest_shared_corellia_coronet_the_meeting_data_terminal.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_the_meeting_data_terminal, "object/tangible/quest/corellia_coronet_the_meeting_data_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_corellia_coronet_the_meeting_data_terminal.iff, "object/tangible/quest/shared_corellia_coronet_the_meeting_data_terminal.iff")

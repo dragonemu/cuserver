@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator = object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator:new {
+object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator.iff = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator, "object/tangible/dungeon/mustafar/valley_battlefield/demo_detonator.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator.iff, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff")

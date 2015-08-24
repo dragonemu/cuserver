@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_sword_rsf = object_draft_schematic_weapon_sword_rsf:new {
+object_draft_schematic_weapon_shared_sword_rsf.iff = object_draft_schematic_weapon_shared_sword_rsf.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_rsf, "object/draft_schematic/weapon/sword_rsf.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_sword_rsf.iff, "object/draft_schematic/weapon/shared_sword_rsf.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_rhiss = object_draft_schematic_weapon_loot_rhiss:new {
+object_draft_schematic_weapon_shared_loot_rhiss.iff = object_draft_schematic_weapon_shared_loot_rhiss.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_rhiss, "object/draft_schematic/weapon/loot_rhiss.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_rhiss.iff, "object/draft_schematic/weapon/shared_loot_rhiss.iff")

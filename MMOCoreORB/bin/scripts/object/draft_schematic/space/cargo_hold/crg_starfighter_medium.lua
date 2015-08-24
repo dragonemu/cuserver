@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_cargo_hold_crg_starfighter_medium = object_draft_schematic_space_cargo_hold_crg_starfighter_medium:new {
+object_draft_schematic_space_cargo_hold_shared_crg_starfighter_medium.iff = object_draft_schematic_space_cargo_hold_shared_crg_starfighter_medium.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_cargo_hold_crg_starfighter_medium, "object/draft_schematic/space/cargo_hold/crg_starfighter_medium.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_cargo_hold_shared_crg_starfighter_medium.iff, "object/draft_schematic/space/cargo_hold/shared_crg_starfighter_medium.iff")

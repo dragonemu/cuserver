@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_ahrisa = object_tangible_food_generic_dish_ahrisa:new {
+object_tangible_food_generic_shared_dish_ahrisa.iff = object_tangible_food_generic_shared_dish_ahrisa.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_ahrisa, "object/tangible/food/generic/dish_ahrisa.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dish_ahrisa.iff, "object/tangible/food/generic/shared_dish_ahrisa.iff")

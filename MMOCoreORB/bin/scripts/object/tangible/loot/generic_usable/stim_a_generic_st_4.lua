@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_stim_a_generic_st_4 = object_tangible_loot_generic_usable_stim_a_generic_st_4:new {
+object_tangible_loot_generic_usable_shared_stim_a_generic_st_4.iff = object_tangible_loot_generic_usable_shared_stim_a_generic_st_4.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_stim_a_generic_st_4, "object/tangible/loot/generic_usable/stim_a_generic_st_4.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_shared_stim_a_generic_st_4.iff, "object/tangible/loot/generic_usable/shared_stim_a_generic_st_4.iff")

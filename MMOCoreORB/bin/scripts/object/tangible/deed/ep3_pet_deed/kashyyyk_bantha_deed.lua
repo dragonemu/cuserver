@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_deed_ep3_pet_deed_kashyyyk_bantha_deed = object_tangible_deed_ep3_pet_deed_kashyyyk_bantha_deed:new {
+object_tangible_deed_ep3_pet_deed_shared_kashyyyk_bantha_deed.iff = object_tangible_deed_ep3_pet_deed_shared_kashyyyk_bantha_deed.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_ep3_pet_deed_kashyyyk_bantha_deed, "object/tangible/deed/ep3_pet_deed/kashyyyk_bantha_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_ep3_pet_deed_shared_kashyyyk_bantha_deed.iff, "object/tangible/deed/ep3_pet_deed/shared_kashyyyk_bantha_deed.iff")

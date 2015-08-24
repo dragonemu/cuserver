@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_lt_jasper_datapad = object_tangible_quest_corellia_coronet_lt_jasper_datapad:new {
+object_tangible_quest_shared_corellia_coronet_lt_jasper_datapad.iff = object_tangible_quest_shared_corellia_coronet_lt_jasper_datapad.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_lt_jasper_datapad, "object/tangible/quest/corellia_coronet_lt_jasper_datapad.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_corellia_coronet_lt_jasper_datapad.iff, "object/tangible/quest/shared_corellia_coronet_lt_jasper_datapad.iff")

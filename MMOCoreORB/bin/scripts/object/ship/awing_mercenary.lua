@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_awing_mercenary = object_ship_awing_mercenary:new {
+object_ship_shared_awing_mercenary.iff = object_ship_shared_awing_mercenary.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_awing_mercenary, "object/ship/awing_mercenary.iff")
+ObjectTemplates:addTemplate(object_ship_shared_awing_mercenary.iff, "object/ship/shared_awing_mercenary.iff")

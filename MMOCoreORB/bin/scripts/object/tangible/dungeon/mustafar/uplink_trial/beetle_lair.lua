@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_uplink_trial_beetle_lair = object_tangible_dungeon_mustafar_uplink_trial_beetle_lair:new {
+object_tangible_dungeon_mustafar_uplink_trial_shared_beetle_lair.iff = object_tangible_dungeon_mustafar_uplink_trial_shared_beetle_lair.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_uplink_trial_beetle_lair, "object/tangible/dungeon/mustafar/uplink_trial/beetle_lair.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_uplink_trial_shared_beetle_lair.iff, "object/tangible/dungeon/mustafar/uplink_trial/shared_beetle_lair.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile = object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile:new {
+object_tangible_dungeon_mustafar_working_droid_factory_shared_radioactive_pile.iff = object_tangible_dungeon_mustafar_working_droid_factory_shared_radioactive_pile.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile, "object/tangible/dungeon/mustafar/working_droid_factory/radioactive_pile.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_shared_radioactive_pile.iff, "object/tangible/dungeon/mustafar/working_droid_factory/shared_radioactive_pile.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_bramble = object_static_item_lair_bramble:new {
+object_static_item_shared_lair_bramble.iff = object_static_item_shared_lair_bramble.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_item_lair_bramble, "object/static/item/lair_bramble.iff")
+ObjectTemplates:addTemplate(object_static_item_shared_lair_bramble.iff, "object/static/item/shared_lair_bramble.iff")

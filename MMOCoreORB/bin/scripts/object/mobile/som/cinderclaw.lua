@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_cinderclaw = object_mobile_som_cinderclaw:new {
+object_mobile_som_shared_cinderclaw.iff = object_mobile_som_shared_cinderclaw.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_cinderclaw, "object/mobile/som/cinderclaw.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_cinderclaw.iff, "object/mobile/som/shared_cinderclaw.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_renegade = object_draft_schematic_weapon_pistol_renegade:new {
+object_draft_schematic_weapon_shared_pistol_renegade.iff = object_draft_schematic_weapon_shared_pistol_renegade.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_renegade, "object/draft_schematic/weapon/pistol_renegade.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_pistol_renegade.iff, "object/draft_schematic/weapon/shared_pistol_renegade.iff")

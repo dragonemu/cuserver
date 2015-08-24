@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_jedi_watch_dog_chest = object_tangible_item_som_jedi_watch_dog_chest:new {
+object_tangible_item_som_shared_jedi_watch_dog_chest.iff = object_tangible_item_som_shared_jedi_watch_dog_chest.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_jedi_watch_dog_chest, "object/tangible/item/som/jedi_watch_dog_chest.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_shared_jedi_watch_dog_chest.iff, "object/tangible/item/som/shared_jedi_watch_dog_chest.iff")

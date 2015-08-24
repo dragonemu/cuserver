@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_standard_armor_layer_blast = object_tangible_component_armor_standard_armor_layer_blast:new {
+object_tangible_component_armor_shared_standard_armor_layer_blast.iff = object_tangible_component_armor_shared_standard_armor_layer_blast.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_blast, "object/tangible/component/armor/standard_armor_layer_blast.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_shared_standard_armor_layer_blast.iff, "object/tangible/component/armor/shared_standard_armor_layer_blast.iff")

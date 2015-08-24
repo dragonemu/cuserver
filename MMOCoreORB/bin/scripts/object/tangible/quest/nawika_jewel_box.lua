@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_nawika_jewel_box = object_tangible_quest_nawika_jewel_box:new {
+object_tangible_quest_shared_nawika_jewel_box.iff = object_tangible_quest_shared_nawika_jewel_box.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_nawika_jewel_box, "object/tangible/quest/nawika_jewel_box.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_nawika_jewel_box.iff, "object/tangible/quest/shared_nawika_jewel_box.iff")

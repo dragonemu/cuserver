@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_capacitor_elite_capacitor = object_draft_schematic_space_capacitor_elite_capacitor:new {
+object_draft_schematic_space_capacitor_shared_elite_capacitor.iff = object_draft_schematic_space_capacitor_shared_elite_capacitor.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_elite_capacitor, "object/draft_schematic/space/capacitor/elite_capacitor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_capacitor_shared_elite_capacitor.iff, "object/draft_schematic/space/capacitor/shared_elite_capacitor.iff")

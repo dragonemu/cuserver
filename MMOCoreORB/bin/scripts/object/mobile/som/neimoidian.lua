@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_neimoidian = object_mobile_som_neimoidian:new {
+object_mobile_som_shared_neimoidian.iff = object_mobile_som_shared_neimoidian.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_neimoidian, "object/mobile/som/neimoidian.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_neimoidian.iff, "object/mobile/som/shared_neimoidian.iff")

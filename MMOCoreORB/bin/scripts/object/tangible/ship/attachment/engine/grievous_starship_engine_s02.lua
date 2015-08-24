@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_engine_grievous_starship_engine_s02 = object_tangible_ship_attachment_engine_grievous_starship_engine_s02:new {
+object_tangible_ship_attachment_engine_shared_grievous_starship_engine_s02.iff = object_tangible_ship_attachment_engine_shared_grievous_starship_engine_s02.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_engine_grievous_starship_engine_s02, "object/tangible/ship/attachment/engine/grievous_starship_engine_s02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_engine_shared_grievous_starship_engine_s02.iff, "object/tangible/ship/attachment/engine/shared_grievous_starship_engine_s02.iff")

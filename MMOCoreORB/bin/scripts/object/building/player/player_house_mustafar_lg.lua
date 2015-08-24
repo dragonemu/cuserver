@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_player_player_house_mustafar_lg = object_building_player_player_house_mustafar_lg:new {
+object_building_player_shared_player_house_mustafar_lg.iff = object_building_player_shared_player_house_mustafar_lg.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_player_player_house_mustafar_lg, "object/building/player/player_house_mustafar_lg.iff")
+ObjectTemplates:addTemplate(object_building_player_shared_player_house_mustafar_lg.iff, "object/building/player/shared_player_house_mustafar_lg.iff")

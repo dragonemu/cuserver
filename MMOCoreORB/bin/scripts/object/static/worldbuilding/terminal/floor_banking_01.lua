@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_terminal_floor_banking_01 = object_static_worldbuilding_terminal_floor_banking_01:new {
+object_static_worldbuilding_terminal_shared_floor_banking_01.iff = object_static_worldbuilding_terminal_shared_floor_banking_01.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_banking_01, "object/static/worldbuilding/terminal/floor_banking_01.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_shared_floor_banking_01.iff, "object/static/worldbuilding/terminal/shared_floor_banking_01.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_spirits = object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_spirits:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_sayormi_spirits.iff = object_tangible_loot_creature_loot_kashyyyk_loot_shared_sayormi_spirits.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sayormi_spirits, "object/tangible/loot/creature_loot/kashyyyk_loot/sayormi_spirits.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_sayormi_spirits.iff, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_sayormi_spirits.iff")

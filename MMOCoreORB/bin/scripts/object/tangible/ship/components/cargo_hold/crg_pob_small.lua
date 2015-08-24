@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_cargo_hold_crg_pob_small = object_tangible_ship_components_cargo_hold_crg_pob_small:new {
+object_tangible_ship_components_cargo_hold_shared_crg_pob_small.iff = object_tangible_ship_components_cargo_hold_shared_crg_pob_small.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_cargo_hold_crg_pob_small, "object/tangible/ship/components/cargo_hold/crg_pob_small.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_cargo_hold_shared_crg_pob_small.iff, "object/tangible/ship/components/cargo_hold/shared_crg_pob_small.iff")

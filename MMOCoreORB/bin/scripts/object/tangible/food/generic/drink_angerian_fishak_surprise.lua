@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_drink_angerian_fishak_surprise = object_tangible_food_generic_drink_angerian_fishak_surprise:new {
+object_tangible_food_generic_shared_drink_angerian_fishak_surprise.iff = object_tangible_food_generic_shared_drink_angerian_fishak_surprise.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_angerian_fishak_surprise, "object/tangible/food/generic/drink_angerian_fishak_surprise.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_angerian_fishak_surprise.iff, "object/tangible/food/generic/shared_drink_angerian_fishak_surprise.iff")

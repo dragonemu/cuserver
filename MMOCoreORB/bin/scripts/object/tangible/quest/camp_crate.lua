@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_camp_crate = object_tangible_quest_camp_crate:new {
+object_tangible_quest_shared_camp_crate.iff = object_tangible_quest_shared_camp_crate.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_camp_crate, "object/tangible/quest/camp_crate.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_camp_crate.iff, "object/tangible/quest/shared_camp_crate.iff")

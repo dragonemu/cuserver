@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_enhancer_bactajab = object_draft_schematic_chemistry_enhancer_enhancer_bactajab:new {
+object_draft_schematic_chemistry_enhancer_shared_enhancer_bactajab.iff = object_draft_schematic_chemistry_enhancer_shared_enhancer_bactajab.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactajab, "object/draft_schematic/chemistry/enhancer/enhancer_bactajab.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_shared_enhancer_bactajab.iff, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactajab.iff")

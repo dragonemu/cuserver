@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_city_tie_bomber_event_reward = object_tangible_furniture_city_tie_bomber_event_reward:new {
+object_tangible_furniture_city_shared_tie_bomber_event_reward.iff = object_tangible_furniture_city_shared_tie_bomber_event_reward.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_city_tie_bomber_event_reward, "object/tangible/furniture/city/tie_bomber_event_reward.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_city_shared_tie_bomber_event_reward.iff, "object/tangible/furniture/city/shared_tie_bomber_event_reward.iff")

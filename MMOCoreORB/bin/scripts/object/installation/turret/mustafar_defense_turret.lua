@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_installation_turret_mustafar_defense_turret = object_installation_turret_mustafar_defense_turret:new {
+object_installation_turret_shared_mustafar_defense_turret.iff = object_installation_turret_shared_mustafar_defense_turret.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_installation_turret_mustafar_defense_turret, "object/installation/turret/mustafar_defense_turret.iff")
+ObjectTemplates:addTemplate(object_installation_turret_shared_mustafar_defense_turret.iff, "object/installation/turret/shared_mustafar_defense_turret.iff")

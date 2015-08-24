@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_must_foreman_chivos = object_mobile_som_must_foreman_chivos:new {
+object_mobile_som_shared_must_foreman_chivos.iff = object_mobile_som_shared_must_foreman_chivos.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_must_foreman_chivos, "object/mobile/som/must_foreman_chivos.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_must_foreman_chivos.iff, "object/mobile/som/shared_must_foreman_chivos.iff")

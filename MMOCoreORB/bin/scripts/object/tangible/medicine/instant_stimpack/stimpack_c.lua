@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_instant_stimpack_stimpack_c = object_tangible_medicine_instant_stimpack_stimpack_c:new {
+object_tangible_medicine_instant_stimpack_shared_stimpack_c.iff = object_tangible_medicine_instant_stimpack_shared_stimpack_c.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_stimpack_c, "object/tangible/medicine/instant_stimpack/stimpack_c.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_shared_stimpack_c.iff, "object/tangible/medicine/instant_stimpack/shared_stimpack_c.iff")

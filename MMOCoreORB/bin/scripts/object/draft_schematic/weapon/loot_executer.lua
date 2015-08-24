@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_executer = object_draft_schematic_weapon_loot_executer:new {
+object_draft_schematic_weapon_shared_loot_executer.iff = object_draft_schematic_weapon_shared_loot_executer.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_executer, "object/draft_schematic/weapon/loot_executer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_loot_executer.iff, "object/draft_schematic/weapon/shared_loot_executer.iff")

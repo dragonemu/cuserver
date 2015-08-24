@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_bolotaur = object_mobile_bolotaur:new {
+object_mobile_shared_bolotaur.iff = object_mobile_shared_bolotaur.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_bolotaur, "object/mobile/bolotaur.iff")
+ObjectTemplates:addTemplate(object_mobile_shared_bolotaur.iff, "object/mobile/shared_bolotaur.iff")

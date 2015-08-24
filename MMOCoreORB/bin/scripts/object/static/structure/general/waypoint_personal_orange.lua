@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_structure_general_waypoint_personal_orange = object_static_structure_general_waypoint_personal_orange:new {
+object_static_structure_general_shared_waypoint_personal_orange.iff = object_static_structure_general_shared_waypoint_personal_orange.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_waypoint_personal_orange, "object/static/structure/general/waypoint_personal_orange.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_shared_waypoint_personal_orange.iff, "object/static/structure/general/shared_waypoint_personal_orange.iff")

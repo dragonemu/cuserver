@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_foraged_foraged_fruit_s2_generic = object_tangible_food_foraged_foraged_fruit_s2_generic:new {
+object_tangible_food_foraged_shared_foraged_fruit_s2_generic.iff = object_tangible_food_foraged_shared_foraged_fruit_s2_generic.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_foraged_foraged_fruit_s2_generic, "object/tangible/food/foraged/foraged_fruit_s2_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_food_foraged_shared_foraged_fruit_s2_generic.iff, "object/tangible/food/foraged/shared_foraged_fruit_s2_generic.iff")

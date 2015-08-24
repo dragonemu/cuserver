@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_humanoid_arm_bone = object_tangible_loot_creature_loot_generic_humanoid_arm_bone:new {
+object_tangible_loot_creature_loot_generic_shared_humanoid_arm_bone.iff = object_tangible_loot_creature_loot_generic_shared_humanoid_arm_bone.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_humanoid_arm_bone, "object/tangible/loot/creature_loot/generic/humanoid_arm_bone.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_humanoid_arm_bone.iff, "object/tangible/loot/creature_loot/generic/shared_humanoid_arm_bone.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_kenobi_sucker = object_mobile_som_som_kenobi_sucker:new {
+object_mobile_som_shared_som_kenobi_sucker.iff = object_mobile_som_shared_som_kenobi_sucker.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_sucker, "object/mobile/som/som_kenobi_sucker.iff")
+ObjectTemplates:addTemplate(object_mobile_som_shared_som_kenobi_sucker.iff, "object/mobile/som/shared_som_kenobi_sucker.iff")

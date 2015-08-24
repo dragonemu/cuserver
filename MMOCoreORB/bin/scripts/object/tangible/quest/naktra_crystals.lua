@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_naktra_crystals = object_tangible_quest_naktra_crystals:new {
+object_tangible_quest_shared_naktra_crystals.iff = object_tangible_quest_shared_naktra_crystals.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_naktra_crystals, "object/tangible/quest/naktra_crystals.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_shared_naktra_crystals.iff, "object/tangible/quest/shared_naktra_crystals.iff")

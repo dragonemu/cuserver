@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_czerka_dart = object_draft_schematic_weapon_carbine_czerka_dart:new {
+object_draft_schematic_weapon_shared_carbine_czerka_dart.iff = object_draft_schematic_weapon_shared_carbine_czerka_dart.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_czerka_dart, "object/draft_schematic/weapon/carbine_czerka_dart.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_czerka_dart.iff, "object/draft_schematic/weapon/shared_carbine_czerka_dart.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_battle_droid_powerdown = object_static_worldbuilding_battle_droid_powerdown:new {
+object_static_worldbuilding_shared_battle_droid_powerdown.iff = object_static_worldbuilding_shared_battle_droid_powerdown.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_battle_droid_powerdown, "object/static/worldbuilding/battle_droid_powerdown.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_shared_battle_droid_powerdown.iff, "object/static/worldbuilding/shared_battle_droid_powerdown.iff")

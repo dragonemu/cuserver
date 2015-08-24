@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_player_tieinterceptor_imperial_guard = object_ship_player_player_tieinterceptor_imperial_guard:new {
+object_ship_player_shared_player_tieinterceptor_imperial_guard.iff = object_ship_player_shared_player_tieinterceptor_imperial_guard.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_tieinterceptor_imperial_guard, "object/ship/player/player_tieinterceptor_imperial_guard.iff")
+ObjectTemplates:addTemplate(object_ship_player_shared_player_tieinterceptor_imperial_guard.iff, "object/ship/player/shared_player_tieinterceptor_imperial_guard.iff")

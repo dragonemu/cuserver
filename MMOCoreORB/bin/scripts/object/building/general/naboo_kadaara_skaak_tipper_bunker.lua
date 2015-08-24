@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_general_naboo_kadaara_skaak_tipper_bunker = object_building_general_naboo_kadaara_skaak_tipper_bunker:new {
+object_building_general_shared_naboo_kadaara_skaak_tipper_bunker.iff = object_building_general_shared_naboo_kadaara_skaak_tipper_bunker.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_general_naboo_kadaara_skaak_tipper_bunker, "object/building/general/naboo_kadaara_skaak_tipper_bunker.iff")
+ObjectTemplates:addTemplate(object_building_general_shared_naboo_kadaara_skaak_tipper_bunker.iff, "object/building/general/shared_naboo_kadaara_skaak_tipper_bunker.iff")

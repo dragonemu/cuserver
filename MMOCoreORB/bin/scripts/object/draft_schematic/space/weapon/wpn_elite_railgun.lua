@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_weapon_wpn_elite_railgun = object_draft_schematic_space_weapon_wpn_elite_railgun:new {
+object_draft_schematic_space_weapon_shared_wpn_elite_railgun.iff = object_draft_schematic_space_weapon_shared_wpn_elite_railgun.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_railgun, "object/draft_schematic/space/weapon/wpn_elite_railgun.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_shared_wpn_elite_railgun.iff, "object/draft_schematic/space/weapon/shared_wpn_elite_railgun.iff")

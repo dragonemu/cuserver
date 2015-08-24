@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_drink_bantha_blaster = object_tangible_food_generic_drink_bantha_blaster:new {
+object_tangible_food_generic_shared_drink_bantha_blaster.iff = object_tangible_food_generic_shared_drink_bantha_blaster.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_bantha_blaster, "object/tangible/food/generic/drink_bantha_blaster.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_bantha_blaster.iff, "object/tangible/food/generic/shared_drink_bantha_blaster.iff")

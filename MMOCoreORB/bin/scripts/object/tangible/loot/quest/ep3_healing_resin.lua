@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_ep3_healing_resin = object_tangible_loot_quest_ep3_healing_resin:new {
+object_tangible_loot_quest_shared_ep3_healing_resin.iff = object_tangible_loot_quest_shared_ep3_healing_resin.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_ep3_healing_resin, "object/tangible/loot/quest/ep3_healing_resin.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_shared_ep3_healing_resin.iff, "object/tangible/loot/quest/shared_ep3_healing_resin.iff")

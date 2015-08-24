@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_asteroid_mining_asteroid_dynamic_nugget = object_ship_asteroid_mining_asteroid_dynamic_nugget:new {
+object_ship_asteroid_shared_mining_asteroid_dynamic_nugget.iff = object_ship_asteroid_shared_mining_asteroid_dynamic_nugget.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_nugget, "object/ship/asteroid/mining_asteroid_dynamic_nugget.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_shared_mining_asteroid_dynamic_nugget.iff, "object/ship/asteroid/shared_mining_asteroid_dynamic_nugget.iff")

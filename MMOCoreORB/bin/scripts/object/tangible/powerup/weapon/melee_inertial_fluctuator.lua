@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_inertial_fluctuator = object_tangible_powerup_weapon_melee_inertial_fluctuator:new {
+object_tangible_powerup_weapon_shared_melee_inertial_fluctuator.iff = object_tangible_powerup_weapon_shared_melee_inertial_fluctuator.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_inertial_fluctuator, "object/tangible/powerup/weapon/melee_inertial_fluctuator.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_shared_melee_inertial_fluctuator.iff, "object/tangible/powerup/weapon/shared_melee_inertial_fluctuator.iff")

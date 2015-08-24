@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_reactor_mining_grade_reactor = object_draft_schematic_space_reactor_mining_grade_reactor:new {
+object_draft_schematic_space_reactor_shared_mining_grade_reactor.iff = object_draft_schematic_space_reactor_shared_mining_grade_reactor.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_reactor_mining_grade_reactor, "object/draft_schematic/space/reactor/mining_grade_reactor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_reactor_shared_mining_grade_reactor.iff, "object/draft_schematic/space/reactor/shared_mining_grade_reactor.iff")

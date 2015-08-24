@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_som_sword_obsidian = object_weapon_melee_sword_som_sword_obsidian:new {
+object_weapon_melee_sword_shared_som_sword_obsidian.iff = object_weapon_melee_sword_shared_som_sword_obsidian.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_som_sword_obsidian, "object/weapon/melee/sword/som_sword_obsidian.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_shared_som_sword_obsidian.iff, "object/weapon/melee/sword/shared_som_sword_obsidian.iff")

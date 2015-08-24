@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_travel_travel_ticket_bocctyyy_path_ticket = object_tangible_travel_travel_ticket_bocctyyy_path_ticket:new {
+object_tangible_travel_travel_ticket_shared_bocctyyy_path_ticket.iff = object_tangible_travel_travel_ticket_shared_bocctyyy_path_ticket.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_bocctyyy_path_ticket, "object/tangible/travel/travel_ticket/bocctyyy_path_ticket.iff")
+ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_shared_bocctyyy_path_ticket.iff, "object/tangible/travel/travel_ticket/shared_bocctyyy_path_ticket.iff")

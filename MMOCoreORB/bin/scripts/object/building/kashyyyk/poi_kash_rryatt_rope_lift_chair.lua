@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair = object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair:new {
+object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair.iff = object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_rope_lift_chair, "object/building/kashyyyk/poi_kash_rryatt_rope_lift_chair.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair.iff, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_chair.iff")

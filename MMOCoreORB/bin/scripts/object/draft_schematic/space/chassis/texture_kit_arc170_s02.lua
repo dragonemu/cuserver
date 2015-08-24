@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_chassis_texture_kit_arc170_s02 = object_draft_schematic_space_chassis_texture_kit_arc170_s02:new {
+object_draft_schematic_space_chassis_shared_texture_kit_arc170_s02.iff = object_draft_schematic_space_chassis_shared_texture_kit_arc170_s02.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_chassis_texture_kit_arc170_s02, "object/draft_schematic/space/chassis/texture_kit_arc170_s02.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_chassis_shared_texture_kit_arc170_s02.iff, "object/draft_schematic/space/chassis/shared_texture_kit_arc170_s02.iff")

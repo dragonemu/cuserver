@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_trandoshan_interframe = object_tangible_smuggler_trandoshan_interframe:new {
+object_tangible_smuggler_shared_trandoshan_interframe.iff = object_tangible_smuggler_shared_trandoshan_interframe.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_trandoshan_interframe, "object/tangible/smuggler/trandoshan_interframe.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_shared_trandoshan_interframe.iff, "object/tangible/smuggler/shared_trandoshan_interframe.iff")

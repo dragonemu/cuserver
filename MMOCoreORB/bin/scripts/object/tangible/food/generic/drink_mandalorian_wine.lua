@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_drink_mandalorian_wine = object_tangible_food_generic_drink_mandalorian_wine:new {
+object_tangible_food_generic_shared_drink_mandalorian_wine.iff = object_tangible_food_generic_shared_drink_mandalorian_wine.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_mandalorian_wine, "object/tangible/food/generic/drink_mandalorian_wine.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_drink_mandalorian_wine.iff, "object/tangible/food/generic/shared_drink_mandalorian_wine.iff")

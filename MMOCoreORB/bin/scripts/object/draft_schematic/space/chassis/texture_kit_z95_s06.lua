@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_chassis_texture_kit_z95_s06 = object_draft_schematic_space_chassis_texture_kit_z95_s06:new {
+object_draft_schematic_space_chassis_shared_texture_kit_z95_s06.iff = object_draft_schematic_space_chassis_shared_texture_kit_z95_s06.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_chassis_texture_kit_z95_s06, "object/draft_schematic/space/chassis/texture_kit_z95_s06.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_chassis_shared_texture_kit_z95_s06.iff, "object/draft_schematic/space/chassis/shared_texture_kit_z95_s06.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_grievous_starship_weapon2_s01 = object_tangible_ship_attachment_weapon_grievous_starship_weapon2_s01:new {
+object_tangible_ship_attachment_weapon_shared_grievous_starship_weapon2_s01.iff = object_tangible_ship_attachment_weapon_shared_grievous_starship_weapon2_s01.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_grievous_starship_weapon2_s01, "object/tangible/ship/attachment/weapon/grievous_starship_weapon2_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_shared_grievous_starship_weapon2_s01.iff, "object/tangible/ship/attachment/weapon/shared_grievous_starship_weapon2_s01.iff")

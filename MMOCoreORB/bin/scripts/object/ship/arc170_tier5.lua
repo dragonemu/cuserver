@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_arc170_tier5 = object_ship_arc170_tier5:new {
+object_ship_shared_arc170_tier5.iff = object_ship_shared_arc170_tier5.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_arc170_tier5, "object/ship/arc170_tier5.iff")
+ObjectTemplates:addTemplate(object_ship_shared_arc170_tier5.iff, "object/ship/shared_arc170_tier5.iff")

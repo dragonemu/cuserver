@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_pistol_coil_ion = object_tangible_component_weapon_mustafar_pistol_coil_ion:new {
+object_tangible_component_weapon_mustafar_shared_pistol_coil_ion.iff = object_tangible_component_weapon_mustafar_shared_pistol_coil_ion.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_pistol_coil_ion, "object/tangible/component/weapon/mustafar/pistol_coil_ion.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_shared_pistol_coil_ion.iff, "object/tangible/component/weapon/mustafar/shared_pistol_coil_ion.iff")

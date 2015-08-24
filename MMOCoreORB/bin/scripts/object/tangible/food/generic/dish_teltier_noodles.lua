@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_teltier_noodles = object_tangible_food_generic_dish_teltier_noodles:new {
+object_tangible_food_generic_shared_dish_teltier_noodles.iff = object_tangible_food_generic_shared_dish_teltier_noodles.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_teltier_noodles, "object/tangible/food/generic/dish_teltier_noodles.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dish_teltier_noodles.iff, "object/tangible/food/generic/shared_dish_teltier_noodles.iff")

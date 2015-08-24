@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_armor_clothing_nostat_base_battle = object_tangible_wearables_armor_armor_clothing_nostat_base_battle:new {
+object_tangible_wearables_armor_shared_armor_clothing_nostat_base_battle.iff = object_tangible_wearables_armor_shared_armor_clothing_nostat_base_battle.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base_battle, "object/tangible/wearables/armor/armor_clothing_nostat_base_battle.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_shared_armor_clothing_nostat_base_battle.iff, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base_battle.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_resource_container_energy_liquid_lg = object_resource_container_resource_container_energy_liquid_lg:new {
+object_resource_container_shared_resource_container_energy_liquid_lg.iff = object_resource_container_shared_resource_container_energy_liquid_lg.iff:new {
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_energy_liquid_lg, "object/resource_container/resource_container_energy_liquid_lg.iff")
+ObjectTemplates:addTemplate(object_resource_container_shared_resource_container_energy_liquid_lg.iff, "object/resource_container/shared_resource_container_energy_liquid_lg.iff")
