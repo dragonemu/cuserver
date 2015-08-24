@@ -260,7 +260,7 @@ void TangibleObjectImplementation::setDefender(SceneObject* defender) {
 
 			temp = defenderList.get(0);
 
-			TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
+			/*TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
 			dtano6->startUpdate(0x01);
 
 			defenderList.set(0, defender, dtano6, 2);
@@ -268,7 +268,7 @@ void TangibleObjectImplementation::setDefender(SceneObject* defender) {
 
 			dtano6->close();
 
-			broadcastMessage(dtano6, true);
+			broadcastMessage(dtano6, true);*/
 
 			break;
 		}
@@ -292,15 +292,15 @@ void TangibleObjectImplementation::addDefender(SceneObject* defender) {
 	}
 
 	//info("adding defender");
-
-	TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
+//TODO: ?
+	/*TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
 	dtano6->startUpdate(0x01);
 
 	defenderList.add(defender, dtano6);
 
 	dtano6->close();
 
-	broadcastMessage(dtano6, true);
+	broadcastMessage(dtano6, true);*/
 
 	setCombatState();
 
@@ -317,14 +317,14 @@ void TangibleObjectImplementation::removeDefenders() {
 	for (int i = 0; i < defenderList.size(); i++)
 		notifyObservers(ObserverEventType::DEFENDERDROPPED, defenderList.get(i));
 
-	TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
+	/*TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
 	dtano6->startUpdate(0x01);
 
 	defenderList.removeAll(dtano6);
 
 	dtano6->close();
 
-	broadcastMessage(dtano6, true);
+	broadcastMessage(dtano6, true);*/
 
 	//info("removed all defenders");
 }
@@ -337,7 +337,7 @@ void TangibleObjectImplementation::removeDefender(SceneObject* defender) {
 
 			notifyObservers(ObserverEventType::DEFENDERDROPPED, defender);
 
-			TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
+			/*TangibleObjectDeltaMessage6* dtano6 = new TangibleObjectDeltaMessage6(asTangibleObject());
 
 			dtano6->startUpdate(0x01);
 
@@ -348,7 +348,7 @@ void TangibleObjectImplementation::removeDefender(SceneObject* defender) {
 
 			dtano6->close();
 
-			broadcastMessage(dtano6, true);
+			broadcastMessage(dtano6, true); */
 
 			//info("defender found and removed");
 			break;

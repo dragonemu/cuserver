@@ -263,7 +263,7 @@ void AiAgentImplementation::loadTemplateData(CreatureTemplate* templateData) {
 	int ham;
 	baseHAM.removeAll();
 	if (petDeed == NULL) {
-		for (int i = 0; i < 9; ++i) {
+		for (int i = 0; i < 6; i++) {
 			if (i % 3 == 0) {
 				ham = System::random(getHamMaximum() - getHamBase()) + getHamBase();
 				if (isDroidObject() && isPet())
@@ -287,12 +287,12 @@ void AiAgentImplementation::loadTemplateData(CreatureTemplate* templateData) {
 		baseHAM.add(mind/10);
 	}
 	hamList.removeAll();
-	for (int i = 0; i < 9; ++i) {
+	for (int i = 0; i < 6; i++) {
 		hamList.add(baseHAM.get(i));
 	}
 
 	maxHamList.removeAll();
-	for (int i = 0; i < 9; ++i) {
+	for (int i = 0; i < 6; i++) {
 		maxHamList.add(baseHAM.get(i));
 	}
 

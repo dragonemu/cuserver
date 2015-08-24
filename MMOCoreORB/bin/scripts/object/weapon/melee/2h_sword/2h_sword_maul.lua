@@ -69,23 +69,18 @@ object_weapon_melee_2h_sword_2h_sword_maul = object_weapon_melee_2h_sword_shared
 	attackType = MELEEATTACK,
 
 	-- ENERGY, KINETIC, ELECTRICITY, STUN, BLAST, HEAT, COLD, ACID, FORCE, LIGHTSABER
-	damageType = BLAST,
-
-	-- NONE, LIGHT, MEDIUM, HEAVY
-	armorPiercing = MEDIUM,
+	damageType = KINETIC,
 
 	-- combat_rangedspecialize_bactarifle, combat_rangedspecialize_rifle, combat_rangedspecialize_pistol, combat_rangedspecialize_heavy, combat_rangedspecialize_carbine
 	-- combat_meleespecialize_unarmed, combat_meleespecialize_twohand, combat_meleespecialize_polearm, combat_meleespecialize_onehand, combat_general,
 	-- combat_meleespecialize_twohandlightsaber, combat_meleespecialize_polearmlightsaber, combat_meleespecialize_onehandlightsaber
 	xpType = "combat_meleespecialize_twohand",
 
-	-- See http://www.ocdsoft.com/files/certifications.xls
-	certificationsRequired = { "cert_sword_2h_maul" },
 	-- See http://www.ocdsoft.com/files/accuracy.xls
-	creatureAccuracyModifiers = { "twohandmelee_accuracy" },
+	creatureAccuracyModifiers = { "twohandmelee_accuracy", "melee_accuracy" },
 
 	-- See http://www.ocdsoft.com/files/defense.xls
-	defenderDefenseModifiers = { "melee_defense" },
+	defenderDefenseModifiers = { "melee_defense", "twohandmelee_defense" },
 
 	-- Leave as "dodge" for now, may have additions later
 	defenderSecondaryDefenseModifiers = { "counterattack" },
@@ -93,7 +88,7 @@ object_weapon_melee_2h_sword_2h_sword_maul = object_weapon_melee_2h_sword_shared
 	defenderToughnessModifiers = { "twohandmelee_toughness" },
 
 	-- See http://www.ocdsoft.com/files/speed.xls
-	speedModifiers = { "twohandmelee_speed" },
+	speedModifiers = { "twohandmelee_speed", "melee_speed"},
 
 	-- Leave blank for now
 	damageModifiers = { },
@@ -101,7 +96,7 @@ object_weapon_melee_2h_sword_2h_sword_maul = object_weapon_melee_2h_sword_shared
 
 	-- The values below are the default values.  To be used for blue frog objects primarily
 	healthAttackCost = 95,
-	actionAttackCost = 25,
+	actionAttackCost = 85,
 	mindAttackCost = 10,
 	forceCost = 0,
 
@@ -114,10 +109,10 @@ object_weapon_melee_2h_sword_2h_sword_maul = object_weapon_melee_2h_sword_shared
 	maxRange = 5,
 	maxRangeAccuracy = -35,
 
-	minDamage = 100,
-	maxDamage = 450,
+	minDamage = 575,
+	maxDamage = 1185,
 
-	attackSpeed = 6,
+	attackSpeed = 2.2,
 
 	woundsRatio = 15,
 

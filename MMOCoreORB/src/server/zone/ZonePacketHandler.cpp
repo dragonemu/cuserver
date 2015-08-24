@@ -51,6 +51,7 @@
 #include "packets/object/InsertedAsPilotCallback.h"
 #include "packets/object/JtlShipListRequestCallback.h"
 #include "packets/object/LotteryWindowCallback.h"
+#include "packets/object/ChangeRoleChoice.h"
 
 #include "packets/ui/RequestCategoriesResponseMessage.h"
 #include "packets/ui/NewTicketActivityResponseMessage.h"
@@ -81,6 +82,7 @@
 #include "packets/trade/VerifyTradeMessageCallback.h"
 #include "packets/trade/AddItemMessageCallback.h"
 #include "packets/trade/GiveMoneyMessageCallback.h"
+
 
 #include "packets/ship/ShipUpdateTransformCallback.h"
 
@@ -179,6 +181,7 @@ void ZonePacketHandler::registerObjectControllerMessages() {
 	objectMessageControllerFactory->registerObject<InsertedAsPilotCallback>(0x3fa);
 	objectMessageControllerFactory->registerObject<JtlShipListRequestCallback>(0x41C);
 	objectMessageControllerFactory->registerObject<LotteryWindowCallback>(0x43f);
+	objectMessageControllerFactory->registerObject<ChangeRoleChoiceCallback>(0x44d);
 
 }
 

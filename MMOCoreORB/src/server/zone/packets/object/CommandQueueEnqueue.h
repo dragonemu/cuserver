@@ -103,6 +103,10 @@ public:
 		int commandCount = client->getCommandCount();
 		uint64 miliDifference = commandCooldown->miliDifference();
 
+		if(miliDifference >= 30000){
+			player->clearCombatState();
+		}
+
 		if (commandCount >= 2 && miliDifference < 1000)
 			player->clearQueueAction(actionCount);
 		else {

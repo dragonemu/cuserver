@@ -15,6 +15,8 @@
 #include "server/zone/objects/creature/LuaCreatureObject.h"
 #include "server/zone/objects/creature/CreatureObject.h"
 #include "server/zone/objects/player/PlayerObject.h"
+#include "server/zone/objects/player/events/CoolDownTask.h"
+#include "server/zone/packets/object/CommandTimer.h"
 
 #include "server/db/ServerDatabase.h"
 
@@ -241,6 +243,15 @@ float ObjectControllerImplementation::activateCommand(CreatureObject* object, un
 		object->addSkillMod(SkillModManager::ABILITYBONUS, skillMod, value, false);
 	}
 
+	if (object->containsPendingTask(queueCommand->getQueueCommandName())) {
+		object->sendSystemMessage("On cool down"); // Debug prints
+		return 0.f;
+	}
+
+	if (object->containsPendingTask("executeLocker")) {
+		object->sendSystemMessage("Global Cooldown Active!!"); // Debug prints
+		return 0.f;
+	}
 
 	int errorNumber = queueCommand->doQueueCommand(object, targetID, arguments);
 
@@ -256,9 +267,22 @@ float ObjectControllerImplementation::activateCommand(CreatureObject* object, un
 		queueCommand->onFail(actionCount, object, errorNumber, actionCRC);
 	else {
 		if (queueCommand->getDefaultPriority() != QueueCommand::IMMEDIATE)
-			durationTime = queueCommand->getCommandDuration(object, arguments);
+			durationTime = queueCommand->getExecuteTime() + queueCommand->getCommandDuration(object, arguments);
+		info("DurationTime:" + String::valueOf(durationTime));
+		queueCommand->onComplete(actionCount, object, durationTime + queueCommand->getExecuteTime(), actionCRC);
 
-		queueCommand->onComplete(actionCount, object, durationTime, actionCRC);
+		//Packet for Cooldowns factoring in player attack speed and moved to ObjectController for Speed, before it was sending after the command was complete and should start as soon as the command is executed.
+		BaseMessage* cooldownStart = new CommandTimer(object, actionCount, actionCRC, queueCommand->getCoolDownGroup().hashCode(), queueCommand->getCooldown() + durationTime, queueCommand->getExecuteTime() + durationTime);
+		object->sendMessage(cooldownStart);
+
+		//Server side cooldown task, prevents requing the same command again before the Timer is complete.
+		info("CoolDown:" + String::valueOf(queueCommand->getCooldown()));
+		Reference<CoolDownTask*> cdGroup = new CoolDownTask(object, queueCommand->getCooldown() + durationTime, queueCommand->getQueueCommandName());
+		object->addPendingTask(queueCommand->getQueueCommandName(), cdGroup, 1);
+
+		//Server side  execution locker, Prevents enquing a new command when the global coolDown (execution) is cooling down.
+		Reference<CoolDownTask*> executeCoolDown = new CoolDownTask(object, durationTime + queueCommand->getExecuteTime(), "executeLocker");
+		object->addPendingTask("executeLocker", executeCoolDown, 1);
 	}
 
 	/*if (actionCRC == String("stand").hashCode()) {

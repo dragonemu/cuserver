@@ -400,7 +400,7 @@ void SuiManager::handleCharacterBuilderSelectItem(CreatureObject* player, SuiBox
 				if (!player->isInCombat()) {
 					player->sendSystemMessage("You have been cleansed from the signs of previous battles.");
 
-					for (int i = 0; i < 9; ++i) {
+					for (int i = 0; i < 6; i++) {
 						player->setWounds(i, 0);
 					}
 

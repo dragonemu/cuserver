@@ -32,6 +32,7 @@
 #include "server/zone/packets/player/PlayerObjectMessage6.h"
 #include "server/zone/packets/player/PlayerObjectMessage8.h"
 #include "server/zone/packets/player/PlayerObjectMessage9.h"
+#include "server/zone/packets/creature/CreatureObjectDeltaMessage4.h"
 #include "server/zone/packets/zone/CmdSceneReady.h"
 #include "server/zone/objects/waypoint/WaypointObject.h"
 #include "server/zone/objects/creature/commands/QueueCommand.h"
@@ -78,6 +79,8 @@
 #include "FsExperienceTypes.h"
 #include "server/login/account/Account.h"
 #include "server/zone/objects/tangible/deed/eventperk/EventPerkDeed.h"
+
+#include "server/zone/objects/player/events/ActionMindRegenTickTask.h"
 
 void PlayerObjectImplementation::initializeTransientMembers() {
 	IntangibleObjectImplementation::initializeTransientMembers();
@@ -734,10 +737,13 @@ WaypointObject* PlayerObjectImplementation::addWaypoint(const String& planet, fl
 	return obj;
 }
 
+
 void PlayerObjectImplementation::addAbility(Ability* ability, bool notifyClient) {
+	ManagedReference<CreatureObject*> creo = dynamic_cast<CreatureObject*>(parent.get().get());
+
 	if (notifyClient) {
-		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
-		msg->startUpdate(0);
+		CreatureObjectDeltaMessage4* msg = new CreatureObjectDeltaMessage4(creo);
+		msg->startUpdate(0x0E);
 		abilityList.add(ability, msg, 1);
 		msg->close();
 		sendMessage(msg);
@@ -750,33 +756,20 @@ void PlayerObjectImplementation::addAbilities(Vector<Ability*>& abilities, bool 
 	if (abilities.size() == 0)
 		return;
 
-	if (notifyClient) {
-		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
-		msg->startUpdate(0);
-
-		abilityList.add(abilities.get(0), msg, abilities.size());
-
-		for (int i = 1; i < abilities.size(); ++i)
-			abilityList.add(abilities.get(i), msg, 0);
-
-		msg->close();
-
-		sendMessage(msg);
-	} else {
-		for (int i = 0; i < abilities.size(); ++i)
-			abilityList.add(abilities.get(i));
-	}
+	for (int i = 0; i < abilities.size(); i++)
+		addAbility(abilities.get(i), notifyClient);
 }
 
 void PlayerObjectImplementation::removeAbility(Ability* ability, bool notifyClient) {
+	ManagedReference<CreatureObject*> creo = dynamic_cast<CreatureObject*>(parent.get().get());
 	int index = abilityList.find(ability);
 
 	if (index == -1)
 		return;
 
 	if (notifyClient) {
-		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
-		msg->startUpdate(0);
+		CreatureObjectDeltaMessage4* msg = new CreatureObjectDeltaMessage4(creo);
+		msg->startUpdate(0x0F);//IDK we really needa  log.
 		abilityList.remove(index, msg, 1);
 		msg->close();
 		sendMessage(msg);
@@ -789,22 +782,117 @@ void PlayerObjectImplementation::removeAbilities(Vector<Ability*>& abilities, bo
 	if (abilities.size() == 0)
 		return;
 
-	if (notifyClient) {
-		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
-		msg->startUpdate(0);
+	for (int i = 0; i < abilities.size(); i++)
+		removeAbility(abilities.get(i), notifyClient);
+}
 
-		abilityList.remove(abilityList.find(abilities.get(0)), msg, abilities.size());
+void PlayerObjectImplementation::recalculateCombatLevel(CreatureObject* creature)
+{
+	creature->setLevel( 1, false );
 
-		for (int i = 1; i < abilities.size(); ++i)
-			abilityList.remove(abilityList.find(abilities.get(i)), msg, 0);
+	int combatLevelXp = 0;
+	String skillType = "";
+	SkillList* skillList = creature->getSkillList();
 
-		msg->close();
-
-		sendMessage(msg);
-	} else {
-		for (int i = 0; i < abilities.size(); ++i)
-			abilityList.remove(abilityList.find(abilities.get(i)));
+	for( int i=0 ; i < skillList->size(); ++i )
+	{
+		//info( "combat level xp: " + String::valueOf(combatLevelXp) + "", true );
+		Reference<Skill*> skill = skillList->get(i);
+		skillType = skill->getXpType();
+		if (skillType.contains("bountyhunter"))
+			combatLevelXp += skill->getXpCost() * 35;
+		else if (skillType.contains("combat_general") && !skillType.contains("space"))
+			combatLevelXp += skill->getXpCost() * 3;
+		else if (skillType.contains("scout"))
+			combatLevelXp += skill->getXpCost() * 2;
+		else if ( skillType.contains("jedi_general") || skillType.contains("unarmed") || skillType.contains("hand")
+				|| skillType.contains("polearm") || skillType.contains("rifle") || skillType.contains("carbine")
+				|| skillType.contains("pistol") || skillType.contains("heavy") || skillType.contains("medical")
+				|| skillType.contains("creaturehandler") || skillType.contains("trapping") )
+			combatLevelXp += skill->getXpCost();
 	}
+
+	creature->setLevelExperience( combatLevelXp );
+	calculateCombatLevel(creature);
+}
+void PlayerObjectImplementation::calculateCombatLevel(CreatureObject* creature)
+{
+	int creatureLevel = creature->getLevel();
+	int xpToLevel = 1977 * pow(creatureLevel, 2) - 1000 * creatureLevel;
+	int xpMinimum = 1977 * pow(creatureLevel-1, 2) - 1000 * (creatureLevel-1);
+
+	if( creature->getLevelExperience() < xpMinimum && creatureLevel > 1 )
+	{
+		creature->setLevel(--creatureLevel, false);
+		return calculateCombatLevel( creature );
+	}
+	else if(creature->getLevelExperience() > xpToLevel && creatureLevel < 80)
+	{
+		creature->setLevel(++creatureLevel, false);
+		return calculateCombatLevel( creature );
+	}
+
+	int additionalHam = 0;
+	if(creatureLevel != 1)
+	{
+		if( creatureLevel <= 15 )
+			additionalHam = 25 * creatureLevel;
+		else if( creatureLevel <= 54 )
+			additionalHam = 375 + 15 * (creatureLevel - 15);
+		else
+			additionalHam = 960 + 40 * (creatureLevel - 54);
+	}
+	creature->setBaseHAM(CreatureAttribute::HEALTH, 1000 + additionalHam, true);
+	creature->setMaxHAM(CreatureAttribute::HEALTH, creature->getBaseHAM(CreatureAttribute::HEALTH), true);
+
+}
+
+void PlayerObjectImplementation::addCombatLevelXp(CreatureObject* creature, const String& skillName)
+{
+	SkillManager* skillManager = server->getZoneServer()->getSkillManager();
+	Skill* skill = skillManager->getSkill(skillName);
+	int combatLevelXp = 0;
+	String skillType = "";
+	skillType = skill->getXpType();
+
+	if (skillType.contains("investigation"))
+		combatLevelXp = skill->getXpCost() * 35;
+	else if (skillType.contains("combat_general"))
+		combatLevelXp = skill->getXpCost() * 3;
+	else if (skillType.contains("scout"))
+		combatLevelXp = skill->getXpCost() * 2;
+	else if ( skillType.contains("jedi_general") || skillType.contains("unarmed") || skillType.contains("hand")
+			|| skillType.contains("polearm") || skillType.contains("rifle") || skillType.contains("carbine")
+			|| skillType.contains("pistol") || skillType.contains("heavy") || skillType.contains("medic")
+			|| skillType.contains("creature") || skillType.contains("trapping") )
+		combatLevelXp = skill->getXpCost();
+
+	creature->setLevelExperience( creature->getLevelExperience() + combatLevelXp );
+	calculateCombatLevel(creature);
+}
+void PlayerObjectImplementation::removeCombatLevelXp(CreatureObject* creature, const String& skillName)
+{
+
+	SkillManager* skillManager = server->getZoneServer()->getSkillManager();
+	Skill* skill = skillManager->getSkill(skillName);
+	int combatLevelXp = 0;
+	String skillType = "";
+	skillType = skill->getXpType();
+
+	if (skillType.contains("investigation"))
+		combatLevelXp = skill->getXpCost() * 35;
+	else if (skillType.contains("combat_general"))
+		combatLevelXp = skill->getXpCost() * 3;
+	else if (skillType.contains("scout"))
+		combatLevelXp = skill->getXpCost() * 2;
+	else if ( skillType.contains("jedi_general") || skillType.contains("unarmed") || skillType.contains("hand")
+			|| skillType.contains("polearm") || skillType.contains("rifle") || skillType.contains("carbine")
+			|| skillType.contains("pistol") || skillType.contains("heavy") || skillType.contains("medic")
+			|| skillType.contains("creature") || skillType.contains("trapping") )
+		combatLevelXp = skill->getXpCost();
+
+	creature->setLevelExperience( creature->getLevelExperience() - combatLevelXp );
+	calculateCombatLevel(creature);
 }
 
 bool PlayerObjectImplementation::addSchematics(Vector<ManagedReference<DraftSchematic* > >& schematics, bool notifyClient) {
@@ -1545,6 +1633,12 @@ void PlayerObjectImplementation::doRecovery() {
 	}
 
 	creature->activateHAMRegeneration();
+
+	if (!creature->getPendingTask("actionMindRegenTickTask")) {
+		Reference<ActionMindRegenTickTask*> amRegenTask = new ActionMindRegenTickTask(creature);
+		creature->addPendingTask("actionMindRegenTickTask", amRegenTask, 1);
+	}
+
 	creature->activateStateRecovery();
 
 	CooldownTimerMap* cooldownTimerMap = creature->getCooldownTimerMap();
@@ -1575,13 +1669,6 @@ void PlayerObjectImplementation::doRecovery() {
 		creature->clearState(CreatureState::DISEASED);
 	if (creature->isOnFire() && !damageOverTimeList->hasDot(CreatureState::ONFIRE))
 		creature->clearState(CreatureState::ONFIRE);
-
-	CommandQueueActionVector* commandQueue = creature->getCommandQueue();
-
-	if (creature->isInCombat() && creature->getTargetID() != 0 && !creature->isPeaced()
-			&& (commandQueue->size() == 0) && creature->isNextActionPast() && !creature->isDead() && !creature->isIncapacitated()) {
-		creature->sendCommand(STRING_HASHCODE("attack"), "", creature->getTargetID());
-	}
 
 	if (!getZoneServer()->isServerLoading()) {
 		if(creature->getZone() != NULL && creature->getZone()->getPlanetManager() != NULL) {

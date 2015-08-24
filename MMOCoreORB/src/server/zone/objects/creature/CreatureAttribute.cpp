@@ -9,17 +9,18 @@ const uint8 CreatureEncumbrance::ACTION = 1;
 const uint8 CreatureEncumbrance::MIND = 2;
 
 const uint8 CreatureAttribute::HEALTH = 0;
-const uint8 CreatureAttribute::STRENGTH = 1;
-const uint8 CreatureAttribute::CONSTITUTION = 2;
-const uint8 CreatureAttribute::ACTION = 3;
-const uint8 CreatureAttribute::QUICKNESS = 4;
-const uint8 CreatureAttribute::STAMINA = 5;
-const uint8 CreatureAttribute::MIND = 6;
-const uint8 CreatureAttribute::FOCUS = 7;
-const uint8 CreatureAttribute::WILLPOWER = 8;
-const uint8 CreatureAttribute::UNKNOWN = 9;
+const uint8 CreatureAttribute::CONSTITUTION = 1;
+const uint8 CreatureAttribute::ACTION = 2;
+const uint8 CreatureAttribute::STAMINA = 3;
+const uint8 CreatureAttribute::MIND = 4;
+const uint8 CreatureAttribute::WILLPOWER = 5;
 
-const uint8 CreatureAttribute::ARRAYSIZE = 9;
+const uint8 CreatureAttribute::STRENGTH = 6;
+const uint8 CreatureAttribute::UNKNOWN = 9;
+const uint8 CreatureAttribute::QUICKNESS = 7;
+const uint8 CreatureAttribute::FOCUS = 8;
+
+const uint8 CreatureAttribute::ARRAYSIZE = 6;
 
 
 bool CreatureAttribute::isHAM(uint8 attribute) {

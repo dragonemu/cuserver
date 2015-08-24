@@ -26,13 +26,11 @@ public:
 		if (!creature->isKnockedDown())
 			return INVALIDSTATE;
 
-		/*if (creature->isDizzied()) {
-			if (System::random(100) > 25)
-				creature->setPosture(CreaturePosture::UPRIGHT);
-		} else*/
 			creature->setPosture(CreaturePosture::UPRIGHT);
 
-		//creature->removeEffect("state_knockeddown");
+			creature->inflictDamage(creature, CreatureAttribute::ACTION, 160, true, true);
+			creature->inflictDamage(creature, CreatureAttribute::MIND, 40, true, true);
+
 
 		return SUCCESS;
 	}

@@ -178,7 +178,7 @@ public:
 	void sendMitigationCombatSpam(CreatureObject* defender, TangibleObject* item, uint32 damage, int type);
 	void broadcastCombatSpam(TangibleObject* attacker, TangibleObject* defender, TangibleObject* item, int damage, const String& file, const String& stringName, byte color);
 
-	void broadcastCombatAction(CreatureObject* attacker, TangibleObject* defenderObject, WeaponObject* weapon, const CreatureAttackData& data, uint8 hit);
+	void broadcastCombatAction(CreatureObject* attacker, TangibleObject* defenderObject, WeaponObject* weapon, const CreatureAttackData& data, uint8 hit, int damage);
 
 	float hitChanceEquation(float attackerAccuracy, float attackerRoll, float targetDefense, float defenderRoll);
 	float doDroidDetonation(CreatureObject* droid, CreatureObject* defender, float damage);
@@ -212,7 +212,6 @@ protected:
 	int getAttackerAccuracyBonus(CreatureObject* attacker, WeaponObject* weapon);
 	int getDefenderDefenseModifier(CreatureObject* defender, WeaponObject* weapon, TangibleObject* attacker);
 	int getDefenderSecondaryDefenseModifier(CreatureObject* defender);
-	float getDefenderToughnessModifier(CreatureObject* defender, int attackType, int damType, float damage, Vector<int>& foodMitigation);
 	int calculateDamageRange(TangibleObject* attacker, CreatureObject* defender, WeaponObject* weapon);
 	float applyDamageModifiers(CreatureObject* attacker, WeaponObject* weapon, float damage);
 	int getSpeedModifier(CreatureObject* attacker, WeaponObject* weapon);
@@ -235,7 +234,6 @@ protected:
 	int doTargetCombatAction(TangibleObject* attacker, WeaponObject* weapon, TangibleObject* tano, const CreatureAttackData& data);
 	int getArmorObjectReduction(WeaponObject* weapon, ArmorObject* armor);
 	int getArmorReduction(TangibleObject* attacker, WeaponObject* weapon, CreatureObject* defender, float damage, int poolsToDamage, const CreatureAttackData& data);
-	float getArmorPiercing(TangibleObject* defender, WeaponObject* weapon);
 	int getArmorNpcReduction(AiAgent* defender, WeaponObject* weapon);
 	int getArmorVehicleReduction(VehicleObject* defender, WeaponObject* weapon);
 	int getArmorTurretReduction(CreatureObject* attacker, TangibleObject* defender, WeaponObject* weapon);

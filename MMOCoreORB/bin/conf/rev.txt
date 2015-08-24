@@ -1,10 +1,10 @@
+2afbb40 was ValkyraSWG, 4 days ago, message: [fixed] stability issue
+25f1396 was ValkyraSWG, 4 days ago, message: [removed] mustafar_height.tga as it was conflicting with the real one [fixed] buildout fixes [fixed] compiling issues from merge [fixed] Data transform packet making you stuck in air
+911ffe7 was ValkyraSWG, 5 days ago, message: [fixed] Zoning [fixed] More buildout loading fixes [fixed] Misc packet stuff [fixed] stuff that I don't remember
+a5a1c4d was ValkyraSWG, 6 days ago, message: [added] Buildout Datatable loading support for Kash and Mustafar zones. [fixed] Crashing when Template not found.
+5931ddf was jay7199, 6 days ago, message: [fixed] Building and booting. [updated] Server to TA's source.
+cdbb079 was Valkyra, 9 weeks ago, message: Merge pull request #1 from zingzing175/master
+d888046 was CUEmu, 9 weeks ago, message: [Added] Basic outline of all CU object files
+b235892 was Zing, 9 weeks ago, message: Merge pull request #1 from CUEmu/master
 dd7bc7a was jay7199, 9 weeks ago, message: [added] Slash commands structure for fixing
 a88b1ae was ValkyraSWG, 9 weeks ago, message: [added] missing hidden files.
-b4f2e9a was ValkyraSWG, 9 weeks ago, message: [fixed] missing file
-7e2e6ab was ValkyraSWG, 9 weeks ago, message: [fixed] Unloadable objects.lua file [disabled] TOCArchive loading debug message
-dbaee6b was ValkyraSWG, 9 weeks ago, message: [added] missing files needed to finish compiling.
-7b4b839 was ValkyraSWG, 9 weeks ago, message: [added] missing makefile.
-d609d6a was ValkyraSWG, 9 weeks ago, message: Fixed the directory structure.
-ad559be was jay7199, 9 weeks ago, message: Deleted extra files.
-5e445c5 was jay7199, 9 weeks ago, message: More imports merging.
-83d9f25 was ValkyraSWG, 9 weeks ago, message: [added] bin and build dirs

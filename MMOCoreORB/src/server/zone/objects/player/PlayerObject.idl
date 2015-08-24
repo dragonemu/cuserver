@@ -579,6 +579,27 @@ class PlayerObject extends IntangibleObject {
 
 	@local
 	public native void removeAbility(Ability ability, boolean notifyClient = true);
+
+	/**
+ 	* Recalculates a creature's level based on the skills that creature has.
+ 	*/
+	public native void recalculateCombatLevel(CreatureObject creature);
+	/**
+ 	* Calculates a creature's level based on the combat level xp that creature has.
+ 	*/
+	public native void calculateCombatLevel(CreatureObject creature);
+
+	/**
+ 	* Adds Combat Level XP to the creature based on the addedSkil param.
+ 	* @param skillName The skill that was added to the creature object
+ 	*/
+	public native void addCombatLevelXp(CreatureObject creature, final string skillName);
+
+	/**
+ 	* Recalculates a creature's level based on the skills that creature has.
+ 	* @param skillName The skill that was removed from the creature object
+ 	*/
+	public native void removeCombatLevelXp(CreatureObject creature, final string skillName);
 	
 	
 	@local

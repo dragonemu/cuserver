@@ -1,17 +1,16 @@
 LungeCommand = {
         name = "lunge",
 
-	damageMultiplier = 0.8,
+	damageMultiplier = 1.2,
 	speedMultiplier = 1.5,
 
-	actionCostMultiplier = 1.5,
-	mindCostMultiplier = 0.2,
+	actionCostMultiplier = 1.2,
+	mindCostMultiplier = 0.1,
 
 	animationCRC = hashCode(""),
 	combatSpam = "lunge",
-	poolsToDamage = HEALTH_ATTRIBUTE,
 
-	range = 15
+	range = 12
 }
 
 AddCommand(LungeCommand)

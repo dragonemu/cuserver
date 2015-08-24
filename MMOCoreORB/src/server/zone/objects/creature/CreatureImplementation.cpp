@@ -464,7 +464,7 @@ void CreatureImplementation::setPetLevel(int newLevel) {
 
 	int ham = 0;
 
-	for (int i = 0; i < 9; ++i) {
+	for (int i = 0; i < 6; i++) {
 		if (i % 3 == 0) {
 			ham = (getBaseHAM(i) / oldLevel) * newLevel;
 			setBaseHAM(i, ham);
@@ -472,11 +472,11 @@ void CreatureImplementation::setPetLevel(int newLevel) {
 			setBaseHAM(i, ham / 100);
 	}
 
-	for (int i = 0; i < 9; ++i) {
+	for (int i = 0; i < 6; i++) {
 		setHAM(i, baseHAM.get(i));
 	}
 
-	for (int i = 0; i < 9; ++i) {
+	for (int i = 0; i < 6; i++) {
 		setMaxHAM(i, baseHAM.get(i));
 	}
 }

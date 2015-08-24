@@ -484,6 +484,7 @@ void SceneObjectImplementation::sendAttributeListTo(CreatureObject* object) {
 	}
 
 	if (alm != NULL)
+		alm->insertInt(0xFFFFFFFF);
 		object->sendMessage(alm);
 }
 
