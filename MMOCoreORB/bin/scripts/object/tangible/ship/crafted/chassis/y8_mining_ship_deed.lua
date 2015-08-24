@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_shared_y8_mining_ship_deed = object_tangible_ship_crafted_chassis_shared_y8_mining_ship_deed:new {
+object_tangible_ship_crafted_chassis_y8_mining_ship_deed = object_tangible_ship_crafted_chassis_shared_y8_mining_ship_deed:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_shared_y8_mining_ship_deed, "object/tangible/ship/crafted/chassis/shared_y8_mining_ship_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_y8_mining_ship_deed, "object/tangible/ship/crafted/chassis/shared_y8_mining_ship_deed.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_shared_organichem_stores_generic = object_tangible_loot_npc_loot_shared_organichem_stores_generic:new {
+object_tangible_loot_npc_loot_organichem_stores_generic = object_tangible_loot_npc_loot_shared_organichem_stores_generic:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shared_organichem_stores_generic, "object/tangible/loot/npc_loot/shared_organichem_stores_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_organichem_stores_generic, "object/tangible/loot/npc_loot/shared_organichem_stores_generic.iff")

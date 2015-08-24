@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_shared_generic_feather = object_tangible_loot_creature_loot_generic_shared_generic_feather:new {
+object_tangible_loot_creature_loot_generic_generic_feather = object_tangible_loot_creature_loot_generic_shared_generic_feather:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_shared_generic_feather, "object/tangible/loot/creature_loot/generic/shared_generic_feather.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_feather, "object/tangible/loot/creature_loot/generic/shared_generic_feather.iff")

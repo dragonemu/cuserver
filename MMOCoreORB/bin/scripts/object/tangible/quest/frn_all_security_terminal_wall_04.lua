@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_frn_all_security_terminal_wall_04 = object_tangible_quest_shared_frn_all_security_terminal_wall_04:new {
+object_tangible_quest_frn_all_security_terminal_wall_04 = object_tangible_quest_shared_frn_all_security_terminal_wall_04:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_frn_all_security_terminal_wall_04, "object/tangible/quest/shared_frn_all_security_terminal_wall_04.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_frn_all_security_terminal_wall_04, "object/tangible/quest/shared_frn_all_security_terminal_wall_04.iff")

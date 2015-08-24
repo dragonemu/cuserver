@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_all_humanoid_bone_clavicle = object_building_kashyyyk_shared_thm_all_humanoid_bone_clavicle:new {
+object_building_kashyyyk_thm_all_humanoid_bone_clavicle = object_building_kashyyyk_shared_thm_all_humanoid_bone_clavicle:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_all_humanoid_bone_clavicle, "object/building/kashyyyk/shared_thm_all_humanoid_bone_clavicle.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_all_humanoid_bone_clavicle, "object/building/kashyyyk/shared_thm_all_humanoid_bone_clavicle.iff")

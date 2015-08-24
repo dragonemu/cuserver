@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_myyydril_cave_luilrus_mushroom_sml = object_building_kashyyyk_shared_myyydril_cave_luilrus_mushroom_sml:new {
+object_building_kashyyyk_myyydril_cave_luilrus_mushroom_sml = object_building_kashyyyk_shared_myyydril_cave_luilrus_mushroom_sml:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_myyydril_cave_luilrus_mushroom_sml, "object/building/kashyyyk/shared_myyydril_cave_luilrus_mushroom_sml.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_luilrus_mushroom_sml, "object/building/kashyyyk/shared_myyydril_cave_luilrus_mushroom_sml.iff")

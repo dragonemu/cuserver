@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_som_kenobi_mining_computer = object_tangible_quest_shared_som_kenobi_mining_computer:new {
+object_tangible_quest_som_kenobi_mining_computer = object_tangible_quest_shared_som_kenobi_mining_computer:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_som_kenobi_mining_computer, "object/tangible/quest/shared_som_kenobi_mining_computer.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_mining_computer, "object/tangible/quest/shared_som_kenobi_mining_computer.iff")

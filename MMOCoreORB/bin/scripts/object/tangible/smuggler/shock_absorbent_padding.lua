@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_shared_shock_absorbent_padding = object_tangible_smuggler_shared_shock_absorbent_padding:new {
+object_tangible_smuggler_shock_absorbent_padding = object_tangible_smuggler_shared_shock_absorbent_padding:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_shared_shock_absorbent_padding, "object/tangible/smuggler/shared_shock_absorbent_padding.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_shock_absorbent_padding, "object/tangible/smuggler/shared_shock_absorbent_padding.iff")

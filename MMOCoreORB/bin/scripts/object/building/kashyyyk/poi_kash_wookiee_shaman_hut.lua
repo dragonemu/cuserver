@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_poi_kash_wookiee_shaman_hut = object_building_kashyyyk_shared_poi_kash_wookiee_shaman_hut:new {
+object_building_kashyyyk_poi_kash_wookiee_shaman_hut = object_building_kashyyyk_shared_poi_kash_wookiee_shaman_hut:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_poi_kash_wookiee_shaman_hut, "object/building/kashyyyk/shared_poi_kash_wookiee_shaman_hut.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_wookiee_shaman_hut, "object/building/kashyyyk/shared_poi_kash_wookiee_shaman_hut.iff")

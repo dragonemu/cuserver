@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_som_dark_jedi_minion_1 = object_mobile_som_shared_som_dark_jedi_minion_1:new {
+object_mobile_som_som_dark_jedi_minion_1 = object_mobile_som_shared_som_dark_jedi_minion_1:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_som_dark_jedi_minion_1, "object/mobile/som/shared_som_dark_jedi_minion_1.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_dark_jedi_minion_1, "object/mobile/som/shared_som_dark_jedi_minion_1.iff")

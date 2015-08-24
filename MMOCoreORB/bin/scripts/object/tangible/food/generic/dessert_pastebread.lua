@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_shared_dessert_pastebread = object_tangible_food_generic_shared_dessert_pastebread:new {
+object_tangible_food_generic_dessert_pastebread = object_tangible_food_generic_shared_dessert_pastebread:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_shared_dessert_pastebread, "object/tangible/food/generic/shared_dessert_pastebread.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_pastebread, "object/tangible/food/generic/shared_dessert_pastebread.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_avatar_platform_shared_terminal_launch = object_tangible_dungeon_avatar_platform_shared_terminal_launch:new {
+object_tangible_dungeon_avatar_platform_terminal_launch = object_tangible_dungeon_avatar_platform_shared_terminal_launch:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_shared_terminal_launch, "object/tangible/dungeon/avatar_platform/shared_terminal_launch.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_terminal_launch, "object/tangible/dungeon/avatar_platform/shared_terminal_launch.iff")

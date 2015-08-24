@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_shared_pistol_avatar_trando_special = object_weapon_ranged_pistol_shared_pistol_avatar_trando_special:new {
+object_weapon_ranged_pistol_pistol_avatar_trando_special = object_weapon_ranged_pistol_shared_pistol_avatar_trando_special:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_shared_pistol_avatar_trando_special, "object/weapon/ranged/pistol/shared_pistol_avatar_trando_special.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_avatar_trando_special, "object/weapon/ranged/pistol/shared_pistol_avatar_trando_special.iff")

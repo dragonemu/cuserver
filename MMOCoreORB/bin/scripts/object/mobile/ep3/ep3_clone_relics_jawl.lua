@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_shared_ep3_clone_relics_jawl = object_mobile_ep3_shared_ep3_clone_relics_jawl:new {
+object_mobile_ep3_ep3_clone_relics_jawl = object_mobile_ep3_shared_ep3_clone_relics_jawl:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_shared_ep3_clone_relics_jawl, "object/mobile/ep3/shared_ep3_clone_relics_jawl.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_jawl, "object/mobile/ep3/shared_ep3_clone_relics_jawl.iff")

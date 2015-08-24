@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_carbine_alliance_needler = object_draft_schematic_weapon_shared_carbine_alliance_needler:new {
+object_draft_schematic_weapon_carbine_alliance_needler = object_draft_schematic_weapon_shared_carbine_alliance_needler:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_carbine_alliance_needler, "object/draft_schematic/weapon/shared_carbine_alliance_needler.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_alliance_needler, "object/draft_schematic/weapon/shared_carbine_alliance_needler.iff")

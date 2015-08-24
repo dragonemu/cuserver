@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_shared_player_blacksun_vaksai = object_ship_player_shared_player_blacksun_vaksai:new {
+object_ship_player_player_blacksun_vaksai = object_ship_player_shared_player_blacksun_vaksai:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_shared_player_blacksun_vaksai, "object/ship/player/shared_player_blacksun_vaksai.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_blacksun_vaksai, "object/ship/player/shared_player_blacksun_vaksai.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_shared_wke_ceremonial_chair = object_tangible_furniture_ep3_rewards_shared_wke_ceremonial_chair:new {
+object_tangible_furniture_ep3_rewards_wke_ceremonial_chair = object_tangible_furniture_ep3_rewards_shared_wke_ceremonial_chair:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_shared_wke_ceremonial_chair, "object/tangible/furniture/ep3_rewards/shared_wke_ceremonial_chair.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_ceremonial_chair, "object/tangible/furniture/ep3_rewards/shared_wke_ceremonial_chair.iff")

@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_thm_kash_cave_myyydril_rope_support = object_building_kashyyyk_shared_thm_kash_cave_myyydril_rope_support:new {
+object_building_kashyyyk_thm_kash_cave_myyydril_rope_support = object_building_kashyyyk_shared_thm_kash_cave_myyydril_rope_support:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_thm_kash_cave_myyydril_rope_support, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_rope_support.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_cave_myyydril_rope_support, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_rope_support.iff")

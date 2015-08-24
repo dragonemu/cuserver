@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_shared_som_kenobi_reunite_inquisitorium_hunter = object_mobile_som_shared_som_kenobi_reunite_inquisitorium_hunter:new {
+object_mobile_som_som_kenobi_reunite_inquisitorium_hunter = object_mobile_som_shared_som_kenobi_reunite_inquisitorium_hunter:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_shared_som_kenobi_reunite_inquisitorium_hunter, "object/mobile/som/shared_som_kenobi_reunite_inquisitorium_hunter.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_kenobi_reunite_inquisitorium_hunter, "object/mobile/som/shared_som_kenobi_reunite_inquisitorium_hunter.iff")

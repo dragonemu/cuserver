@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_shared_blacksun_vaksai_pcd = object_intangible_ship_shared_blacksun_vaksai_pcd:new {
+object_intangible_ship_blacksun_vaksai_pcd = object_intangible_ship_shared_blacksun_vaksai_pcd:new {
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_shared_blacksun_vaksai_pcd, "object/intangible/ship/shared_blacksun_vaksai_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_blacksun_vaksai_pcd, "object/intangible/ship/shared_blacksun_vaksai_pcd.iff")

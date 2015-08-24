@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shared_frn_kash_wookiee_loom = object_building_kashyyyk_shared_frn_kash_wookiee_loom:new {
+object_building_kashyyyk_frn_kash_wookiee_loom = object_building_kashyyyk_shared_frn_kash_wookiee_loom:new {
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_shared_frn_kash_wookiee_loom, "object/building/kashyyyk/shared_frn_kash_wookiee_loom.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_wookiee_loom, "object/building/kashyyyk/shared_frn_kash_wookiee_loom.iff")

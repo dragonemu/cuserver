@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_mobile_shared_c_syren_3_trandoshan_boss = object_mobile_shared_c_syren_3_trandoshan_boss:new {
+object_mobile_c_syren_3_trandoshan_boss = object_mobile_shared_c_syren_3_trandoshan_boss:new {
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_shared_c_syren_3_trandoshan_boss, "object/mobile/shared_c_syren_3_trandoshan_boss.iff")
+ObjectTemplates:addTemplate(object_mobile_c_syren_3_trandoshan_boss, "object/mobile/shared_c_syren_3_trandoshan_boss.iff")

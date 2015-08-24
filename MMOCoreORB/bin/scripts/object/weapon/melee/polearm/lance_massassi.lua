@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_polearm_shared_lance_massassi = object_weapon_melee_polearm_shared_lance_massassi:new {
+object_weapon_melee_polearm_lance_massassi = object_weapon_melee_polearm_shared_lance_massassi:new {
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_shared_lance_massassi, "object/weapon/melee/polearm/shared_lance_massassi.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_massassi, "object/weapon/melee/polearm/shared_lance_massassi.iff")

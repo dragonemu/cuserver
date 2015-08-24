@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_shared_radio_s1 = object_tangible_quest_shared_radio_s1:new {
+object_tangible_quest_radio_s1 = object_tangible_quest_shared_radio_s1:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_shared_radio_s1, "object/tangible/quest/shared_radio_s1.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_radio_s1, "object/tangible/quest/shared_radio_s1.iff")

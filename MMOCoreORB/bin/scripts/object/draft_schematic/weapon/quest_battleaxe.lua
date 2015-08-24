@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_shared_quest_battleaxe = object_draft_schematic_weapon_shared_quest_battleaxe:new {
+object_draft_schematic_weapon_quest_battleaxe = object_draft_schematic_weapon_shared_quest_battleaxe:new {
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_shared_quest_battleaxe, "object/draft_schematic/weapon/shared_quest_battleaxe.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_battleaxe, "object/draft_schematic/weapon/shared_quest_battleaxe.iff")

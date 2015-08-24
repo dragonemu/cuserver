@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_shipcontrol_shared_shipoperations_y8 = object_tangible_shipcontrol_shared_shipoperations_y8:new {
+object_tangible_shipcontrol_shipoperations_y8 = object_tangible_shipcontrol_shared_shipoperations_y8:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_shipcontrol_shared_shipoperations_y8, "object/tangible/shipcontrol/shared_shipoperations_y8.iff")
+ObjectTemplates:addTemplate(object_tangible_shipcontrol_shipoperations_y8, "object/tangible/shipcontrol/shared_shipoperations_y8.iff")

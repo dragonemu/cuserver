@@ -1,7 +1,7 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_bar_shared_drink_bar_s01 = object_tangible_food_bar_shared_drink_bar_s01:new {
+object_tangible_food_bar_drink_bar_s01 = object_tangible_food_bar_shared_drink_bar_s01:new {
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_bar_shared_drink_bar_s01, "object/tangible/food/bar/shared_drink_bar_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_food_bar_drink_bar_s01, "object/tangible/food/bar/shared_drink_bar_s01.iff")
