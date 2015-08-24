@@ -4,4 +4,4 @@ object_draft_schematic_weapon_battleaxe_quest = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_battleaxe_quest, "object/draft_schematic/weapon/shared_battleaxe_quest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_battleaxe_quest, "object/draft_schematic/weapon/battleaxe_quest.iff")

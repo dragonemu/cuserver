@@ -4,4 +4,4 @@ object_tangible_ship_components_shield_generator_shd_esp_reactive = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_shield_generator_shd_esp_reactive, "object/tangible/ship/components/shield_generator/shared_shd_esp_reactive.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_shield_generator_shd_esp_reactive, "object/tangible/ship/components/shield_generator/shd_esp_reactive.iff")

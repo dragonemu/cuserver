@@ -4,4 +4,4 @@ object_draft_schematic_weapon_knife_naktra_crystal_false = object_draft_schemati
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_naktra_crystal_false, "object/draft_schematic/weapon/shared_knife_naktra_crystal_false.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_naktra_crystal_false, "object/draft_schematic/weapon/knife_naktra_crystal_false.iff")

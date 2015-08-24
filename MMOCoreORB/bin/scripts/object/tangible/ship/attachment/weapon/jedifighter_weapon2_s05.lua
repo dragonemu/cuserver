@@ -4,4 +4,4 @@ object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05 = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05, "object/tangible/ship/attachment/weapon/shared_jedifighter_weapon2_s05.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_jedifighter_weapon2_s05, "object/tangible/ship/attachment/weapon/jedifighter_weapon2_s05.iff")

@@ -4,4 +4,4 @@ object_tangible_component_bio_base_bio_component_armor = object_tangible_compone
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_bio_base_bio_component_armor, "object/tangible/component/bio/shared_base_bio_component_armor.iff")
+ObjectTemplates:addTemplate(object_tangible_component_bio_base_bio_component_armor, "object/tangible/component/bio/base_bio_component_armor.iff")

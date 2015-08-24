@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_big_tooth_generic = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_big_tooth_generic, "object/tangible/loot/creature_loot/generic/shared_big_tooth_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_big_tooth_generic, "object/tangible/loot/creature_loot/generic/big_tooth_generic.iff")

@@ -4,4 +4,4 @@ object_tangible_item_generic_vehicle_customization = object_tangible_item_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_generic_vehicle_customization, "object/tangible/item/shared_generic_vehicle_customization.iff")
+ObjectTemplates:addTemplate(object_tangible_item_generic_vehicle_customization, "object/tangible/item/generic_vehicle_customization.iff")

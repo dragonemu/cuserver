@@ -4,4 +4,4 @@ object_tangible_ship_attachment_modification_blacksun_heavy_modification_s01 = o
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_blacksun_heavy_modification_s01, "object/tangible/ship/attachment/modification/shared_blacksun_heavy_modification_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_blacksun_heavy_modification_s01, "object/tangible/ship/attachment/modification/blacksun_heavy_modification_s01.iff")

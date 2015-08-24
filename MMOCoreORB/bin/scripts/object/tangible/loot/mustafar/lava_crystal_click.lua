@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_lava_crystal_click = object_tangible_loot_mustafar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_lava_crystal_click, "object/tangible/loot/mustafar/shared_lava_crystal_click.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_lava_crystal_click, "object/tangible/loot/mustafar/lava_crystal_click.iff")

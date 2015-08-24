@@ -4,4 +4,4 @@ object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves, "object/tangible/wearables/armor/marauder/shared_armor_marauder_s02_gloves.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves, "object/tangible/wearables/armor/marauder/armor_marauder_s02_gloves.iff")

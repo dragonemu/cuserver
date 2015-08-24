@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_alliance_needler = object_draft_schematic_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_alliance_needler, "object/draft_schematic/weapon/shared_carbine_alliance_needler.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_alliance_needler, "object/draft_schematic/weapon/carbine_alliance_needler.iff")

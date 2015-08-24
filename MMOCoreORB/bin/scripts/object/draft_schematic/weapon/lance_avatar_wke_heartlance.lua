@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_avatar_wke_heartlance = object_draft_schemat
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_avatar_wke_heartlance, "object/draft_schematic/weapon/shared_lance_avatar_wke_heartlance.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_avatar_wke_heartlance, "object/draft_schematic/weapon/lance_avatar_wke_heartlance.iff")

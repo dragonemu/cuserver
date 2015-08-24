@@ -4,4 +4,4 @@ object_tangible_loot_quest_mind_pod_parasites = object_tangible_loot_quest_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_mind_pod_parasites, "object/tangible/loot/quest/shared_mind_pod_parasites.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_mind_pod_parasites, "object/tangible/loot/quest/mind_pod_parasites.iff")

@@ -4,4 +4,4 @@ object_resource_container_resource_container_organic_hide = object_resource_cont
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_hide, "object/resource_container/shared_resource_container_organic_hide.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_hide, "object/resource_container/resource_container_organic_hide.iff")

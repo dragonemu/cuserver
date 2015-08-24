@@ -4,4 +4,4 @@ object_tangible_wearables_belt_belt_faux_mabari_generic = object_tangible_wearab
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_belt_belt_faux_mabari_generic, "object/tangible/wearables/belt/shared_belt_faux_mabari_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_belt_belt_faux_mabari_generic, "object/tangible/wearables/belt/belt_faux_mabari_generic.iff")

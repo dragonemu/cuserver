@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_kash_arch_wood_s02 = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_arch_wood_s02, "object/building/kashyyyk/shared_thm_kash_arch_wood_s02.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_arch_wood_s02, "object/building/kashyyyk/thm_kash_arch_wood_s02.iff")

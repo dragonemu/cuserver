@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile = object
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile, "object/tangible/dungeon/mustafar/working_droid_factory/shared_radioactive_pile.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_radioactive_pile, "object/tangible/dungeon/mustafar/working_droid_factory/radioactive_pile.iff")

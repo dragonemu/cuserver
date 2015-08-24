@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_texture_kit_arc170_s02 = object_tangible_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_texture_kit_arc170_s02, "object/tangible/ship/crafted/chassis/shared_texture_kit_arc170_s02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_texture_kit_arc170_s02, "object/tangible/ship/crafted/chassis/texture_kit_arc170_s02.iff")

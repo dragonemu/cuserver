@@ -4,4 +4,4 @@ object_intangible_ship_blacksun_vaksai_pcd = object_intangible_ship_shared_black
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_blacksun_vaksai_pcd, "object/intangible/ship/shared_blacksun_vaksai_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_blacksun_vaksai_pcd, "object/intangible/ship/blacksun_vaksai_pcd.iff")

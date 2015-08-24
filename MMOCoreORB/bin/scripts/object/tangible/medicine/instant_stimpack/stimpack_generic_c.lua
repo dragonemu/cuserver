@@ -4,4 +4,4 @@ object_tangible_medicine_instant_stimpack_stimpack_generic_c = object_tangible_m
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_stimpack_generic_c, "object/tangible/medicine/instant_stimpack/shared_stimpack_generic_c.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_instant_stimpack_stimpack_generic_c, "object/tangible/medicine/instant_stimpack/stimpack_generic_c.iff")

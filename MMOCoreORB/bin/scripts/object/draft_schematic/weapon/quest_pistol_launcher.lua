@@ -4,4 +4,4 @@ object_draft_schematic_weapon_quest_pistol_launcher = object_draft_schematic_wea
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_pistol_launcher, "object/draft_schematic/weapon/shared_quest_pistol_launcher.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_pistol_launcher, "object/draft_schematic/weapon/quest_pistol_launcher.iff")

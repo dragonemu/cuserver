@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_light = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_light, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_light.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_light, "object/tangible/dungeon/mustafar/valley_battlefield/demo_charge_light.iff")

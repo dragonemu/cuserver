@@ -4,4 +4,4 @@ object_static_item_wp_rifle_adventurer = object_static_item_shared_wp_rifle_adve
 
 }
 
-ObjectTemplates:addTemplate(object_static_item_wp_rifle_adventurer, "object/static/item/shared_wp_rifle_adventurer.iff")
+ObjectTemplates:addTemplate(object_static_item_wp_rifle_adventurer, "object/static/item/wp_rifle_adventurer.iff")

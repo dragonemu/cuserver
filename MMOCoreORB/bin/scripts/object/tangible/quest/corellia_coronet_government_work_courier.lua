@@ -4,4 +4,4 @@ object_tangible_quest_corellia_coronet_government_work_courier = object_tangible
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_government_work_courier, "object/tangible/quest/shared_corellia_coronet_government_work_courier.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_government_work_courier, "object/tangible/quest/corellia_coronet_government_work_courier.iff")

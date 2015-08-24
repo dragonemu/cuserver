@@ -4,4 +4,4 @@ object_tangible_wearables_armor_tantel_armor_tantel_skreej_bicep_r = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_tantel_armor_tantel_skreej_bicep_r, "object/tangible/wearables/armor/tantel/shared_armor_tantel_skreej_bicep_r.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_tantel_armor_tantel_skreej_bicep_r, "object/tangible/wearables/armor/tantel/armor_tantel_skreej_bicep_r.iff")

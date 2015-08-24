@@ -4,4 +4,4 @@ object_building_kashyyyk_wookiee_gravestone_s03 = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_wookiee_gravestone_s03, "object/building/kashyyyk/shared_wookiee_gravestone_s03.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_wookiee_gravestone_s03, "object/building/kashyyyk/wookiee_gravestone_s03.iff")

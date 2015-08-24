@@ -4,4 +4,4 @@ object_tangible_dance_prop_prop_ribbon_spark_l = object_tangible_dance_prop_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_ribbon_spark_l, "object/tangible/dance_prop/shared_prop_ribbon_spark_l.iff")
+ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_ribbon_spark_l, "object/tangible/dance_prop/prop_ribbon_spark_l.iff")

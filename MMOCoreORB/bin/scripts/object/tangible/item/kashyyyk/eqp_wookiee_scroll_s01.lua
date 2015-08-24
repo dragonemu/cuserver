@@ -4,4 +4,4 @@ object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01 = object_tangible_item_kash
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01, "object/tangible/item/kashyyyk/shared_eqp_wookiee_scroll_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01, "object/tangible/item/kashyyyk/eqp_wookiee_scroll_s01.iff")

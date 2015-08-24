@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_laser_beam_gun = object_tangible_ship
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_laser_beam_gun, "object/tangible/ship/components/weapon/shared_wpn_laser_beam_gun.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_laser_beam_gun, "object/tangible/ship/components/weapon/wpn_laser_beam_gun.iff")

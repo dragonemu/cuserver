@@ -4,4 +4,4 @@ object_mobile_space_comm_ep3_vosc_traaer = object_mobile_shared_space_comm_ep3_v
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_vosc_traaer, "object/mobile/shared_space_comm_ep3_vosc_traaer.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_vosc_traaer, "object/mobile/space_comm_ep3_vosc_traaer.iff")

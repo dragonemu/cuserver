@@ -4,4 +4,4 @@ object_intangible_vehicle_landspeeder_tantive4_pcd = object_intangible_vehicle_s
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_vehicle_landspeeder_tantive4_pcd, "object/intangible/vehicle/shared_landspeeder_tantive4_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_vehicle_landspeeder_tantive4_pcd, "object/intangible/vehicle/landspeeder_tantive4_pcd.iff")

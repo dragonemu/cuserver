@@ -4,4 +4,4 @@ object_tangible_space_special_loot_y8_deed = object_tangible_space_special_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_space_special_loot_y8_deed, "object/tangible/space/special_loot/shared_y8_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_space_special_loot_y8_deed, "object/tangible/space/special_loot/y8_deed.iff")

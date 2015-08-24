@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_arm_bone_generic = object_tangible_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_arm_bone_generic, "object/tangible/loot/creature_loot/generic/shared_arm_bone_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_arm_bone_generic, "object/tangible/loot/creature_loot/generic/arm_bone_generic.iff")

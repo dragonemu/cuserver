@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_pestilence = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_pestilence, "object/draft_schematic/weapon/shared_loot_pestilence.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_pestilence, "object/draft_schematic/weapon/loot_pestilence.iff")

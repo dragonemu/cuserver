@@ -4,4 +4,4 @@ object_tangible_newbie_tutorial_droideka = object_tangible_newbie_tutorial_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_newbie_tutorial_droideka, "object/tangible/newbie_tutorial/shared_droideka.iff")
+ObjectTemplates:addTemplate(object_tangible_newbie_tutorial_droideka, "object/tangible/newbie_tutorial/droideka.iff")

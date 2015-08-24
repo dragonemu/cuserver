@@ -4,4 +4,4 @@ object_draft_schematic_weapon_polearm_kashyyk_bladestick = object_draft_schemati
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_polearm_kashyyk_bladestick, "object/draft_schematic/weapon/shared_polearm_kashyyk_bladestick.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_polearm_kashyyk_bladestick, "object/draft_schematic/weapon/polearm_kashyyk_bladestick.iff")

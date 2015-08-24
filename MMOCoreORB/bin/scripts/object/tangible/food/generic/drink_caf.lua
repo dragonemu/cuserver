@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_caf = object_tangible_food_generic_shared_dri
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_caf, "object/tangible/food/generic/shared_drink_caf.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_caf, "object/tangible/food/generic/drink_caf.iff")

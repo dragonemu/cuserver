@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_mining_laser_mk1 = object_tangible_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_mining_laser_mk1, "object/tangible/ship/components/weapon/shared_wpn_mining_laser_mk1.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_mining_laser_mk1, "object/tangible/ship/components/weapon/wpn_mining_laser_mk1.iff")

@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_ranged_eledamage = object_tangible_powerup_weapon
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_ranged_eledamage, "object/tangible/powerup/weapon/shared_ranged_eledamage.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_ranged_eledamage, "object/tangible/powerup/weapon/ranged_eledamage.iff")

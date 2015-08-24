@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_bowcaster_medium = object_weapon_ranged_rifle_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_bowcaster_medium, "object/weapon/ranged/rifle/shared_rifle_bowcaster_medium.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_bowcaster_medium, "object/weapon/ranged/rifle/rifle_bowcaster_medium.iff")

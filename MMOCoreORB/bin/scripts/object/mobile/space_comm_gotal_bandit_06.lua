@@ -4,4 +4,4 @@ object_mobile_space_comm_gotal_bandit_06 = object_mobile_shared_space_comm_gotal
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_gotal_bandit_06, "object/mobile/shared_space_comm_gotal_bandit_06.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_gotal_bandit_06, "object/mobile/space_comm_gotal_bandit_06.iff")

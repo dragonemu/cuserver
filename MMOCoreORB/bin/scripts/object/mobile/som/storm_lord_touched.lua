@@ -4,4 +4,4 @@ object_mobile_som_storm_lord_touched = object_mobile_som_shared_storm_lord_touch
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_storm_lord_touched, "object/mobile/som/shared_storm_lord_touched.iff")
+ObjectTemplates:addTemplate(object_mobile_som_storm_lord_touched, "object/mobile/som/storm_lord_touched.iff")

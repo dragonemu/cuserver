@@ -4,4 +4,4 @@ object_mobile_dressed_cyrans_unfeeling = object_mobile_shared_dressed_cyrans_unf
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_cyrans_unfeeling, "object/mobile/shared_dressed_cyrans_unfeeling.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_cyrans_unfeeling, "object/mobile/dressed_cyrans_unfeeling.iff")

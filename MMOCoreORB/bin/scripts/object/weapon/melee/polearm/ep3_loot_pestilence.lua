@@ -4,4 +4,4 @@ object_weapon_melee_polearm_ep3_loot_pestilence = object_weapon_melee_polearm_sh
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_loot_pestilence, "object/weapon/melee/polearm/shared_ep3_loot_pestilence.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_ep3_loot_pestilence, "object/weapon/melee/polearm/ep3_loot_pestilence.iff")

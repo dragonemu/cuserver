@@ -4,4 +4,4 @@ object_tangible_loot_quest_poi_tree_spawner = object_tangible_loot_quest_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_poi_tree_spawner, "object/tangible/loot/quest/shared_poi_tree_spawner.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_poi_tree_spawner, "object/tangible/loot/quest/poi_tree_spawner.iff")

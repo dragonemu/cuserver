@@ -4,4 +4,4 @@ object_intangible_vehicle_landspeeder_lava_skiff_pcd = object_intangible_vehicle
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_vehicle_landspeeder_lava_skiff_pcd, "object/intangible/vehicle/shared_landspeeder_lava_skiff_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_vehicle_landspeeder_lava_skiff_pcd, "object/intangible/vehicle/landspeeder_lava_skiff_pcd.iff")

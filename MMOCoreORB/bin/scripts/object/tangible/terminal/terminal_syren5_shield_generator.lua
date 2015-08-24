@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_syren5_shield_generator = object_tangible_term
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_syren5_shield_generator, "object/tangible/terminal/shared_terminal_syren5_shield_generator.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_syren5_shield_generator, "object/tangible/terminal/terminal_syren5_shield_generator.iff")

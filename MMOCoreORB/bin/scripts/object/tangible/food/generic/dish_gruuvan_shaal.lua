@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_gruuvan_shaal = object_tangible_food_generic_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_gruuvan_shaal, "object/tangible/food/generic/shared_dish_gruuvan_shaal.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_gruuvan_shaal, "object/tangible/food/generic/dish_gruuvan_shaal.iff")

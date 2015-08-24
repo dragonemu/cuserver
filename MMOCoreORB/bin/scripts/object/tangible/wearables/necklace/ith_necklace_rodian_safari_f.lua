@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_ith_necklace_rodian_safari_f = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_rodian_safari_f, "object/tangible/wearables/necklace/shared_ith_necklace_rodian_safari_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_rodian_safari_f, "object/tangible/wearables/necklace/ith_necklace_rodian_safari_f.iff")

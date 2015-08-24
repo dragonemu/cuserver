@@ -4,4 +4,4 @@ object_resource_container_space_gem = object_resource_container_space_shared_gem
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_space_gem, "object/resource_container/space/shared_gem.iff")
+ObjectTemplates:addTemplate(object_resource_container_space_gem, "object/resource_container/space/gem.iff")

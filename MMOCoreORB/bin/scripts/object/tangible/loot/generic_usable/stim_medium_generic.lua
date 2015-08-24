@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_stim_medium_generic = object_tangible_loot_g
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_stim_medium_generic, "object/tangible/loot/generic_usable/shared_stim_medium_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_stim_medium_generic, "object/tangible/loot/generic_usable/stim_medium_generic.iff")

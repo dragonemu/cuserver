@@ -4,4 +4,4 @@ object_draft_schematic_space_armor_elite_armor = object_draft_schematic_space_ar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_armor_elite_armor, "object/draft_schematic/space/armor/shared_elite_armor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_armor_elite_armor, "object/draft_schematic/space/armor/elite_armor.iff")

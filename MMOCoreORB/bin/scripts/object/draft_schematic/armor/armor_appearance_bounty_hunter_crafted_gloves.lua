@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_gloves = obj
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_gloves, "object/draft_schematic/armor/shared_armor_appearance_bounty_hunter_crafted_gloves.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_bounty_hunter_crafted_gloves, "object/draft_schematic/armor/armor_appearance_bounty_hunter_crafted_gloves.iff")

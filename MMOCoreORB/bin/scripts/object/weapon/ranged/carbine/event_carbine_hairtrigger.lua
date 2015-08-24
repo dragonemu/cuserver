@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_event_carbine_hairtrigger = object_weapon_ranged_ca
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_event_carbine_hairtrigger, "object/weapon/ranged/carbine/shared_event_carbine_hairtrigger.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_event_carbine_hairtrigger, "object/weapon/ranged/carbine/event_carbine_hairtrigger.iff")

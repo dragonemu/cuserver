@@ -4,4 +4,4 @@ object_intangible_ship_tiefighter_modified_pcd = object_intangible_ship_shared_t
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_tiefighter_modified_pcd, "object/intangible/ship/shared_tiefighter_modified_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_tiefighter_modified_pcd, "object/intangible/ship/tiefighter_modified_pcd.iff")

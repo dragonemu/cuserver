@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_warren_scientist = object_mobile_ep3_shared_e
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_warren_scientist, "object/mobile/ep3/shared_ep3_clone_relics_warren_scientist.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_warren_scientist, "object/mobile/ep3/ep3_clone_relics_warren_scientist.iff")

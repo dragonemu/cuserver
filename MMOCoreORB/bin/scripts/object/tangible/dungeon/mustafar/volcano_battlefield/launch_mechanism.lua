@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism, "object/tangible/dungeon/mustafar/volcano_battlefield/shared_launch_mechanism.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism, "object/tangible/dungeon/mustafar/volcano_battlefield/launch_mechanism.iff")

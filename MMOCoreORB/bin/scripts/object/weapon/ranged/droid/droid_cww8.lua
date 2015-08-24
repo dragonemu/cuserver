@@ -4,4 +4,4 @@ object_weapon_ranged_droid_droid_cww8 = object_weapon_ranged_droid_shared_droid_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_cww8, "object/weapon/ranged/droid/shared_droid_cww8.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_cww8, "object/weapon/ranged/droid/droid_cww8.iff")

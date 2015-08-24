@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_ionic_pulse_weapon = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_ionic_pulse_weapon, "object/tangible/ship/components/weapon/shared_wpn_ionic_pulse_weapon.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_ionic_pulse_weapon, "object/tangible/ship/components/weapon/wpn_ionic_pulse_weapon.iff")

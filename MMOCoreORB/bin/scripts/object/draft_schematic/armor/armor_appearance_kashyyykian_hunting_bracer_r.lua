@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_r = obj
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_r, "object/draft_schematic/armor/shared_armor_appearance_kashyyykian_hunting_bracer_r.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_kashyyykian_hunting_bracer_r, "object/draft_schematic/armor/armor_appearance_kashyyykian_hunting_bracer_r.iff")

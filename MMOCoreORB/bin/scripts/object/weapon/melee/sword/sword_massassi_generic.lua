@@ -4,4 +4,4 @@ object_weapon_melee_sword_sword_massassi_generic = object_weapon_melee_sword_sha
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_massassi_generic, "object/weapon/melee/sword/shared_sword_massassi_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_massassi_generic, "object/weapon/melee/sword/sword_massassi_generic.iff")

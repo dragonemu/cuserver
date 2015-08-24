@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_clamp_generic = object_tangible_loot_npc_loot_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_clamp_generic, "object/tangible/loot/npc_loot/shared_clamp_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_clamp_generic, "object/tangible/loot/npc_loot/clamp_generic.iff")

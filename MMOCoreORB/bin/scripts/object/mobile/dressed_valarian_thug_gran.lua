@@ -4,4 +4,4 @@ object_mobile_dressed_valarian_thug_gran = object_mobile_shared_dressed_valarian
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_valarian_thug_gran, "object/mobile/shared_dressed_valarian_thug_gran.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_valarian_thug_gran, "object/mobile/dressed_valarian_thug_gran.iff")

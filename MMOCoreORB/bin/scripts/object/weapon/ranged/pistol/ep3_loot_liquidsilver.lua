@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_loot_liquidsilver = object_weapon_ranged_pistol_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_liquidsilver, "object/weapon/ranged/pistol/shared_ep3_loot_liquidsilver.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_liquidsilver, "object/weapon/ranged/pistol/ep3_loot_liquidsilver.iff")

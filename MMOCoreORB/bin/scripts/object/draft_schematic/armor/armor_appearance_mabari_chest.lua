@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_mabari_chest = object_draft_schema
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mabari_chest, "object/draft_schematic/armor/shared_armor_appearance_mabari_chest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mabari_chest, "object/draft_schematic/armor/armor_appearance_mabari_chest.iff")

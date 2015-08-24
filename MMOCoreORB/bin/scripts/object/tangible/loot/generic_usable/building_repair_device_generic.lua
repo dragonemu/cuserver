@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_building_repair_device_generic = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_building_repair_device_generic, "object/tangible/loot/generic_usable/shared_building_repair_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_building_repair_device_generic, "object/tangible/loot/generic_usable/building_repair_device_generic.iff")

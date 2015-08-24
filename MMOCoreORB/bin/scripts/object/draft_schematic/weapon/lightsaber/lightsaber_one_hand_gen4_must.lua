@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lightsaber_lightsaber_one_hand_gen4_must = object_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lightsaber_lightsaber_one_hand_gen4_must, "object/draft_schematic/weapon/lightsaber/shared_lightsaber_one_hand_gen4_must.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lightsaber_lightsaber_one_hand_gen4_must, "object/draft_schematic/weapon/lightsaber/lightsaber_one_hand_gen4_must.iff")

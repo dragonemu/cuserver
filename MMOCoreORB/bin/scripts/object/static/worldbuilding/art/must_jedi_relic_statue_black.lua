@@ -4,4 +4,4 @@ object_static_worldbuilding_art_must_jedi_relic_statue_black = object_static_wor
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_art_must_jedi_relic_statue_black, "object/static/worldbuilding/art/shared_must_jedi_relic_statue_black.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_art_must_jedi_relic_statue_black, "object/static/worldbuilding/art/must_jedi_relic_statue_black.iff")

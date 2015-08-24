@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_generator_device_generic = object_tangible_loot_np
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_generator_device_generic, "object/tangible/loot/npc_loot/shared_generator_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_generator_device_generic, "object/tangible/loot/npc_loot/generator_device_generic.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_furniture_must_furniture_throw_pillow_01 = object_draft_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_furniture_throw_pillow_01, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_furniture_throw_pillow_01, "object/draft_schematic/furniture/must_furniture_throw_pillow_01.iff")

@@ -4,4 +4,4 @@ object_mobile_dressed_sayormi_witch_07 = object_mobile_shared_dressed_sayormi_wi
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_sayormi_witch_07, "object/mobile/shared_dressed_sayormi_witch_07.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_sayormi_witch_07, "object/mobile/dressed_sayormi_witch_07.iff")

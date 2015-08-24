@@ -4,4 +4,4 @@ object_mobile_dressed_valarian_assassin_twilek_female_02 = object_mobile_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_valarian_assassin_twilek_female_02, "object/mobile/shared_dressed_valarian_assassin_twilek_female_02.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_valarian_assassin_twilek_female_02, "object/mobile/dressed_valarian_assassin_twilek_female_02.iff")

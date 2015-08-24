@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_syren5_comm_array = object_tangible_terminal_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_syren5_comm_array, "object/tangible/terminal/shared_terminal_syren5_comm_array.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_syren5_comm_array, "object/tangible/terminal/terminal_syren5_comm_array.iff")

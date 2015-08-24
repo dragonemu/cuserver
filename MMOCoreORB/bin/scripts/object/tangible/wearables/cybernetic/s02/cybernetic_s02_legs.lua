@@ -4,4 +4,4 @@ object_tangible_wearables_cybernetic_s02_cybernetic_s02_legs = object_tangible_w
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_cybernetic_s02_cybernetic_s02_legs, "object/tangible/wearables/cybernetic/s02/shared_cybernetic_s02_legs.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_cybernetic_s02_cybernetic_s02_legs, "object/tangible/wearables/cybernetic/s02/cybernetic_s02_legs.iff")

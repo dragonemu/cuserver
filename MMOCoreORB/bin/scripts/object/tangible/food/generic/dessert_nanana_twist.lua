@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_nanana_twist = object_tangible_food_generic
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_nanana_twist, "object/tangible/food/generic/shared_dessert_nanana_twist.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_nanana_twist, "object/tangible/food/generic/dessert_nanana_twist.iff")

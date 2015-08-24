@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_briefcase_generic = object_tangible_loot_npc_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_briefcase_generic, "object/tangible/loot/npc_loot/shared_briefcase_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_briefcase_generic, "object/tangible/loot/npc_loot/briefcase_generic.iff")

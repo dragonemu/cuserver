@@ -4,4 +4,4 @@ object_tangible_quest_som_kenobi_final_crystal_pedestal = object_tangible_quest_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_final_crystal_pedestal, "object/tangible/quest/shared_som_kenobi_final_crystal_pedestal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_final_crystal_pedestal, "object/tangible/quest/som_kenobi_final_crystal_pedestal.iff")

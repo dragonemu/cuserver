@@ -4,4 +4,4 @@ object_static_particle_pt_waterfall_kashyyyk_5x50 = object_static_particle_share
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_waterfall_kashyyyk_5x50, "object/static/particle/shared_pt_waterfall_kashyyyk_5x50.iff")
+ObjectTemplates:addTemplate(object_static_particle_pt_waterfall_kashyyyk_5x50, "object/static/particle/pt_waterfall_kashyyyk_5x50.iff")

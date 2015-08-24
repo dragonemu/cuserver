@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_parwan_nutricake = object_tangible_food_gen
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_parwan_nutricake, "object/tangible/food/generic/shared_dessert_parwan_nutricake.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_parwan_nutricake, "object/tangible/food/generic/dessert_parwan_nutricake.iff")

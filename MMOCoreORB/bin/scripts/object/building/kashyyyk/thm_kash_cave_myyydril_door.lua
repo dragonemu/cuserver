@@ -4,4 +4,4 @@ object_building_kashyyyk_thm_kash_cave_myyydril_door = object_building_kashyyyk_
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_cave_myyydril_door, "object/building/kashyyyk/shared_thm_kash_cave_myyydril_door.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_thm_kash_cave_myyydril_door, "object/building/kashyyyk/thm_kash_cave_myyydril_door.iff")

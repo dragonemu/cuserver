@@ -4,4 +4,4 @@ object_tangible_dungeon_avatar_platform_terminal_launch = object_tangible_dungeo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_terminal_launch, "object/tangible/dungeon/avatar_platform/shared_terminal_launch.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_avatar_platform_terminal_launch, "object/tangible/dungeon/avatar_platform/terminal_launch.iff")

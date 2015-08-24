@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_actioncost = object_tangible_powerup_weapon
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_actioncost, "object/tangible/powerup/weapon/shared_melee_actioncost.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_actioncost, "object/tangible/powerup/weapon/melee_actioncost.iff")

@@ -4,4 +4,4 @@ object_tangible_wearables_armor_armor_clothing_nostat_base = object_tangible_wea
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_armor_clothing_nostat_base, "object/tangible/wearables/armor/armor_clothing_nostat_base.iff")

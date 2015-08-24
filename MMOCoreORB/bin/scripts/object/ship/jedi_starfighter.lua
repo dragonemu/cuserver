@@ -4,4 +4,4 @@ object_ship_jedi_starfighter = object_ship_shared_jedi_starfighter:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_jedi_starfighter, "object/ship/shared_jedi_starfighter.iff")
+ObjectTemplates:addTemplate(object_ship_jedi_starfighter, "object/ship/jedi_starfighter.iff")

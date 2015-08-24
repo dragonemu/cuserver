@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_hydra = object_draft_schematic_weapon_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_hydra, "object/draft_schematic/weapon/shared_loot_hydra.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_hydra, "object/draft_schematic/weapon/loot_hydra.iff")

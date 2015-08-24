@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_walluga = object_ta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_walluga, "object/tangible/furniture/ep3_rewards/shared_ep3_kash_reward_trophy_walluga.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_ep3_kash_reward_trophy_walluga, "object/tangible/furniture/ep3_rewards/ep3_kash_reward_trophy_walluga.iff")

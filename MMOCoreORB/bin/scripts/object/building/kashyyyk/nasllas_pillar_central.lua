@@ -4,4 +4,4 @@ object_building_kashyyyk_nasllas_pillar_central = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_nasllas_pillar_central, "object/building/kashyyyk/shared_nasllas_pillar_central.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_nasllas_pillar_central, "object/building/kashyyyk/nasllas_pillar_central.iff")

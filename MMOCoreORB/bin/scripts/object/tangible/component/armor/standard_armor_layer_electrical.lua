@@ -4,4 +4,4 @@ object_tangible_component_armor_standard_armor_layer_electrical = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_electrical, "object/tangible/component/armor/shared_standard_armor_layer_electrical.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_electrical, "object/tangible/component/armor/standard_armor_layer_electrical.iff")

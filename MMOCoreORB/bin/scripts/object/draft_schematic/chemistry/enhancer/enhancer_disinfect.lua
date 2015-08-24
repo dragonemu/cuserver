@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_disinfect = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_disinfect, "object/draft_schematic/chemistry/enhancer/shared_enhancer_disinfect.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_disinfect, "object/draft_schematic/chemistry/enhancer/enhancer_disinfect.iff")

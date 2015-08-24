@@ -4,4 +4,4 @@ object_tangible_quest_seismic_charge_stations = object_tangible_quest_shared_sei
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_seismic_charge_stations, "object/tangible/quest/shared_seismic_charge_stations.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_seismic_charge_stations, "object/tangible/quest/seismic_charge_stations.iff")

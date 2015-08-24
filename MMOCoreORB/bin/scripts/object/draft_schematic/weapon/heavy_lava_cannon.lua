@@ -4,4 +4,4 @@ object_draft_schematic_weapon_heavy_lava_cannon = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_lava_cannon, "object/draft_schematic/weapon/shared_heavy_lava_cannon.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_heavy_lava_cannon, "object/draft_schematic/weapon/heavy_lava_cannon.iff")

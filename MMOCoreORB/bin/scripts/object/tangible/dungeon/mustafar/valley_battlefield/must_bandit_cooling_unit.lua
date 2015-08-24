@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit = o
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_cooling_unit.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit, "object/tangible/dungeon/mustafar/valley_battlefield/must_bandit_cooling_unit.iff")

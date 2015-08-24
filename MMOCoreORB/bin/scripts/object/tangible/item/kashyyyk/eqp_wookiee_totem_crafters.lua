@@ -4,4 +4,4 @@ object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters = object_tangible_item_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters, "object/tangible/item/kashyyyk/shared_eqp_wookiee_totem_crafters.iff")
+ObjectTemplates:addTemplate(object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters, "object/tangible/item/kashyyyk/eqp_wookiee_totem_crafters.iff")

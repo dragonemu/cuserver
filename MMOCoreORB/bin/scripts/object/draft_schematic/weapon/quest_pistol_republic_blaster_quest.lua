@@ -4,4 +4,4 @@ object_draft_schematic_weapon_quest_pistol_republic_blaster_quest = object_draft
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_pistol_republic_blaster_quest, "object/draft_schematic/weapon/shared_quest_pistol_republic_blaster_quest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_pistol_republic_blaster_quest, "object/draft_schematic/weapon/quest_pistol_republic_blaster_quest.iff")

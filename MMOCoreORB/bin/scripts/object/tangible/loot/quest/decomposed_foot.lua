@@ -4,4 +4,4 @@ object_tangible_loot_quest_decomposed_foot = object_tangible_loot_quest_shared_d
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_decomposed_foot, "object/tangible/loot/quest/shared_decomposed_foot.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_decomposed_foot, "object/tangible/loot/quest/decomposed_foot.iff")

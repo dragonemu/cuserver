@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_broodmaster_hsskas = object_mobile_ep3_shared_ep3_broodmas
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_broodmaster_hsskas, "object/mobile/ep3/shared_ep3_broodmaster_hsskas.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_broodmaster_hsskas, "object/mobile/ep3/ep3_broodmaster_hsskas.iff")

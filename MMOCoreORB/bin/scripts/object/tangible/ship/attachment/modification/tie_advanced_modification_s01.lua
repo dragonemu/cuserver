@@ -4,4 +4,4 @@ object_tangible_ship_attachment_modification_tie_advanced_modification_s01 = obj
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_tie_advanced_modification_s01, "object/tangible/ship/attachment/modification/shared_tie_advanced_modification_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_tie_advanced_modification_s01, "object/tangible/ship/attachment/modification/tie_advanced_modification_s01.iff")

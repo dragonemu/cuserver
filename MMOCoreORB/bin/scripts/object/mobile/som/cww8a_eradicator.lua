@@ -4,4 +4,4 @@ object_mobile_som_cww8a_eradicator = object_mobile_som_shared_cww8a_eradicator:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_cww8a_eradicator, "object/mobile/som/shared_cww8a_eradicator.iff")
+ObjectTemplates:addTemplate(object_mobile_som_cww8a_eradicator, "object/mobile/som/cww8a_eradicator.iff")

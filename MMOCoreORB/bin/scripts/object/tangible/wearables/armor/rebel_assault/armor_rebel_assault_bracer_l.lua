@@ -4,4 +4,4 @@ object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_bracer_l = obj
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_bracer_l, "object/tangible/wearables/armor/rebel_assault/shared_armor_rebel_assault_bracer_l.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_bracer_l, "object/tangible/wearables/armor/rebel_assault/armor_rebel_assault_bracer_l.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_stabilizer = object_draft_sch
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_stabilizer, "object/draft_schematic/chemistry/enhancer/shared_enhancer_stabilizer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_stabilizer, "object/draft_schematic/chemistry/enhancer/enhancer_stabilizer.iff")

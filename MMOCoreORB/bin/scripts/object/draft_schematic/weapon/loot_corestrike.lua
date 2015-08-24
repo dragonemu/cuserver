@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_corestrike = object_draft_schematic_weapon_sh
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_corestrike, "object/draft_schematic/weapon/shared_loot_corestrike.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_corestrike, "object/draft_schematic/weapon/loot_corestrike.iff")

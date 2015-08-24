@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss, "object/tangible/ship/components/weapon/shared_wpn_corellian_heavy_gauss.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss, "object/tangible/ship/components/weapon/wpn_corellian_heavy_gauss.iff")

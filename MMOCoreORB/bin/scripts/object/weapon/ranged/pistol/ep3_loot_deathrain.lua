@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_loot_deathrain = object_weapon_ranged_pistol_sha
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_deathrain, "object/weapon/ranged/pistol/shared_ep3_loot_deathrain.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_loot_deathrain, "object/weapon/ranged/pistol/ep3_loot_deathrain.iff")

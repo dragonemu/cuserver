@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_hutt_light_heavy_deed = object_tangible_shi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_hutt_light_heavy_deed, "object/tangible/ship/crafted/chassis/shared_hutt_light_heavy_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_hutt_light_heavy_deed, "object/tangible/ship/crafted/chassis/hutt_light_heavy_deed.iff")

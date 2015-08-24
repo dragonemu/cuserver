@@ -4,4 +4,4 @@ object_building_kashyyyk_myyydril_cave_luilrus_mushroom_sml = object_building_ka
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_luilrus_mushroom_sml, "object/building/kashyyyk/shared_myyydril_cave_luilrus_mushroom_sml.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_luilrus_mushroom_sml, "object/building/kashyyyk/myyydril_cave_luilrus_mushroom_sml.iff")

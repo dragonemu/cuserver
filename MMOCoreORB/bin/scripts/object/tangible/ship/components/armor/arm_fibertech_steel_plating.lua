@@ -4,4 +4,4 @@ object_tangible_ship_components_armor_arm_fibertech_steel_plating = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_armor_arm_fibertech_steel_plating, "object/tangible/ship/components/armor/shared_arm_fibertech_steel_plating.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_armor_arm_fibertech_steel_plating, "object/tangible/ship/components/armor/arm_fibertech_steel_plating.iff")

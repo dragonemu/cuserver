@@ -4,4 +4,4 @@ object_ship_asteroid_mining_asteroid_dynamic_moltenrock_small_s02 = object_ship_
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_moltenrock_small_s02, "object/ship/asteroid/shared_mining_asteroid_dynamic_moltenrock_small_s02.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_moltenrock_small_s02, "object/ship/asteroid/mining_asteroid_dynamic_moltenrock_small_s02.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_ithorian_guardian_helmet = object_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_helmet, "object/draft_schematic/armor/shared_armor_appearance_ithorian_guardian_helmet.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ithorian_guardian_helmet, "object/draft_schematic/armor/armor_appearance_ithorian_guardian_helmet.iff")

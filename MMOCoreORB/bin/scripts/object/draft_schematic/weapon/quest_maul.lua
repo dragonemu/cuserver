@@ -4,4 +4,4 @@ object_draft_schematic_weapon_quest_maul = object_draft_schematic_weapon_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_maul, "object/draft_schematic/weapon/shared_quest_maul.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_maul, "object/draft_schematic/weapon/quest_maul.iff")

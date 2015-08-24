@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_adventurer = object_weapon_ranged_rifle_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_adventurer, "object/weapon/ranged/rifle/shared_rifle_adventurer.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_adventurer, "object/weapon/ranged/rifle/rifle_adventurer.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_handheld_viewscreen_2_generic = object_tangible_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_handheld_viewscreen_2_generic, "object/tangible/loot/npc_loot/shared_handheld_viewscreen_2_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_handheld_viewscreen_2_generic, "object/tangible/loot/npc_loot/handheld_viewscreen_2_generic.iff")

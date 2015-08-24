@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_clipon_id_badge_generic = object_tangible_loot_npc
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_clipon_id_badge_generic, "object/tangible/loot/npc_loot/shared_clipon_id_badge_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_clipon_id_badge_generic, "object/tangible/loot/npc_loot/clipon_id_badge_generic.iff")

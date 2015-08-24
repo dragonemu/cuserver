@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_frequency_jammer_wire_generic = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_frequency_jammer_wire_generic, "object/tangible/loot/generic_usable/shared_frequency_jammer_wire_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_frequency_jammer_wire_generic, "object/tangible/loot/generic_usable/frequency_jammer_wire_generic.iff")

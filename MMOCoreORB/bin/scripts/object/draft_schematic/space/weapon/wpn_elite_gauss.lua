@@ -4,4 +4,4 @@ object_draft_schematic_space_weapon_wpn_elite_gauss = object_draft_schematic_spa
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_gauss, "object/draft_schematic/space/weapon/shared_wpn_elite_gauss.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_gauss, "object/draft_schematic/space/weapon/wpn_elite_gauss.iff")

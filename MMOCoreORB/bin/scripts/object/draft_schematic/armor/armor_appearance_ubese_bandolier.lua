@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_ubese_bandolier = object_draft_sch
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ubese_bandolier, "object/draft_schematic/armor/shared_armor_appearance_ubese_bandolier.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ubese_bandolier, "object/draft_schematic/armor/armor_appearance_ubese_bandolier.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_outcast_vitamins = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_outcast_vitamins, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_outcast_vitamins.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_outcast_vitamins, "object/tangible/loot/creature_loot/kashyyyk_loot/outcast_vitamins.iff")

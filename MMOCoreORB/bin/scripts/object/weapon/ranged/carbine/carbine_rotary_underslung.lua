@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_rotary_underslung = object_weapon_ranged_ca
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_rotary_underslung, "object/weapon/ranged/carbine/shared_carbine_rotary_underslung.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_rotary_underslung, "object/weapon/ranged/carbine/carbine_rotary_underslung.iff")

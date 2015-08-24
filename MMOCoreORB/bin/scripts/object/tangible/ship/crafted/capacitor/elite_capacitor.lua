@@ -4,4 +4,4 @@ object_tangible_ship_crafted_capacitor_elite_capacitor = object_tangible_ship_cr
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_capacitor_elite_capacitor, "object/tangible/ship/crafted/capacitor/shared_elite_capacitor.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_capacitor_elite_capacitor, "object/tangible/ship/crafted/capacitor/elite_capacitor.iff")

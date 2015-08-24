@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_kachirho_lobarorr = object_mobile_ep3_shared_ep3_kachirho_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kachirho_lobarorr, "object/mobile/ep3/shared_ep3_kachirho_lobarorr.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kachirho_lobarorr, "object/mobile/ep3/ep3_kachirho_lobarorr.iff")

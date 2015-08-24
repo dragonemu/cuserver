@@ -4,4 +4,4 @@ object_weapon_ranged_droid_droid_hk77_assault_droid = object_weapon_ranged_droid
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_hk77_assault_droid, "object/weapon/ranged/droid/shared_droid_hk77_assault_droid.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_droid_droid_hk77_assault_droid, "object/weapon/ranged/droid/droid_hk77_assault_droid.iff")

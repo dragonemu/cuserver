@@ -4,4 +4,4 @@ object_weapon_melee_special_ep3_loot_soulstinger = object_weapon_melee_special_s
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_special_ep3_loot_soulstinger, "object/weapon/melee/special/shared_ep3_loot_soulstinger.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_special_ep3_loot_soulstinger, "object/weapon/melee/special/ep3_loot_soulstinger.iff")

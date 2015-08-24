@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_ep3_pistol_wookiee = object_weapon_ranged_pistol_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_pistol_wookiee, "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_ep3_pistol_wookiee, "object/weapon/ranged/pistol/ep3/pistol_wookiee.iff")

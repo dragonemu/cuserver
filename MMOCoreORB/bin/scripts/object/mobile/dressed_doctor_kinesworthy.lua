@@ -4,4 +4,4 @@ object_mobile_dressed_doctor_kinesworthy = object_mobile_shared_dressed_doctor_k
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_doctor_kinesworthy, "object/mobile/shared_dressed_doctor_kinesworthy.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_doctor_kinesworthy, "object/mobile/dressed_doctor_kinesworthy.iff")

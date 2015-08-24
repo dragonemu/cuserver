@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_morkov = object_mobile_ep3_shared_ep3_clone_r
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_morkov, "object/mobile/ep3/shared_ep3_clone_relics_morkov.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_morkov, "object/mobile/ep3/ep3_clone_relics_morkov.iff")

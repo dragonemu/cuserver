@@ -4,4 +4,4 @@ object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn, "object/tangible/quest/quest_start/shared_ep3_hunt_loot_spiketop_horn.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn, "object/tangible/quest/quest_start/ep3_hunt_loot_spiketop_horn.iff")

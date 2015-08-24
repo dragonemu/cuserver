@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl2_bush_md = object_building_kashyyyk
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl2_bush_md, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl2_bush_md.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl2_bush_md, "object/building/kashyyyk/poi_kash_rryatt_lvl2_bush_md.iff")

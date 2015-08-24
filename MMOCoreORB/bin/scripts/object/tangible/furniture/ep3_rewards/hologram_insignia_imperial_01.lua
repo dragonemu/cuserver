@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_hologram_insignia_imperial_01 = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_hologram_insignia_imperial_01, "object/tangible/furniture/ep3_rewards/shared_hologram_insignia_imperial_01.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_hologram_insignia_imperial_01, "object/tangible/furniture/ep3_rewards/hologram_insignia_imperial_01.iff")

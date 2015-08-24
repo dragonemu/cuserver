@@ -4,4 +4,4 @@ object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine = 
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine, "object/draft_schematic/bio_engineer/bio_component/shared_bio_component_armor_thymine.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine, "object/draft_schematic/bio_engineer/bio_component/bio_component_armor_thymine.iff")

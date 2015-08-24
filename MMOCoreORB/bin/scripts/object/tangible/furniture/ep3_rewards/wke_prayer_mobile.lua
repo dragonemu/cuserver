@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_wke_prayer_mobile = object_tangible_furnit
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_prayer_mobile, "object/tangible/furniture/ep3_rewards/shared_wke_prayer_mobile.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wke_prayer_mobile, "object/tangible/furniture/ep3_rewards/wke_prayer_mobile.iff")

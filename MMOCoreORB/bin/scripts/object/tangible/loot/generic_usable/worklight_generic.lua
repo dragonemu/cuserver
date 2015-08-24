@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_worklight_generic = object_tangible_loot_gen
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_worklight_generic, "object/tangible/loot/generic_usable/shared_worklight_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_worklight_generic, "object/tangible/loot/generic_usable/worklight_generic.iff")

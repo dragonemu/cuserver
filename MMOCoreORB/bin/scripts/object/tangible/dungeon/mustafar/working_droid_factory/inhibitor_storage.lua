@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_working_droid_factory_inhibitor_storage = objec
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_inhibitor_storage, "object/tangible/dungeon/mustafar/working_droid_factory/shared_inhibitor_storage.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_working_droid_factory_inhibitor_storage, "object/tangible/dungeon/mustafar/working_droid_factory/inhibitor_storage.iff")

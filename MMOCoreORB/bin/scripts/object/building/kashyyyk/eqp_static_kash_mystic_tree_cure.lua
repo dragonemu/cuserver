@@ -4,4 +4,4 @@ object_building_kashyyyk_eqp_static_kash_mystic_tree_cure = object_building_kash
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_kash_mystic_tree_cure, "object/building/kashyyyk/shared_eqp_static_kash_mystic_tree_cure.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_kash_mystic_tree_cure, "object/building/kashyyyk/eqp_static_kash_mystic_tree_cure.iff")

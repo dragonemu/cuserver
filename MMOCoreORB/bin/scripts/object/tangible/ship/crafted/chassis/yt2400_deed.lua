@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_yt2400_deed = object_tangible_ship_crafted_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_yt2400_deed, "object/tangible/ship/crafted/chassis/shared_yt2400_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_yt2400_deed, "object/tangible/ship/crafted/chassis/yt2400_deed.iff")

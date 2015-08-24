@@ -4,4 +4,4 @@ object_tangible_deed_vehicle_deed_landspeeder_lava_skiff_deed = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_landspeeder_lava_skiff_deed, "object/tangible/deed/vehicle_deed/shared_landspeeder_lava_skiff_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_landspeeder_lava_skiff_deed, "object/tangible/deed/vehicle_deed/landspeeder_lava_skiff_deed.iff")

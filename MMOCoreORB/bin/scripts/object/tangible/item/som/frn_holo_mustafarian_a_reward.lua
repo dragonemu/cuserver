@@ -4,4 +4,4 @@ object_tangible_item_som_frn_holo_mustafarian_a_reward = object_tangible_item_so
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_frn_holo_mustafarian_a_reward, "object/tangible/item/som/shared_frn_holo_mustafarian_a_reward.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_frn_holo_mustafarian_a_reward, "object/tangible/item/som/frn_holo_mustafarian_a_reward.iff")

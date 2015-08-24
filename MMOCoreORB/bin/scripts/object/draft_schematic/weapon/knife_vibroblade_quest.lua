@@ -4,4 +4,4 @@ object_draft_schematic_weapon_knife_vibroblade_quest = object_draft_schematic_we
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_vibroblade_quest, "object/draft_schematic/weapon/shared_knife_vibroblade_quest.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_vibroblade_quest, "object/draft_schematic/weapon/knife_vibroblade_quest.iff")

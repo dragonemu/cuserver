@@ -4,4 +4,4 @@ object_tangible_ship_components_shield_generator_shd_protecto_net = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_shield_generator_shd_protecto_net, "object/tangible/ship/components/shield_generator/shared_shd_protecto_net.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_shield_generator_shd_protecto_net, "object/tangible/ship/components/shield_generator/shd_protecto_net.iff")

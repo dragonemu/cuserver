@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_must_painting_04 = object_tangible_loot_mustafar_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_must_painting_04, "object/tangible/loot/mustafar/shared_must_painting_04.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_must_painting_04, "object/tangible/loot/mustafar/must_painting_04.iff")

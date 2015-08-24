@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_bone_boots = object_draft_schemati
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_bone_boots, "object/draft_schematic/armor/shared_armor_appearance_bone_boots.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_bone_boots, "object/draft_schematic/armor/armor_appearance_bone_boots.iff")

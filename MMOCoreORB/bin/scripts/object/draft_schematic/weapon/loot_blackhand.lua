@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_blackhand = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_blackhand, "object/draft_schematic/weapon/shared_loot_blackhand.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_blackhand, "object/draft_schematic/weapon/loot_blackhand.iff")

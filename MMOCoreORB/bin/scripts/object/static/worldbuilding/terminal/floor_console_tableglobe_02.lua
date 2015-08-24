@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_console_tableglobe_02 = object_static
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_console_tableglobe_02, "object/static/worldbuilding/terminal/shared_floor_console_tableglobe_02.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_console_tableglobe_02, "object/static/worldbuilding/terminal/floor_console_tableglobe_02.iff")

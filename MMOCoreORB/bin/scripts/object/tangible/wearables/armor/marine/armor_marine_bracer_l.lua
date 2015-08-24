@@ -4,4 +4,4 @@ object_tangible_wearables_armor_marine_armor_marine_bracer_l = object_tangible_w
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_marine_armor_marine_bracer_l, "object/tangible/wearables/armor/marine/shared_armor_marine_bracer_l.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_marine_armor_marine_bracer_l, "object/tangible/wearables/armor/marine/armor_marine_bracer_l.iff")

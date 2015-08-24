@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_layer_new = object_tangible_component_armo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_layer_new, "object/tangible/component/armor/shared_armor_layer_new.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_layer_new, "object/tangible/component/armor/armor_layer_new.iff")

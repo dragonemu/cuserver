@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_necklace_wookiee_freedom_wke_f = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_wookiee_freedom_wke_f, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_wookiee_freedom_wke_f, "object/tangible/wearables/necklace/necklace_wookiee_freedom_wke_f.iff")

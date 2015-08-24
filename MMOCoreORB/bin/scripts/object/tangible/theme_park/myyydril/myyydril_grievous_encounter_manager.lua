@@ -4,4 +4,4 @@ object_tangible_theme_park_myyydril_myyydril_grievous_encounter_manager = object
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_myyydril_grievous_encounter_manager, "object/tangible/theme_park/myyydril/shared_myyydril_grievous_encounter_manager.iff")
+ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_myyydril_grievous_encounter_manager, "object/tangible/theme_park/myyydril/myyydril_grievous_encounter_manager.iff")

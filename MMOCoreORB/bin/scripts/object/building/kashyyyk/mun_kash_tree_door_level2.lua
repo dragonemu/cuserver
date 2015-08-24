@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_tree_door_level2 = object_building_kashyyyk_sh
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_tree_door_level2, "object/building/kashyyyk/shared_mun_kash_tree_door_level2.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_tree_door_level2, "object/building/kashyyyk/mun_kash_tree_door_level2.iff")

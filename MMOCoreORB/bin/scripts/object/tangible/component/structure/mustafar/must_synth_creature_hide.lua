@@ -4,4 +4,4 @@ object_tangible_component_structure_mustafar_must_synth_creature_hide = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_synth_creature_hide, "object/tangible/component/structure/mustafar/shared_must_synth_creature_hide.iff")
+ObjectTemplates:addTemplate(object_tangible_component_structure_mustafar_must_synth_creature_hide, "object/tangible/component/structure/mustafar/must_synth_creature_hide.iff")

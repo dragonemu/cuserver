@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_pistol_launcher_elite = object_weapon_ranged_pistol_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_launcher_elite, "object/weapon/ranged/pistol/shared_pistol_launcher_elite.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_launcher_elite, "object/weapon/ranged/pistol/pistol_launcher_elite.iff")

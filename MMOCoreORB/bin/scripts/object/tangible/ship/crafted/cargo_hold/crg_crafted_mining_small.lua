@@ -4,4 +4,4 @@ object_tangible_ship_crafted_cargo_hold_crg_crafted_mining_small = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_cargo_hold_crg_crafted_mining_small, "object/tangible/ship/crafted/cargo_hold/shared_crg_crafted_mining_small.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_cargo_hold_crg_crafted_mining_small, "object/tangible/ship/crafted/cargo_hold/crg_crafted_mining_small.iff")

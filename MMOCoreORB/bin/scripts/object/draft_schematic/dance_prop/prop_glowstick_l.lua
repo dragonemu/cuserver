@@ -4,4 +4,4 @@ object_draft_schematic_dance_prop_prop_glowstick_l = object_draft_schematic_danc
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_glowstick_l, "object/draft_schematic/dance_prop/shared_prop_glowstick_l.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_dance_prop_prop_glowstick_l, "object/draft_schematic/dance_prop/prop_glowstick_l.iff")

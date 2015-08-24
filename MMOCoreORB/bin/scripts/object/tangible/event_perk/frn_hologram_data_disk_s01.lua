@@ -4,4 +4,4 @@ object_tangible_event_perk_frn_hologram_data_disk_s01 = object_tangible_event_pe
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_event_perk_frn_hologram_data_disk_s01, "object/tangible/event_perk/shared_frn_hologram_data_disk_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_event_perk_frn_hologram_data_disk_s01, "object/tangible/event_perk/frn_hologram_data_disk_s01.iff")

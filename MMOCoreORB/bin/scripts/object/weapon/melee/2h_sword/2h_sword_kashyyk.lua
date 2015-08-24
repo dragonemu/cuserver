@@ -4,4 +4,4 @@ object_weapon_melee_2h_sword_2h_sword_kashyyk = object_weapon_melee_2h_sword_sha
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_2h_sword_kashyyk, "object/weapon/melee/2h_sword/shared_2h_sword_kashyyk.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_2h_sword_2h_sword_kashyyk, "object/weapon/melee/2h_sword/2h_sword_kashyyk.iff")

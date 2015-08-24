@@ -4,4 +4,4 @@ object_tangible_smuggler_mandalorian_interframe = object_tangible_smuggler_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_mandalorian_interframe, "object/tangible/smuggler/shared_mandalorian_interframe.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_mandalorian_interframe, "object/tangible/smuggler/mandalorian_interframe.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_shoe_soul_generic = object_tangible_loot_npc_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shoe_soul_generic, "object/tangible/loot/npc_loot/shared_shoe_soul_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_shoe_soul_generic, "object/tangible/loot/npc_loot/shoe_soul_generic.iff")

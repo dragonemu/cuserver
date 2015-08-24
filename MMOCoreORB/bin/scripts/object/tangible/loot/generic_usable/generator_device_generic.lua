@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_generator_device_generic = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_generator_device_generic, "object/tangible/loot/generic_usable/shared_generator_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_generator_device_generic, "object/tangible/loot/generic_usable/generator_device_generic.iff")

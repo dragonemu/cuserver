@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion_weapon = o
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion_weapon.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_turret_concussion_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/turret_concussion_weapon.iff")

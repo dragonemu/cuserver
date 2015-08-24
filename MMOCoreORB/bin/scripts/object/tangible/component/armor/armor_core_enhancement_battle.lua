@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_core_enhancement_battle = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_enhancement_battle, "object/tangible/component/armor/shared_armor_core_enhancement_battle.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_enhancement_battle, "object/tangible/component/armor/armor_core_enhancement_battle.iff")

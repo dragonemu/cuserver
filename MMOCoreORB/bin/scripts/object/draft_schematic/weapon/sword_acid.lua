@@ -4,4 +4,4 @@ object_draft_schematic_weapon_sword_acid = object_draft_schematic_weapon_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_acid, "object/draft_schematic/weapon/shared_sword_acid.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_acid, "object/draft_schematic/weapon/sword_acid.iff")

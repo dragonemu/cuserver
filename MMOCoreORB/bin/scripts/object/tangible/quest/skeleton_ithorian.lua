@@ -4,4 +4,4 @@ object_tangible_quest_skeleton_ithorian = object_tangible_quest_shared_skeleton_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_skeleton_ithorian, "object/tangible/quest/shared_skeleton_ithorian.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_skeleton_ithorian, "object/tangible/quest/skeleton_ithorian.iff")

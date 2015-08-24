@@ -4,4 +4,4 @@ object_tangible_ship_components_engine_eng_bezelbok_kessel_runner = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_bezelbok_kessel_runner, "object/tangible/ship/components/engine/shared_eng_bezelbok_kessel_runner.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_engine_eng_bezelbok_kessel_runner, "object/tangible/ship/components/engine/eng_bezelbok_kessel_runner.iff")

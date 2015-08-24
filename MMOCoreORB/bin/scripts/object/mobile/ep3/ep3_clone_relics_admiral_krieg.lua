@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_admiral_krieg = object_mobile_ep3_shared_ep3_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_admiral_krieg, "object/mobile/ep3/shared_ep3_clone_relics_admiral_krieg.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_admiral_krieg, "object/mobile/ep3/ep3_clone_relics_admiral_krieg.iff")

@@ -4,4 +4,4 @@ object_weapon_melee_sword_sword_rantok_generic = object_weapon_melee_sword_share
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_rantok_generic, "object/weapon/melee/sword/shared_sword_rantok_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_rantok_generic, "object/weapon/melee/sword/sword_rantok_generic.iff")

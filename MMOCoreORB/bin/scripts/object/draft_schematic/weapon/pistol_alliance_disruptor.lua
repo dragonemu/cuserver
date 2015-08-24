@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_alliance_disruptor = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_alliance_disruptor, "object/draft_schematic/weapon/shared_pistol_alliance_disruptor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_alliance_disruptor, "object/draft_schematic/weapon/pistol_alliance_disruptor.iff")

@@ -4,4 +4,4 @@ object_static_item_item_chaff_launcher = object_static_item_shared_item_chaff_la
 
 }
 
-ObjectTemplates:addTemplate(object_static_item_item_chaff_launcher, "object/static/item/shared_item_chaff_launcher.iff")
+ObjectTemplates:addTemplate(object_static_item_item_chaff_launcher, "object/static/item/item_chaff_launcher.iff")

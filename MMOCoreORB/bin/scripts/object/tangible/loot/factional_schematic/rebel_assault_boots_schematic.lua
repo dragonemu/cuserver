@@ -4,4 +4,4 @@ object_tangible_loot_factional_schematic_rebel_assault_boots_schematic = object_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_assault_boots_schematic, "object/tangible/loot/factional_schematic/shared_rebel_assault_boots_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_factional_schematic_rebel_assault_boots_schematic, "object/tangible/loot/factional_schematic/rebel_assault_boots_schematic.iff")

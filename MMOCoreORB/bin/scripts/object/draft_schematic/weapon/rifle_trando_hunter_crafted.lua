@@ -4,4 +4,4 @@ object_draft_schematic_weapon_rifle_trando_hunter_crafted = object_draft_schemat
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/rifle_trando_hunter_crafted.iff")

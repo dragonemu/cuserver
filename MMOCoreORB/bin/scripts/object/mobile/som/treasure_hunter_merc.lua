@@ -4,4 +4,4 @@ object_mobile_som_treasure_hunter_merc = object_mobile_som_shared_treasure_hunte
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_treasure_hunter_merc, "object/mobile/som/shared_treasure_hunter_merc.iff")
+ObjectTemplates:addTemplate(object_mobile_som_treasure_hunter_merc, "object/mobile/som/treasure_hunter_merc.iff")

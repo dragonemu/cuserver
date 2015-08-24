@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_executer = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_executer, "object/draft_schematic/weapon/shared_loot_executer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_executer, "object/draft_schematic/weapon/loot_executer.iff")

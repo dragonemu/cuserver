@@ -4,4 +4,4 @@ object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack = object_ta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack, "object/tangible/wearables/backpack/shared_ep3_chiss_poacher_player_backpack.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack, "object/tangible/wearables/backpack/ep3_chiss_poacher_player_backpack.iff")

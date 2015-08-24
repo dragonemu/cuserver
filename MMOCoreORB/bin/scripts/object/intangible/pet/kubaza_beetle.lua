@@ -4,4 +4,4 @@ object_intangible_pet_kubaza_beetle = object_intangible_pet_shared_kubaza_beetle
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_pet_kubaza_beetle, "object/intangible/pet/shared_kubaza_beetle.iff")
+ObjectTemplates:addTemplate(object_intangible_pet_kubaza_beetle, "object/intangible/pet/kubaza_beetle.iff")

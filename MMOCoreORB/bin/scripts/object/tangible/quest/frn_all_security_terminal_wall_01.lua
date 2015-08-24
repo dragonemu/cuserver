@@ -4,4 +4,4 @@ object_tangible_quest_frn_all_security_terminal_wall_01 = object_tangible_quest_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_frn_all_security_terminal_wall_01, "object/tangible/quest/shared_frn_all_security_terminal_wall_01.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_frn_all_security_terminal_wall_01, "object/tangible/quest/frn_all_security_terminal_wall_01.iff")

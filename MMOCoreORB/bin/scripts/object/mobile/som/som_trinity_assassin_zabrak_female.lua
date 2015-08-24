@@ -4,4 +4,4 @@ object_mobile_som_som_trinity_assassin_zabrak_female = object_mobile_som_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_trinity_assassin_zabrak_female, "object/mobile/som/shared_som_trinity_assassin_zabrak_female.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_trinity_assassin_zabrak_female, "object/mobile/som/som_trinity_assassin_zabrak_female.iff")

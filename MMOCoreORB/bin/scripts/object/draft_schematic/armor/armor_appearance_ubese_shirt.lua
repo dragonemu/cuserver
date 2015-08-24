@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_ubese_shirt = object_draft_schemat
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ubese_shirt, "object/draft_schematic/armor/shared_armor_appearance_ubese_shirt.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_ubese_shirt, "object/draft_schematic/armor/armor_appearance_ubese_shirt.iff")

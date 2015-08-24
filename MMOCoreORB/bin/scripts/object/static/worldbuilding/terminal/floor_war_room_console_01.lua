@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_war_room_console_01 = object_static_w
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_war_room_console_01, "object/static/worldbuilding/terminal/shared_floor_war_room_console_01.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_war_room_console_01, "object/static/worldbuilding/terminal/floor_war_room_console_01.iff")

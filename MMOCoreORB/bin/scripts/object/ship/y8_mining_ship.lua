@@ -4,4 +4,4 @@ object_ship_y8_mining_ship = object_ship_shared_y8_mining_ship:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_y8_mining_ship, "object/ship/shared_y8_mining_ship.iff")
+ObjectTemplates:addTemplate(object_ship_y8_mining_ship, "object/ship/y8_mining_ship.iff")

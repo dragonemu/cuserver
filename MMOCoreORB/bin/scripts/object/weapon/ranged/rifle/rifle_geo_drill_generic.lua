@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_geo_drill_generic = object_weapon_ranged_rifle_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_geo_drill_generic, "object/weapon/ranged/rifle/shared_rifle_geo_drill_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_geo_drill_generic, "object/weapon/ranged/rifle/rifle_geo_drill_generic.iff")

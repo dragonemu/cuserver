@@ -4,4 +4,4 @@ object_tangible_quest_medical_desk = object_tangible_quest_shared_medical_desk:n
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_medical_desk, "object/tangible/quest/shared_medical_desk.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_medical_desk, "object/tangible/quest/medical_desk.iff")

@@ -4,4 +4,4 @@ object_building_kashyyyk_eqp_static_wookiee_totem_crafters = object_building_kas
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_crafters, "object/building/kashyyyk/shared_eqp_static_wookiee_totem_crafters.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_crafters, "object/building/kashyyyk/eqp_static_wookiee_totem_crafters.iff")

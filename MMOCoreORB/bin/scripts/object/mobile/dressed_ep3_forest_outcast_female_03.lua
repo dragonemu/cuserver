@@ -4,4 +4,4 @@ object_mobile_dressed_ep3_forest_outcast_female_03 = object_mobile_shared_dresse
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_outcast_female_03, "object/mobile/shared_dressed_ep3_forest_outcast_female_03.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_outcast_female_03, "object/mobile/dressed_ep3_forest_outcast_female_03.iff")

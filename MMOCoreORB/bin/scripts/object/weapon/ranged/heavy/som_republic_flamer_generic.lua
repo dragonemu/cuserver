@@ -4,4 +4,4 @@ object_weapon_ranged_heavy_som_republic_flamer_generic = object_weapon_ranged_he
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_heavy_som_republic_flamer_generic, "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_heavy_som_republic_flamer_generic, "object/weapon/ranged/heavy/som_republic_flamer_generic.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_lance_obsidian = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_obsidian, "object/draft_schematic/weapon/shared_lance_obsidian.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_lance_obsidian, "object/draft_schematic/weapon/lance_obsidian.iff")

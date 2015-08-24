@@ -4,4 +4,4 @@ object_draft_schematic_furniture_must_furniture_old_republic_tech_01 = object_dr
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_furniture_old_republic_tech_01, "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_furniture_must_furniture_old_republic_tech_01, "object/draft_schematic/furniture/must_furniture_old_republic_tech_01.iff")

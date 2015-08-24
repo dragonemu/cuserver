@@ -4,4 +4,4 @@ object_mobile_dressed_patrol_member_02 = object_mobile_shared_dressed_patrol_mem
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_patrol_member_02, "object/mobile/shared_dressed_patrol_member_02.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_patrol_member_02, "object/mobile/dressed_patrol_member_02.iff")

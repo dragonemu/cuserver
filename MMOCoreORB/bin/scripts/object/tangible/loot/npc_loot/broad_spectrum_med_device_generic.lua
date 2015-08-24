@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_broad_spectrum_med_device_generic = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_broad_spectrum_med_device_generic, "object/tangible/loot/npc_loot/shared_broad_spectrum_med_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_broad_spectrum_med_device_generic, "object/tangible/loot/npc_loot/broad_spectrum_med_device_generic.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_grievance = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_grievance, "object/draft_schematic/weapon/shared_loot_grievance.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_grievance, "object/draft_schematic/weapon/loot_grievance.iff")

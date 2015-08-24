@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_medpack_enhance_health_triad_c = object_draft_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_c, "object/draft_schematic/chemistry/shared_medpack_enhance_health_triad_c.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_medpack_enhance_health_triad_c, "object/draft_schematic/chemistry/medpack_enhance_health_triad_c.iff")

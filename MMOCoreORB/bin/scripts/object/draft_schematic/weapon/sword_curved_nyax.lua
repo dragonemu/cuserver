@@ -4,4 +4,4 @@ object_draft_schematic_weapon_sword_curved_nyax = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_curved_nyax, "object/draft_schematic/weapon/shared_sword_curved_nyax.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_sword_curved_nyax, "object/draft_schematic/weapon/sword_curved_nyax.iff")

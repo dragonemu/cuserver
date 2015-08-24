@@ -4,4 +4,4 @@ object_tangible_wearables_gloves_gloves_bossk_reward = object_tangible_wearables
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_gloves_gloves_bossk_reward, "object/tangible/wearables/gloves/shared_gloves_bossk_reward.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_gloves_gloves_bossk_reward, "object/tangible/wearables/gloves/gloves_bossk_reward.iff")

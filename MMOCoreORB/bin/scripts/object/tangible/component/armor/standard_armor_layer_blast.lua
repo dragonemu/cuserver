@@ -4,4 +4,4 @@ object_tangible_component_armor_standard_armor_layer_blast = object_tangible_com
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_blast, "object/tangible/component/armor/shared_standard_armor_layer_blast.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_blast, "object/tangible/component/armor/standard_armor_layer_blast.iff")

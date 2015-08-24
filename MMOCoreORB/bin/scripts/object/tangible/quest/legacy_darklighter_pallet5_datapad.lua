@@ -4,4 +4,4 @@ object_tangible_quest_legacy_darklighter_pallet5_datapad = object_tangible_quest
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_legacy_darklighter_pallet5_datapad, "object/tangible/quest/shared_legacy_darklighter_pallet5_datapad.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_legacy_darklighter_pallet5_datapad, "object/tangible/quest/legacy_darklighter_pallet5_datapad.iff")

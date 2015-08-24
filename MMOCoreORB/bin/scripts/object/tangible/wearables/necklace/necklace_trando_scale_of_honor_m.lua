@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_necklace_trando_scale_of_honor_m = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_trando_scale_of_honor_m, "object/tangible/wearables/necklace/shared_necklace_trando_scale_of_honor_m.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_trando_scale_of_honor_m, "object/tangible/wearables/necklace/necklace_trando_scale_of_honor_m.iff")

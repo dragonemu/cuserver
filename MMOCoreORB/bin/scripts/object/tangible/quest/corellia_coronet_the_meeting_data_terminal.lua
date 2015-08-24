@@ -4,4 +4,4 @@ object_tangible_quest_corellia_coronet_the_meeting_data_terminal = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_the_meeting_data_terminal, "object/tangible/quest/shared_corellia_coronet_the_meeting_data_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_the_meeting_data_terminal, "object/tangible/quest/corellia_coronet_the_meeting_data_terminal.iff")

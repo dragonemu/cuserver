@@ -4,4 +4,4 @@ object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg, "object/tangible/furniture/all/shared_frn_all_trophy_spiketail_blurrg.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_spiketail_blurrg, "object/tangible/furniture/all/frn_all_trophy_spiketail_blurrg.iff")

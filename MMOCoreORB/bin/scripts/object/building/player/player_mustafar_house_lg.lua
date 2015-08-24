@@ -4,4 +4,4 @@ object_building_player_player_mustafar_house_lg = object_building_player_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_building_player_player_mustafar_house_lg, "object/building/player/shared_player_mustafar_house_lg.iff")
+ObjectTemplates:addTemplate(object_building_player_player_mustafar_house_lg, "object/building/player/player_mustafar_house_lg.iff")

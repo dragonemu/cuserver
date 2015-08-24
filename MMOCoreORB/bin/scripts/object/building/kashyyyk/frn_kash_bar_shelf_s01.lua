@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_kash_bar_shelf_s01 = object_building_kashyyyk_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_bar_shelf_s01, "object/building/kashyyyk/shared_frn_kash_bar_shelf_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_bar_shelf_s01, "object/building/kashyyyk/frn_kash_bar_shelf_s01.iff")

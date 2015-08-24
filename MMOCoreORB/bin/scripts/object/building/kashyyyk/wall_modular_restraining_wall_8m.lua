@@ -4,4 +4,4 @@ object_building_kashyyyk_wall_modular_restraining_wall_8m = object_building_kash
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_wall_modular_restraining_wall_8m, "object/building/kashyyyk/shared_wall_modular_restraining_wall_8m.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_wall_modular_restraining_wall_8m, "object/building/kashyyyk/wall_modular_restraining_wall_8m.iff")

@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_appearance_enhancement_base = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_appearance_enhancement_base, "object/tangible/component/armor/shared_armor_appearance_enhancement_base.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_appearance_enhancement_base, "object/tangible/component/armor/armor_appearance_enhancement_base.iff")

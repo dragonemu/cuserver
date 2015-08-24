@@ -4,4 +4,4 @@ object_ship_asteroid_mining_asteroid_static_default = object_ship_asteroid_share
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_default, "object/ship/asteroid/shared_mining_asteroid_static_default.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_default, "object/ship/asteroid/mining_asteroid_static_default.iff")

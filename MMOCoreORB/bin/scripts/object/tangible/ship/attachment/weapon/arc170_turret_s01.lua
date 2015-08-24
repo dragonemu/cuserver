@@ -4,4 +4,4 @@ object_tangible_ship_attachment_weapon_arc170_turret_s01 = object_tangible_ship_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_arc170_turret_s01, "object/tangible/ship/attachment/weapon/shared_arc170_turret_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_arc170_turret_s01, "object/tangible/ship/attachment/weapon/arc170_turret_s01.iff")

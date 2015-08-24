@@ -4,4 +4,4 @@ object_tangible_quest_etyyy_brody_campsite_corpse = object_tangible_quest_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_etyyy_brody_campsite_corpse, "object/tangible/quest/shared_etyyy_brody_campsite_corpse.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_etyyy_brody_campsite_corpse, "object/tangible/quest/etyyy_brody_campsite_corpse.iff")

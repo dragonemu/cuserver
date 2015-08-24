@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_survey_pad_adv_generic_lt_4 = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_survey_pad_adv_generic_lt_4, "object/tangible/loot/generic_usable/shared_survey_pad_adv_generic_lt_4.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_survey_pad_adv_generic_lt_4, "object/tangible/loot/generic_usable/survey_pad_adv_generic_lt_4.iff")

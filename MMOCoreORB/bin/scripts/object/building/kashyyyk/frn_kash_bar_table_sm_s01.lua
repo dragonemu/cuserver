@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_kash_bar_table_sm_s01 = object_building_kashyyyk_sh
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_bar_table_sm_s01, "object/building/kashyyyk/shared_frn_kash_bar_table_sm_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_bar_table_sm_s01, "object/building/kashyyyk/frn_kash_bar_table_sm_s01.iff")

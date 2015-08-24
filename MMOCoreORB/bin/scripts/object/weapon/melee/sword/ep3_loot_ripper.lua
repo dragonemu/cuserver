@@ -4,4 +4,4 @@ object_weapon_melee_sword_ep3_loot_ripper = object_weapon_melee_sword_shared_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_ep3_loot_ripper, "object/weapon/melee/sword/shared_ep3_loot_ripper.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_ep3_loot_ripper, "object/weapon/melee/sword/ep3_loot_ripper.iff")

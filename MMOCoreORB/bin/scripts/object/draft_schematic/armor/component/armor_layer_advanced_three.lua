@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_armor_layer_advanced_three = object_draft
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_layer_advanced_three, "object/draft_schematic/armor/component/shared_armor_layer_advanced_three.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_layer_advanced_three, "object/draft_schematic/armor/component/armor_layer_advanced_three.iff")

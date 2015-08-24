@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_necklace_agent_of_order_f = object_tangible_w
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_agent_of_order_f, "object/tangible/wearables/necklace/shared_necklace_agent_of_order_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_necklace_agent_of_order_f, "object/tangible/wearables/necklace/necklace_agent_of_order_f.iff")

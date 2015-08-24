@@ -4,4 +4,4 @@ object_mobile_ep3_cyborg_engineer_corellia = object_mobile_ep3_shared_cyborg_eng
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_cyborg_engineer_corellia, "object/mobile/ep3/shared_cyborg_engineer_corellia.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_cyborg_engineer_corellia, "object/mobile/ep3/cyborg_engineer_corellia.iff")

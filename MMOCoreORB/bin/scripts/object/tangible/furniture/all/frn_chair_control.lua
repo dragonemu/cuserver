@@ -4,4 +4,4 @@ object_tangible_furniture_all_frn_chair_control = object_tangible_furniture_all_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_chair_control, "object/tangible/furniture/all/shared_frn_chair_control.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_chair_control, "object/tangible/furniture/all/frn_chair_control.iff")

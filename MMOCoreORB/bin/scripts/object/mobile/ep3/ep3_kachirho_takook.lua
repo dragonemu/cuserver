@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_kachirho_takook = object_mobile_ep3_shared_ep3_kachirho_ta
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kachirho_takook, "object/mobile/ep3/shared_ep3_kachirho_takook.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_kachirho_takook, "object/mobile/ep3/ep3_kachirho_takook.iff")

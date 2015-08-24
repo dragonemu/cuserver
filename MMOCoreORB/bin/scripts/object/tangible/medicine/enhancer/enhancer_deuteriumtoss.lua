@@ -4,4 +4,4 @@ object_tangible_medicine_enhancer_enhancer_deuteriumtoss = object_tangible_medic
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_deuteriumtoss, "object/tangible/medicine/enhancer/shared_enhancer_deuteriumtoss.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_enhancer_enhancer_deuteriumtoss, "object/tangible/medicine/enhancer/enhancer_deuteriumtoss.iff")

@@ -4,4 +4,4 @@ object_mobile_ep3_ep3_clone_relics_zangvin_combat = object_mobile_ep3_shared_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_zangvin_combat, "object/mobile/ep3/shared_ep3_clone_relics_zangvin_combat.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_ep3_clone_relics_zangvin_combat, "object/mobile/ep3/ep3_clone_relics_zangvin_combat.iff")

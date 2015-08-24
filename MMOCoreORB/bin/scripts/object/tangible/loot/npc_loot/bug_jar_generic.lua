@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_bug_jar_generic = object_tangible_loot_npc_loot_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_bug_jar_generic, "object/tangible/loot/npc_loot/shared_bug_jar_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_bug_jar_generic, "object/tangible/loot/npc_loot/bug_jar_generic.iff")

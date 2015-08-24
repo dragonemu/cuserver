@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_damage = object_tangible_powerup_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_damage, "object/tangible/powerup/weapon/shared_melee_damage.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_damage, "object/tangible/powerup/weapon/melee_damage.iff")

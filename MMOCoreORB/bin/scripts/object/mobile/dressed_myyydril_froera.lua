@@ -4,4 +4,4 @@ object_mobile_dressed_myyydril_froera = object_mobile_shared_dressed_myyydril_fr
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_froera, "object/mobile/shared_dressed_myyydril_froera.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_froera, "object/mobile/dressed_myyydril_froera.iff")

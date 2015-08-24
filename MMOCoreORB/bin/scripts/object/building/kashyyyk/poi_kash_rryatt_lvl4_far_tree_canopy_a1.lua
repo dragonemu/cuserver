@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl4_far_tree_canopy_a1 = object_buildi
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl4_far_tree_canopy_a1, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl4_far_tree_canopy_a1.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl4_far_tree_canopy_a1, "object/building/kashyyyk/poi_kash_rryatt_lvl4_far_tree_canopy_a1.iff")

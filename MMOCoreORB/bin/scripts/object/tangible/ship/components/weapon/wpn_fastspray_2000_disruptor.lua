@@ -4,4 +4,4 @@ object_tangible_ship_components_weapon_wpn_fastspray_2000_disruptor = object_tan
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_fastspray_2000_disruptor, "object/tangible/ship/components/weapon/shared_wpn_fastspray_2000_disruptor.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_weapon_wpn_fastspray_2000_disruptor, "object/tangible/ship/components/weapon/wpn_fastspray_2000_disruptor.iff")

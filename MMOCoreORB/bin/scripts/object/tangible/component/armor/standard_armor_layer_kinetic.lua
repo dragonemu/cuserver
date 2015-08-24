@@ -4,4 +4,4 @@ object_tangible_component_armor_standard_armor_layer_kinetic = object_tangible_c
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_kinetic, "object/tangible/component/armor/shared_standard_armor_layer_kinetic.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_kinetic, "object/tangible/component/armor/standard_armor_layer_kinetic.iff")

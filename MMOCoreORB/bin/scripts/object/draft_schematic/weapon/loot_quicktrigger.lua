@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_quicktrigger = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_quicktrigger, "object/draft_schematic/weapon/shared_loot_quicktrigger.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_quicktrigger, "object/draft_schematic/weapon/loot_quicktrigger.iff")

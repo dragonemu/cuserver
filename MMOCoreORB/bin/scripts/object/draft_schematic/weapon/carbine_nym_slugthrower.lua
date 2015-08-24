@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_nym_slugthrower = object_draft_schematic_w
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_nym_slugthrower, "object/draft_schematic/weapon/shared_carbine_nym_slugthrower.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_nym_slugthrower, "object/draft_schematic/weapon/carbine_nym_slugthrower.iff")

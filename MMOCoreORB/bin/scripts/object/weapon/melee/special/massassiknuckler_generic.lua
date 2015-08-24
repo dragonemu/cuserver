@@ -4,4 +4,4 @@ object_weapon_melee_special_massassiknuckler_generic = object_weapon_melee_speci
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_special_massassiknuckler_generic, "object/weapon/melee/special/shared_massassiknuckler_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_special_massassiknuckler_generic, "object/weapon/melee/special/massassiknuckler_generic.iff")

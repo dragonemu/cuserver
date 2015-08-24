@@ -4,4 +4,4 @@ object_draft_schematic_space_weapon_wpn_elite_railgun = object_draft_schematic_s
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_railgun, "object/draft_schematic/space/weapon/shared_wpn_elite_railgun.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_elite_railgun, "object/draft_schematic/space/weapon/wpn_elite_railgun.iff")

@@ -4,4 +4,4 @@ object_tangible_component_armor_standard_armor_layer_heat = object_tangible_comp
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_heat, "object/tangible/component/armor/shared_standard_armor_layer_heat.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_standard_armor_layer_heat, "object/tangible/component/armor/standard_armor_layer_heat.iff")

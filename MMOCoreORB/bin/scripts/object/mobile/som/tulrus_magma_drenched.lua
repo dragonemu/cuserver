@@ -4,4 +4,4 @@ object_mobile_som_tulrus_magma_drenched = object_mobile_som_shared_tulrus_magma_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_tulrus_magma_drenched, "object/mobile/som/shared_tulrus_magma_drenched.iff")
+ObjectTemplates:addTemplate(object_mobile_som_tulrus_magma_drenched, "object/mobile/som/tulrus_magma_drenched.iff")

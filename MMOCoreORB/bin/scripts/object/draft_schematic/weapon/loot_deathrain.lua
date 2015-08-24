@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_deathrain = object_draft_schematic_weapon_sha
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_deathrain, "object/draft_schematic/weapon/shared_loot_deathrain.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_deathrain, "object/draft_schematic/weapon/loot_deathrain.iff")

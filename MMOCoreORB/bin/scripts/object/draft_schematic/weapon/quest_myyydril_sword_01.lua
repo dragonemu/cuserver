@@ -4,4 +4,4 @@ object_draft_schematic_weapon_quest_myyydril_sword_01 = object_draft_schematic_w
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_myyydril_sword_01, "object/draft_schematic/weapon/shared_quest_myyydril_sword_01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_quest_myyydril_sword_01, "object/draft_schematic/weapon/quest_myyydril_sword_01.iff")

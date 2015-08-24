@@ -4,4 +4,4 @@ object_mobile_dressed_forest_outcast_leader = object_mobile_shared_dressed_fores
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_forest_outcast_leader, "object/mobile/shared_dressed_forest_outcast_leader.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_forest_outcast_leader, "object/mobile/dressed_forest_outcast_leader.iff")

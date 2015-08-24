@@ -4,4 +4,4 @@ object_ship_asteroid_mining_asteroid_dynamic_acid_small_s01 = object_ship_astero
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_acid_small_s01, "object/ship/asteroid/shared_mining_asteroid_dynamic_acid_small_s01.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_dynamic_acid_small_s01, "object/ship/asteroid/mining_asteroid_dynamic_acid_small_s01.iff")

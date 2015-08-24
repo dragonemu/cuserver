@@ -4,4 +4,4 @@ object_weapon_melee_knife_knife_dagger_static = object_weapon_melee_knife_shared
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_knife_knife_dagger_static, "object/weapon/melee/knife/shared_knife_dagger_static.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_knife_knife_dagger_static, "object/weapon/melee/knife/knife_dagger_static.iff")

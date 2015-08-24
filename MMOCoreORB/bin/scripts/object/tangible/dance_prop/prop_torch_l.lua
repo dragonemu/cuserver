@@ -4,4 +4,4 @@ object_tangible_dance_prop_prop_torch_l = object_tangible_dance_prop_shared_prop
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_torch_l, "object/tangible/dance_prop/shared_prop_torch_l.iff")
+ObjectTemplates:addTemplate(object_tangible_dance_prop_prop_torch_l, "object/tangible/dance_prop/prop_torch_l.iff")

@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_ship_interior_turret_upper = object_tangible_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_ship_interior_turret_upper, "object/tangible/terminal/shared_terminal_ship_interior_turret_upper.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_ship_interior_turret_upper, "object/tangible/terminal/terminal_ship_interior_turret_upper.iff")

@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_elshandruu_pica_thundercloud = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_elshandruu_pica_thundercloud, "object/tangible/food/generic/shared_drink_elshandruu_pica_thundercloud.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_elshandruu_pica_thundercloud, "object/tangible/food/generic/drink_elshandruu_pica_thundercloud.iff")

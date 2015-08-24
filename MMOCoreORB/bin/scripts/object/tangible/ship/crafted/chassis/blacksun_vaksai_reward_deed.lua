@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_blacksun_vaksai_reward_deed = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_blacksun_vaksai_reward_deed, "object/tangible/ship/crafted/chassis/shared_blacksun_vaksai_reward_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_blacksun_vaksai_reward_deed, "object/tangible/ship/crafted/chassis/blacksun_vaksai_reward_deed.iff")

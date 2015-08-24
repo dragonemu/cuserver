@@ -4,4 +4,4 @@ object_building_kashyyyk_kash_dead_forest_cliff_corner = object_building_kashyyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_kash_dead_forest_cliff_corner, "object/building/kashyyyk/shared_kash_dead_forest_cliff_corner.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_kash_dead_forest_cliff_corner, "object/building/kashyyyk/kash_dead_forest_cliff_corner.iff")

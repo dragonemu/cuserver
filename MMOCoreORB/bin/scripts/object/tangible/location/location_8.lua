@@ -4,4 +4,4 @@ object_tangible_location_location_8 = object_tangible_location_shared_location_8
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_location_location_8, "object/tangible/location/shared_location_8.iff")
+ObjectTemplates:addTemplate(object_tangible_location_location_8, "object/tangible/location/location_8.iff")

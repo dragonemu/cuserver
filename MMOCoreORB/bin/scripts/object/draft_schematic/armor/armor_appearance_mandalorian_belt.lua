@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_mandalorian_belt = object_draft_sc
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_belt, "object/draft_schematic/armor/shared_armor_appearance_mandalorian_belt.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_belt, "object/draft_schematic/armor/armor_appearance_mandalorian_belt.iff")

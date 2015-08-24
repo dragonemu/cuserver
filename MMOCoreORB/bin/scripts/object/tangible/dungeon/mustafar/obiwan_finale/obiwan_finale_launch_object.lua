@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_launch_object = obj
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_launch_object, "object/tangible/dungeon/mustafar/obiwan_finale/shared_obiwan_finale_launch_object.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_launch_object, "object/tangible/dungeon/mustafar/obiwan_finale/obiwan_finale_launch_object.iff")

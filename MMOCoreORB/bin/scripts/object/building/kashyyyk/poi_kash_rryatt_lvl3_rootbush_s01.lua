@@ -4,4 +4,4 @@ object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbush_s01 = object_building_kas
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbush_s01, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl3_rootbush_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_poi_kash_rryatt_lvl3_rootbush_s01, "object/building/kashyyyk/poi_kash_rryatt_lvl3_rootbush_s01.iff")

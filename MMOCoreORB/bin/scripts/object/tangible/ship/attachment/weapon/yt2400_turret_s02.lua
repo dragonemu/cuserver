@@ -4,4 +4,4 @@ object_tangible_ship_attachment_weapon_yt2400_turret_s02 = object_tangible_ship_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_yt2400_turret_s02, "object/tangible/ship/attachment/weapon/shared_yt2400_turret_s02.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_weapon_yt2400_turret_s02, "object/tangible/ship/attachment/weapon/yt2400_turret_s02.iff")

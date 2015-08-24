@@ -4,4 +4,4 @@ object_mobile_ep3_dressed_ep3_clone_relics_jawl = object_mobile_ep3_shared_dress
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_dressed_ep3_clone_relics_jawl, "object/mobile/ep3/shared_dressed_ep3_clone_relics_jawl.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_dressed_ep3_clone_relics_jawl, "object/mobile/ep3/dressed_ep3_clone_relics_jawl.iff")

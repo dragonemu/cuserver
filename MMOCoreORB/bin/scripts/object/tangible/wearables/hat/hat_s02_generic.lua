@@ -4,4 +4,4 @@ object_tangible_wearables_hat_hat_s02_generic = object_tangible_wearables_hat_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_hat_hat_s02_generic, "object/tangible/wearables/hat/shared_hat_s02_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_hat_hat_s02_generic, "object/tangible/wearables/hat/hat_s02_generic.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_space_shields_elite_shields = object_draft_schematic_spac
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_shields_elite_shields, "object/draft_schematic/space/shields/shared_elite_shields.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_shields_elite_shields, "object/draft_schematic/space/shields/elite_shields.iff")

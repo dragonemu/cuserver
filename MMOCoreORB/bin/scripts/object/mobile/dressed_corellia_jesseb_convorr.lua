@@ -4,4 +4,4 @@ object_mobile_dressed_corellia_jesseb_convorr = object_mobile_shared_dressed_cor
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_corellia_jesseb_convorr, "object/mobile/shared_dressed_corellia_jesseb_convorr.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_corellia_jesseb_convorr, "object/mobile/dressed_corellia_jesseb_convorr.iff")

@@ -4,4 +4,4 @@ object_ship_player_player_corellian_corvette = object_ship_player_shared_player_
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_corellian_corvette, "object/ship/player/shared_player_corellian_corvette.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_corellian_corvette, "object/ship/player/player_corellian_corvette.iff")

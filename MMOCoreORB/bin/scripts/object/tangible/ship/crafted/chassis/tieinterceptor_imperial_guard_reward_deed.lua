@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed =
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed, "object/tangible/ship/crafted/chassis/shared_tieinterceptor_imperial_guard_reward_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_reward_deed, "object/tangible/ship/crafted/chassis/tieinterceptor_imperial_guard_reward_deed.iff")

@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_opening_kashi = object_mobile_shared_dressed_tato
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_kashi, "object/mobile/shared_dressed_tatooine_opening_kashi.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_kashi, "object/mobile/dressed_tatooine_opening_kashi.iff")

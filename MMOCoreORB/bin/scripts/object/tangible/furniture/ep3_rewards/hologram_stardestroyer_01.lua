@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_hologram_stardestroyer_01 = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_hologram_stardestroyer_01, "object/tangible/furniture/ep3_rewards/shared_hologram_stardestroyer_01.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_hologram_stardestroyer_01, "object/tangible/furniture/ep3_rewards/hologram_stardestroyer_01.iff")

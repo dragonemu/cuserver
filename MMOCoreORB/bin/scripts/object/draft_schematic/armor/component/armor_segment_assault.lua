@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_armor_segment_assault = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_segment_assault, "object/draft_schematic/armor/component/shared_armor_segment_assault.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_armor_segment_assault, "object/draft_schematic/armor/component/armor_segment_assault.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_generic_crystal = object_tangible_loot_gener
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_generic_crystal, "object/tangible/loot/generic_usable/shared_generic_crystal.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_generic_crystal, "object/tangible/loot/generic_usable/generic_crystal.iff")

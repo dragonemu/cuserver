@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_06 = object
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_06, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_adventurers_remains_06.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_adventurers_remains_06, "object/tangible/loot/creature_loot/kashyyyk_loot/adventurers_remains_06.iff")

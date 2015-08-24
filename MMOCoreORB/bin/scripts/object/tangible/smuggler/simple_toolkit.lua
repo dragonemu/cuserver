@@ -4,4 +4,4 @@ object_tangible_smuggler_simple_toolkit = object_tangible_smuggler_shared_simple
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_simple_toolkit, "object/tangible/smuggler/shared_simple_toolkit.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_simple_toolkit, "object/tangible/smuggler/simple_toolkit.iff")

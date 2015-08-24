@@ -4,4 +4,4 @@ object_draft_schematic_space_weapon_wpn_tractor_beam = object_draft_schematic_sp
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_tractor_beam, "object/draft_schematic/space/weapon/shared_wpn_tractor_beam.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_weapon_wpn_tractor_beam, "object/draft_schematic/space/weapon/wpn_tractor_beam.iff")

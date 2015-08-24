@@ -4,4 +4,4 @@ object_creature_npc_droid_imperial_probot_bounty = object_creature_npc_droid_sha
 
 }
 
-ObjectTemplates:addTemplate(object_creature_npc_droid_imperial_probot_bounty, "object/creature/npc/droid/shared_imperial_probot_bounty.iff")
+ObjectTemplates:addTemplate(object_creature_npc_droid_imperial_probot_bounty, "object/creature/npc/droid/imperial_probot_bounty.iff")

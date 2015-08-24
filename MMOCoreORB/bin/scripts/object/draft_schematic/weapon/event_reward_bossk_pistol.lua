@@ -4,4 +4,4 @@ object_draft_schematic_weapon_event_reward_bossk_pistol = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_event_reward_bossk_pistol, "object/draft_schematic/weapon/shared_event_reward_bossk_pistol.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_event_reward_bossk_pistol, "object/draft_schematic/weapon/event_reward_bossk_pistol.iff")

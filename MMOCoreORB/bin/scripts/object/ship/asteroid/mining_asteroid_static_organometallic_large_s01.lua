@@ -4,4 +4,4 @@ object_ship_asteroid_mining_asteroid_static_organometallic_large_s01 = object_sh
 
 }
 
-ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_organometallic_large_s01, "object/ship/asteroid/shared_mining_asteroid_static_organometallic_large_s01.iff")
+ObjectTemplates:addTemplate(object_ship_asteroid_mining_asteroid_static_organometallic_large_s01, "object/ship/asteroid/mining_asteroid_static_organometallic_large_s01.iff")

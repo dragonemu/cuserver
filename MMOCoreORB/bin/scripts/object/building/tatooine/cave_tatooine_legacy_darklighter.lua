@@ -4,4 +4,4 @@ object_building_tatooine_cave_tatooine_legacy_darklighter = object_building_tato
 
 }
 
-ObjectTemplates:addTemplate(object_building_tatooine_cave_tatooine_legacy_darklighter, "object/building/tatooine/shared_cave_tatooine_legacy_darklighter.iff")
+ObjectTemplates:addTemplate(object_building_tatooine_cave_tatooine_legacy_darklighter, "object/building/tatooine/cave_tatooine_legacy_darklighter.iff")

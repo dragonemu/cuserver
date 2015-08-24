@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_uwari_parasites = object_tangib
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_uwari_parasites, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_uwari_parasites.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_uwari_parasites, "object/tangible/loot/creature_loot/kashyyyk_loot/uwari_parasites.iff")

@@ -4,4 +4,4 @@ object_resource_container_resource_container_organic_structure_lg = object_resou
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_structure_lg, "object/resource_container/shared_resource_container_organic_structure_lg.iff")
+ObjectTemplates:addTemplate(object_resource_container_resource_container_organic_structure_lg, "object/resource_container/resource_container_organic_structure_lg.iff")

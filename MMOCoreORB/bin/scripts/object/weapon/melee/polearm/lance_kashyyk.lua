@@ -4,4 +4,4 @@ object_weapon_melee_polearm_lance_kashyyk = object_weapon_melee_polearm_shared_l
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_kashyyk, "object/weapon/melee/polearm/shared_lance_kashyyk.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_lance_kashyyk, "object/weapon/melee/polearm/lance_kashyyk.iff")

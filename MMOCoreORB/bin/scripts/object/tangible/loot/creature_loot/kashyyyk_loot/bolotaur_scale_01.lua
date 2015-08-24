@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_bolotaur_scale_01 = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_bolotaur_scale_01, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_bolotaur_scale_01.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_bolotaur_scale_01, "object/tangible/loot/creature_loot/kashyyyk_loot/bolotaur_scale_01.iff")

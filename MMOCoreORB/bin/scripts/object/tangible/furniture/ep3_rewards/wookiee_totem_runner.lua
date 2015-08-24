@@ -4,4 +4,4 @@ object_tangible_furniture_ep3_rewards_wookiee_totem_runner = object_tangible_fur
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wookiee_totem_runner, "object/tangible/furniture/ep3_rewards/shared_wookiee_totem_runner.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_ep3_rewards_wookiee_totem_runner, "object/tangible/furniture/ep3_rewards/wookiee_totem_runner.iff")

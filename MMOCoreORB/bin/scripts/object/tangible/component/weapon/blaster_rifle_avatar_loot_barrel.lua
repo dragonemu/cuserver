@@ -4,4 +4,4 @@ object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel, "object/tangible/component/weapon/shared_blaster_rifle_avatar_loot_barrel.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel, "object/tangible/component/weapon/blaster_rifle_avatar_loot_barrel.iff")

@@ -4,4 +4,4 @@ object_tangible_quest_corellia_coronet_meatlump_act1_shipment = object_tangible_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_meatlump_act1_shipment, "object/tangible/quest/shared_corellia_coronet_meatlump_act1_shipment.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_meatlump_act1_shipment, "object/tangible/quest/corellia_coronet_meatlump_act1_shipment.iff")

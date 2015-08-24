@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_silencer = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_silencer, "object/draft_schematic/weapon/shared_loot_silencer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_silencer, "object/draft_schematic/weapon/loot_silencer.iff")

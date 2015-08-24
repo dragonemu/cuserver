@@ -4,4 +4,4 @@ object_draft_schematic_chemistry_enhancer_enhancer_bactajab = object_draft_schem
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactajab, "object/draft_schematic/chemistry/enhancer/shared_enhancer_bactajab.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_chemistry_enhancer_enhancer_bactajab, "object/draft_schematic/chemistry/enhancer/enhancer_bactajab.iff")

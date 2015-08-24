@@ -4,4 +4,4 @@ object_static_particle_pt_slime_drop_nosound = object_static_particle_shared_pt_
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_slime_drop_nosound, "object/static/particle/shared_pt_slime_drop_nosound.iff")
+ObjectTemplates:addTemplate(object_static_particle_pt_slime_drop_nosound, "object/static/particle/pt_slime_drop_nosound.iff")

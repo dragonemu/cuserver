@@ -4,4 +4,4 @@ object_tangible_component_weapon_mustafar_tulrus_lance_core = object_tangible_co
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_tulrus_lance_core, "object/tangible/component/weapon/mustafar/shared_tulrus_lance_core.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_tulrus_lance_core, "object/tangible/component/weapon/mustafar/tulrus_lance_core.iff")

@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_cloning_01 = object_static_worldbuild
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_cloning_01, "object/static/worldbuilding/terminal/shared_floor_cloning_01.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_cloning_01, "object/static/worldbuilding/terminal/floor_cloning_01.iff")

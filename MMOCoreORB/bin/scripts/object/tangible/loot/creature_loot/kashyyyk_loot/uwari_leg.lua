@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_uwari_leg = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_uwari_leg, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_uwari_leg.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_uwari_leg, "object/tangible/loot/creature_loot/kashyyyk_loot/uwari_leg.iff")

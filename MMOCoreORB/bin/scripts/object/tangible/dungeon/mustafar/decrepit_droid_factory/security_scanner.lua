@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner = objec
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner, "object/tangible/dungeon/mustafar/decrepit_droid_factory/shared_security_scanner.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner, "object/tangible/dungeon/mustafar/decrepit_droid_factory/security_scanner.iff")

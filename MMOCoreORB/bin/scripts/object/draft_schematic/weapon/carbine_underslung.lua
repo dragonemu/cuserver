@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_underslung = object_draft_schematic_weapon
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_underslung, "object/draft_schematic/weapon/shared_carbine_underslung.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_underslung, "object/draft_schematic/weapon/carbine_underslung.iff")

@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_meat_jerky = object_tangible_food_generic_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_meat_jerky, "object/tangible/food/generic/shared_dish_meat_jerky.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_meat_jerky, "object/tangible/food/generic/dish_meat_jerky.iff")

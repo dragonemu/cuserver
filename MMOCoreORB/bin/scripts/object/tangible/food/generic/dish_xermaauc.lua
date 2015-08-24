@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_xermaauc = object_tangible_food_generic_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_xermaauc, "object/tangible/food/generic/shared_dish_xermaauc.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_xermaauc, "object/tangible/food/generic/dish_xermaauc.iff")

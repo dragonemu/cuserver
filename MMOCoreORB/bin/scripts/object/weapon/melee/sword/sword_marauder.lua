@@ -4,4 +4,4 @@ object_weapon_melee_sword_sword_marauder = object_weapon_melee_sword_shared_swor
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_marauder, "object/weapon/melee/sword/shared_sword_marauder.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_sword_marauder, "object/weapon/melee/sword/sword_marauder.iff")

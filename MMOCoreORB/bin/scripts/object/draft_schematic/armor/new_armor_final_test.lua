@@ -4,4 +4,4 @@ object_draft_schematic_armor_new_armor_final_test = object_draft_schematic_armor
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_new_armor_final_test, "object/draft_schematic/armor/shared_new_armor_final_test.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_new_armor_final_test, "object/draft_schematic/armor/new_armor_final_test.iff")

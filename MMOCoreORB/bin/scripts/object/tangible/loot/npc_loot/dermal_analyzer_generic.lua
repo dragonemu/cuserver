@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_dermal_analyzer_generic = object_tangible_loot_npc
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_dermal_analyzer_generic, "object/tangible/loot/npc_loot/shared_dermal_analyzer_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_dermal_analyzer_generic, "object/tangible/loot/npc_loot/dermal_analyzer_generic.iff")

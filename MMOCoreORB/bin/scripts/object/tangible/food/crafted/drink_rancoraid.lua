@@ -4,4 +4,4 @@ object_tangible_food_crafted_drink_rancoraid = object_tangible_food_crafted_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_crafted_drink_rancoraid, "object/tangible/food/crafted/shared_drink_rancoraid.iff")
+ObjectTemplates:addTemplate(object_tangible_food_crafted_drink_rancoraid, "object/tangible/food/crafted/drink_rancoraid.iff")

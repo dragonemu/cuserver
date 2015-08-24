@@ -4,4 +4,4 @@ object_tangible_theme_park_myyydril_myyydril_power_cell = object_tangible_theme_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_myyydril_power_cell, "object/tangible/theme_park/myyydril/shared_myyydril_power_cell.iff")
+ObjectTemplates:addTemplate(object_tangible_theme_park_myyydril_myyydril_power_cell, "object/tangible/theme_park/myyydril/myyydril_power_cell.iff")

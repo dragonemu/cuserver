@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_kash_myyydril_rope_ladder = object_building_kashyyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_myyydril_rope_ladder, "object/building/kashyyyk/shared_frn_kash_myyydril_rope_ladder.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_myyydril_rope_ladder, "object/building/kashyyyk/frn_kash_myyydril_rope_ladder.iff")

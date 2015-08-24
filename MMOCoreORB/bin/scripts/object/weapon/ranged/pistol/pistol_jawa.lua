@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_pistol_jawa = object_weapon_ranged_pistol_shared_pis
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_jawa, "object/weapon/ranged/pistol/shared_pistol_jawa.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_jawa, "object/weapon/ranged/pistol/pistol_jawa.iff")

@@ -4,4 +4,4 @@ object_static_particle_pt_water_drop_sound = object_static_particle_shared_pt_wa
 
 }
 
-ObjectTemplates:addTemplate(object_static_particle_pt_water_drop_sound, "object/static/particle/shared_pt_water_drop_sound.iff")
+ObjectTemplates:addTemplate(object_static_particle_pt_water_drop_sound, "object/static/particle/pt_water_drop_sound.iff")

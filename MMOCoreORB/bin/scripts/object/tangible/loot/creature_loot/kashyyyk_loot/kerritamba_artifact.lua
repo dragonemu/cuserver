@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_artifact = object_ta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_artifact, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_kerritamba_artifact.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_artifact, "object/tangible/loot/creature_loot/kashyyyk_loot/kerritamba_artifact.iff")

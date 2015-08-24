@@ -4,4 +4,4 @@ object_building_kashyyyk_kash_kachiro_tall_plant = object_building_kashyyyk_shar
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_kash_kachiro_tall_plant, "object/building/kashyyyk/shared_kash_kachiro_tall_plant.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_kash_kachiro_tall_plant, "object/building/kashyyyk/kash_kachiro_tall_plant.iff")

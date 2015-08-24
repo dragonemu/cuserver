@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_valley_battlefield_base_battlefield_turret = ob
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_base_battlefield_turret, "object/tangible/dungeon/mustafar/valley_battlefield/shared_base_battlefield_turret.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_valley_battlefield_base_battlefield_turret, "object/tangible/dungeon/mustafar/valley_battlefield/base_battlefield_turret.iff")

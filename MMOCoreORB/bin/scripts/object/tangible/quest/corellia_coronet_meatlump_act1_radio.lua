@@ -4,4 +4,4 @@ object_tangible_quest_corellia_coronet_meatlump_act1_radio = object_tangible_que
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_meatlump_act1_radio, "object/tangible/quest/shared_corellia_coronet_meatlump_act1_radio.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_meatlump_act1_radio, "object/tangible/quest/corellia_coronet_meatlump_act1_radio.iff")

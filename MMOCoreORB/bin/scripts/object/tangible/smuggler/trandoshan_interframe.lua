@@ -4,4 +4,4 @@ object_tangible_smuggler_trandoshan_interframe = object_tangible_smuggler_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_smuggler_trandoshan_interframe, "object/tangible/smuggler/shared_trandoshan_interframe.iff")
+ObjectTemplates:addTemplate(object_tangible_smuggler_trandoshan_interframe, "object/tangible/smuggler/trandoshan_interframe.iff")

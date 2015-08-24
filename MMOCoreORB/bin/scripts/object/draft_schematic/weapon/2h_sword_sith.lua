@@ -4,4 +4,4 @@ object_draft_schematic_weapon_2h_sword_sith = object_draft_schematic_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_sith, "object/draft_schematic/weapon/shared_2h_sword_sith.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_2h_sword_sith, "object/draft_schematic/weapon/2h_sword_sith.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_speaker_generic = object_tangible_loot_gener
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_speaker_generic, "object/tangible/loot/generic_usable/shared_speaker_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_speaker_generic, "object/tangible/loot/generic_usable/speaker_generic.iff")

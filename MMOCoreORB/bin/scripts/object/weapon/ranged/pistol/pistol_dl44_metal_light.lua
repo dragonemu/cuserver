@@ -4,4 +4,4 @@ object_weapon_ranged_pistol_pistol_dl44_metal_light = object_weapon_ranged_pisto
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_dl44_metal_light, "object/weapon/ranged/pistol/shared_pistol_dl44_metal_light.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_dl44_metal_light, "object/weapon/ranged/pistol/pistol_dl44_metal_light.iff")

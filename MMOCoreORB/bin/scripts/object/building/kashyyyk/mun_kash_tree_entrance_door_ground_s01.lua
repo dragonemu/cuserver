@@ -4,4 +4,4 @@ object_building_kashyyyk_mun_kash_tree_entrance_door_ground_s01 = object_buildin
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_tree_entrance_door_ground_s01, "object/building/kashyyyk/shared_mun_kash_tree_entrance_door_ground_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_mun_kash_tree_entrance_door_ground_s01, "object/building/kashyyyk/mun_kash_tree_entrance_door_ground_s01.iff")

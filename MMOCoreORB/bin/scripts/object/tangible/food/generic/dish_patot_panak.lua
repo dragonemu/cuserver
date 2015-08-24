@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_patot_panak = object_tangible_food_generic_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_patot_panak, "object/tangible/food/generic/shared_dish_patot_panak.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_patot_panak, "object/tangible/food/generic/dish_patot_panak.iff")

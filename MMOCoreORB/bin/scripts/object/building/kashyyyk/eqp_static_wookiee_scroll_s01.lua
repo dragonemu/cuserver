@@ -4,4 +4,4 @@ object_building_kashyyyk_eqp_static_wookiee_scroll_s01 = object_building_kashyyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_scroll_s01, "object/building/kashyyyk/shared_eqp_static_wookiee_scroll_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_scroll_s01, "object/building/kashyyyk/eqp_static_wookiee_scroll_s01.iff")

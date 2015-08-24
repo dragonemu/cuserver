@@ -4,4 +4,4 @@ object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bracer_r =
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bracer_r, "object/tangible/wearables/armor/assault_trooper/shared_armor_assault_trooper_bracer_r.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bracer_r, "object/tangible/wearables/armor/assault_trooper/armor_assault_trooper_bracer_r.iff")

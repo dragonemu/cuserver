@@ -4,4 +4,4 @@ object_tangible_loot_mustafar_generic_eye_of_mesra = object_tangible_loot_mustaf
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_mustafar_generic_eye_of_mesra, "object/tangible/loot/mustafar/shared_generic_eye_of_mesra.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_mustafar_generic_eye_of_mesra, "object/tangible/loot/mustafar/generic_eye_of_mesra.iff")

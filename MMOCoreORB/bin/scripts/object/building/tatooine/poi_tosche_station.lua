@@ -4,4 +4,4 @@ object_building_tatooine_poi_tosche_station = object_building_tatooine_shared_po
 
 }
 
-ObjectTemplates:addTemplate(object_building_tatooine_poi_tosche_station, "object/building/tatooine/shared_poi_tosche_station.iff")
+ObjectTemplates:addTemplate(object_building_tatooine_poi_tosche_station, "object/building/tatooine/poi_tosche_station.iff")

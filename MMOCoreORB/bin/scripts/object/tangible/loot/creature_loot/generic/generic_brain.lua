@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_generic_brain = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_brain, "object/tangible/loot/creature_loot/generic/shared_generic_brain.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_brain, "object/tangible/loot/creature_loot/generic/generic_brain.iff")

@@ -4,4 +4,4 @@ object_mobile_ep3_arena_guard_outer = object_mobile_ep3_shared_arena_guard_outer
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_ep3_arena_guard_outer, "object/mobile/ep3/shared_arena_guard_outer.iff")
+ObjectTemplates:addTemplate(object_mobile_ep3_arena_guard_outer, "object/mobile/ep3/arena_guard_outer.iff")

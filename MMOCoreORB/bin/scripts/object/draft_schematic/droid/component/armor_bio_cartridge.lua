@@ -4,4 +4,4 @@ object_draft_schematic_droid_component_armor_bio_cartridge = object_draft_schema
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_droid_component_armor_bio_cartridge, "object/draft_schematic/droid/component/shared_armor_bio_cartridge.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_droid_component_armor_bio_cartridge, "object/draft_schematic/droid/component/armor_bio_cartridge.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_baton_avatar_trando_stun_stick = object_draft_sche
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_baton_avatar_trando_stun_stick, "object/draft_schematic/weapon/shared_baton_avatar_trando_stun_stick.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_baton_avatar_trando_stun_stick, "object/draft_schematic/weapon/baton_avatar_trando_stun_stick.iff")

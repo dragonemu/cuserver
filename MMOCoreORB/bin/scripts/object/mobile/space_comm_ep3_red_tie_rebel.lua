@@ -4,4 +4,4 @@ object_mobile_space_comm_ep3_red_tie_rebel = object_mobile_shared_space_comm_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_red_tie_rebel, "object/mobile/shared_space_comm_ep3_red_tie_rebel.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_ep3_red_tie_rebel, "object/mobile/space_comm_ep3_red_tie_rebel.iff")

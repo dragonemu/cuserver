@@ -4,4 +4,4 @@ object_tangible_ship_attachment_engine_y8_engine_s01 = object_tangible_ship_atta
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_engine_y8_engine_s01, "object/tangible/ship/attachment/engine/shared_y8_engine_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_engine_y8_engine_s01, "object/tangible/ship/attachment/engine/y8_engine_s01.iff")

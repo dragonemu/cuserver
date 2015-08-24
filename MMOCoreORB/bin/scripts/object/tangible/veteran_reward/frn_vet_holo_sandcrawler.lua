@@ -4,4 +4,4 @@ object_tangible_veteran_reward_frn_vet_holo_sandcrawler = object_tangible_vetera
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_holo_sandcrawler, "object/tangible/veteran_reward/shared_frn_vet_holo_sandcrawler.iff")
+ObjectTemplates:addTemplate(object_tangible_veteran_reward_frn_vet_holo_sandcrawler, "object/tangible/veteran_reward/frn_vet_holo_sandcrawler.iff")

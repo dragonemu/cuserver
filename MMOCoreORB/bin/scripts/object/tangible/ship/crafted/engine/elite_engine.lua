@@ -4,4 +4,4 @@ object_tangible_ship_crafted_engine_elite_engine = object_tangible_ship_crafted_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_engine_elite_engine, "object/tangible/ship/crafted/engine/shared_elite_engine.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_engine_elite_engine, "object/tangible/ship/crafted/engine/elite_engine.iff")

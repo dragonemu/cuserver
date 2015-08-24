@@ -4,4 +4,4 @@ object_ship_player_player_advanced_z95 = object_ship_player_shared_player_advanc
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_advanced_z95, "object/ship/player/shared_player_advanced_z95.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_advanced_z95, "object/ship/player/player_advanced_z95.iff")

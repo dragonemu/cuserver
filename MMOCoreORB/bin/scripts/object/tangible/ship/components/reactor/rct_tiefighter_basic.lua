@@ -4,4 +4,4 @@ object_tangible_ship_components_reactor_rct_tiefighter_basic = object_tangible_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_tiefighter_basic, "object/tangible/ship/components/reactor/shared_rct_tiefighter_basic.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_components_reactor_rct_tiefighter_basic, "object/tangible/ship/components/reactor/rct_tiefighter_basic.iff")

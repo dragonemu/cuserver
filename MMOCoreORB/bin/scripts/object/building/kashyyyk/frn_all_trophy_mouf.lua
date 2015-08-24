@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_all_trophy_mouf = object_building_kashyyyk_shared_f
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_all_trophy_mouf, "object/building/kashyyyk/shared_frn_all_trophy_mouf.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_all_trophy_mouf, "object/building/kashyyyk/frn_all_trophy_mouf.iff")

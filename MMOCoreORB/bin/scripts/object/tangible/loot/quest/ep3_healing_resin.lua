@@ -4,4 +4,4 @@ object_tangible_loot_quest_ep3_healing_resin = object_tangible_loot_quest_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_ep3_healing_resin, "object/tangible/loot/quest/shared_ep3_healing_resin.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_ep3_healing_resin, "object/tangible/loot/quest/ep3_healing_resin.iff")

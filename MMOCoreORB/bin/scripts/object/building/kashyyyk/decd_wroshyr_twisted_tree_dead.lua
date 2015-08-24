@@ -4,4 +4,4 @@ object_building_kashyyyk_decd_wroshyr_twisted_tree_dead = object_building_kashyy
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_decd_wroshyr_twisted_tree_dead, "object/building/kashyyyk/shared_decd_wroshyr_twisted_tree_dead.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_decd_wroshyr_twisted_tree_dead, "object/building/kashyyyk/decd_wroshyr_twisted_tree_dead.iff")

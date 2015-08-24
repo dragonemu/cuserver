@@ -4,4 +4,4 @@ object_tangible_ground_spawning_area_spawner = object_tangible_ground_spawning_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ground_spawning_area_spawner, "object/tangible/ground_spawning/shared_area_spawner.iff")
+ObjectTemplates:addTemplate(object_tangible_ground_spawning_area_spawner, "object/tangible/ground_spawning/area_spawner.iff")

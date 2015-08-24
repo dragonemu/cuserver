@@ -4,4 +4,4 @@ object_tangible_travel_travel_ticket_hracca_glade_ticket = object_tangible_trave
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_hracca_glade_ticket, "object/tangible/travel/travel_ticket/shared_hracca_glade_ticket.iff")
+ObjectTemplates:addTemplate(object_tangible_travel_travel_ticket_hracca_glade_ticket, "object/tangible/travel/travel_ticket/hracca_glade_ticket.iff")

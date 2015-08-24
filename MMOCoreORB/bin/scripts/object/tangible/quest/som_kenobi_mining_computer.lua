@@ -4,4 +4,4 @@ object_tangible_quest_som_kenobi_mining_computer = object_tangible_quest_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_mining_computer, "object/tangible/quest/shared_som_kenobi_mining_computer.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_som_kenobi_mining_computer, "object/tangible/quest/som_kenobi_mining_computer.iff")

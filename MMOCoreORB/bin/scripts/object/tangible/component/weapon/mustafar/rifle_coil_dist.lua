@@ -4,4 +4,4 @@ object_tangible_component_weapon_mustafar_rifle_coil_dist = object_tangible_comp
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_rifle_coil_dist, "object/tangible/component/weapon/mustafar/shared_rifle_coil_dist.iff")
+ObjectTemplates:addTemplate(object_tangible_component_weapon_mustafar_rifle_coil_dist, "object/tangible/component/weapon/mustafar/rifle_coil_dist.iff")

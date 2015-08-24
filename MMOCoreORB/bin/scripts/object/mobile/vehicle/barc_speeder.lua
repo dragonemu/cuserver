@@ -4,4 +4,4 @@ object_mobile_vehicle_barc_speeder = object_mobile_vehicle_shared_barc_speeder:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_vehicle_barc_speeder, "object/mobile/vehicle/shared_barc_speeder.iff")
+ObjectTemplates:addTemplate(object_mobile_vehicle_barc_speeder, "object/mobile/vehicle/barc_speeder.iff")

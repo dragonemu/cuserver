@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_som_carbine_republic_sfor_generic = object_weapon_r
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_som_carbine_republic_sfor_generic, "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_som_carbine_republic_sfor_generic, "object/weapon/ranged/carbine/som_carbine_republic_sfor_generic.iff")

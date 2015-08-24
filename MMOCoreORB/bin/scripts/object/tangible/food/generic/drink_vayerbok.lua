@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_vayerbok = object_tangible_food_generic_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_vayerbok, "object/tangible/food/generic/shared_drink_vayerbok.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_vayerbok, "object/tangible/food/generic/drink_vayerbok.iff")

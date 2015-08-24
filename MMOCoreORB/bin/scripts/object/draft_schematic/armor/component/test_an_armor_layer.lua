@@ -4,4 +4,4 @@ object_draft_schematic_armor_component_test_an_armor_layer = object_draft_schema
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_component_test_an_armor_layer, "object/draft_schematic/armor/component/shared_test_an_armor_layer.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_component_test_an_armor_layer, "object/draft_schematic/armor/component/test_an_armor_layer.iff")

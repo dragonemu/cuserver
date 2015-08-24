@@ -4,4 +4,4 @@ object_tangible_terminal_terminal_mustafar_house_guild = object_tangible_termina
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_terminal_terminal_mustafar_house_guild, "object/tangible/terminal/shared_terminal_mustafar_house_guild.iff")
+ObjectTemplates:addTemplate(object_tangible_terminal_terminal_mustafar_house_guild, "object/tangible/terminal/terminal_mustafar_house_guild.iff")

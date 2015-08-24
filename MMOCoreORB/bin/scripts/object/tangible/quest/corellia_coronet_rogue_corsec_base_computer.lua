@@ -4,4 +4,4 @@ object_tangible_quest_corellia_coronet_rogue_corsec_base_computer = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_rogue_corsec_base_computer, "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_corellia_coronet_rogue_corsec_base_computer, "object/tangible/quest/corellia_coronet_rogue_corsec_base_computer.iff")

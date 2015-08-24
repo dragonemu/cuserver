@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_wall_imperial_01 = object_static_worldbuild
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_wall_imperial_01, "object/static/worldbuilding/terminal/shared_wall_imperial_01.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_wall_imperial_01, "object/static/worldbuilding/terminal/wall_imperial_01.iff")

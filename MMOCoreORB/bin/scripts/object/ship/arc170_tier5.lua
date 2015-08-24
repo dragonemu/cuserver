@@ -4,4 +4,4 @@ object_ship_arc170_tier5 = object_ship_shared_arc170_tier5:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_arc170_tier5, "object/ship/shared_arc170_tier5.iff")
+ObjectTemplates:addTemplate(object_ship_arc170_tier5, "object/ship/arc170_tier5.iff")

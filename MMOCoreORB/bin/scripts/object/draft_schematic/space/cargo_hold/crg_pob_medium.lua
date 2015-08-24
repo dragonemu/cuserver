@@ -4,4 +4,4 @@ object_draft_schematic_space_cargo_hold_crg_pob_medium = object_draft_schematic_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_cargo_hold_crg_pob_medium, "object/draft_schematic/space/cargo_hold/shared_crg_pob_medium.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_cargo_hold_crg_pob_medium, "object/draft_schematic/space/cargo_hold/crg_pob_medium.iff")

@@ -4,4 +4,4 @@ object_ship_corvette_ep3 = object_ship_shared_corvette_ep3:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_corvette_ep3, "object/ship/shared_corvette_ep3.iff")
+ObjectTemplates:addTemplate(object_ship_corvette_ep3, "object/ship/corvette_ep3.iff")

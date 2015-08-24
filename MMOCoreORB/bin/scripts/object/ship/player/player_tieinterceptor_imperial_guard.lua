@@ -4,4 +4,4 @@ object_ship_player_player_tieinterceptor_imperial_guard = object_ship_player_sha
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_tieinterceptor_imperial_guard, "object/ship/player/shared_player_tieinterceptor_imperial_guard.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_tieinterceptor_imperial_guard, "object/ship/player/player_tieinterceptor_imperial_guard.iff")

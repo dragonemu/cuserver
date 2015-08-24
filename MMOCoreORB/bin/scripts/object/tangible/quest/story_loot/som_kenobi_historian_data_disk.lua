@@ -4,4 +4,4 @@ object_tangible_quest_story_loot_som_kenobi_historian_data_disk = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_story_loot_som_kenobi_historian_data_disk, "object/tangible/quest/story_loot/shared_som_kenobi_historian_data_disk.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_story_loot_som_kenobi_historian_data_disk, "object/tangible/quest/story_loot/som_kenobi_historian_data_disk.iff")

@@ -4,4 +4,4 @@ object_mobile_som_som_ancient_guardian_droideka = object_mobile_som_shared_som_a
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_som_ancient_guardian_droideka, "object/mobile/som/shared_som_ancient_guardian_droideka.iff")
+ObjectTemplates:addTemplate(object_mobile_som_som_ancient_guardian_droideka, "object/mobile/som/som_ancient_guardian_droideka.iff")

@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_kashyyyk_loot_sacrificial_knife = object_tang
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sacrificial_knife, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_sacrificial_knife.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_sacrificial_knife, "object/tangible/loot/creature_loot/kashyyyk_loot/sacrificial_knife.iff")

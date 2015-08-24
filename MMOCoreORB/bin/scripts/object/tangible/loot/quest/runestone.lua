@@ -4,4 +4,4 @@ object_tangible_loot_quest_runestone = object_tangible_loot_quest_shared_runesto
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_runestone, "object/tangible/loot/quest/shared_runestone.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_runestone, "object/tangible/loot/quest/runestone.iff")

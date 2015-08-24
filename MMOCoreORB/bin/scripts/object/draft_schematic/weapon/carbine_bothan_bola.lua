@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_bothan_bola = object_draft_schematic_weapo
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_bothan_bola, "object/draft_schematic/weapon/shared_carbine_bothan_bola.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_bothan_bola, "object/draft_schematic/weapon/carbine_bothan_bola.iff")

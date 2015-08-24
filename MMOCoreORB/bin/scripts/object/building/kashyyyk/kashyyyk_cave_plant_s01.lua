@@ -4,4 +4,4 @@ object_building_kashyyyk_kashyyyk_cave_plant_s01 = object_building_kashyyyk_shar
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_kashyyyk_cave_plant_s01, "object/building/kashyyyk/shared_kashyyyk_cave_plant_s01.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_kashyyyk_cave_plant_s01, "object/building/kashyyyk/kashyyyk_cave_plant_s01.iff")

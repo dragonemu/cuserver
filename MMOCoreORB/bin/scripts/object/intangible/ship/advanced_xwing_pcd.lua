@@ -4,4 +4,4 @@ object_intangible_ship_advanced_xwing_pcd = object_intangible_ship_shared_advanc
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_ship_advanced_xwing_pcd, "object/intangible/ship/shared_advanced_xwing_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_ship_advanced_xwing_pcd, "object/intangible/ship/advanced_xwing_pcd.iff")

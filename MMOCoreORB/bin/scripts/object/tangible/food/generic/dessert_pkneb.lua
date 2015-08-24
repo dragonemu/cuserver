@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_pkneb = object_tangible_food_generic_shared
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_pkneb, "object/tangible/food/generic/shared_dessert_pkneb.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_pkneb, "object/tangible/food/generic/dessert_pkneb.iff")

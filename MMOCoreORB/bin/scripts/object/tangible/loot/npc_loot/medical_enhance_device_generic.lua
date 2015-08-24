@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_medical_enhance_device_generic = object_tangible_l
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_medical_enhance_device_generic, "object/tangible/loot/npc_loot/shared_medical_enhance_device_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_medical_enhance_device_generic, "object/tangible/loot/npc_loot/medical_enhance_device_generic.iff")

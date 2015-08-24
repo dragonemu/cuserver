@@ -4,4 +4,4 @@ object_draft_schematic_weapon_loot_heartstriker = object_draft_schematic_weapon_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_heartstriker, "object/draft_schematic/weapon/shared_loot_heartstriker.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_loot_heartstriker, "object/draft_schematic/weapon/loot_heartstriker.iff")

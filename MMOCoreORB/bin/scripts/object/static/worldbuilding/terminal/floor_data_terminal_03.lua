@@ -4,4 +4,4 @@ object_static_worldbuilding_terminal_floor_data_terminal_03 = object_static_worl
 
 }
 
-ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_data_terminal_03, "object/static/worldbuilding/terminal/shared_floor_data_terminal_03.iff")
+ObjectTemplates:addTemplate(object_static_worldbuilding_terminal_floor_data_terminal_03, "object/static/worldbuilding/terminal/floor_data_terminal_03.iff")

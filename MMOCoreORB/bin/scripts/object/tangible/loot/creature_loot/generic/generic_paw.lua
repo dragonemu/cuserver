@@ -4,4 +4,4 @@ object_tangible_loot_creature_loot_generic_generic_paw = object_tangible_loot_cr
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_paw, "object/tangible/loot/creature_loot/generic/shared_generic_paw.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_creature_loot_generic_generic_paw, "object/tangible/loot/creature_loot/generic/generic_paw.iff")

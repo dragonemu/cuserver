@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_bothan_bola_generic = object_weapon_ranged_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_bothan_bola_generic, "object/weapon/ranged/carbine/shared_carbine_bothan_bola_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_bothan_bola_generic, "object/weapon/ranged/carbine/carbine_bothan_bola_generic.iff")

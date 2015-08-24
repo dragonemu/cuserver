@@ -4,4 +4,4 @@ object_static_item_wp_mle_lance_massassi = object_static_item_shared_wp_mle_lanc
 
 }
 
-ObjectTemplates:addTemplate(object_static_item_wp_mle_lance_massassi, "object/static/item/shared_wp_mle_lance_massassi.iff")
+ObjectTemplates:addTemplate(object_static_item_wp_mle_lance_massassi, "object/static/item/wp_mle_lance_massassi.iff")

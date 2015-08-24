@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_kash_blanket_webweaver = object_building_kashyyyk_s
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_blanket_webweaver, "object/building/kashyyyk/shared_frn_kash_blanket_webweaver.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_blanket_webweaver, "object/building/kashyyyk/frn_kash_blanket_webweaver.iff")

@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_kyd21 = object_draft_schematic_weapon_share
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_kyd21, "object/draft_schematic/weapon/shared_pistol_kyd21.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_kyd21, "object/draft_schematic/weapon/pistol_kyd21.iff")

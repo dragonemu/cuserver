@@ -4,4 +4,4 @@ object_weapon_melee_polearm_som_lance_xandank_generic = object_weapon_melee_pole
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_polearm_som_lance_xandank_generic, "object/weapon/melee/polearm/shared_som_lance_xandank_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_polearm_som_lance_xandank_generic, "object/weapon/melee/polearm/som_lance_xandank_generic.iff")

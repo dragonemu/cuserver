@@ -4,4 +4,4 @@ object_tangible_medicine_crafted_medpack_enhance_health_triad_d = object_tangibl
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_medicine_crafted_medpack_enhance_health_triad_d, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_d.iff")
+ObjectTemplates:addTemplate(object_tangible_medicine_crafted_medpack_enhance_health_triad_d, "object/tangible/medicine/crafted/medpack_enhance_health_triad_d.iff")

@@ -4,4 +4,4 @@ object_weapon_melee_knife_knife_survival_npe = object_weapon_melee_knife_shared_
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_knife_knife_survival_npe, "object/weapon/melee/knife/shared_knife_survival_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_knife_knife_survival_npe, "object/weapon/melee/knife/knife_survival_npe.iff")

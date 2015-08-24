@@ -4,4 +4,4 @@ object_building_naboo_trandoshan_slave_naboo_house = object_building_naboo_share
 
 }
 
-ObjectTemplates:addTemplate(object_building_naboo_trandoshan_slave_naboo_house, "object/building/naboo/shared_trandoshan_slave_naboo_house.iff")
+ObjectTemplates:addTemplate(object_building_naboo_trandoshan_slave_naboo_house, "object/building/naboo/trandoshan_slave_naboo_house.iff")

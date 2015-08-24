@@ -4,4 +4,4 @@ object_mobile_dressed_tutorial_light_jedi = object_mobile_shared_dressed_tutoria
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tutorial_light_jedi, "object/mobile/shared_dressed_tutorial_light_jedi.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tutorial_light_jedi, "object/mobile/dressed_tutorial_light_jedi.iff")

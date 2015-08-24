@@ -4,4 +4,4 @@ object_building_kashyyyk_myyydril_cave_egg_sac_slime_cluster = object_building_k
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_egg_sac_slime_cluster, "object/building/kashyyyk/shared_myyydril_cave_egg_sac_slime_cluster.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_egg_sac_slime_cluster, "object/building/kashyyyk/myyydril_cave_egg_sac_slime_cluster.iff")

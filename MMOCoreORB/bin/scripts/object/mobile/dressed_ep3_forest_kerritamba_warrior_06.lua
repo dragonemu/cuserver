@@ -4,4 +4,4 @@ object_mobile_dressed_ep3_forest_kerritamba_warrior_06 = object_mobile_shared_dr
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_kerritamba_warrior_06, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior_06.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_kerritamba_warrior_06, "object/mobile/dressed_ep3_forest_kerritamba_warrior_06.iff")

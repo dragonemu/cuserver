@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_mandalorian_helmet = object_draft_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_helmet, "object/draft_schematic/armor/shared_armor_appearance_mandalorian_helmet.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_mandalorian_helmet, "object/draft_schematic/armor/armor_appearance_mandalorian_helmet.iff")

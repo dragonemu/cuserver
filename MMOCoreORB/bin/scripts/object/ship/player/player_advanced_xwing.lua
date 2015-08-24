@@ -4,4 +4,4 @@ object_ship_player_player_advanced_xwing = object_ship_player_shared_player_adva
 
 }
 
-ObjectTemplates:addTemplate(object_ship_player_player_advanced_xwing, "object/ship/player/shared_player_advanced_xwing.iff")
+ObjectTemplates:addTemplate(object_ship_player_player_advanced_xwing, "object/ship/player/player_advanced_xwing.iff")

@@ -4,4 +4,4 @@ object_weapon_ranged_rifle_rifle_lightning_heavy_static = object_weapon_ranged_r
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_lightning_heavy_static, "object/weapon/ranged/rifle/shared_rifle_lightning_heavy_static.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_rifle_rifle_lightning_heavy_static, "object/weapon/ranged/rifle/rifle_lightning_heavy_static.iff")

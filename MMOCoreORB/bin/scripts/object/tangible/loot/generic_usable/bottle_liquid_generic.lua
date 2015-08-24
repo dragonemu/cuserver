@@ -4,4 +4,4 @@ object_tangible_loot_generic_usable_bottle_liquid_generic = object_tangible_loot
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_bottle_liquid_generic, "object/tangible/loot/generic_usable/shared_bottle_liquid_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_generic_usable_bottle_liquid_generic, "object/tangible/loot/generic_usable/bottle_liquid_generic.iff")

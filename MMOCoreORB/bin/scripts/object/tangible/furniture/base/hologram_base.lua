@@ -4,4 +4,4 @@ object_tangible_furniture_base_hologram_base = object_tangible_furniture_base_sh
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_base_hologram_base, "object/tangible/furniture/base/shared_hologram_base.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_base_hologram_base, "object/tangible/furniture/base/hologram_base.iff")

@@ -4,4 +4,4 @@ object_tangible_hologram_hologram_hk47 = object_tangible_hologram_shared_hologra
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_hologram_hologram_hk47, "object/tangible/hologram/shared_hologram_hk47.iff")
+ObjectTemplates:addTemplate(object_tangible_hologram_hologram_hk47, "object/tangible/hologram/hologram_hk47.iff")

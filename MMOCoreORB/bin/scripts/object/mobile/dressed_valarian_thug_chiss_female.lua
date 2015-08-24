@@ -4,4 +4,4 @@ object_mobile_dressed_valarian_thug_chiss_female = object_mobile_shared_dressed_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_valarian_thug_chiss_female, "object/mobile/shared_dressed_valarian_thug_chiss_female.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_valarian_thug_chiss_female, "object/mobile/dressed_valarian_thug_chiss_female.iff")

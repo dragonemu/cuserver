@@ -4,4 +4,4 @@ object_tangible_quest_syren_3_computer_terminal = object_tangible_quest_shared_s
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_quest_syren_3_computer_terminal, "object/tangible/quest/shared_syren_3_computer_terminal.iff")
+ObjectTemplates:addTemplate(object_tangible_quest_syren_3_computer_terminal, "object/tangible/quest/syren_3_computer_terminal.iff")

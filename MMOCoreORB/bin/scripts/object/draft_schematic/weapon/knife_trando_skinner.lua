@@ -4,4 +4,4 @@ object_draft_schematic_weapon_knife_trando_skinner = object_draft_schematic_weap
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_trando_skinner, "object/draft_schematic/weapon/shared_knife_trando_skinner.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_knife_trando_skinner, "object/draft_schematic/weapon/knife_trando_skinner.iff")

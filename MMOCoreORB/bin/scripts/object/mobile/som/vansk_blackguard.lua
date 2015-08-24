@@ -4,4 +4,4 @@ object_mobile_som_vansk_blackguard = object_mobile_som_shared_vansk_blackguard:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_som_vansk_blackguard, "object/mobile/som/shared_vansk_blackguard.iff")
+ObjectTemplates:addTemplate(object_mobile_som_vansk_blackguard, "object/mobile/som/vansk_blackguard.iff")

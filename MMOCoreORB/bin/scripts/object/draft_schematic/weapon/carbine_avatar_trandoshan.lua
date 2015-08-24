@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_avatar_trandoshan = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_avatar_trandoshan, "object/draft_schematic/weapon/shared_carbine_avatar_trandoshan.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_avatar_trandoshan, "object/draft_schematic/weapon/carbine_avatar_trandoshan.iff")

@@ -4,4 +4,4 @@ object_static_creature_kashyyyk_varactyl = object_static_creature_shared_kashyyy
 
 }
 
-ObjectTemplates:addTemplate(object_static_creature_kashyyyk_varactyl, "object/static/creature/shared_kashyyyk_varactyl.iff")
+ObjectTemplates:addTemplate(object_static_creature_kashyyyk_varactyl, "object/static/creature/kashyyyk_varactyl.iff")

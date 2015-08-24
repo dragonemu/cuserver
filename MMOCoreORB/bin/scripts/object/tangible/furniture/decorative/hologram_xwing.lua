@@ -4,4 +4,4 @@ object_tangible_furniture_decorative_hologram_xwing = object_tangible_furniture_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_decorative_hologram_xwing, "object/tangible/furniture/decorative/shared_hologram_xwing.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_decorative_hologram_xwing, "object/tangible/furniture/decorative/hologram_xwing.iff")

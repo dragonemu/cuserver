@@ -4,4 +4,4 @@ object_weapon_ranged_carbine_carbine_dh17_snubnose_npe = object_weapon_ranged_ca
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_dh17_snubnose_npe, "object/weapon/ranged/carbine/shared_carbine_dh17_snubnose_npe.iff")
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_dh17_snubnose_npe, "object/weapon/ranged/carbine/carbine_dh17_snubnose_npe.iff")

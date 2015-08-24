@@ -4,4 +4,4 @@ object_mobile_dressed_corellia_vani_korr = object_mobile_shared_dressed_corellia
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_corellia_vani_korr, "object/mobile/shared_dressed_corellia_vani_korr.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_corellia_vani_korr, "object/mobile/dressed_corellia_vani_korr.iff")

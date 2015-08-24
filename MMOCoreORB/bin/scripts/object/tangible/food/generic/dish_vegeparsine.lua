@@ -4,4 +4,4 @@ object_tangible_food_generic_dish_vegeparsine = object_tangible_food_generic_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dish_vegeparsine, "object/tangible/food/generic/shared_dish_vegeparsine.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dish_vegeparsine, "object/tangible/food/generic/dish_vegeparsine.iff")

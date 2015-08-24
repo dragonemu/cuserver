@@ -4,4 +4,4 @@ object_draft_schematic_weapon_carbine_geo = object_draft_schematic_weapon_shared
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_geo, "object/draft_schematic/weapon/shared_carbine_geo.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_carbine_geo, "object/draft_schematic/weapon/carbine_geo.iff")

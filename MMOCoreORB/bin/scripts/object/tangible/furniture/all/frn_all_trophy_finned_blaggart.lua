@@ -4,4 +4,4 @@ object_tangible_furniture_all_frn_all_trophy_finned_blaggart = object_tangible_f
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_finned_blaggart, "object/tangible/furniture/all/shared_frn_all_trophy_finned_blaggart.iff")
+ObjectTemplates:addTemplate(object_tangible_furniture_all_frn_all_trophy_finned_blaggart, "object/tangible/furniture/all/frn_all_trophy_finned_blaggart.iff")

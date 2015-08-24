@@ -4,4 +4,4 @@ object_mobile_dressed_ep3_forest_kerritamba_dealer = object_mobile_shared_dresse
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_kerritamba_dealer, "object/mobile/shared_dressed_ep3_forest_kerritamba_dealer.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_ep3_forest_kerritamba_dealer, "object/mobile/dressed_ep3_forest_kerritamba_dealer.iff")

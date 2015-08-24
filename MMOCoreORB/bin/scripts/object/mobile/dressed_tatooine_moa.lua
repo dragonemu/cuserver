@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_moa = object_mobile_shared_dressed_tatooine_moa:n
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_moa, "object/mobile/shared_dressed_tatooine_moa.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_moa, "object/mobile/dressed_tatooine_moa.iff")

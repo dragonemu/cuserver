@@ -4,4 +4,4 @@ object_tangible_wearables_necklace_ith_necklace_deepspace_rebel_f = object_tangi
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_deepspace_rebel_f, "object/tangible/wearables/necklace/shared_ith_necklace_deepspace_rebel_f.iff")
+ObjectTemplates:addTemplate(object_tangible_wearables_necklace_ith_necklace_deepspace_rebel_f, "object/tangible/wearables/necklace/ith_necklace_deepspace_rebel_f.iff")

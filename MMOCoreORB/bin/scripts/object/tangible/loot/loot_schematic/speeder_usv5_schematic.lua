@@ -4,4 +4,4 @@ object_tangible_loot_loot_schematic_speeder_usv5_schematic = object_tangible_loo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_speeder_usv5_schematic, "object/tangible/loot/loot_schematic/shared_speeder_usv5_schematic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_loot_schematic_speeder_usv5_schematic, "object/tangible/loot/loot_schematic/speeder_usv5_schematic.iff")

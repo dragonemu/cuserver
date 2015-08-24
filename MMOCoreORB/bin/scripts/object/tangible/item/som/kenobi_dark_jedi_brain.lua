@@ -4,4 +4,4 @@ object_tangible_item_som_kenobi_dark_jedi_brain = object_tangible_item_som_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_kenobi_dark_jedi_brain, "object/tangible/item/som/shared_kenobi_dark_jedi_brain.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_kenobi_dark_jedi_brain, "object/tangible/item/som/kenobi_dark_jedi_brain.iff")

@@ -4,4 +4,4 @@ object_mobile_dressed_tatooine_opening_reimos = object_mobile_shared_dressed_tat
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_reimos, "object/mobile/shared_dressed_tatooine_opening_reimos.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_tatooine_opening_reimos, "object/mobile/dressed_tatooine_opening_reimos.iff")

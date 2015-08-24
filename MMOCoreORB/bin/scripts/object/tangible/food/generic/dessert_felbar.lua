@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_felbar = object_tangible_food_generic_share
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_felbar, "object/tangible/food/generic/shared_dessert_felbar.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_felbar, "object/tangible/food/generic/dessert_felbar.iff")

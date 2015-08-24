@@ -4,4 +4,4 @@ object_building_kashyyyk_frn_kash_restraining_table = object_building_kashyyyk_s
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_restraining_table, "object/building/kashyyyk/shared_frn_kash_restraining_table.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_frn_kash_restraining_table, "object/building/kashyyyk/frn_kash_restraining_table.iff")

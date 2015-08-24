@@ -4,4 +4,4 @@ object_weapon_melee_sword_som_sword_obsidian_generic = object_weapon_melee_sword
 
 }
 
-ObjectTemplates:addTemplate(object_weapon_melee_sword_som_sword_obsidian_generic, "object/weapon/melee/sword/shared_som_sword_obsidian_generic.iff")
+ObjectTemplates:addTemplate(object_weapon_melee_sword_som_sword_obsidian_generic, "object/weapon/melee/sword/som_sword_obsidian_generic.iff")

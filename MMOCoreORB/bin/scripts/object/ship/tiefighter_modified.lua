@@ -4,4 +4,4 @@ object_ship_tiefighter_modified = object_ship_shared_tiefighter_modified:new {
 
 }
 
-ObjectTemplates:addTemplate(object_ship_tiefighter_modified, "object/ship/shared_tiefighter_modified.iff")
+ObjectTemplates:addTemplate(object_ship_tiefighter_modified, "object/ship/tiefighter_modified.iff")

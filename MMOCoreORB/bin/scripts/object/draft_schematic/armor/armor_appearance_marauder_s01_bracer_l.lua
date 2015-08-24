@@ -4,4 +4,4 @@ object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_l = object_dra
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_l, "object/draft_schematic/armor/shared_armor_appearance_marauder_s01_bracer_l.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_armor_armor_appearance_marauder_s01_bracer_l, "object/draft_schematic/armor/armor_appearance_marauder_s01_bracer_l.iff")

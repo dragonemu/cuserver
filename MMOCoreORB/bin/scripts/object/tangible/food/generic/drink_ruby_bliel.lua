@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_ruby_bliel = object_tangible_food_generic_sha
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_ruby_bliel, "object/tangible/food/generic/shared_drink_ruby_bliel.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_ruby_bliel, "object/tangible/food/generic/drink_ruby_bliel.iff")

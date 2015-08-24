@@ -4,4 +4,4 @@ object_static_item_lair_bones_large = object_static_item_shared_lair_bones_large
 
 }
 
-ObjectTemplates:addTemplate(object_static_item_lair_bones_large, "object/static/item/shared_lair_bones_large.iff")
+ObjectTemplates:addTemplate(object_static_item_lair_bones_large, "object/static/item/lair_bones_large.iff")

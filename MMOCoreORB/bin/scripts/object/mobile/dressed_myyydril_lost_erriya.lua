@@ -4,4 +4,4 @@ object_mobile_dressed_myyydril_lost_erriya = object_mobile_shared_dressed_myyydr
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_lost_erriya, "object/mobile/shared_dressed_myyydril_lost_erriya.iff")
+ObjectTemplates:addTemplate(object_mobile_dressed_myyydril_lost_erriya, "object/mobile/dressed_myyydril_lost_erriya.iff")

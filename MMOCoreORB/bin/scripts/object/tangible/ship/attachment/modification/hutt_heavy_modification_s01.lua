@@ -4,4 +4,4 @@ object_tangible_ship_attachment_modification_hutt_heavy_modification_s01 = objec
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_hutt_heavy_modification_s01, "object/tangible/ship/attachment/modification/shared_hutt_heavy_modification_s01.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_attachment_modification_hutt_heavy_modification_s01, "object/tangible/ship/attachment/modification/hutt_heavy_modification_s01.iff")

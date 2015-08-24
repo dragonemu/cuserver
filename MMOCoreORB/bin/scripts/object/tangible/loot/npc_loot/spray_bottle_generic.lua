@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_spray_bottle_generic = object_tangible_loot_npc_lo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spray_bottle_generic, "object/tangible/loot/npc_loot/shared_spray_bottle_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spray_bottle_generic, "object/tangible/loot/npc_loot/spray_bottle_generic.iff")

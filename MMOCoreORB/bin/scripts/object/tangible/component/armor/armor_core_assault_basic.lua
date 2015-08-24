@@ -4,4 +4,4 @@ object_tangible_component_armor_armor_core_assault_basic = object_tangible_compo
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_assault_basic, "object/tangible/component/armor/shared_armor_core_assault_basic.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_armor_core_assault_basic, "object/tangible/component/armor/armor_core_assault_basic.iff")

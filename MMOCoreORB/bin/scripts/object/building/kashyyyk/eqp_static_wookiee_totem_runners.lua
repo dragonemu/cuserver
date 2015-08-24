@@ -4,4 +4,4 @@ object_building_kashyyyk_eqp_static_wookiee_totem_runners = object_building_kash
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_runners, "object/building/kashyyyk/shared_eqp_static_wookiee_totem_runners.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_eqp_static_wookiee_totem_runners, "object/building/kashyyyk/eqp_static_wookiee_totem_runners.iff")

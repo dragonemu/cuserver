@@ -4,4 +4,4 @@ object_draft_schematic_space_modification_tieadvanced_modification_s01 = object_
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_modification_tieadvanced_modification_s01, "object/draft_schematic/space/modification/shared_tieadvanced_modification_s01.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_modification_tieadvanced_modification_s01, "object/draft_schematic/space/modification/tieadvanced_modification_s01.iff")

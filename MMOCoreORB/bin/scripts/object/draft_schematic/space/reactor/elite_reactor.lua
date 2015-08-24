@@ -4,4 +4,4 @@ object_draft_schematic_space_reactor_elite_reactor = object_draft_schematic_spac
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_space_reactor_elite_reactor, "object/draft_schematic/space/reactor/shared_elite_reactor.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_space_reactor_elite_reactor, "object/draft_schematic/space/reactor/elite_reactor.iff")

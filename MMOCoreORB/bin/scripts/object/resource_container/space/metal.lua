@@ -4,4 +4,4 @@ object_resource_container_space_metal = object_resource_container_space_shared_m
 
 }
 
-ObjectTemplates:addTemplate(object_resource_container_space_metal, "object/resource_container/space/shared_metal.iff")
+ObjectTemplates:addTemplate(object_resource_container_space_metal, "object/resource_container/space/metal.iff")

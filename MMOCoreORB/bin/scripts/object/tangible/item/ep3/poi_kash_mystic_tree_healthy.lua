@@ -4,4 +4,4 @@ object_tangible_item_ep3_poi_kash_mystic_tree_healthy = object_tangible_item_ep3
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_ep3_poi_kash_mystic_tree_healthy, "object/tangible/item/ep3/shared_poi_kash_mystic_tree_healthy.iff")
+ObjectTemplates:addTemplate(object_tangible_item_ep3_poi_kash_mystic_tree_healthy, "object/tangible/item/ep3/poi_kash_mystic_tree_healthy.iff")

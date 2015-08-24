@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_ithorian_mist = object_tangible_food_generic_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_ithorian_mist, "object/tangible/food/generic/shared_drink_ithorian_mist.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_ithorian_mist, "object/tangible/food/generic/drink_ithorian_mist.iff")

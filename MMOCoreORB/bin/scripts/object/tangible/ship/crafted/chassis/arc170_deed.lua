@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_arc170_deed = object_tangible_ship_crafted_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_arc170_deed, "object/tangible/ship/crafted/chassis/shared_arc170_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_arc170_deed, "object/tangible/ship/crafted/chassis/arc170_deed.iff")

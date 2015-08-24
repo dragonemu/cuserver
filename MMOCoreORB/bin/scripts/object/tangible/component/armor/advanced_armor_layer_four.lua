@@ -4,4 +4,4 @@ object_tangible_component_armor_advanced_armor_layer_four = object_tangible_comp
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_component_armor_advanced_armor_layer_four, "object/tangible/component/armor/shared_advanced_armor_layer_four.iff")
+ObjectTemplates:addTemplate(object_tangible_component_armor_advanced_armor_layer_four, "object/tangible/component/armor/advanced_armor_layer_four.iff")

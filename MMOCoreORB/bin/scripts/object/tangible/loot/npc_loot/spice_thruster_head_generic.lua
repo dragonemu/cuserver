@@ -4,4 +4,4 @@ object_tangible_loot_npc_loot_spice_thruster_head_generic = object_tangible_loot
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_thruster_head_generic, "object/tangible/loot/npc_loot/shared_spice_thruster_head_generic.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_npc_loot_spice_thruster_head_generic, "object/tangible/loot/npc_loot/spice_thruster_head_generic.iff")

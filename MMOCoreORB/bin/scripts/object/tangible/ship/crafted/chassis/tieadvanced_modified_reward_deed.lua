@@ -4,4 +4,4 @@ object_tangible_ship_crafted_chassis_tieadvanced_modified_reward_deed = object_t
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_tieadvanced_modified_reward_deed, "object/tangible/ship/crafted/chassis/shared_tieadvanced_modified_reward_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_chassis_tieadvanced_modified_reward_deed, "object/tangible/ship/crafted/chassis/tieadvanced_modified_reward_deed.iff")

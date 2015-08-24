@@ -4,4 +4,4 @@ object_building_kashyyyk_myyydril_cave_naktra_crystal_med = object_building_kash
 
 }
 
-ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_naktra_crystal_med, "object/building/kashyyyk/shared_myyydril_cave_naktra_crystal_med.iff")
+ObjectTemplates:addTemplate(object_building_kashyyyk_myyydril_cave_naktra_crystal_med, "object/building/kashyyyk/myyydril_cave_naktra_crystal_med.iff")

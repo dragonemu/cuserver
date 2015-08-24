@@ -4,4 +4,4 @@ object_tangible_ship_crafted_reactor_mining_grade_reactor = object_tangible_ship
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_ship_crafted_reactor_mining_grade_reactor, "object/tangible/ship/crafted/reactor/shared_mining_grade_reactor.iff")
+ObjectTemplates:addTemplate(object_tangible_ship_crafted_reactor_mining_grade_reactor, "object/tangible/ship/crafted/reactor/mining_grade_reactor.iff")

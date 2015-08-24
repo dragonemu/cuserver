@@ -4,4 +4,4 @@ object_tangible_powerup_weapon_melee_speed = object_tangible_powerup_weapon_shar
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_speed, "object/tangible/powerup/weapon/shared_melee_speed.iff")
+ObjectTemplates:addTemplate(object_tangible_powerup_weapon_melee_speed, "object/tangible/powerup/weapon/melee_speed.iff")

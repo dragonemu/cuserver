@@ -4,4 +4,4 @@ object_mobile_space_comm_rod_protector_04 = object_mobile_shared_space_comm_rod_
 
 }
 
-ObjectTemplates:addTemplate(object_mobile_space_comm_rod_protector_04, "object/mobile/shared_space_comm_rod_protector_04.iff")
+ObjectTemplates:addTemplate(object_mobile_space_comm_rod_protector_04, "object/mobile/space_comm_rod_protector_04.iff")

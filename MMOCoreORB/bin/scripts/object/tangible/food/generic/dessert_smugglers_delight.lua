@@ -4,4 +4,4 @@ object_tangible_food_generic_dessert_smugglers_delight = object_tangible_food_ge
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_smugglers_delight, "object/tangible/food/generic/shared_dessert_smugglers_delight.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_dessert_smugglers_delight, "object/tangible/food/generic/dessert_smugglers_delight.iff")

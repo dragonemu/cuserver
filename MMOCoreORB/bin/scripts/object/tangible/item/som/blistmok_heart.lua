@@ -4,4 +4,4 @@ object_tangible_item_som_blistmok_heart = object_tangible_item_som_shared_blistm
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_item_som_blistmok_heart, "object/tangible/item/som/shared_blistmok_heart.iff")
+ObjectTemplates:addTemplate(object_tangible_item_som_blistmok_heart, "object/tangible/item/som/blistmok_heart.iff")

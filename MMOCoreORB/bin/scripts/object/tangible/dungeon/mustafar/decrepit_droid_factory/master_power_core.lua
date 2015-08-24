@@ -4,4 +4,4 @@ object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core = obje
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core, "object/tangible/dungeon/mustafar/decrepit_droid_factory/shared_master_power_core.iff")
+ObjectTemplates:addTemplate(object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core, "object/tangible/dungeon/mustafar/decrepit_droid_factory/master_power_core.iff")

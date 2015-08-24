@@ -4,4 +4,4 @@ object_tangible_loot_quest_corellia_meatlumps_act1_story = object_tangible_loot_
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_loot_quest_corellia_meatlumps_act1_story, "object/tangible/loot/quest/shared_corellia_meatlumps_act1_story.iff")
+ObjectTemplates:addTemplate(object_tangible_loot_quest_corellia_meatlumps_act1_story, "object/tangible/loot/quest/corellia_meatlumps_act1_story.iff")

@@ -4,4 +4,4 @@ object_static_structure_general_waypoint_pulseline_violet = object_static_struct
 
 }
 
-ObjectTemplates:addTemplate(object_static_structure_general_waypoint_pulseline_violet, "object/static/structure/general/shared_waypoint_pulseline_violet.iff")
+ObjectTemplates:addTemplate(object_static_structure_general_waypoint_pulseline_violet, "object/static/structure/general/waypoint_pulseline_violet.iff")

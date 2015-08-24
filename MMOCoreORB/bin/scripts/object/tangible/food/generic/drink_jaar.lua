@@ -4,4 +4,4 @@ object_tangible_food_generic_drink_jaar = object_tangible_food_generic_shared_dr
 
 }
 
-ObjectTemplates:addTemplate(object_tangible_food_generic_drink_jaar, "object/tangible/food/generic/shared_drink_jaar.iff")
+ObjectTemplates:addTemplate(object_tangible_food_generic_drink_jaar, "object/tangible/food/generic/drink_jaar.iff")

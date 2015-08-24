@@ -4,4 +4,4 @@ object_draft_schematic_weapon_pistol_deathhammer_needle = object_draft_schematic
 
 }
 
-ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_deathhammer_needle, "object/draft_schematic/weapon/shared_pistol_deathhammer_needle.iff")
+ObjectTemplates:addTemplate(object_draft_schematic_weapon_pistol_deathhammer_needle, "object/draft_schematic/weapon/pistol_deathhammer_needle.iff")
