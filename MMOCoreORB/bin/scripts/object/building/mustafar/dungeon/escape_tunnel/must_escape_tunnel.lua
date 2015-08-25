@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_mustafar_dungeon_escape_tunnel_must_escape_tunnel = object_building_mustafar_dungeon_escape_tunnel_must_escape_tunnel:new {
+object_building_mustafar_dungeon_escape_tunnel_must_escape_tunnel = object_building_mustafar_dungeon_escape_tunnel_shared_must_escape_tunnel:new {
 
 }
 

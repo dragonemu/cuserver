@@ -4,4 +4,4 @@ object_building_mustafar_structures_must_sherkar_lair_exterior = object_building
 
 }
 
-ObjectTemplates:addTemplate(object_building_mustafar_structures_must_lair_exterior, "object/building/mustafar/structures/must_sherkar_lair_exterior.iff")
+ObjectTemplates:addTemplate(object_building_mustafar_structures_must_sherkar_lair_exterior, "object/building/mustafar/structures/must_sherkar_lair_exterior.iff")

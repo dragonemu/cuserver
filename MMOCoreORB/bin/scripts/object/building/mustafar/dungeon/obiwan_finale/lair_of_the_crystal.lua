@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_mustafar_dungeon_obiwan_finale_lair_of_the_crystal = object_building_mustafar_dungeon_obiwan_finale_lair_of_the_crystal:new {
+object_building_mustafar_dungeon_obiwan_finale_lair_of_the_crystal = object_building_mustafar_dungeon_obiwan_finale_shared_lair_of_the_crystal:new {
 
 }
 
