@@ -1,56 +1,56 @@
 object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_a, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_a.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_b = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_b.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_b.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_b, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_b.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_b, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_b.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_c = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_c.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_c.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_c, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_c.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_c, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_c.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_d = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_d.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_d.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_d, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_d.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_d, "object/tangible/medicine/crafted/shared_medpack_enhance_action_triad_d.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_a = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_a.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_a.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_a, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_a.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_a, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_a.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_b = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_b.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_b.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_b, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_b.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_b, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_b.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_c.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_c.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_c.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_c, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_c.iff")
 
 
 object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_d = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_d.iff")
+	clientTemplateFileName = "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_d.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_d, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_d.iff"
+ObjectTemplates:addClientTemplate(object_tangible_medicine_crafted_shared_medpack_enhance_health_triad_d, "object/tangible/medicine/crafted/shared_medpack_enhance_health_triad_d.iff")
 
 

@@ -1,14 +1,14 @@
 object_draft_schematic_space_capacitor_shared_elite_capacitor = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/space/capacitor/shared_elite_capacitor.iff")
+	clientTemplateFileName = "object/draft_schematic/space/capacitor/shared_elite_capacitor.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_space_capacitor_shared_elite_capacitor, "object/draft_schematic/space/capacitor/shared_elite_capacitor.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_capacitor_shared_elite_capacitor, "object/draft_schematic/space/capacitor/shared_elite_capacitor.iff")
 
 
 object_draft_schematic_space_capacitor_shared_mining_grade_capacitor = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff")
+	clientTemplateFileName = "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_space_capacitor_shared_mining_grade_capacitor, "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_space_capacitor_shared_mining_grade_capacitor, "object/draft_schematic/space/capacitor/shared_mining_grade_capacitor.iff")
 
 

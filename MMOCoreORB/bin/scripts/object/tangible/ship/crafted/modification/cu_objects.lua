@@ -1,35 +1,35 @@
 object_tangible_ship_crafted_modification_shared_blacksun_heavy_modification_s01 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_blacksun_heavy_modification_s01.iff")
+	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_blacksun_heavy_modification_s01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_blacksun_heavy_modification_s01, "object/tangible/ship/crafted/modification/shared_blacksun_heavy_modification_s01.iff"
+ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_blacksun_heavy_modification_s01, "object/tangible/ship/crafted/modification/shared_blacksun_heavy_modification_s01.iff")
 
 
 object_tangible_ship_crafted_modification_shared_hutt_heavy_modification_s01 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_hutt_heavy_modification_s01.iff")
+	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_hutt_heavy_modification_s01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_hutt_heavy_modification_s01, "object/tangible/ship/crafted/modification/shared_hutt_heavy_modification_s01.iff"
+ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_hutt_heavy_modification_s01, "object/tangible/ship/crafted/modification/shared_hutt_heavy_modification_s01.iff")
 
 
 object_tangible_ship_crafted_modification_shared_tie_advanced_modification_s01 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_tie_advanced_modification_s01.iff")
+	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_tie_advanced_modification_s01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_tie_advanced_modification_s01, "object/tangible/ship/crafted/modification/shared_tie_advanced_modification_s01.iff"
+ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_tie_advanced_modification_s01, "object/tangible/ship/crafted/modification/shared_tie_advanced_modification_s01.iff")
 
 
 object_tangible_ship_crafted_modification_shared_xwing_modification_s01 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_xwing_modification_s01.iff")
+	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_xwing_modification_s01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_xwing_modification_s01, "object/tangible/ship/crafted/modification/shared_xwing_modification_s01.iff"
+ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_xwing_modification_s01, "object/tangible/ship/crafted/modification/shared_xwing_modification_s01.iff")
 
 
 object_tangible_ship_crafted_modification_shared_z95_modification_s01 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_z95_modification_s01.iff")
+	clientTemplateFileName = "object/tangible/ship/crafted/modification/shared_z95_modification_s01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_z95_modification_s01, "object/tangible/ship/crafted/modification/shared_z95_modification_s01.iff"
+ObjectTemplates:addClientTemplate(object_tangible_ship_crafted_modification_shared_z95_modification_s01, "object/tangible/ship/crafted/modification/shared_z95_modification_s01.iff")
 
 
