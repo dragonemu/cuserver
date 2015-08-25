@@ -1,126 +1,126 @@
 object_draft_schematic_furniture_shared_must_chair_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_chair_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_chair_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_chair_01, "object/draft_schematic/furniture/shared_must_chair_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_chair_01, "object/draft_schematic/furniture/shared_must_chair_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_display_case = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_display_case.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_display_case.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_display_case, "object/draft_schematic/furniture/shared_must_furniture_display_case.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_display_case, "object/draft_schematic/furniture/shared_must_furniture_display_case.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_jedi_relic_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_01, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_01, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_relic_09, "object/draft_schematic/furniture/shared_must_furniture_jedi_relic_09.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_jedi_statue = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_statue.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_jedi_statue.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_statue, "object/draft_schematic/furniture/shared_must_furniture_jedi_statue.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_jedi_statue, "object/draft_schematic/furniture/shared_must_furniture_jedi_statue.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_01, "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_01, "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_09 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_09.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_09.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_09, "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_09.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_old_republic_tech_09, "object/draft_schematic/furniture/shared_must_furniture_old_republic_tech_09.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_throw_pillow_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_01, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_01, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_throw_pillow_02 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_02.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_02.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_02, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_02.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_02, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_02.iff")
 
 
 object_draft_schematic_furniture_shared_must_furniture_throw_pillow_03 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_03.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_03.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_03, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_03.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_furniture_throw_pillow_03, "object/draft_schematic/furniture/shared_must_furniture_throw_pillow_03.iff")
 
 
 object_draft_schematic_furniture_shared_must_old_republic_tech_analyzer = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_old_republic_tech_analyzer.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_old_republic_tech_analyzer.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_old_republic_tech_analyzer, "object/draft_schematic/furniture/shared_must_old_republic_tech_analyzer.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_old_republic_tech_analyzer, "object/draft_schematic/furniture/shared_must_old_republic_tech_analyzer.iff")
 
 
 object_draft_schematic_furniture_shared_must_painting_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_01, "object/draft_schematic/furniture/shared_must_painting_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_01, "object/draft_schematic/furniture/shared_must_painting_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_painting_02 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_02.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_02.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_02, "object/draft_schematic/furniture/shared_must_painting_02.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_02, "object/draft_schematic/furniture/shared_must_painting_02.iff")
 
 
 object_draft_schematic_furniture_shared_must_painting_03 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_03.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_03.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_03, "object/draft_schematic/furniture/shared_must_painting_03.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_03, "object/draft_schematic/furniture/shared_must_painting_03.iff")
 
 
 object_draft_schematic_furniture_shared_must_painting_04 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_04.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_painting_04.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_04, "object/draft_schematic/furniture/shared_must_painting_04.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_painting_04, "object/draft_schematic/furniture/shared_must_painting_04.iff")
 
 
 object_draft_schematic_furniture_shared_must_radar_screen = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_radar_screen.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_radar_screen.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_radar_screen, "object/draft_schematic/furniture/shared_must_radar_screen.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_radar_screen, "object/draft_schematic/furniture/shared_must_radar_screen.iff")
 
 
 object_draft_schematic_furniture_shared_must_table_large_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_table_large_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_table_large_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_table_large_01, "object/draft_schematic/furniture/shared_must_table_large_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_table_large_01, "object/draft_schematic/furniture/shared_must_table_large_01.iff")
 
 
 object_draft_schematic_furniture_shared_must_table_medium_01 = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_table_medium_01.iff")
+	clientTemplateFileName = "object/draft_schematic/furniture/shared_must_table_medium_01.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_table_medium_01, "object/draft_schematic/furniture/shared_must_table_medium_01.iff"
+ObjectTemplates:addClientTemplate(object_draft_schematic_furniture_shared_must_table_medium_01, "object/draft_schematic/furniture/shared_must_table_medium_01.iff")
 
 

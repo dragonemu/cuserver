@@ -1,140 +1,140 @@
 object_tangible_dungeon_mustafar_valley_battlefield_shared_base_battlefield_turret = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_base_battlefield_turret.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_base_battlefield_turret.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_base_battlefield_turret, "object/tangible/dungeon/mustafar/valley_battlefield/shared_base_battlefield_turret.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_base_battlefield_turret, "object/tangible/dungeon/mustafar/valley_battlefield/shared_base_battlefield_turret.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_heavy = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_heavy.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_heavy.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_heavy, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_heavy.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_heavy, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_heavy.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_light = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_light.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_light.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_light, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_light.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_light, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_light.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_medium = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_medium.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_medium.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_medium, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_medium.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_medium, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_charge_medium.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_detonator.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack, "object/tangible/dungeon/mustafar/valley_battlefield/shared_demo_pack.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_bunker = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_bunker.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_bunker.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_bunker, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_bunker.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_bunker, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_bunker.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_cooling_unit = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_cooling_unit.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_cooling_unit.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_cooling_unit, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_cooling_unit.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_cooling_unit, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_cooling_unit.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_16m = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_16m.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_16m.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_16m, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_16m.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_16m, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_16m.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_8m = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_8m.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_8m.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_8m, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_8m.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_fence_8m, "object/tangible/dungeon/mustafar/valley_battlefield/shared_must_bandit_fence_8m.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_power_generator = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_power_generator.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_power_generator.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_power_generator, "object/tangible/dungeon/mustafar/valley_battlefield/shared_power_generator.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_power_generator, "object/tangible/dungeon/mustafar/valley_battlefield/shared_power_generator.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion_weapon = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion_weapon.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion_weapon.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion_weapon.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_concussion_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_concussion_weapon.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_controller_object = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_controller_object.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_controller_object.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_controller_object, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_controller_object.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_controller_object, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_controller_object.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst_weapon = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst_weapon.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst_weapon.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst_weapon.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_energy_burst_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_energy_burst_weapon.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy_weapon = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy_weapon.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy_weapon.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy_weapon.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_null_energy_weapon.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma.iff")
 
 
 object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma_weapon = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma_weapon.iff")
+	clientTemplateFileName = "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma_weapon.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma_weapon.iff"
+ObjectTemplates:addClientTemplate(object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_plasma_weapon, "object/tangible/dungeon/mustafar/valley_battlefield/shared_turret_plasma_weapon.iff")
 
 

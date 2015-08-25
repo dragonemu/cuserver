@@ -1,35 +1,35 @@
 object_tangible_space_mining_mining_rare_shared_ancient_asteroid_chunk = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_ancient_asteroid_chunk.iff")
+	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_ancient_asteroid_chunk.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_ancient_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_ancient_asteroid_chunk.iff"
+ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_ancient_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_ancient_asteroid_chunk.iff")
 
 
 object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff")
+	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff"
+ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_colorful_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_colorful_asteroid_chunk.iff")
 
 
 object_tangible_space_mining_mining_rare_shared_glowing_asteroid_chunk = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_glowing_asteroid_chunk.iff")
+	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_glowing_asteroid_chunk.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_glowing_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_glowing_asteroid_chunk.iff"
+ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_glowing_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_glowing_asteroid_chunk.iff")
 
 
 object_tangible_space_mining_mining_rare_shared_misshapen_asteroid_chunk = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_misshapen_asteroid_chunk.iff")
+	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_misshapen_asteroid_chunk.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_misshapen_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_misshapen_asteroid_chunk.iff"
+ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_misshapen_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_misshapen_asteroid_chunk.iff")
 
 
 object_tangible_space_mining_mining_rare_shared_strange_asteroid_chunk = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_strange_asteroid_chunk.iff")
+	clientTemplateFileName = "object/tangible/space_mining/mining_rare/shared_strange_asteroid_chunk.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_strange_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_strange_asteroid_chunk.iff"
+ObjectTemplates:addClientTemplate(object_tangible_space_mining_mining_rare_shared_strange_asteroid_chunk, "object/tangible/space_mining/mining_rare/shared_strange_asteroid_chunk.iff")
 
 
