@@ -54,7 +54,7 @@ DBHost = "127.0.0.1"
 DBPort = 3306
 DBName = "swgemu"
 DBUser = "root"
-DBPass = "123456"
+DBPass = "cuftw123"
 DBSecret = "swgemus3cr37!" -- Change this! This value should be unique and of reasonable length.
 
 LoginPort = 44453
@@ -100,7 +100,7 @@ ZonesEnabled = {
 	--"floratest",
 	--"godclient_test",
 	--"lok",
-	--"mustafar",
+	"mustafar",
 	--"naboo",
 	--"otoh_gunga",
 	--"rivertest",
@@ -133,7 +133,7 @@ ZonesEnabled = {
 --"yavin4"
 }
 
-TocPath = "/home/valkyra/tre/cu"
+TocPath = "/home/cuemudev/tre/SWGEmuCU"
 
 TocFiles = {
 	"sku3_client.toc",
@@ -143,10 +143,9 @@ TocFiles = {
 }
 
 -- directory of tres with live.cfg
-TrePath = "/home/valkyra/tre/cu"
+TrePath = "/home/cuemudev/tre/SWGEmuCU"
 
-TreFiles = {
-	}
+TreFiles = {}
 
 --Status Server Config
 StatusPort = 44455

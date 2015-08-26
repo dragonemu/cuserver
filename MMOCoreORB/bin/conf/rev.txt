@@ -1,10 +1,10 @@
-2afbb40 was ValkyraSWG, 4 days ago, message: [fixed] stability issue
-25f1396 was ValkyraSWG, 4 days ago, message: [removed] mustafar_height.tga as it was conflicting with the real one [fixed] buildout fixes [fixed] compiling issues from merge [fixed] Data transform packet making you stuck in air
-911ffe7 was ValkyraSWG, 5 days ago, message: [fixed] Zoning [fixed] More buildout loading fixes [fixed] Misc packet stuff [fixed] stuff that I don't remember
-a5a1c4d was ValkyraSWG, 6 days ago, message: [added] Buildout Datatable loading support for Kash and Mustafar zones. [fixed] Crashing when Template not found.
-5931ddf was jay7199, 6 days ago, message: [fixed] Building and booting. [updated] Server to TA's source.
-cdbb079 was Valkyra, 9 weeks ago, message: Merge pull request #1 from zingzing175/master
-d888046 was CUEmu, 9 weeks ago, message: [Added] Basic outline of all CU object files
-b235892 was Zing, 9 weeks ago, message: Merge pull request #1 from CUEmu/master
-dd7bc7a was jay7199, 9 weeks ago, message: [added] Slash commands structure for fixing
-a88b1ae was ValkyraSWG, 9 weeks ago, message: [added] missing hidden files.
+8d12db5 was Valkyra, 6 hours ago, message: Merge pull request #9 from ilikenwf/master
+36c49dd was Matt Parnell, 7 hours ago, message: Merge remote-tracking branch 'upstream/master'
+f1b2245 was Matt Parnell, 7 hours ago, message: remove parenthases
+8439818 was Valkyra, 17 hours ago, message: Merge pull request #8 from ilikenwf/master
+f70b713 was Valkyra, 17 hours ago, message: Merge pull request #7 from ilikenwf/master
+247f8ea was jay7199, 17 hours ago, message: [added] combat revamp - brawler is the only class with commands atm [added] Level System [Changed] Some functions for coolDown Timers - more adjusting required
+c1d7faa was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
+ce99035 was Matt Parnell, 17 hours ago, message: no, really, this is the last one...I am useless without caffeine
+ce27ee7 was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
+2dea0d6 was Matt Parnell, 17 hours ago, message: hopefully this is the last fix

@@ -71,7 +71,7 @@ LIBS =	$(SYSTEM_LIBS)  \
 	-L$(ENGINE3_PATH)/lib/unix \
 	-L/usr/local/lib \
 	-L$(GTEST_PATH)/lib \
-	-lmysqlclient -lz -lengine3 -llua -ldb-5.0 -lssl -lcrypto -lgtest
+	-lz -lengine3 -ldl -llua -ldb-5.0 -lssl -lcrypto -lgtest -lmysqlclient
 	
 #AM_LDFLAGS = -pagezero_size 10000 -image_base 100000000
 #AM_LDFLAGS = --enable-stdcall-fixup
@@ -114,7 +114,6 @@ core3_IDLS =	autogen/server/zone/objects/intangible/TheaterObject.cpp \
 				autogen/server/zone/objects/player/sessions/ProposeUnitySession.cpp \
 				autogen/server/zone/managers/mission/DestroyMissionLairObserver.cpp \
 				autogen/server/zone/objects/tangible/pharmaceutical/VitalityPack.cpp \
-				autogen/server/zone/objects/creature/buffs/GallopBuff.cpp \
 				autogen/server/zone/managers/creature/PetManager.cpp \
 				autogen/server/zone/objects/creature/DroidObject.cpp \
 				autogen/server/zone/objects/tangible/deed/droid/DroidDeed.cpp \
@@ -135,7 +134,6 @@ core3_IDLS =	autogen/server/zone/objects/intangible/TheaterObject.cpp \
 				autogen/server/zone/objects/player/sessions/survey/SurveySession.cpp \
 				autogen/server/zone/objects/player/sessions/admin/PlayerManagementSession.cpp \
 				autogen/server/zone/objects/player/sessions/StructureSetAccessFeeSession.cpp \
-				autogen/server/zone/objects/creature/buffs/StateBuff.cpp \
 				autogen/server/zone/objects/creature/conversation/LuaConversationObserver.cpp \
 				autogen/server/zone/managers/creature/LairObserver.cpp \
 				autogen/server/zone/managers/director/ScreenPlayObserver.cpp \
@@ -177,7 +175,6 @@ core3_IDLS =	autogen/server/zone/objects/intangible/TheaterObject.cpp \
 				autogen/server/zone/objects/tangible/InstrumentObserver.cpp \
 				autogen/server/zone/objects/tangible/consumable/Food.cpp \
 				autogen/server/zone/objects/tangible/consumable/Drink.cpp \
-				autogen/server/zone/objects/tangible/consumable/DelayedBuffObserver.cpp \
 				autogen/server/zone/objects/tangible/loot/LootkitObject.cpp \
 				autogen/server/zone/objects/creature/CreatureObject.cpp \
 				autogen/server/zone/objects/creature/junkdealer/JunkdealerCreature.cpp \
@@ -185,19 +182,6 @@ core3_IDLS =	autogen/server/zone/objects/intangible/TheaterObject.cpp \
 				autogen/server/zone/objects/creature/NonPlayerCreatureObject.cpp \
 				autogen/server/zone/objects/creature/Creature.cpp \
 				autogen/server/zone/objects/creature/AiAgent.cpp \
-				autogen/server/zone/objects/creature/buffs/Buff.cpp \
-				autogen/server/zone/objects/creature/buffs/DelayedBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/SpiceBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/PowerBoostBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/DurationBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/SpiceDownerBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/PerformanceBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/SingleUseBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/SingleUseBuffObserver.cpp \
-				autogen/server/zone/objects/creature/buffs/SquadLeaderBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/SquadLeaderBuffObserver.cpp \
-				autogen/server/zone/objects/creature/buffs/PrivateBuff.cpp \
-				autogen/server/zone/objects/creature/buffs/PrivateSkillMultiplierBuff.cpp \
 				autogen/server/zone/objects/player/PlayerObject.cpp \
 				autogen/server/zone/objects/player/sui/SuiBox.cpp \
 				autogen/server/zone/objects/player/sui/keypadbox/SuiKeypadBox.cpp \
@@ -599,7 +583,6 @@ core3_SOURCES =	$(core3_IDLS) \
 		server/zone/objects/tangible/terminal/guild/GuildTerminalImplementation.cpp \
 		server/zone/objects/tangible/terminal/gambling/GamblingTerminalImplementation.cpp \
 		server/zone/objects/tangible/consumable/ConsumableImplementation.cpp \
-		server/zone/objects/tangible/consumable/DelayedBuffObserverImplementation.cpp \
 		server/zone/objects/tangible/deed/DeedImplementation.cpp \
 		server/zone/objects/tangible/deed/droid/DroidDeedImplementation.cpp \
 		server/zone/objects/tangible/deed/pet/PetDeedImplementation.cpp \
@@ -642,13 +625,6 @@ core3_SOURCES =	$(core3_IDLS) \
 		server/zone/objects/tangible/threat/ThreatMatrix.cpp \
 		server/zone/objects/creature/damageovertime/DamageOverTime.cpp \
 		server/zone/objects/creature/damageovertime/DamageOverTimeList.cpp \
-		server/zone/objects/creature/buffs/BuffImplementation.cpp \
-		server/zone/objects/creature/buffs/SpiceBuffImplementation.cpp \
-		server/zone/objects/creature/buffs/PowerBoostBuffImplementation.cpp \
-		server/zone/objects/creature/buffs/PerformanceBuffImplementation.cpp \
-		server/zone/objects/creature/buffs/SingleUseBuffObserverImplementation.cpp \
-		server/zone/objects/creature/buffs/SquadLeaderBuffObserverImplementation.cpp \
-		server/zone/objects/creature/buffs/PrivateSkillMultiplierBuffImplementation.cpp \
 		server/zone/objects/creature/buffs/BuffList.cpp \
 		server/zone/objects/tangible/components/vendor/VendorContainerComponent.cpp \
 		server/zone/objects/tangible/components/vendor/VendorDataComponent.cpp \
