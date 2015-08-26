@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_mustafar_dungeon_establish_uplink_uplink_cave = object_building_mustafar_dungeon_establish_uplink_uplink_cave:new {
+object_building_mustafar_dungeon_establish_uplink_uplink_cave = object_building_mustafar_dungeon_establish_uplink_shared_uplink_cave:new {
 
 }
 

@@ -61,13 +61,6 @@ object_tangible_loot_mustafar_shared_lava_geode = SharedTangibleObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_lava_geode, "object/tangible/loot/mustafar/shared_lava_geode.iff")
 
 
-object_tangible_loot_mustafar_shared_mustafar_map = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/mustafar/shared_mustafar_map.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_mustafar_map, "object/tangible/loot/mustafar/shared_mustafar_map.iff")
-
-
 object_tangible_loot_mustafar_shared_must_chair_01 = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/mustafar/shared_must_chair_01.iff"
 }
@@ -122,6 +115,13 @@ object_tangible_loot_mustafar_shared_must_table_small_01 = SharedTangibleObjectT
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_must_table_small_01, "object/tangible/loot/mustafar/shared_must_table_small_01.iff")
+
+
+object_tangible_loot_mustafar_shared_mustafar_map = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/mustafar/shared_mustafar_map.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_mustafar_map, "object/tangible/loot/mustafar/shared_mustafar_map.iff")
 
 
 object_tangible_loot_mustafar_shared_old_republic_data_cube_01 = SharedTangibleObjectTemplate:new {
@@ -229,18 +229,18 @@ object_tangible_loot_mustafar_shared_stuff_bantha_doll = SharedTangibleObjectTem
 ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_stuff_bantha_doll, "object/tangible/loot/mustafar/shared_stuff_bantha_doll.iff")
 
 
-object_tangible_loot_mustafar_shared_stuffed_dewback_doll = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/mustafar/shared_stuffed_dewback_doll.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_stuffed_dewback_doll, "object/tangible/loot/mustafar/shared_stuffed_dewback_doll.iff")
-
-
 object_tangible_loot_mustafar_shared_stuff_rancor_doll = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/mustafar/shared_stuff_rancor_doll.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_stuff_rancor_doll, "object/tangible/loot/mustafar/shared_stuff_rancor_doll.iff")
+
+
+object_tangible_loot_mustafar_shared_stuffed_dewback_doll = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/mustafar/shared_stuffed_dewback_doll.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_mustafar_shared_stuffed_dewback_doll, "object/tangible/loot/mustafar/shared_stuffed_dewback_doll.iff")
 
 
 object_tangible_loot_mustafar_shared_throw_pillow_01 = SharedTangibleObjectTemplate:new {

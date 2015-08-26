@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_mustafar_terrain_must_rock_spire_lg_lumpy = object_building_mustafar_terrain_shared_must_rock_spire_lg_lumpy:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_mustafar_terrain_must_rock_spire_lg_lumpy, "object/building/mustafar/terrain/must_rock_spire_lg_lumpy.iff")

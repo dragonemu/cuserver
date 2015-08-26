@@ -40,13 +40,6 @@ object_mobile_shared_bolotaur = SharedCreatureObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_mobile_shared_bolotaur, "object/mobile/shared_bolotaur.iff")
 
 
-object_mobile_shared_clone_relics_sawtooth = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/shared_clone_relics_sawtooth.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_shared_clone_relics_sawtooth, "object/mobile/shared_clone_relics_sawtooth.iff")
-
-
 object_mobile_shared_c_syren_3_dancer = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/shared_c_syren_3_dancer.iff"
 }
@@ -66,6 +59,13 @@ object_mobile_shared_c_syren_3_wire = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_shared_c_syren_3_wire, "object/mobile/shared_c_syren_3_wire.iff")
+
+
+object_mobile_shared_clone_relics_sawtooth = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/shared_clone_relics_sawtooth.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_shared_clone_relics_sawtooth, "object/mobile/shared_clone_relics_sawtooth.iff")
 
 
 object_mobile_shared_dressed_anchorjobs_ordo = SharedCreatureObjectTemplate:new {
@@ -215,6 +215,13 @@ object_mobile_shared_dressed_ep3_forest_kerritamba_dealer = SharedCreatureObject
 ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_dealer, "object/mobile/shared_dressed_ep3_forest_kerritamba_dealer.iff")
 
 
+object_mobile_shared_dressed_ep3_forest_kerritamba_warrior = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_warrior, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff")
+
+
 object_mobile_shared_dressed_ep3_forest_kerritamba_warrior_01 = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior_01.iff"
 }
@@ -269,13 +276,6 @@ object_mobile_shared_dressed_ep3_forest_kerritamba_warrior_08 = SharedCreatureOb
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_warrior_08, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior_08.iff")
-
-
-object_mobile_shared_dressed_ep3_forest_kerritamba_warrior = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_ep3_forest_kerritamba_warrior, "object/mobile/shared_dressed_ep3_forest_kerritamba_warrior.iff")
 
 
 object_mobile_shared_dressed_ep3_forest_npc_greeter = SharedCreatureObjectTemplate:new {
@@ -1419,6 +1419,13 @@ object_mobile_shared_dressed_twk_entertainer = SharedCreatureObjectTemplate:new 
 ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_twk_entertainer, "object/mobile/shared_dressed_twk_entertainer.iff")
 
 
+object_mobile_shared_dressed_valarian_assassin_twilek_female = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/shared_dressed_valarian_assassin_twilek_female.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_valarian_assassin_twilek_female, "object/mobile/shared_dressed_valarian_assassin_twilek_female.iff")
+
+
 object_mobile_shared_dressed_valarian_assassin_twilek_female_02 = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/shared_dressed_valarian_assassin_twilek_female_02.iff"
 }
@@ -1431,13 +1438,6 @@ object_mobile_shared_dressed_valarian_assassin_twilek_female_03 = SharedCreature
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_valarian_assassin_twilek_female_03, "object/mobile/shared_dressed_valarian_assassin_twilek_female_03.iff")
-
-
-object_mobile_shared_dressed_valarian_assassin_twilek_female = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/shared_dressed_valarian_assassin_twilek_female.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_shared_dressed_valarian_assassin_twilek_female, "object/mobile/shared_dressed_valarian_assassin_twilek_female.iff")
 
 
 object_mobile_shared_dressed_valarian_thug_aqua_female = SharedCreatureObjectTemplate:new {
@@ -2217,6 +2217,13 @@ object_mobile_shared_uller = SharedCreatureObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_mobile_shared_uller, "object/mobile/shared_uller.iff")
 
 
+object_mobile_shared_urnsoris = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/shared_urnsoris.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_shared_urnsoris, "object/mobile/shared_urnsoris.iff")
+
+
 object_mobile_shared_urnsoris_assassin = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/shared_urnsoris_assassin.iff"
 }
@@ -2236,13 +2243,6 @@ object_mobile_shared_urnsoris_handmaiden = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_shared_urnsoris_handmaiden, "object/mobile/shared_urnsoris_handmaiden.iff")
-
-
-object_mobile_shared_urnsoris = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/shared_urnsoris.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_shared_urnsoris, "object/mobile/shared_urnsoris.iff")
 
 
 object_mobile_shared_urnsoris_nurse = SharedCreatureObjectTemplate:new {
@@ -2273,6 +2273,13 @@ object_mobile_shared_urnsoris_young = SharedCreatureObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_mobile_shared_urnsoris_young, "object/mobile/shared_urnsoris_young.iff")
 
 
+object_mobile_shared_uwari_beetle_aggro = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/shared_uwari_beetle_aggro.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_shared_uwari_beetle_aggro, "object/mobile/shared_uwari_beetle_aggro.iff")
+
+
 object_mobile_shared_uwari_beetle_aggro_1 = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/shared_uwari_beetle_aggro_1.iff"
 }
@@ -2285,13 +2292,6 @@ object_mobile_shared_uwari_beetle_aggro_2 = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_shared_uwari_beetle_aggro_2, "object/mobile/shared_uwari_beetle_aggro_2.iff")
-
-
-object_mobile_shared_uwari_beetle_aggro = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/shared_uwari_beetle_aggro.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_shared_uwari_beetle_aggro, "object/mobile/shared_uwari_beetle_aggro.iff")
 
 
 object_mobile_shared_uwari_beetle_domestic = SharedCreatureObjectTemplate:new {

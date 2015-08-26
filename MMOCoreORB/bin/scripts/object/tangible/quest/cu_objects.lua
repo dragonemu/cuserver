@@ -187,18 +187,18 @@ object_tangible_quest_shared_corellia_coronet_meatlump_act1_shipment = SharedTan
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_corellia_coronet_meatlump_act1_shipment, "object/tangible/quest/shared_corellia_coronet_meatlump_act1_shipment.iff")
 
 
-object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer_fake = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer_fake.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer_fake, "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer_fake.iff")
-
-
 object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer, "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer.iff")
+
+
+object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer_fake = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer_fake.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_shared_corellia_coronet_rogue_corsec_base_computer_fake, "object/tangible/quest/shared_corellia_coronet_rogue_corsec_base_computer_fake.iff")
 
 
 object_tangible_quest_shared_corellia_coronet_the_informant_hidden_stash = SharedTangibleObjectTemplate:new {
@@ -621,18 +621,18 @@ object_tangible_quest_shared_poison_miner_tracking_computer = SharedTangibleObje
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_poison_miner_tracking_computer, "object/tangible/quest/shared_poison_miner_tracking_computer.iff")
 
 
-object_tangible_quest_shared_radio_s1 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/quest/shared_radio_s1.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_quest_shared_radio_s1, "object/tangible/quest/shared_radio_s1.iff")
-
-
 object_tangible_quest_shared_r_naktra_crystals = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/quest/shared_r_naktra_crystals.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_r_naktra_crystals, "object/tangible/quest/shared_r_naktra_crystals.iff")
+
+
+object_tangible_quest_shared_radio_s1 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/shared_radio_s1.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_shared_radio_s1, "object/tangible/quest/shared_radio_s1.iff")
 
 
 object_tangible_quest_shared_rodian_body_bag = SharedTangibleObjectTemplate:new {
@@ -1055,18 +1055,18 @@ object_tangible_quest_shared_som_vault_holocron = SharedTangibleObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_som_vault_holocron, "object/tangible/quest/shared_som_vault_holocron.iff")
 
 
-object_tangible_quest_shared_som_vault_lever_2 = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/quest/shared_som_vault_lever_2.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_quest_shared_som_vault_lever_2, "object/tangible/quest/shared_som_vault_lever_2.iff")
-
-
 object_tangible_quest_shared_som_vault_lever = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/quest/shared_som_vault_lever.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_som_vault_lever, "object/tangible/quest/shared_som_vault_lever.iff")
+
+
+object_tangible_quest_shared_som_vault_lever_2 = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/shared_som_vault_lever_2.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_shared_som_vault_lever_2, "object/tangible/quest/shared_som_vault_lever_2.iff")
 
 
 object_tangible_quest_shared_som_volcano_marker_01 = SharedTangibleObjectTemplate:new {
@@ -1104,6 +1104,13 @@ object_tangible_quest_shared_supply_box = SharedTangibleObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_supply_box, "object/tangible/quest/shared_supply_box.iff")
 
 
+object_tangible_quest_shared_survey_data = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/quest/shared_survey_data.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_quest_shared_survey_data, "object/tangible/quest/shared_survey_data.iff")
+
+
 object_tangible_quest_shared_survey_data_02 = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/quest/shared_survey_data_02.iff"
 }
@@ -1130,13 +1137,6 @@ object_tangible_quest_shared_survey_data_05 = SharedTangibleObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_quest_shared_survey_data_05, "object/tangible/quest/shared_survey_data_05.iff")
-
-
-object_tangible_quest_shared_survey_data = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/quest/shared_survey_data.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_quest_shared_survey_data, "object/tangible/quest/shared_survey_data.iff")
 
 
 object_tangible_quest_shared_syren_3_computer_terminal = SharedTangibleObjectTemplate:new {

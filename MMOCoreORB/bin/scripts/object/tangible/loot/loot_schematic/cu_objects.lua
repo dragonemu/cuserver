@@ -1,15 +1,15 @@
-object_tangible_loot_loot_schematic_shared_generic_limited_use_flashy = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/loot_schematic/shared_generic_limited_use_flashy.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_shared_generic_limited_use_flashy, "object/tangible/loot/loot_schematic/shared_generic_limited_use_flashy.iff")
-
-
 object_tangible_loot_loot_schematic_shared_generic_limited_use = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/loot_schematic/shared_generic_limited_use.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_shared_generic_limited_use, "object/tangible/loot/loot_schematic/shared_generic_limited_use.iff")
+
+
+object_tangible_loot_loot_schematic_shared_generic_limited_use_flashy = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/loot_schematic/shared_generic_limited_use_flashy.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_loot_schematic_shared_generic_limited_use_flashy, "object/tangible/loot/loot_schematic/shared_generic_limited_use_flashy.iff")
 
 
 object_tangible_loot_loot_schematic_shared_generic_vehicle = SharedTangibleObjectTemplate:new {

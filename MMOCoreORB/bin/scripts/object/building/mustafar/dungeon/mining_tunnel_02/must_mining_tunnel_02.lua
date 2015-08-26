@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_mustafar_dungeon_mining_tunnel_02_must_mining_tunnel_02 = object_building_mustafar_dungeon_mining_tunnel_02_must_mining_tunnel_02:new {
+object_building_mustafar_dungeon_mining_tunnel_02_must_mining_tunnel_02 = object_building_mustafar_dungeon_mining_tunnel_02_shared_must_mining_tunnel_02:new {
 
 }
 

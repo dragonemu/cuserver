@@ -250,6 +250,13 @@ object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_scroll = Shared
 ObjectTemplates:addClientTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_scroll, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_scroll.iff")
 
 
+object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome.iff")
+
+
 object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome_01 = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome_01.iff"
 }
@@ -276,13 +283,6 @@ object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome_04 = Share
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome_04, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome_04.iff")
-
-
-object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_creature_loot_kashyyyk_loot_shared_mystical_tome, "object/tangible/loot/creature_loot/kashyyyk_loot/shared_mystical_tome.iff")
 
 
 object_tangible_loot_creature_loot_kashyyyk_loot_shared_orange_potion = SharedTangibleObjectTemplate:new {

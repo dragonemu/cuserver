@@ -61,6 +61,13 @@ object_tangible_component_armor_shared_armor_appearance_enhancement_feather = Sh
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_appearance_enhancement_feather, "object/tangible/component/armor/shared_armor_appearance_enhancement_feather.iff")
 
 
+object_tangible_component_armor_shared_armor_core_assault = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_assault.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_assault, "object/tangible/component/armor/shared_armor_core_assault.iff")
+
+
 object_tangible_component_armor_shared_armor_core_assault_advanced = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_assault_advanced.iff"
 }
@@ -75,18 +82,18 @@ object_tangible_component_armor_shared_armor_core_assault_basic = SharedTangible
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_assault_basic, "object/tangible/component/armor/shared_armor_core_assault_basic.iff")
 
 
-object_tangible_component_armor_shared_armor_core_assault = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_assault.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_assault, "object/tangible/component/armor/shared_armor_core_assault.iff")
-
-
 object_tangible_component_armor_shared_armor_core_assault_standard = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_assault_standard.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_assault_standard, "object/tangible/component/armor/shared_armor_core_assault_standard.iff")
+
+
+object_tangible_component_armor_shared_armor_core_battle = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_battle.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_battle, "object/tangible/component/armor/shared_armor_core_battle.iff")
 
 
 object_tangible_component_armor_shared_armor_core_battle_advanced = SharedTangibleObjectTemplate:new {
@@ -101,13 +108,6 @@ object_tangible_component_armor_shared_armor_core_battle_basic = SharedTangibleO
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_battle_basic, "object/tangible/component/armor/shared_armor_core_battle_basic.iff")
-
-
-object_tangible_component_armor_shared_armor_core_battle = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_battle.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_battle, "object/tangible/component/armor/shared_armor_core_battle.iff")
 
 
 object_tangible_component_armor_shared_armor_core_battle_standard = SharedTangibleObjectTemplate:new {
@@ -145,6 +145,13 @@ object_tangible_component_armor_shared_armor_core_enhancement_recon = SharedTang
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_enhancement_recon, "object/tangible/component/armor/shared_armor_core_enhancement_recon.iff")
 
 
+object_tangible_component_armor_shared_armor_core_recon = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_recon.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_recon, "object/tangible/component/armor/shared_armor_core_recon.iff")
+
+
 object_tangible_component_armor_shared_armor_core_recon_advanced = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_recon_advanced.iff"
 }
@@ -157,13 +164,6 @@ object_tangible_component_armor_shared_armor_core_recon_basic = SharedTangibleOb
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_recon_basic, "object/tangible/component/armor/shared_armor_core_recon_basic.iff")
-
-
-object_tangible_component_armor_shared_armor_core_recon = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/component/armor/shared_armor_core_recon.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_core_recon, "object/tangible/component/armor/shared_armor_core_recon.iff")
 
 
 object_tangible_component_armor_shared_armor_core_recon_standard = SharedTangibleObjectTemplate:new {
@@ -236,18 +236,18 @@ object_tangible_component_armor_shared_armor_segment_recon = SharedTangibleObjec
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_armor_segment_recon, "object/tangible/component/armor/shared_armor_segment_recon.iff")
 
 
-object_tangible_component_armor_shared_bio_cartridge_base = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/component/armor/shared_bio_cartridge_base.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_bio_cartridge_base, "object/tangible/component/armor/shared_bio_cartridge_base.iff")
-
-
 object_tangible_component_armor_shared_bio_cartridge = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/component/armor/shared_bio_cartridge.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_bio_cartridge, "object/tangible/component/armor/shared_bio_cartridge.iff")
+
+
+object_tangible_component_armor_shared_bio_cartridge_base = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/component/armor/shared_bio_cartridge_base.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_component_armor_shared_bio_cartridge_base, "object/tangible/component/armor/shared_bio_cartridge_base.iff")
 
 
 object_tangible_component_armor_shared_new_armor_core_test = SharedTangibleObjectTemplate:new {

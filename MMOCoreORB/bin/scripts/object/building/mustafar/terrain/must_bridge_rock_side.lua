@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_mustafar_terrain_must_bridge_rock_side = object_building_mustafar_terrain_shared_must_bridge_rock_side:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_mustafar_terrain_must_bridge_rock_side, "object/building/mustafar/terrain/must_bridge_rock_side.iff")

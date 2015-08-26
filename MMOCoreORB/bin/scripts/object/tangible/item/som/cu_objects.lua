@@ -110,18 +110,18 @@ object_tangible_item_som_shared_lava_beetle_beads = SharedTangibleObjectTemplate
 ObjectTemplates:addClientTemplate(object_tangible_item_som_shared_lava_beetle_beads, "object/tangible/item/som/shared_lava_beetle_beads.iff")
 
 
-object_tangible_item_som_shared_lava_beetle_nest_four = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/item/som/shared_lava_beetle_nest_four.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_item_som_shared_lava_beetle_nest_four, "object/tangible/item/som/shared_lava_beetle_nest_four.iff")
-
-
 object_tangible_item_som_shared_lava_beetle_nest = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/item/som/shared_lava_beetle_nest.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_item_som_shared_lava_beetle_nest, "object/tangible/item/som/shared_lava_beetle_nest.iff")
+
+
+object_tangible_item_som_shared_lava_beetle_nest_four = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/item/som/shared_lava_beetle_nest_four.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_item_som_shared_lava_beetle_nest_four, "object/tangible/item/som/shared_lava_beetle_nest_four.iff")
 
 
 object_tangible_item_som_shared_lava_beetle_nest_three = SharedTangibleObjectTemplate:new {

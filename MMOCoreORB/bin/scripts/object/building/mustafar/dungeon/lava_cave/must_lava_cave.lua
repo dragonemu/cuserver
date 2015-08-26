@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_mustafar_dungeon_lava_cave_must_lava_cave = object_building_mustafar_dungeon_lava_cave_must_lava_cave:new {
+object_building_mustafar_dungeon_lava_cave_must_lava_cave = object_building_mustafar_dungeon_lava_cave_shared_must_lava_cave:new {
 
 }
 
