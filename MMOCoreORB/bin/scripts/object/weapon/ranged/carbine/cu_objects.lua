@@ -5,13 +5,6 @@ object_weapon_ranged_carbine_shared_carbine_alliance_needler = SharedWeaponObjec
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_alliance_needler, "object/weapon/ranged/carbine/shared_carbine_alliance_needler.iff")
 
 
-object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5 = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5, "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff")
-
-
 object_weapon_ranged_carbine_shared_carbine_avatar_trando = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_avatar_trando.iff"
 }
@@ -19,11 +12,11 @@ object_weapon_ranged_carbine_shared_carbine_avatar_trando = SharedWeaponObjectTe
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_avatar_trando, "object/weapon/ranged/carbine/shared_carbine_avatar_trando.iff")
 
 
-object_weapon_ranged_carbine_shared_carbine_bothan_bola_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_bothan_bola_generic.iff"
+object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5 = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_bothan_bola_generic, "object/weapon/ranged/carbine/shared_carbine_bothan_bola_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5, "object/weapon/ranged/carbine/shared_carbine_avatar_trando_e5.iff")
 
 
 object_weapon_ranged_carbine_shared_carbine_bothan_bola = SharedWeaponObjectTemplate:new {
@@ -31,6 +24,13 @@ object_weapon_ranged_carbine_shared_carbine_bothan_bola = SharedWeaponObjectTemp
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_bothan_bola, "object/weapon/ranged/carbine/shared_carbine_bothan_bola.iff")
+
+
+object_weapon_ranged_carbine_shared_carbine_bothan_bola_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_bothan_bola_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_bothan_bola_generic, "object/weapon/ranged/carbine/shared_carbine_bothan_bola_generic.iff")
 
 
 object_weapon_ranged_carbine_shared_carbine_cdef_npe = SharedWeaponObjectTemplate:new {
@@ -75,18 +75,18 @@ object_weapon_ranged_carbine_shared_carbine_e11_static = SharedWeaponObjectTempl
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_e11_static, "object/weapon/ranged/carbine/shared_carbine_e11_static.iff")
 
 
-object_weapon_ranged_carbine_shared_carbine_e5_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_e5_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_e5_generic, "object/weapon/ranged/carbine/shared_carbine_e5_generic.iff")
-
-
 object_weapon_ranged_carbine_shared_carbine_e5 = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_e5.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_e5, "object/weapon/ranged/carbine/shared_carbine_e5.iff")
+
+
+object_weapon_ranged_carbine_shared_carbine_e5_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_e5_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_e5_generic, "object/weapon/ranged/carbine/shared_carbine_e5_generic.iff")
 
 
 object_weapon_ranged_carbine_shared_carbine_ee3_static = SharedWeaponObjectTemplate:new {
@@ -96,18 +96,18 @@ object_weapon_ranged_carbine_shared_carbine_ee3_static = SharedWeaponObjectTempl
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_ee3_static, "object/weapon/ranged/carbine/shared_carbine_ee3_static.iff")
 
 
-object_weapon_ranged_carbine_shared_carbine_geo_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_geo_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_geo_generic, "object/weapon/ranged/carbine/shared_carbine_geo_generic.iff")
-
-
 object_weapon_ranged_carbine_shared_carbine_geo = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_geo.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_geo, "object/weapon/ranged/carbine/shared_carbine_geo.iff")
+
+
+object_weapon_ranged_carbine_shared_carbine_geo_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/carbine/shared_carbine_geo_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_carbine_geo_generic, "object/weapon/ranged/carbine/shared_carbine_geo_generic.iff")
 
 
 object_weapon_ranged_carbine_shared_carbine_laser_static = SharedWeaponObjectTemplate:new {
@@ -194,17 +194,17 @@ object_weapon_ranged_carbine_shared_event_carbine_hairtrigger = SharedWeaponObje
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_event_carbine_hairtrigger, "object/weapon/ranged/carbine/shared_event_carbine_hairtrigger.iff")
 
 
-object_weapon_ranged_carbine_shared_som_carbine_republic_sfor_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_som_carbine_republic_sfor_generic, "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor_generic.iff")
-
-
 object_weapon_ranged_carbine_shared_som_carbine_republic_sfor = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_som_carbine_republic_sfor, "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor.iff")
+
+
+object_weapon_ranged_carbine_shared_som_carbine_republic_sfor_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_carbine_shared_som_carbine_republic_sfor_generic, "object/weapon/ranged/carbine/shared_som_carbine_republic_sfor_generic.iff")
 
 

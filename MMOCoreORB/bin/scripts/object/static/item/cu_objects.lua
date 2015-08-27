@@ -75,18 +75,18 @@ object_static_item_shared_item_frn_display_case = SharedStaticObjectTemplate:new
 ObjectTemplates:addClientTemplate(object_static_item_shared_item_frn_display_case, "object/static/item/shared_item_frn_display_case.iff")
 
 
-object_static_item_shared_lair_bones_large = SharedStaticObjectTemplate:new {
-	clientTemplateFileName = "object/static/item/shared_lair_bones_large.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_static_item_shared_lair_bones_large, "object/static/item/shared_lair_bones_large.iff")
-
-
 object_static_item_shared_lair_bones = SharedStaticObjectTemplate:new {
 	clientTemplateFileName = "object/static/item/shared_lair_bones.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_static_item_shared_lair_bones, "object/static/item/shared_lair_bones.iff")
+
+
+object_static_item_shared_lair_bones_large = SharedStaticObjectTemplate:new {
+	clientTemplateFileName = "object/static/item/shared_lair_bones_large.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_static_item_shared_lair_bones_large, "object/static/item/shared_lair_bones_large.iff")
 
 
 object_static_item_shared_lair_bramble = SharedStaticObjectTemplate:new {
@@ -131,18 +131,18 @@ object_static_item_shared_lair_rock_shelter_small = SharedStaticObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_static_item_shared_lair_rock_shelter_small, "object/static/item/shared_lair_rock_shelter_small.iff")
 
 
-object_static_item_shared_lair_wooden_tent_destroyed = SharedStaticObjectTemplate:new {
-	clientTemplateFileName = "object/static/item/shared_lair_wooden_tent_destroyed.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_static_item_shared_lair_wooden_tent_destroyed, "object/static/item/shared_lair_wooden_tent_destroyed.iff")
-
-
 object_static_item_shared_lair_wooden_tent = SharedStaticObjectTemplate:new {
 	clientTemplateFileName = "object/static/item/shared_lair_wooden_tent.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_static_item_shared_lair_wooden_tent, "object/static/item/shared_lair_wooden_tent.iff")
+
+
+object_static_item_shared_lair_wooden_tent_destroyed = SharedStaticObjectTemplate:new {
+	clientTemplateFileName = "object/static/item/shared_lair_wooden_tent_destroyed.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_static_item_shared_lair_wooden_tent_destroyed, "object/static/item/shared_lair_wooden_tent_destroyed.iff")
 
 
 object_static_item_shared_wp_carbine_bothan_bola = SharedStaticObjectTemplate:new {

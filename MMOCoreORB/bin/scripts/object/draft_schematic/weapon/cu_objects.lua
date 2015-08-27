@@ -243,18 +243,18 @@ object_draft_schematic_weapon_shared_knife_janta = SharedDraftSchematicObjectTem
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_knife_janta, "object/draft_schematic/weapon/shared_knife_janta.iff")
 
 
-object_draft_schematic_weapon_shared_knife_naktra_crystal_false = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_knife_naktra_crystal_false.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_knife_naktra_crystal_false, "object/draft_schematic/weapon/shared_knife_naktra_crystal_false.iff")
-
-
 object_draft_schematic_weapon_shared_knife_naktra_crystal = SharedDraftSchematicObjectTemplate:new {
 	clientTemplateFileName = "object/draft_schematic/weapon/shared_knife_naktra_crystal.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_knife_naktra_crystal, "object/draft_schematic/weapon/shared_knife_naktra_crystal.iff")
+
+
+object_draft_schematic_weapon_shared_knife_naktra_crystal_false = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_knife_naktra_crystal_false.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_knife_naktra_crystal_false, "object/draft_schematic/weapon/shared_knife_naktra_crystal_false.iff")
 
 
 object_draft_schematic_weapon_shared_knife_trando_skinner = SharedDraftSchematicObjectTemplate:new {
@@ -285,18 +285,18 @@ object_draft_schematic_weapon_shared_lance_cryo = SharedDraftSchematicObjectTemp
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_cryo, "object/draft_schematic/weapon/shared_lance_cryo.iff")
 
 
-object_draft_schematic_weapon_shared_lance_kaminoan_great_staff = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_kaminoan_great_staff, "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff")
-
-
 object_draft_schematic_weapon_shared_lance_kaminoan = SharedDraftSchematicObjectTemplate:new {
 	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_kaminoan.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_kaminoan, "object/draft_schematic/weapon/shared_lance_kaminoan.iff")
+
+
+object_draft_schematic_weapon_shared_lance_kaminoan_great_staff = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_kaminoan_great_staff, "object/draft_schematic/weapon/shared_lance_kaminoan_great_staff.iff")
 
 
 object_draft_schematic_weapon_shared_lance_massassi = SharedDraftSchematicObjectTemplate:new {
@@ -313,18 +313,18 @@ object_draft_schematic_weapon_shared_lance_obsidian = SharedDraftSchematicObject
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_obsidian, "object/draft_schematic/weapon/shared_lance_obsidian.iff")
 
 
-object_draft_schematic_weapon_shared_lance_shocklance = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_shocklance.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_shocklance, "object/draft_schematic/weapon/shared_lance_shocklance.iff")
-
-
 object_draft_schematic_weapon_shared_lance_shock = SharedDraftSchematicObjectTemplate:new {
 	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_shock.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_shock, "object/draft_schematic/weapon/shared_lance_shock.iff")
+
+
+object_draft_schematic_weapon_shared_lance_shocklance = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_lance_shocklance.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_lance_shocklance, "object/draft_schematic/weapon/shared_lance_shocklance.iff")
 
 
 object_draft_schematic_weapon_shared_lance_sturdy = SharedDraftSchematicObjectTemplate:new {
@@ -747,11 +747,11 @@ object_draft_schematic_weapon_shared_pistol_trando_suppressor = SharedDraftSchem
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_trando_suppressor, "object/draft_schematic/weapon/shared_pistol_trando_suppressor.iff")
 
 
-object_draft_schematic_weapon_shared_pistol_wookiee_bowcaster = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_pistol_wookiee_bowcaster.iff"
+object_draft_schematic_weapon_shared_pistol_wookie = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_pistol_wookie.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_wookiee_bowcaster, "object/draft_schematic/weapon/shared_pistol_wookiee_bowcaster.iff")
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_wookie, "object/draft_schematic/weapon/shared_pistol_wookie.iff")
 
 
 object_draft_schematic_weapon_shared_pistol_wookiee = SharedDraftSchematicObjectTemplate:new {
@@ -761,11 +761,11 @@ object_draft_schematic_weapon_shared_pistol_wookiee = SharedDraftSchematicObject
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_wookiee, "object/draft_schematic/weapon/shared_pistol_wookiee.iff")
 
 
-object_draft_schematic_weapon_shared_pistol_wookie = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_pistol_wookie.iff"
+object_draft_schematic_weapon_shared_pistol_wookiee_bowcaster = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_pistol_wookiee_bowcaster.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_wookie, "object/draft_schematic/weapon/shared_pistol_wookie.iff")
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_pistol_wookiee_bowcaster, "object/draft_schematic/weapon/shared_pistol_wookiee_bowcaster.iff")
 
 
 object_draft_schematic_weapon_shared_polearm_electric = SharedDraftSchematicObjectTemplate:new {
@@ -978,18 +978,18 @@ object_draft_schematic_weapon_shared_rifle_proton = SharedDraftSchematicObjectTe
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_rifle_proton, "object/draft_schematic/weapon/shared_rifle_proton.iff")
 
 
-object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted = SharedDraftSchematicObjectTemplate:new {
-	clientTemplateFileName = "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff")
-
-
 object_draft_schematic_weapon_shared_rifle_trando_hunter = SharedDraftSchematicObjectTemplate:new {
 	clientTemplateFileName = "object/draft_schematic/weapon/shared_rifle_trando_hunter.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_rifle_trando_hunter, "object/draft_schematic/weapon/shared_rifle_trando_hunter.iff")
+
+
+object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted = SharedDraftSchematicObjectTemplate:new {
+	clientTemplateFileName = "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_draft_schematic_weapon_shared_rifle_trando_hunter_crafted, "object/draft_schematic/weapon/shared_rifle_trando_hunter_crafted.iff")
 
 
 object_draft_schematic_weapon_shared_rifle_victor_projectile_tusken = SharedDraftSchematicObjectTemplate:new {

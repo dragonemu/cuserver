@@ -495,6 +495,13 @@ object_mobile_ep3_shared_ep3_clone_relics_cww8 = SharedCreatureObjectTemplate:ne
 ObjectTemplates:addClientTemplate(object_mobile_ep3_shared_ep3_clone_relics_cww8, "object/mobile/ep3/shared_ep3_clone_relics_cww8.iff")
 
 
+object_mobile_ep3_shared_ep3_clone_relics_durge = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/ep3/shared_ep3_clone_relics_durge.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_ep3_shared_ep3_clone_relics_durge, "object/mobile/ep3/shared_ep3_clone_relics_durge.iff")
+
+
 object_mobile_ep3_shared_ep3_clone_relics_durge_droid_01 = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/ep3/shared_ep3_clone_relics_durge_droid_01.iff"
 }
@@ -507,13 +514,6 @@ object_mobile_ep3_shared_ep3_clone_relics_durge_droid_02 = SharedCreatureObjectT
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_ep3_shared_ep3_clone_relics_durge_droid_02, "object/mobile/ep3/shared_ep3_clone_relics_durge_droid_02.iff")
-
-
-object_mobile_ep3_shared_ep3_clone_relics_durge = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/ep3/shared_ep3_clone_relics_durge.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_ep3_shared_ep3_clone_relics_durge, "object/mobile/ep3/shared_ep3_clone_relics_durge.iff")
 
 
 object_mobile_ep3_shared_ep3_clone_relics_geonosian_ikvizi = SharedCreatureObjectTemplate:new {

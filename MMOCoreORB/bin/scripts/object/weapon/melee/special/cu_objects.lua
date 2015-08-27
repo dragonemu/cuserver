@@ -5,18 +5,18 @@ object_weapon_melee_special_shared_blacksun_razor_generic = SharedWeaponObjectTe
 ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_blacksun_razor_generic, "object/weapon/melee/special/shared_blacksun_razor_generic.iff")
 
 
-object_weapon_melee_special_shared_blasterfist_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/special/shared_blasterfist_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_blasterfist_generic, "object/weapon/melee/special/shared_blasterfist_generic.iff")
-
-
 object_weapon_melee_special_shared_blasterfist = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/special/shared_blasterfist.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_blasterfist, "object/weapon/melee/special/shared_blasterfist.iff")
+
+
+object_weapon_melee_special_shared_blasterfist_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/special/shared_blasterfist_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_blasterfist_generic, "object/weapon/melee/special/shared_blasterfist_generic.iff")
 
 
 object_weapon_melee_special_shared_ep3_loot_heartstriker = SharedWeaponObjectTemplate:new {
@@ -40,18 +40,18 @@ object_weapon_melee_special_shared_ep3_loot_soulstinger = SharedWeaponObjectTemp
 ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_ep3_loot_soulstinger, "object/weapon/melee/special/shared_ep3_loot_soulstinger.iff")
 
 
-object_weapon_melee_special_shared_massassiknuckler_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/special/shared_massassiknuckler_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_massassiknuckler_generic, "object/weapon/melee/special/shared_massassiknuckler_generic.iff")
-
-
 object_weapon_melee_special_shared_massassiknuckler = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/special/shared_massassiknuckler.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_massassiknuckler, "object/weapon/melee/special/shared_massassiknuckler.iff")
+
+
+object_weapon_melee_special_shared_massassiknuckler_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/special/shared_massassiknuckler_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_special_shared_massassiknuckler_generic, "object/weapon/melee/special/shared_massassiknuckler_generic.iff")
 
 
 object_weapon_melee_special_shared_vibroknuckler_npe = SharedWeaponObjectTemplate:new {

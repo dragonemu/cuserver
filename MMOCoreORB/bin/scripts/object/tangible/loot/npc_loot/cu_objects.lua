@@ -159,18 +159,18 @@ object_tangible_loot_npc_loot_shared_cloth_box_generic = SharedTangibleObjectTem
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_cloth_box_generic, "object/tangible/loot/npc_loot/shared_cloth_box_generic.iff")
 
 
-object_tangible_loot_npc_loot_shared_clothing_repair_device_generic = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_clothing_repair_device_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_clothing_repair_device_generic, "object/tangible/loot/npc_loot/shared_clothing_repair_device_generic.iff")
-
-
 object_tangible_loot_npc_loot_shared_cloth_kit_generic = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_cloth_kit_generic.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_cloth_kit_generic, "object/tangible/loot/npc_loot/shared_cloth_kit_generic.iff")
+
+
+object_tangible_loot_npc_loot_shared_clothing_repair_device_generic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_clothing_repair_device_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_clothing_repair_device_generic, "object/tangible/loot/npc_loot/shared_clothing_repair_device_generic.iff")
 
 
 object_tangible_loot_npc_loot_shared_comlink_civilian_generic = SharedTangibleObjectTemplate:new {
@@ -292,18 +292,18 @@ object_tangible_loot_npc_loot_shared_elect_power_unit_generic = SharedTangibleOb
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_elect_power_unit_generic, "object/tangible/loot/npc_loot/shared_elect_power_unit_generic.iff")
 
 
-object_tangible_loot_npc_loot_shared_electronic_key_generic = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_electronic_key_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_electronic_key_generic, "object/tangible/loot/npc_loot/shared_electronic_key_generic.iff")
-
-
 object_tangible_loot_npc_loot_shared_electro_polearm_generic = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_electro_polearm_generic.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_electro_polearm_generic, "object/tangible/loot/npc_loot/shared_electro_polearm_generic.iff")
+
+
+object_tangible_loot_npc_loot_shared_electronic_key_generic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_electronic_key_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_electronic_key_generic, "object/tangible/loot/npc_loot/shared_electronic_key_generic.iff")
 
 
 object_tangible_loot_npc_loot_shared_engineer_analysis_board_generic = SharedTangibleObjectTemplate:new {
@@ -733,6 +733,13 @@ object_tangible_loot_npc_loot_shared_rng_weapon_repair_device_generic = SharedTa
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_rng_weapon_repair_device_generic, "object/tangible/loot/npc_loot/shared_rng_weapon_repair_device_generic.iff")
 
 
+object_tangible_loot_npc_loot_shared_rock_generic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_rock_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_rock_generic, "object/tangible/loot/npc_loot/shared_rock_generic.iff")
+
+
 object_tangible_loot_npc_loot_shared_rocket_ammo_generic = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_rocket_ammo_generic.iff"
 }
@@ -745,13 +752,6 @@ object_tangible_loot_npc_loot_shared_rocket_generic = SharedTangibleObjectTempla
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_rocket_generic, "object/tangible/loot/npc_loot/shared_rocket_generic.iff")
-
-
-object_tangible_loot_npc_loot_shared_rock_generic = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_rock_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_rock_generic, "object/tangible/loot/npc_loot/shared_rock_generic.iff")
 
 
 object_tangible_loot_npc_loot_shared_rusty_toolkit_generic = SharedTangibleObjectTemplate:new {
@@ -1069,18 +1069,18 @@ object_tangible_loot_npc_loot_shared_tool_bundle_generic = SharedTangibleObjectT
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_tool_bundle_generic, "object/tangible/loot/npc_loot/shared_tool_bundle_generic.iff")
 
 
-object_tangible_loot_npc_loot_shared_tubed_device_generic = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_tubed_device_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_tubed_device_generic, "object/tangible/loot/npc_loot/shared_tubed_device_generic.iff")
-
-
 object_tangible_loot_npc_loot_shared_tube_paste_generic = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_tube_paste_generic.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_tube_paste_generic, "object/tangible/loot/npc_loot/shared_tube_paste_generic.iff")
+
+
+object_tangible_loot_npc_loot_shared_tubed_device_generic = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/loot/npc_loot/shared_tubed_device_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_loot_npc_loot_shared_tubed_device_generic, "object/tangible/loot/npc_loot/shared_tubed_device_generic.iff")
 
 
 object_tangible_loot_npc_loot_shared_worklight_generic = SharedTangibleObjectTemplate:new {

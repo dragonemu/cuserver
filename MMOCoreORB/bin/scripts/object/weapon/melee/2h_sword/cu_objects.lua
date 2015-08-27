@@ -33,18 +33,18 @@ object_weapon_melee_2h_sword_shared_2h_sword_katana_generic = SharedWeaponObject
 ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_2h_sword_katana_generic, "object/weapon/melee/2h_sword/shared_2h_sword_katana_generic.iff")
 
 
-object_weapon_melee_2h_sword_shared_2h_sword_sith_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_2h_sword_sith_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_2h_sword_sith_generic, "object/weapon/melee/2h_sword/shared_2h_sword_sith_generic.iff")
-
-
 object_weapon_melee_2h_sword_shared_2h_sword_sith = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_2h_sword_sith.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_2h_sword_sith, "object/weapon/melee/2h_sword/shared_2h_sword_sith.iff")
+
+
+object_weapon_melee_2h_sword_shared_2h_sword_sith_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_2h_sword_sith_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_2h_sword_sith_generic, "object/weapon/melee/2h_sword/shared_2h_sword_sith_generic.iff")
 
 
 object_weapon_melee_2h_sword_shared_ep3_loot_executer = SharedWeaponObjectTemplate:new {
@@ -68,13 +68,6 @@ object_weapon_melee_2h_sword_shared_ep3_loot_sickle = SharedWeaponObjectTemplate
 ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_ep3_loot_sickle, "object/weapon/melee/2h_sword/shared_ep3_loot_sickle.iff")
 
 
-object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian_generic, "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian_generic.iff")
-
-
 object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian.iff"
 }
@@ -82,11 +75,11 @@ object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian = SharedWeaponObjectTe
 ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian, "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian.iff")
 
 
-object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus_generic.iff"
+object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus_generic, "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian_generic, "object/weapon/melee/2h_sword/shared_som_2h_sword_obsidian_generic.iff")
 
 
 object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus = SharedWeaponObjectTemplate:new {
@@ -94,5 +87,12 @@ object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus = SharedWeaponObjectTemp
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus, "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus.iff")
+
+
+object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_2h_sword_shared_som_2h_sword_tulrus_generic, "object/weapon/melee/2h_sword/shared_som_2h_sword_tulrus_generic.iff")
 
 

@@ -1,5 +1,5 @@
-includeFile("object/tangible/loot/loot_schematic/generic_limited_use_flashy.lua")
 includeFile("object/tangible/loot/loot_schematic/generic_limited_use.lua")
+includeFile("object/tangible/loot/loot_schematic/generic_limited_use_flashy.lua")
 includeFile("object/tangible/loot/loot_schematic/generic_vehicle.lua")
 includeFile("object/tangible/loot/loot_schematic/speeder_desert_skiff_schematic.lua")
 includeFile("object/tangible/loot/loot_schematic/speeder_usv5_schematic.lua")

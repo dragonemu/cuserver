@@ -40,13 +40,6 @@ object_weapon_ranged_heavy_shared_heavy_rocket_launcher_generic = SharedWeaponOb
 ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_heavy_rocket_launcher_generic, "object/weapon/ranged/heavy/shared_heavy_rocket_launcher_generic.iff")
 
 
-object_weapon_ranged_heavy_shared_som_lava_cannon_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/heavy/shared_som_lava_cannon_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_lava_cannon_generic, "object/weapon/ranged/heavy/shared_som_lava_cannon_generic.iff")
-
-
 object_weapon_ranged_heavy_shared_som_lava_cannon = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/heavy/shared_som_lava_cannon.iff"
 }
@@ -54,11 +47,11 @@ object_weapon_ranged_heavy_shared_som_lava_cannon = SharedWeaponObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_lava_cannon, "object/weapon/ranged/heavy/shared_som_lava_cannon.iff")
 
 
-object_weapon_ranged_heavy_shared_som_republic_flamer_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff"
+object_weapon_ranged_heavy_shared_som_lava_cannon_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/heavy/shared_som_lava_cannon_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_republic_flamer_generic, "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_lava_cannon_generic, "object/weapon/ranged/heavy/shared_som_lava_cannon_generic.iff")
 
 
 object_weapon_ranged_heavy_shared_som_republic_flamer = SharedWeaponObjectTemplate:new {
@@ -66,5 +59,12 @@ object_weapon_ranged_heavy_shared_som_republic_flamer = SharedWeaponObjectTempla
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_republic_flamer, "object/weapon/ranged/heavy/shared_som_republic_flamer.iff")
+
+
+object_weapon_ranged_heavy_shared_som_republic_flamer_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_heavy_shared_som_republic_flamer_generic, "object/weapon/ranged/heavy/shared_som_republic_flamer_generic.iff")
 
 

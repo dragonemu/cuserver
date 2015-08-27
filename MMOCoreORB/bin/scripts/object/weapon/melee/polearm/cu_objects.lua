@@ -54,18 +54,18 @@ object_weapon_melee_polearm_shared_lance_kaminoan = SharedWeaponObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_lance_kaminoan, "object/weapon/melee/polearm/shared_lance_kaminoan.iff")
 
 
-object_weapon_melee_polearm_shared_lance_kashyyk_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/polearm/shared_lance_kashyyk_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_lance_kashyyk_generic, "object/weapon/melee/polearm/shared_lance_kashyyk_generic.iff")
-
-
 object_weapon_melee_polearm_shared_lance_kashyyk = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/polearm/shared_lance_kashyyk.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_lance_kashyyk, "object/weapon/melee/polearm/shared_lance_kashyyk.iff")
+
+
+object_weapon_melee_polearm_shared_lance_kashyyk_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/shared_lance_kashyyk_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_lance_kashyyk_generic, "object/weapon/melee/polearm/shared_lance_kashyyk_generic.iff")
 
 
 object_weapon_melee_polearm_shared_lance_massassi = SharedWeaponObjectTemplate:new {
@@ -103,13 +103,6 @@ object_weapon_melee_polearm_shared_polearm_lance_electric_polearm = SharedWeapon
 ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_polearm_lance_electric_polearm, "object/weapon/melee/polearm/shared_polearm_lance_electric_polearm.iff")
 
 
-object_weapon_melee_polearm_shared_som_lance_obsidian_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/polearm/shared_som_lance_obsidian_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_obsidian_generic, "object/weapon/melee/polearm/shared_som_lance_obsidian_generic.iff")
-
-
 object_weapon_melee_polearm_shared_som_lance_obsidian = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/polearm/shared_som_lance_obsidian.iff"
 }
@@ -117,11 +110,11 @@ object_weapon_melee_polearm_shared_som_lance_obsidian = SharedWeaponObjectTempla
 ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_obsidian, "object/weapon/melee/polearm/shared_som_lance_obsidian.iff")
 
 
-object_weapon_melee_polearm_shared_som_lance_xandank_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/polearm/shared_som_lance_xandank_generic.iff"
+object_weapon_melee_polearm_shared_som_lance_obsidian_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/shared_som_lance_obsidian_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_xandank_generic, "object/weapon/melee/polearm/shared_som_lance_xandank_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_obsidian_generic, "object/weapon/melee/polearm/shared_som_lance_obsidian_generic.iff")
 
 
 object_weapon_melee_polearm_shared_som_lance_xandank = SharedWeaponObjectTemplate:new {
@@ -129,5 +122,12 @@ object_weapon_melee_polearm_shared_som_lance_xandank = SharedWeaponObjectTemplat
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_xandank, "object/weapon/melee/polearm/shared_som_lance_xandank.iff")
+
+
+object_weapon_melee_polearm_shared_som_lance_xandank_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/polearm/shared_som_lance_xandank_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_polearm_shared_som_lance_xandank_generic, "object/weapon/melee/polearm/shared_som_lance_xandank_generic.iff")
 
 

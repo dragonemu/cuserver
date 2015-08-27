@@ -40,18 +40,18 @@ object_static_particle_shared_pt_fog_kashyyyk_deadforest = SharedStaticObjectTem
 ObjectTemplates:addClientTemplate(object_static_particle_shared_pt_fog_kashyyyk_deadforest, "object/static/particle/shared_pt_fog_kashyyyk_deadforest.iff")
 
 
-object_static_particle_shared_pt_fog_kashyyyk_hracca_chiss_fog = SharedStaticObjectTemplate:new {
-	clientTemplateFileName = "object/static/particle/shared_pt_fog_kashyyyk_hracca_chiss_fog.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_static_particle_shared_pt_fog_kashyyyk_hracca_chiss_fog, "object/static/particle/shared_pt_fog_kashyyyk_hracca_chiss_fog.iff")
-
-
 object_static_particle_shared_pt_fog_kashyyyk_hracca = SharedStaticObjectTemplate:new {
 	clientTemplateFileName = "object/static/particle/shared_pt_fog_kashyyyk_hracca.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_static_particle_shared_pt_fog_kashyyyk_hracca, "object/static/particle/shared_pt_fog_kashyyyk_hracca.iff")
+
+
+object_static_particle_shared_pt_fog_kashyyyk_hracca_chiss_fog = SharedStaticObjectTemplate:new {
+	clientTemplateFileName = "object/static/particle/shared_pt_fog_kashyyyk_hracca_chiss_fog.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_static_particle_shared_pt_fog_kashyyyk_hracca_chiss_fog, "object/static/particle/shared_pt_fog_kashyyyk_hracca_chiss_fog.iff")
 
 
 object_static_particle_shared_pt_kash_birds_flock_rryatt = SharedStaticObjectTemplate:new {

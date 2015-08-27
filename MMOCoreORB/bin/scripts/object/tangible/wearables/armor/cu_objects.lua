@@ -1,3 +1,10 @@
+object_tangible_wearables_armor_shared_armor_base = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_base.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_base, "object/tangible/wearables/armor/shared_armor_base.iff")
+
+
 object_tangible_wearables_armor_shared_armor_base_clone_trooper = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_base_clone_trooper.iff"
 }
@@ -12,18 +19,18 @@ object_tangible_wearables_armor_shared_armor_base_imperial = SharedTangibleObjec
 ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_base_imperial, "object/tangible/wearables/armor/shared_armor_base_imperial.iff")
 
 
-object_tangible_wearables_armor_shared_armor_base = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_base.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_base, "object/tangible/wearables/armor/shared_armor_base.iff")
-
-
 object_tangible_wearables_armor_shared_armor_base_rebel = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_base_rebel.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_base_rebel, "object/tangible/wearables/armor/shared_armor_base_rebel.iff")
+
+
+object_tangible_wearables_armor_shared_armor_clothing_nostat_base = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_clothing_nostat_base.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_clothing_nostat_base, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base.iff")
 
 
 object_tangible_wearables_armor_shared_armor_clothing_nostat_base_assault = SharedTangibleObjectTemplate:new {
@@ -38,13 +45,6 @@ object_tangible_wearables_armor_shared_armor_clothing_nostat_base_battle = Share
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_clothing_nostat_base_battle, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base_battle.iff")
-
-
-object_tangible_wearables_armor_shared_armor_clothing_nostat_base = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/armor/shared_armor_clothing_nostat_base.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_armor_shared_armor_clothing_nostat_base, "object/tangible/wearables/armor/shared_armor_clothing_nostat_base.iff")
 
 
 object_tangible_wearables_armor_shared_armor_clothing_nostat_base_recon = SharedTangibleObjectTemplate:new {

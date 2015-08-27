@@ -19,17 +19,17 @@ object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor = SharedWeaponOb
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_trando_suppressor, "object/weapon/ranged/pistol/ep3/shared_pistol_trando_suppressor.iff")
 
 
-object_weapon_ranged_pistol_ep3_shared_pistol_wookiee_bowcaster = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee_bowcaster.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_wookiee_bowcaster, "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee_bowcaster.iff")
-
-
 object_weapon_ranged_pistol_ep3_shared_pistol_wookiee = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_wookiee, "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee.iff")
+
+
+object_weapon_ranged_pistol_ep3_shared_pistol_wookiee_bowcaster = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee_bowcaster.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_ep3_shared_pistol_wookiee_bowcaster, "object/weapon/ranged/pistol/ep3/shared_pistol_wookiee_bowcaster.iff")
 
 

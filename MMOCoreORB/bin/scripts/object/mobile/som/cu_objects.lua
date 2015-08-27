@@ -19,18 +19,18 @@ object_mobile_som_shared_battlefield_foreman = SharedCreatureObjectTemplate:new 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_battlefield_foreman, "object/mobile/som/shared_battlefield_foreman.iff")
 
 
-object_mobile_som_shared_blackguard_elite = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_blackguard_elite.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_blackguard_elite, "object/mobile/som/shared_blackguard_elite.iff")
-
-
 object_mobile_som_shared_blackguard = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/som/shared_blackguard.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_blackguard, "object/mobile/som/shared_blackguard.iff")
+
+
+object_mobile_som_shared_blackguard_elite = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_blackguard_elite.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_blackguard_elite, "object/mobile/som/shared_blackguard_elite.iff")
 
 
 object_mobile_som_shared_blackguard_wilder = SharedCreatureObjectTemplate:new {
@@ -110,6 +110,13 @@ object_mobile_som_shared_coyn_trooper = SharedCreatureObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_coyn_trooper, "object/mobile/som/shared_coyn_trooper.iff")
 
 
+object_mobile_som_shared_cww8_battle_droid = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_cww8_battle_droid.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_cww8_battle_droid, "object/mobile/som/shared_cww8_battle_droid.iff")
+
+
 object_mobile_som_shared_cww8a_battle_droid = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/som/shared_cww8a_battle_droid.iff"
 }
@@ -122,13 +129,6 @@ object_mobile_som_shared_cww8a_eradicator = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_cww8a_eradicator, "object/mobile/som/shared_cww8a_eradicator.iff")
-
-
-object_mobile_som_shared_cww8_battle_droid = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_cww8_battle_droid.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_cww8_battle_droid, "object/mobile/som/shared_cww8_battle_droid.iff")
 
 
 object_mobile_som_shared_deathsting = SharedCreatureObjectTemplate:new {
@@ -187,18 +187,18 @@ object_mobile_som_shared_ig106 = SharedCreatureObjectTemplate:new {
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_ig106, "object/mobile/som/shared_ig106.iff")
 
 
-object_mobile_som_shared_jundak_devourer = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_jundak_devourer.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_jundak_devourer, "object/mobile/som/shared_jundak_devourer.iff")
-
-
 object_mobile_som_shared_jundak = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/som/shared_jundak.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_jundak, "object/mobile/som/shared_jundak.iff")
+
+
+object_mobile_som_shared_jundak_devourer = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_jundak_devourer.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_jundak_devourer, "object/mobile/som/shared_jundak_devourer.iff")
 
 
 object_mobile_som_shared_kubaza_beetle = SharedCreatureObjectTemplate:new {
@@ -248,27 +248,6 @@ object_mobile_som_shared_miner_pilot = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_miner_pilot, "object/mobile/som/shared_miner_pilot.iff")
-
-
-object_mobile_som_shared_mustafarian_02 = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_mustafarian_02.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_02, "object/mobile/som/shared_mustafarian_02.iff")
-
-
-object_mobile_som_shared_mustafarian_m_01 = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_mustafarian_m_01.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_m_01, "object/mobile/som/shared_mustafarian_m_01.iff")
-
-
-object_mobile_som_shared_mustafarian_m_02 = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_mustafarian_m_02.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_m_02, "object/mobile/som/shared_mustafarian_m_02.iff")
 
 
 object_mobile_som_shared_must_foreman_chivos = SharedCreatureObjectTemplate:new {
@@ -332,6 +311,27 @@ object_mobile_som_shared_must_scout = SharedCreatureObjectTemplate:new {
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_must_scout, "object/mobile/som/shared_must_scout.iff")
+
+
+object_mobile_som_shared_mustafarian_02 = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_mustafarian_02.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_02, "object/mobile/som/shared_mustafarian_02.iff")
+
+
+object_mobile_som_shared_mustafarian_m_01 = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_mustafarian_m_01.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_m_01, "object/mobile/som/shared_mustafarian_m_01.iff")
+
+
+object_mobile_som_shared_mustafarian_m_02 = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_mustafarian_m_02.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_mustafarian_m_02, "object/mobile/som/shared_mustafarian_m_02.iff")
 
 
 object_mobile_som_shared_naboo_historian = SharedCreatureObjectTemplate:new {
@@ -775,18 +775,18 @@ object_mobile_som_shared_som_trinity_assassin_zabrak_female = SharedCreatureObje
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_som_trinity_assassin_zabrak_female, "object/mobile/som/shared_som_trinity_assassin_zabrak_female.iff")
 
 
-object_mobile_som_shared_storm_lord_guard = SharedCreatureObjectTemplate:new {
-	clientTemplateFileName = "object/mobile/som/shared_storm_lord_guard.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_mobile_som_shared_storm_lord_guard, "object/mobile/som/shared_storm_lord_guard.iff")
-
-
 object_mobile_som_shared_storm_lord = SharedCreatureObjectTemplate:new {
 	clientTemplateFileName = "object/mobile/som/shared_storm_lord.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_mobile_som_shared_storm_lord, "object/mobile/som/shared_storm_lord.iff")
+
+
+object_mobile_som_shared_storm_lord_guard = SharedCreatureObjectTemplate:new {
+	clientTemplateFileName = "object/mobile/som/shared_storm_lord_guard.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_mobile_som_shared_storm_lord_guard, "object/mobile/som/shared_storm_lord_guard.iff")
 
 
 object_mobile_som_shared_storm_lord_minion = SharedCreatureObjectTemplate:new {

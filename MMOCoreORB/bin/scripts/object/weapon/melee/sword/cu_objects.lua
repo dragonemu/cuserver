@@ -12,13 +12,6 @@ object_weapon_melee_sword_shared_ep3_loot_ripper = SharedWeaponObjectTemplate:ne
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_ep3_loot_ripper, "object/weapon/melee/sword/shared_ep3_loot_ripper.iff")
 
 
-object_weapon_melee_sword_shared_som_sword_mustafar_bandit_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/sword/shared_som_sword_mustafar_bandit_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_mustafar_bandit_generic, "object/weapon/melee/sword/shared_som_sword_mustafar_bandit_generic.iff")
-
-
 object_weapon_melee_sword_shared_som_sword_mustafar_bandit = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/sword/shared_som_sword_mustafar_bandit.iff"
 }
@@ -26,11 +19,11 @@ object_weapon_melee_sword_shared_som_sword_mustafar_bandit = SharedWeaponObjectT
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_mustafar_bandit, "object/weapon/melee/sword/shared_som_sword_mustafar_bandit.iff")
 
 
-object_weapon_melee_sword_shared_som_sword_obsidian_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/sword/shared_som_sword_obsidian_generic.iff"
+object_weapon_melee_sword_shared_som_sword_mustafar_bandit_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_som_sword_mustafar_bandit_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_obsidian_generic, "object/weapon/melee/sword/shared_som_sword_obsidian_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_mustafar_bandit_generic, "object/weapon/melee/sword/shared_som_sword_mustafar_bandit_generic.iff")
 
 
 object_weapon_melee_sword_shared_som_sword_obsidian = SharedWeaponObjectTemplate:new {
@@ -38,6 +31,13 @@ object_weapon_melee_sword_shared_som_sword_obsidian = SharedWeaponObjectTemplate
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_obsidian, "object/weapon/melee/sword/shared_som_sword_obsidian.iff")
+
+
+object_weapon_melee_sword_shared_som_sword_obsidian_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_som_sword_obsidian_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_som_sword_obsidian_generic, "object/weapon/melee/sword/shared_som_sword_obsidian_generic.iff")
 
 
 object_weapon_melee_sword_shared_sword_01_npe = SharedWeaponObjectTemplate:new {
@@ -75,18 +75,18 @@ object_weapon_melee_sword_shared_sword_avatar_wke_spiritblade = SharedWeaponObje
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_avatar_wke_spiritblade, "object/weapon/melee/sword/shared_sword_avatar_wke_spiritblade.iff")
 
 
-object_weapon_melee_sword_shared_sword_mace_junti_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_mace_junti_generic, "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff")
-
-
 object_weapon_melee_sword_shared_sword_mace_junti = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_mace_junti.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_mace_junti, "object/weapon/melee/sword/shared_sword_mace_junti.iff")
+
+
+object_weapon_melee_sword_shared_sword_mace_junti_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_mace_junti_generic, "object/weapon/melee/sword/shared_sword_mace_junti_generic.iff")
 
 
 object_weapon_melee_sword_shared_sword_marauder = SharedWeaponObjectTemplate:new {
@@ -96,18 +96,18 @@ object_weapon_melee_sword_shared_sword_marauder = SharedWeaponObjectTemplate:new
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_marauder, "object/weapon/melee/sword/shared_sword_marauder.iff")
 
 
-object_weapon_melee_sword_shared_sword_massassi_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_massassi_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_massassi_generic, "object/weapon/melee/sword/shared_sword_massassi_generic.iff")
-
-
 object_weapon_melee_sword_shared_sword_massassi = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_massassi.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_massassi, "object/weapon/melee/sword/shared_sword_massassi.iff")
+
+
+object_weapon_melee_sword_shared_sword_massassi_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_massassi_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_massassi_generic, "object/weapon/melee/sword/shared_sword_massassi_generic.iff")
 
 
 object_weapon_melee_sword_shared_sword_rantok_generic = SharedWeaponObjectTemplate:new {
@@ -117,17 +117,17 @@ object_weapon_melee_sword_shared_sword_rantok_generic = SharedWeaponObjectTempla
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_rantok_generic, "object/weapon/melee/sword/shared_sword_rantok_generic.iff")
 
 
-object_weapon_melee_sword_shared_sword_rsf_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_rsf_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_rsf_generic, "object/weapon/melee/sword/shared_sword_rsf_generic.iff")
-
-
 object_weapon_melee_sword_shared_sword_rsf = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_rsf.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_rsf, "object/weapon/melee/sword/shared_sword_rsf.iff")
+
+
+object_weapon_melee_sword_shared_sword_rsf_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/melee/sword/shared_sword_rsf_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_melee_sword_shared_sword_rsf_generic, "object/weapon/melee/sword/shared_sword_rsf_generic.iff")
 
 

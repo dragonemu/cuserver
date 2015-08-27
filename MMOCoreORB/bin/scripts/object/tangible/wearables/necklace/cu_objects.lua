@@ -124,18 +124,18 @@ object_tangible_wearables_necklace_shared_ith_necklace_wookiee_freedom_m = Share
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_ith_necklace_wookiee_freedom_m, "object/tangible/wearables/necklace/shared_ith_necklace_wookiee_freedom_m.iff")
 
 
-object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_f = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire_f.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire_f.iff")
-
-
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire.iff")
+
+
+object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_f = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire_f.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire_f.iff")
 
 
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_m = SharedTangibleObjectTemplate:new {
@@ -159,18 +159,18 @@ object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_wke_m = Shar
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_empire_wke_m, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_empire_wke_m.iff")
 
 
-object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_f = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral_f.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral_f.iff")
-
-
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral.iff")
+
+
+object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_f = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral_f.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral_f.iff")
 
 
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_m = SharedTangibleObjectTemplate:new {
@@ -194,18 +194,18 @@ object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_wke_m = Sha
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_neutral_wke_m, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_neutral_wke_m.iff")
 
 
-object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel_f = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel_f.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel_f.iff")
-
-
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel.iff")
+
+
+object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel_f = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel_f.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel_f, "object/tangible/wearables/necklace/shared_necklace_ace_pilot_rebel_f.iff")
 
 
 object_tangible_wearables_necklace_shared_necklace_ace_pilot_rebel_m = SharedTangibleObjectTemplate:new {
@@ -313,18 +313,18 @@ object_tangible_wearables_necklace_shared_necklace_deepspace_rebel_wke_m = Share
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_deepspace_rebel_wke_m, "object/tangible/wearables/necklace/shared_necklace_deepspace_rebel_wke_m.iff")
 
 
-object_tangible_wearables_necklace_shared_necklace_rodian_safari_f = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_rodian_safari_f.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_rodian_safari_f, "object/tangible/wearables/necklace/shared_necklace_rodian_safari_f.iff")
-
-
 object_tangible_wearables_necklace_shared_necklace_rodian_safari = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_rodian_safari.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_rodian_safari, "object/tangible/wearables/necklace/shared_necklace_rodian_safari.iff")
+
+
+object_tangible_wearables_necklace_shared_necklace_rodian_safari_f = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_rodian_safari_f.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_rodian_safari_f, "object/tangible/wearables/necklace/shared_necklace_rodian_safari_f.iff")
 
 
 object_tangible_wearables_necklace_shared_necklace_rodian_safari_m = SharedTangibleObjectTemplate:new {
@@ -390,17 +390,17 @@ object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_m = SharedTan
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_m, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_m.iff")
 
 
-object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_f = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_f.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_f, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_f.iff")
-
-
 object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_ = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_.iff")
+
+
+object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_f = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_f.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_wearables_necklace_shared_necklace_wookiee_freedom_wke_f, "object/tangible/wearables/necklace/shared_necklace_wookiee_freedom_wke_f.iff")
 
 

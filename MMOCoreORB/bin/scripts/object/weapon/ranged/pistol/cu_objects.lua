@@ -75,18 +75,18 @@ object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer = SharedWeaponO
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_event_pistol_striker_enforcer, "object/weapon/ranged/pistol/shared_event_pistol_striker_enforcer.iff")
 
 
-object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic, "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff")
-
-
 object_weapon_ranged_pistol_shared_pistol_alliance_disruptor = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_alliance_disruptor, "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor.iff")
+
+
+object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_alliance_disruptor_generic, "object/weapon/ranged/pistol/shared_pistol_alliance_disruptor_generic.iff")
 
 
 object_weapon_ranged_pistol_shared_pistol_avatar_trando_special = SharedWeaponObjectTemplate:new {
@@ -145,13 +145,6 @@ object_weapon_ranged_pistol_shared_pistol_flare = SharedWeaponObjectTemplate:new
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_flare, "object/weapon/ranged/pistol/shared_pistol_flare.iff")
 
 
-object_weapon_ranged_pistol_shared_pistol_flechette_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_flechette_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_flechette_generic, "object/weapon/ranged/pistol/shared_pistol_flechette_generic.iff")
-
-
 object_weapon_ranged_pistol_shared_pistol_flechette = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_flechette.iff"
 }
@@ -159,11 +152,11 @@ object_weapon_ranged_pistol_shared_pistol_flechette = SharedWeaponObjectTemplate
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_flechette, "object/weapon/ranged/pistol/shared_pistol_flechette.iff")
 
 
-object_weapon_ranged_pistol_shared_pistol_intimidator_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_intimidator_generic.iff"
+object_weapon_ranged_pistol_shared_pistol_flechette_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_flechette_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_intimidator_generic, "object/weapon/ranged/pistol/shared_pistol_intimidator_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_flechette_generic, "object/weapon/ranged/pistol/shared_pistol_flechette_generic.iff")
 
 
 object_weapon_ranged_pistol_shared_pistol_intimidator = SharedWeaponObjectTemplate:new {
@@ -171,6 +164,13 @@ object_weapon_ranged_pistol_shared_pistol_intimidator = SharedWeaponObjectTempla
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_intimidator, "object/weapon/ranged/pistol/shared_pistol_intimidator.iff")
+
+
+object_weapon_ranged_pistol_shared_pistol_intimidator_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_intimidator_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_intimidator_generic, "object/weapon/ranged/pistol/shared_pistol_intimidator_generic.iff")
 
 
 object_weapon_ranged_pistol_shared_pistol_jawa = SharedWeaponObjectTemplate:new {
@@ -201,18 +201,18 @@ object_weapon_ranged_pistol_shared_pistol_launcher_medium = SharedWeaponObjectTe
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_launcher_medium, "object/weapon/ranged/pistol/shared_pistol_launcher_medium.iff")
 
 
-object_weapon_ranged_pistol_shared_pistol_renegade_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_renegade_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_renegade_generic, "object/weapon/ranged/pistol/shared_pistol_renegade_generic.iff")
-
-
 object_weapon_ranged_pistol_shared_pistol_renegade = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_renegade.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_renegade, "object/weapon/ranged/pistol/shared_pistol_renegade.iff")
+
+
+object_weapon_ranged_pistol_shared_pistol_renegade_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_pistol_renegade_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_renegade_generic, "object/weapon/ranged/pistol/shared_pistol_renegade_generic.iff")
 
 
 object_weapon_ranged_pistol_shared_pistol_scatter_generic = SharedWeaponObjectTemplate:new {
@@ -250,13 +250,6 @@ object_weapon_ranged_pistol_shared_pistol_striker_static = SharedWeaponObjectTem
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_pistol_striker_static, "object/weapon/ranged/pistol/shared_pistol_striker_static.iff")
 
 
-object_weapon_ranged_pistol_shared_som_disruptor_pistol_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_som_disruptor_pistol_generic.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_disruptor_pistol_generic, "object/weapon/ranged/pistol/shared_som_disruptor_pistol_generic.iff")
-
-
 object_weapon_ranged_pistol_shared_som_disruptor_pistol = SharedWeaponObjectTemplate:new {
 	clientTemplateFileName = "object/weapon/ranged/pistol/shared_som_disruptor_pistol.iff"
 }
@@ -264,11 +257,11 @@ object_weapon_ranged_pistol_shared_som_disruptor_pistol = SharedWeaponObjectTemp
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_disruptor_pistol, "object/weapon/ranged/pistol/shared_som_disruptor_pistol.iff")
 
 
-object_weapon_ranged_pistol_shared_som_ion_relic_pistol_generic = SharedWeaponObjectTemplate:new {
-	clientTemplateFileName = "object/weapon/ranged/pistol/shared_som_ion_relic_pistol_generic.iff"
+object_weapon_ranged_pistol_shared_som_disruptor_pistol_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_som_disruptor_pistol_generic.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_ion_relic_pistol_generic, "object/weapon/ranged/pistol/shared_som_ion_relic_pistol_generic.iff")
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_disruptor_pistol_generic, "object/weapon/ranged/pistol/shared_som_disruptor_pistol_generic.iff")
 
 
 object_weapon_ranged_pistol_shared_som_ion_relic_pistol = SharedWeaponObjectTemplate:new {
@@ -276,5 +269,12 @@ object_weapon_ranged_pistol_shared_som_ion_relic_pistol = SharedWeaponObjectTemp
 }
 
 ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_ion_relic_pistol, "object/weapon/ranged/pistol/shared_som_ion_relic_pistol.iff")
+
+
+object_weapon_ranged_pistol_shared_som_ion_relic_pistol_generic = SharedWeaponObjectTemplate:new {
+	clientTemplateFileName = "object/weapon/ranged/pistol/shared_som_ion_relic_pistol_generic.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_weapon_ranged_pistol_shared_som_ion_relic_pistol_generic, "object/weapon/ranged/pistol/shared_som_ion_relic_pistol_generic.iff")
 
 

@@ -677,20 +677,6 @@ object_building_kashyyyk_shared_kash_swamp_lily = SharedBuildingObjectTemplate:n
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lily, "object/building/kashyyyk/shared_kash_swamp_lily.iff")
 
 
-object_building_kashyyyk_shared_kash_swamp_lilypad = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_kash_swamp_lilypad.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lilypad, "object/building/kashyyyk/shared_kash_swamp_lilypad.iff")
-
-
-object_building_kashyyyk_shared_kash_swamp_lilypad_s02 = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_kash_swamp_lilypad_s02.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lilypad_s02, "object/building/kashyyyk/shared_kash_swamp_lilypad_s02.iff")
-
-
 object_building_kashyyyk_shared_kash_swamp_lily_s02 = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_kash_swamp_lily_s02.iff"
 }
@@ -703,6 +689,20 @@ object_building_kashyyyk_shared_kash_swamp_lily_s03 = SharedBuildingObjectTempla
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lily_s03, "object/building/kashyyyk/shared_kash_swamp_lily_s03.iff")
+
+
+object_building_kashyyyk_shared_kash_swamp_lilypad = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_kash_swamp_lilypad.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lilypad, "object/building/kashyyyk/shared_kash_swamp_lilypad.iff")
+
+
+object_building_kashyyyk_shared_kash_swamp_lilypad_s02 = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_kash_swamp_lilypad_s02.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_kash_swamp_lilypad_s02, "object/building/kashyyyk/shared_kash_swamp_lilypad_s02.iff")
 
 
 object_building_kashyyyk_shared_kash_swamp_reed = SharedBuildingObjectTemplate:new {
@@ -803,6 +803,13 @@ object_building_kashyyyk_shared_mun_kash_sign_post_primitive = SharedBuildingObj
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_sign_post_primitive, "object/building/kashyyyk/shared_mun_kash_sign_post_primitive.iff")
 
 
+object_building_kashyyyk_shared_mun_kash_sign_post_refined = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_sign_post_refined.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_sign_post_refined, "object/building/kashyyyk/shared_mun_kash_sign_post_refined.iff")
+
+
 object_building_kashyyyk_shared_mun_kash_signpost_primitive_pointer_large_s01 = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_signpost_primitive_pointer_large_s01.iff"
 }
@@ -822,13 +829,6 @@ object_building_kashyyyk_shared_mun_kash_signpost_primitive_s01 = SharedBuilding
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_signpost_primitive_s01, "object/building/kashyyyk/shared_mun_kash_signpost_primitive_s01.iff")
-
-
-object_building_kashyyyk_shared_mun_kash_sign_post_refined = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_mun_kash_sign_post_refined.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_sign_post_refined, "object/building/kashyyyk/shared_mun_kash_sign_post_refined.iff")
 
 
 object_building_kashyyyk_shared_mun_kash_signpost_refined_pointer_large_s01 = SharedBuildingObjectTemplate:new {
@@ -957,6 +957,13 @@ object_building_kashyyyk_shared_mun_kash_tree_sm_s01 = SharedBuildingObjectTempl
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_mun_kash_tree_sm_s01, "object/building/kashyyyk/shared_mun_kash_tree_sm_s01.iff")
 
 
+object_building_kashyyyk_shared_myyydril_cave_egg_sac = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_myyydril_cave_egg_sac.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_myyydril_cave_egg_sac, "object/building/kashyyyk/shared_myyydril_cave_egg_sac.iff")
+
+
 object_building_kashyyyk_shared_myyydril_cave_egg_sac_cluster = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_myyydril_cave_egg_sac_cluster.iff"
 }
@@ -976,13 +983,6 @@ object_building_kashyyyk_shared_myyydril_cave_egg_sac_hatched = SharedBuildingOb
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_myyydril_cave_egg_sac_hatched, "object/building/kashyyyk/shared_myyydril_cave_egg_sac_hatched.iff")
-
-
-object_building_kashyyyk_shared_myyydril_cave_egg_sac = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_myyydril_cave_egg_sac.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_myyydril_cave_egg_sac, "object/building/kashyyyk/shared_myyydril_cave_egg_sac.iff")
 
 
 object_building_kashyyyk_shared_myyydril_cave_egg_sac_slime_cluster = SharedBuildingObjectTemplate:new {
@@ -1762,13 +1762,6 @@ object_building_kashyyyk_shared_poi_kash_rryatt_lvl4_tree_trunk_a3 = SharedBuild
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_lvl4_tree_trunk_a3, "object/building/kashyyyk/shared_poi_kash_rryatt_lvl4_tree_trunk_a3.iff")
 
 
-object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_chair.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_chair.iff")
-
-
 object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift.iff"
 }
@@ -1776,11 +1769,11 @@ object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift = SharedBuildingObject
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift.iff")
 
 
-object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_half = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope_half.iff"
+object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_chair.iff"
 }
 
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_half, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope_half.iff")
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_chair, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_chair.iff")
 
 
 object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope = SharedBuildingObjectTemplate:new {
@@ -1788,6 +1781,13 @@ object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope = SharedBuildingO
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope.iff")
+
+
+object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_half = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope_half.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_half, "object/building/kashyyyk/shared_poi_kash_rryatt_rope_lift_rope_half.iff")
 
 
 object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_quarter = SharedBuildingObjectTemplate:new {
@@ -1993,18 +1993,18 @@ object_building_kashyyyk_shared_sayormi_tent_mobile = SharedBuildingObjectTempla
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_sayormi_tent_mobile, "object/building/kashyyyk/shared_sayormi_tent_mobile.iff")
 
 
-object_building_kashyyyk_shared_shrb_beach_root_cup_cluster = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_shrb_beach_root_cup_cluster.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_shrb_beach_root_cup_cluster, "object/building/kashyyyk/shared_shrb_beach_root_cup_cluster.iff")
-
-
 object_building_kashyyyk_shared_shrb_beach_root_cup = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_shrb_beach_root_cup.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_shrb_beach_root_cup, "object/building/kashyyyk/shared_shrb_beach_root_cup.iff")
+
+
+object_building_kashyyyk_shared_shrb_beach_root_cup_cluster = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_shrb_beach_root_cup_cluster.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_shrb_beach_root_cup_cluster, "object/building/kashyyyk/shared_shrb_beach_root_cup_cluster.iff")
 
 
 object_building_kashyyyk_shared_shrb_beach_root_cup_small = SharedBuildingObjectTemplate:new {
@@ -2343,18 +2343,18 @@ object_building_kashyyyk_shared_thm_kash_zonegate_gate_simple = SharedBuildingOb
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_kash_zonegate_gate_simple, "object/building/kashyyyk/shared_thm_kash_zonegate_gate_simple.iff")
 
 
-object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door_frame = SharedBuildingObjectTemplate:new {
-	clientTemplateFileName = "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door_frame.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door_frame, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door_frame.iff")
-
-
 object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door = SharedBuildingObjectTemplate:new {
 	clientTemplateFileName = "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door.iff"
 }
 
 ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door.iff")
+
+
+object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door_frame = SharedBuildingObjectTemplate:new {
+	clientTemplateFileName = "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door_frame.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_building_kashyyyk_shared_thm_spc_asteroid_bunker_energy_door_frame, "object/building/kashyyyk/shared_thm_spc_asteroid_bunker_energy_door_frame.iff")
 
 
 object_building_kashyyyk_shared_wall_modular_restraining_wall_4m = SharedBuildingObjectTemplate:new {
