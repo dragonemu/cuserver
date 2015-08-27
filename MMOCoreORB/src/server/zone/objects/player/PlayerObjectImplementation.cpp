@@ -842,6 +842,7 @@ void PlayerObjectImplementation::calculateCombatLevel(CreatureObject* creature)
 		else
 			additionalHam = 960 + 40 * (creatureLevel - 54);
 	}
+	//TODO ensure that this does not override buffs, and add flow control if it does.
 	creature->setBaseHAM(CreatureAttribute::HEALTH, 1000 + additionalHam, true);
 	creature->setMaxHAM(CreatureAttribute::HEALTH, creature->getBaseHAM(CreatureAttribute::HEALTH), true);
 
