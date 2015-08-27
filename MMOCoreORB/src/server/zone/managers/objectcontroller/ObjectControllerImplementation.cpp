@@ -267,7 +267,7 @@ float ObjectControllerImplementation::activateCommand(CreatureObject* object, un
 		queueCommand->onFail(actionCount, object, errorNumber, actionCRC);
 	else {
 		if (queueCommand->getDefaultPriority() != QueueCommand::IMMEDIATE)
-			durationTime = queueCommand->getExecuteTime() + queueCommand->getCommandDuration(object, arguments);
+			durationTime = queueCommand->getCommandDuration(object, arguments);
 		info("DurationTime:" + String::valueOf(durationTime));
 		queueCommand->onComplete(actionCount, object, durationTime + queueCommand->getExecuteTime(), actionCRC);
 

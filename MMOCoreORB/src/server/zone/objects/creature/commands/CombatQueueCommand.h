@@ -334,7 +334,7 @@ public:
 	}
 
 	void setSpeedMultiplier(float speedMultiplier) {
-		this->speedMultiplier = speedMultiplier;
+		this->speedMultiplier = 1.f; //Unused in the CU I think - Halo
 	}
 
 	void setSpeed(float speedd) {
