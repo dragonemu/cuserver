@@ -1,1 +1,1 @@
-includeFile("object/draft_schematic/scout/item_camokit_kashyyyk.lua")
+includeFile("draft_schematic/scout/item_camokit_kashyyyk.lua")

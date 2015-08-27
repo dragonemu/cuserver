@@ -1,1 +1,1 @@
-includeFile("object/draft_schematic/item/doctor_bag/doc_bag.lua")
+includeFile("draft_schematic/item/doctor_bag/doc_bag.lua")

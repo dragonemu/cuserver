@@ -1,1 +1,1 @@
-includeFile("object/tangible/container/loot/som_cube.lua")
+includeFile("tangible/container/loot/som_cube.lua")

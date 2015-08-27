@@ -1,1 +1,1 @@
-includeFile("object/tangible/npe/npe_node.lua")
+includeFile("tangible/npe/npe_node.lua")

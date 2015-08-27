@@ -1,1 +1,1 @@
-includeFile("object/weapon/ranged/grenade/grenade_fragmentation_generic.lua")
+includeFile("weapon/ranged/grenade/grenade_fragmentation_generic.lua")

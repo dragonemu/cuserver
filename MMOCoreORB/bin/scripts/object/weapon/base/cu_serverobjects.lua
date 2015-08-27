@@ -1,1 +1,1 @@
-includeFile("object/weapon/base/base_static_weapon.lua")
+includeFile("weapon/base/base_static_weapon.lua")

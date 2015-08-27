@@ -1,1 +1,1 @@
-includeFile("object/tangible/loot/generic/battery_useable_generic.lua")
+includeFile("tangible/loot/generic/battery_useable_generic.lua")

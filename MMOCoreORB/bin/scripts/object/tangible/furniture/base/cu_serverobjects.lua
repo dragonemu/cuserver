@@ -1,1 +1,1 @@
-includeFile("object/tangible/furniture/base/hologram_base.lua")
+includeFile("tangible/furniture/base/hologram_base.lua")

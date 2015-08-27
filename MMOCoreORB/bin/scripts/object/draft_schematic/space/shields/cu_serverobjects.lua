@@ -1,1 +1,1 @@
-includeFile("object/draft_schematic/space/shields/elite_shields.lua")
+includeFile("draft_schematic/space/shields/elite_shields.lua")

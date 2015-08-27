@@ -1,1 +1,1 @@
-includeFile("object/tangible/newbie_tutorial/droideka.lua")
+includeFile("tangible/newbie_tutorial/droideka.lua")

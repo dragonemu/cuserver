@@ -1,1 +1,1 @@
-includeFile("object/tangible/ship/components/weapon_capacitor/cap_tiburon.lua")
+includeFile("tangible/ship/components/weapon_capacitor/cap_tiburon.lua")

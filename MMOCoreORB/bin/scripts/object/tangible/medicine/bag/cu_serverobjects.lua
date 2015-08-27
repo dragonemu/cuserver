@@ -1,1 +1,1 @@
-includeFile("object/tangible/medicine/bag/doctor_bag.lua")
+includeFile("tangible/medicine/bag/doctor_bag.lua")

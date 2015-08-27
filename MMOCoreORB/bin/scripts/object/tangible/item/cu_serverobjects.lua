@@ -1,2 +1,2 @@
-includeFile("object/tangible/item/generic_vehicle_customization.lua")
-includeFile("object/tangible/item/loot_cube.lua")
+includeFile("tangible/item/generic_vehicle_customization.lua")
+includeFile("tangible/item/loot_cube.lua")

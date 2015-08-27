@@ -1,1 +1,1 @@
-includeFile("object/tangible/test/qabag.lua")
+includeFile("tangible/test/qabag.lua")

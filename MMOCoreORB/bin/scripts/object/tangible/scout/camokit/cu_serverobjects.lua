@@ -1,1 +1,1 @@
-includeFile("object/tangible/scout/camokit/camokit_kashyyyk.lua")
+includeFile("tangible/scout/camokit/camokit_kashyyyk.lua")

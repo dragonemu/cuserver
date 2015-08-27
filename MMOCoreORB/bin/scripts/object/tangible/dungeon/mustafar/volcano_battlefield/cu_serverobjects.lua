@@ -1,1 +1,1 @@
-includeFile("object/tangible/dungeon/mustafar/volcano_battlefield/launch_mechanism.lua")
+includeFile("tangible/dungeon/mustafar/volcano_battlefield/launch_mechanism.lua")

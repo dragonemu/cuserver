@@ -1,1 +1,1 @@
-includeFile("object/tangible/ship/components/booster/bst_nova_breaker.lua")
+includeFile("tangible/ship/components/booster/bst_nova_breaker.lua")

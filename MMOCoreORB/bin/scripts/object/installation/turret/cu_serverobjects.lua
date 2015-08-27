@@ -1,1 +1,1 @@
-includeFile("object/installation/turret/mustafar_defense_turret.lua")
+includeFile("installation/turret/mustafar_defense_turret.lua")

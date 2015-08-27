@@ -1,1 +1,1 @@
-includeFile("object/static/vehicle/kash_rodian_shuttle.lua")
+includeFile("static/vehicle/kash_rodian_shuttle.lua")

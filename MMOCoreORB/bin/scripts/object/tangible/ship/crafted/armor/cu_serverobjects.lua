@@ -1,1 +1,1 @@
-includeFile("object/tangible/ship/crafted/armor/elite_armor.lua")
+includeFile("tangible/ship/crafted/armor/elite_armor.lua")
