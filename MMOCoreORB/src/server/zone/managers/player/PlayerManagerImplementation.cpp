@@ -915,6 +915,9 @@ void PlayerManagerImplementation::sendPlayerToCloner(CreatureObject* player, uin
 	// Jedi experience loss.
 	if (ghost->getJediState() > 1)
 		awardExperience(player, "jedi_general", -200000, true);
+
+	//Recalculating the combat level due to the potential for skill loss and adds a periodic verification
+	ghost->recalculateCombatLevel(player);
 }
 
 void PlayerManagerImplementation::ejectPlayerFromBuilding(CreatureObject* player) {
@@ -2868,10 +2871,14 @@ SortedVector<ManagedReference<SceneObject*> > PlayerManagerImplementation::getIn
 
 
 int PlayerManagerImplementation::calculatePlayerLevel(CreatureObject* player) {
+	//TODO delete me
+	//deprecated by PlayerObjectImplementation::calculateCombatLevel
  return player->getLevel();
 }
 
 int PlayerManagerImplementation::calculatePlayerLevel(CreatureObject* player, String& xpType) {
+	//TODO delete me
+	//deprecated by PlayerObjectImplementation::calculateCombatLevel
  return calculatePlayerLevel(player);
 }
 

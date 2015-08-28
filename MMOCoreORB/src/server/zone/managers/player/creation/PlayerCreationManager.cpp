@@ -648,6 +648,7 @@ bool PlayerCreationManager::createCharacter(MessageCallback* data) {
 
 	ghost->addSuiBox(box);
 	playerCreature->sendMessage(box->generateMessage());
+	ghost->recalculateCombatLevel(playerCreature);
 
 	return true;
 }

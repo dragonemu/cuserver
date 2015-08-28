@@ -434,6 +434,9 @@ CreatureObject* CreatureManagerImplementation::spawnCreature(uint32 templateCRC,
 
 	placeCreature(creature, x, z, y, parentID);
 
+	// ensuring the combat level and max HAM is correct.
+	if( creature->isPlayerCreature() )
+		creature->getPlayerObject()->recalculateCombatLevel(creature);
 	return creature;
 }
 
