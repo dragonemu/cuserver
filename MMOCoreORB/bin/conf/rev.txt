@@ -1,0 +1,10 @@
+8d12db5 was Valkyra, 6 hours ago, message: Merge pull request #9 from ilikenwf/master
+36c49dd was Matt Parnell, 7 hours ago, message: Merge remote-tracking branch 'upstream/master'
+f1b2245 was Matt Parnell, 7 hours ago, message: remove parenthases
+8439818 was Valkyra, 17 hours ago, message: Merge pull request #8 from ilikenwf/master
+f70b713 was Valkyra, 17 hours ago, message: Merge pull request #7 from ilikenwf/master
+247f8ea was jay7199, 17 hours ago, message: [added] combat revamp - brawler is the only class with commands atm [added] Level System [Changed] Some functions for coolDown Timers - more adjusting required
+c1d7faa was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
+ce99035 was Matt Parnell, 17 hours ago, message: no, really, this is the last one...I am useless without caffeine
+ce27ee7 was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
+2dea0d6 was Matt Parnell, 17 hours ago, message: hopefully this is the last fix

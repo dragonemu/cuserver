@@ -1,0 +1,7 @@
+includeFile("intangible/pet/som/blistmok.lua")
+includeFile("intangible/pet/som/jundak.lua")
+includeFile("intangible/pet/som/kubaza_beetle.lua")
+includeFile("intangible/pet/som/lava_flea.lua")
+includeFile("intangible/pet/som/tanray.lua")
+includeFile("intangible/pet/som/tulrus.lua")
+includeFile("intangible/pet/som/xandank.lua")

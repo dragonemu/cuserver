@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_mustafar_particle_must_floating_embers = object_building_mustafar_particle_shared_must_floating_embers:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_mustafar_particle_must_floating_embers, "object/building/mustafar/particle/must_floating_embers.iff")

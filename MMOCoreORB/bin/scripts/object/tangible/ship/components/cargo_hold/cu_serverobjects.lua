@@ -1,0 +1,6 @@
+includeFile("tangible/ship/components/cargo_hold/crg_mining_large.lua")
+includeFile("tangible/ship/components/cargo_hold/crg_mining_small.lua")
+includeFile("tangible/ship/components/cargo_hold/crg_pob_large.lua")
+includeFile("tangible/ship/components/cargo_hold/crg_pob_small.lua")
+includeFile("tangible/ship/components/cargo_hold/crg_starfighter_large.lua")
+includeFile("tangible/ship/components/cargo_hold/crg_starfighter_small.lua")

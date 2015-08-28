@@ -1,0 +1,6 @@
+includeFile("static/worldbuilding/furniture/cheap_end_table.lua")
+includeFile("static/worldbuilding/furniture/modern_cabinet.lua")
+includeFile("static/worldbuilding/furniture/modern_chest.lua")
+includeFile("static/worldbuilding/furniture/starship_pilot_chair.lua")
+includeFile("static/worldbuilding/furniture/tech_armoire.lua")
+includeFile("static/worldbuilding/furniture/tech_cabinet.lua")

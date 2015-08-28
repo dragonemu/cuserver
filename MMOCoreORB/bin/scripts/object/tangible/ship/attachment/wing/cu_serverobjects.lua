@@ -1,0 +1,8 @@
+includeFile("tangible/ship/attachment/wing/arc170_wing_01.lua")
+includeFile("tangible/ship/attachment/wing/arc170_wing_02.lua")
+includeFile("tangible/ship/attachment/wing/arc170_wing_03.lua")
+includeFile("tangible/ship/attachment/wing/arc170_wing_04.lua")
+includeFile("tangible/ship/attachment/wing/jedifighter_wing1.lua")
+includeFile("tangible/ship/attachment/wing/jedifighter_wing2.lua")
+includeFile("tangible/ship/attachment/wing/jedifighter_wing3.lua")
+includeFile("tangible/ship/attachment/wing/jedifighter_wing4.lua")

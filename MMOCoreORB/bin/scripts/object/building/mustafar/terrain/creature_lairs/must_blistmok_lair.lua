@@ -1,0 +1,7 @@
+--Copyright 2015 CUEmu
+
+object_building_mustafar_terrain_creature_lairs_must_blistmok_lair = object_building_mustafar_terrain_creature_lairs_shared_must_blistmok_lair:new {
+
+}
+
+ObjectTemplates:addTemplate(object_building_mustafar_terrain_creature_lairs_must_blistmok_lair, "object/building/mustafar/terrain/creature_lairs/must_blistmok_lair.iff")

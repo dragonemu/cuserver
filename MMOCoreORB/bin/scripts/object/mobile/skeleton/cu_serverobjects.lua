@@ -1,0 +1,5 @@
+includeFile("mobile/skeleton/blistmok.lua")
+includeFile("mobile/skeleton/sher_kar.lua")
+includeFile("mobile/skeleton/tanray.lua")
+includeFile("mobile/skeleton/tulrus.lua")
+includeFile("mobile/skeleton/varactyl.lua")
